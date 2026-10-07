@@ -74,7 +74,7 @@ China-Travel-Intel/
 
 ---
 
-## 📄 Licence & Avis Commercial
+## 📄 Licence & Attribution
 
-Les dépêches de voyage et avis publics sont partagés librement à des fins informatives.  
-Les éléments de marque, logos et contenus propriétaires sont sous copyright &copy; [YouTu Travel](https://yoututravel.com). Tous droits réservés.
+Les dépêches et avis de voyage sont partagés librement à des fins informatives.  
+L'identité visuelle, les logos et marques sont sous copyright &copy; [YouTu Travel](https://yoututravel.com). Tous droits réservés.

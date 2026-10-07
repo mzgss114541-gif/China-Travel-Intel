@@ -74,7 +74,7 @@ China-Travel-Intel/
 
 ---
 
-## 📄 Licenza & Avviso Commerciale
+## 📄 Licenza & Attribuzione
 
 I dispacci di viaggio e gli avvisi informativi sono condivisi liberamente a scopo consultivo.  
-I loghi aziendali, i marchi e i contenuti proprietari sono protetti da copyright &copy; [YouTu Travel](https://yoututravel.com). Tutti i diritti riservati.
+L'identità del marchio, i loghi e i marchi commerciali sono protetti da copyright &copy; [YouTu Travel](https://yoututravel.com). Tutti i diritti riservati.
