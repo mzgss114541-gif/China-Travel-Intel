@@ -6,8 +6,8 @@
 
 # China Travel Intel
 
-> **The Official Open Travel Updates Desk of [YouTu Travel (游途)](https://yoututravel.com)**  
-> Real-time China travel dispatches, visa-free policy updates, High-Speed Rail corridors, and scenic landmark operational advisories for international travelers.
+> **The Official Travel Updates Desk of [YouTu Travel](https://yoututravel.com)**  
+> Real-time China travel dispatches, visa-free policy updates, high-speed rail corridors, and scenic landmark operational advisories for international travelers.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
 [![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
@@ -36,7 +36,7 @@ Live, chronological travel updates categorized into 5 regional zones in English 
 
 ---
 
-## 🏢 About the Commercial Project: YouTu Travel (游途)
+## 🏢 About the Commercial Project: YouTu Travel
 
 This repository is maintained by the editorial and dispatch team at **YouTu Travel** ([yoututravel.com](https://yoututravel.com)). We are a boutique private travel specialist dedicated to independent and bespoke travel in China for European and North American travelers.
 
