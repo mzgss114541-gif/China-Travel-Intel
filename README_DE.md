@@ -68,8 +68,7 @@ China-Travel-Intel/
 ├── README_ES.md               # Spanische Dokumentation
 ├── assets/brand/              # Offizielle Marken-Assets und Logos
 └── content/
-    ├── intelligence-hubs/     # Fortlaufende regionale Reiseberichte (Englisch)
-    └── pages/                 # Website-Seiten (Über uns, Reiseplanung, Kontakt)
+    └── intelligence-hubs/     # Ongoing regional travel news dispatches (English)
 ```
 
 ---
