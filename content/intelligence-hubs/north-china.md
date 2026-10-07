@@ -10,7 +10,7 @@
 
 Beijing's primary rail terminals (Beijing South, West, Fengtai, and Central) received approximately 977,000 arriving passengers on October 7 during the holiday's peak return wave. The Beijing Municipal Commission of Transport extended subway operations across lines connecting railway hubs and international airports until 02:00 past midnight. In alpine natural heritage, Changbaishan National Scenic Area reopened access to the iconic volcanic Crater Lake (Heavenly Lake) across North, West, and South zones following post-blizzard slope clearance, though high-altitude backcountry routes remain restricted due to sub-zero freeze warnings.
 
-> 📌 **Verified Source**: [Beijing Municipal Bureau of Culture & Tourism (Sina Weibo)](https://weibo.com/u/1936009361)
+> 📌 **Verified Source**: [Beijing Municipal Bureau of Culture & Tourism (Sina Weibo)](https://weibo.com/1936009361/RleTHoMnF)
 
 ---
 
@@ -19,7 +19,7 @@ Beijing's primary rail terminals (Beijing South, West, Fengtai, and Central) rec
 
 The Palace Museum issued a definitive advisory confirming that all admission tickets for October 1 through October 6 have been 100% booked, maintaining the museum's strict daily preservation threshold of 40,000 visitors. Curatorial security teams at the Meridian Gate (午门) are enforcing mandatory real-name passport and international ID verification; unreserved visitors cannot purchase same-day passes at the perimeter. Overseas travelers unable to secure tickets are advised to take in panoramic views of the Forbidden City from Jingshan Park’s Wanchun Pavilion or explore Prince Kung’s Palace and the Temple of Heaven.
 
-> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/u/1655363172)
+> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/1655363172/RkDbkD2aG)
 
 ---
 
@@ -28,7 +28,7 @@ The Palace Museum issued a definitive advisory confirming that all admission tic
 
 The Changbaishan Scenic Area Administrative Committee and Jilin Provincial Tourism Department issued an emergency closure order for both the North and South scenic zones on October 5. Changbaishan Meteorological Observatory posted yellow warnings for heavy blizzard conditions and severe gales, causing dangerous road icing across Tianchi crater pass roads. All pre-purchased tickets are being automatically refunded online. International guests in the Changbai region are advised to transition to lower-elevation geothermal hot spring wellness experiences in Erdaobaihe.
 
-> 📌 **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/u/2061847537)
+> 📌 **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlebHaqs0)
 
 ---
 
@@ -37,7 +37,7 @@ The Changbaishan Scenic Area Administrative Committee and Jilin Provincial Touri
 
 The Palace Museum (Forbidden City) published an in-depth curatorial analysis detailing the classical "Five Colors and Five Elements" aesthetic code (Qing, Chi, Huang, Bai, Hei) in Ming and Qing imperial design. Explaining how imperial yellow roof tiles reflect earth sovereignty while vermilion walls embody cosmic Yang vitality, the research piece offers cultural connoisseurs a rare philosophical perspective for private guided walks through the Hall of Supreme Harmony.
 
-> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/u/1655363172)
+> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/1655363172/RleTk26GI)
 
 ---
 
@@ -55,7 +55,7 @@ China Railway Beijing Bureau added a 340-square-meter pre-security waiting area 
 
 The Palace Museum enforces strict real-name passport reservation limits for all international visitors. On-site ticket booths do not sell walk-in admission tickets. Daily quotas are released precisely 7 days in advance at 20:00 Beijing time and sell out within minutes for peak autumn dates. Foreign travelers must present original physical passports at the Meridian Gate (South Gate) staff-assisted manual verification counters. The museum remains closed every Monday for artifact conservation.
 
-> 📌 **Verified Source**: [Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172)
+> 📌 **Verified Source**: [The Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
 
 ---
 
@@ -64,7 +64,7 @@ The Palace Museum enforces strict real-name passport reservation limits for all 
 
 Beijing Municipal Bureau of Culture & Tourism issued its autumn foliage bulletin. From mid-October through early November, smoketree and maple leaves turn brilliant crimson across the mountain ridges. Mutianyu offers premier infrastructure with enclosed cable cars and toboggans alongside manageable crowds. Jinshanling, located 130 km northeast along the Hebei frontier, preserves un-restored Ming battlements and provides the ultimate photography trekking route, avoiding Badaling's heavy mass-market bus congestion.
 
-> 📌 **Verified Source**: [Beijing Municipal Bureau of Culture & Tourism Autumn Advisory (Sina Weibo)](https://weibo.com/1936009361)
+> 📌 **Verified Source**: [Beijing Municipal Bureau of Culture & Tourism Autumn Advisory (Sina Weibo)](https://weibo.com/1936009361/RkY0od5KZ)
 
 ---
 
@@ -73,7 +73,7 @@ Beijing Municipal Bureau of Culture & Tourism issued its autumn foliage bulletin
 
 China State Railway Group published departure operational guides for the capital's major rail hubs. Beijing South serves Shanghai (4h 18m), Nanjing, Hangzhou, and the 30-minute Tianjin Intercity. Beijing West serves Xi'an (4h 15m), Wuhan, and direct bullet trains to Hong Kong West Kowloon (8h 18m). Beijing North and Qinghe connect to the automated Olympic line toward Datong and Zhangjiakou. International travelers navigate departures seamlessly using the Railway 12306 English app and manual staff passport check-in lanes.
 
-> 📌 **Verified Source**: [China State Railway Group Transport Infrastructure Bulletin (Sina Weibo)](https://weibo.com/2549511007)
+> 📌 **Verified Source**: [China Railway Beijing Bureau Transport Bulletin (Sina Weibo)](https://weibo.com/1916657595/Rldy73sxl)
 
 ---
 
@@ -82,7 +82,7 @@ China State Railway Group published departure operational guides for the capital
 
 Shanxi Provincial Department of Culture & Tourism released visiting guidelines for its historic treasures. Preserving over 70% of China's surviving pre-Ming wooden architecture, Shanxi is easily accessible via high-speed trains from Beijing. Datong's UNESCO Yungang Grottoes feature over 51,000 Buddhist statues dating from the 5th century (just 1h 55m from Beijing). The 6th-century Hanging Monastery on Mount Hengshan and the 1056 AD Yingxian Wooden Pagoda offer world-class cultural overland excursions.
 
-> 📌 **Verified Source**: [Shanxi Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061857813)
+> 📌 **Verified Source**: [Shanxi Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061857813/Rkmz4AQZM)
 
 ---
 
@@ -91,6 +91,6 @@ Shanxi Provincial Department of Culture & Tourism released visiting guidelines f
 
 The National Immigration Administration confirmed operational parameters for the 144-hour visa-free transit scheme across Northern China. Eligible international passport holders entering through Beijing Capital (PEK), Beijing Daxing (PKX), Tianjin Binhai (TSN), Tianjin Cruise Port, or Shijiazhuang (SJW) enjoy unrestricted movement across the entire Beijing-Tianjin-Hebei region. This permits excursions to the Jinshanling Great Wall and Chengde Imperial Mountain Resort, though travel beyond the tri-provincial boundary into Shanxi requires a standard visa.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (Sina Weibo)](https://weibo.com/u/6929716472)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (Sina Weibo)](https://weibo.com/6929716472/RkvEc2jj4)
 
 ---

@@ -10,7 +10,7 @@
 
 Chengdu East Railway Station, the primary transit gateway to Western China and the Qinghai-Tibet plateau, processed an unprecedented 805,000 daily passenger movements (419,000 arrivals and 386,000 departures) on October 7. The terminal activated uninterrupted 24-hour night operations, adding 210 scheduled train runs, including 52 overnight high-speed services directly linking Beijing, Shanghai, and Guangzhou. Concurrently, the Sichuan Provincial Culture and Tourism Department confirmed that core scenic areas across Western Sichuan (including Jiuzhaigou and Daocheng Yading) operated normally under strict quota controls, while unpaved high-altitude backcountry loops remain closed for safety.
 
-> 📌 **Verified Source**: [Sichuan Provincial Dept of Culture & Tourism (Sina Weibo)](https://weibo.com/u/1780853205)
+> 📌 **Verified Source**: [China Railway Chengdu Bureau & Sichuan Tourism (Sina Weibo)](https://weibo.com/1919955065/Rl8jNmvLp)
 
 ---
 
@@ -19,7 +19,7 @@ Chengdu East Railway Station, the primary transit gateway to Western China and t
 
 The Jiuzhaigou National Park Administration confirmed that admission tickets for October 4 through October 6 have completely sold out, hitting the strict daily ecological conservation ceiling of 41,000 visitors. The scenic administration reiterated that on-site ticket windows are permanently closed to unreserved arrivals, and all international visitors must hold verified real-name passport bookings prior to reaching the park gates. An official waitlist allocation operates via the WeChat portal for returned tickets; travelers without reservations should divert to alternative high-plateau destinations such as Huanglong or Songpan Ancient City.
 
-> 📌 **Verified Source**: [Jiuzhaigou National Park Administration (Sina Weibo)](https://weibo.com/u/1803921393)
+> 📌 **Verified Source**: [Jiuzhaigou National Park Administration (Sina Weibo)](https://weibo.com/1803921393/RkvTYmoTW)
 
 ---
 
@@ -28,7 +28,7 @@ The Jiuzhaigou National Park Administration confirmed that admission tickets for
 
 Emperor Qinshihuang's Mausoleum Site Museum in Xi'an confirmed that all admission ticket quotas for October 5 were completely sold out across both morning and afternoon booking windows. Non-ticketed visitors were turned away at the Lintong entrance plazas. International guests planning heritage tours in Shaanxi must pre-book guaranteed VIP entry permits at least 7 to 10 days in advance via certified destination specialists, or redirect to the newly opened Shaanxi History Museum Qinhan Branch.
 
-> 📌 **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/u/7409196757)
+> 📌 **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
 
 ---
 
@@ -37,7 +37,7 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an confirmed that all admissio
 
 China Railway Urumqi Bureau deployed 16 additional "Hexie" CRH high-speed train sets between Urumqi and Turpan North Station to support heavy holiday travel flows along the Eastern Xinjiang Silk Road corridor. Running at 250 km/h, this high-frequency bullet train shuttle enables seamless day-trips for European travelers exploring Turpan's Grape Valley, the Flaming Mountains, and the ancient UNESCO ruins of Jiaohe.
 
-> 📌 **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/u/1919857493)
+> 📌 **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/RlgwofnZO)
 
 ---
 
@@ -46,7 +46,7 @@ China Railway Urumqi Bureau deployed 16 additional "Hexie" CRH high-speed train 
 
 Tibet Cultural Tourism and Transportation authorities announced active traffic controls along National Highway G317 between Nyima and Gerze on the Northern Northern Plateau route. With night temperatures dropping below zero, high-pass sections are experiencing icy asphalt. Overland 4WD expeditions crossing towards western Ali/Ngari are advised to journey during peak daylight hours and ensure tire snow chains are mounted.
 
-> 📌 **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/u/2061860827)
+> 📌 **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
 
 ---
 
