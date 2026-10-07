@@ -1,24 +1,7 @@
----
-id: 1258
-title: North China Travel & High-Speed Rail Updates (2026)
-slug: north-china-travel-updates
-url: https://yoututravel.com/north-china-travel-updates/
-type: intelligence-hub
-language: en
-date: '2026-10-03 16:51:22'
-modified: '2026-10-07 16:00:04'
-status: publish
-categories:
-- North
-- Travel blog
-hub: North_China
-hub_name: North China Hub (Beijing, Tianjin, Hebei, Shanxi, Henan, Inner Mongolia,
-  Northeast)
-paired_id: 1259
-seo:
-  title: North China Travel & Railway Updates (2026) | YouTu Travel
-  description: Latest operational travel updates for Beijing, Great Wall, Tianjin,
-    and Shanxi. Forbidden City booking rules, Mutianyu foliage, and high-speed rail.
+# North China Travel & High-Speed Rail Updates (2026)
+
+> **Live Dispatch Desk**: [https://yoututravel.com/north-china-travel-updates/](https://yoututravel.com/north-china-travel-updates/) &bull; **Region**: North China Hub (Beijing, Tianjin, Hebei, Shanxi, Henan, Inner Mongolia, Northeast)
+
 ---
 
 <div style="background: linear-gradient(135deg, #fdfaf6 0%, #f7f1e7 100%); border: 1px solid #e8decb; border-left: 4px solid #8c7355; border-radius: 12px; padding: 22px 26px; margin-bottom: 35px; box-shadow: 0 4px 20px rgba(44, 40, 37, 0.04);">

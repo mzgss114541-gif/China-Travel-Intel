@@ -1,25 +1,7 @@
----
-id: 1252
-title: East China Travel & High-Speed Rail Updates (2026)
-slug: east-china-travel-updates
-url: https://yoututravel.com/east-china-travel-updates/
-type: intelligence-hub
-language: en
-date: '2026-10-03 16:35:13'
-modified: '2026-10-07 15:59:47'
-status: publish
-categories:
-- East
-- Travel blog
-hub: East_China
-hub_name: East China Hub (Shanghai, Jiangsu, Zhejiang, Anhui, Jiangxi, Shandong, Fujian)
-paired_id: 1253
-seo:
-  title: East China Travel & Railway Updates (2026) | YouTu Travel
-  description: 'Field-verified 2026 travel intelligence for Eastern China: Shanghai
-    hubs, Suzhou garden quotas, Mount Huangshan youth waivers, and the Super Loop
-    bullet train.'
-  focus_keyword: East China travel 2026
+# East China Travel & High-Speed Rail Updates (2026)
+
+> **Live Dispatch Desk**: [https://yoututravel.com/east-china-travel-updates/](https://yoututravel.com/east-china-travel-updates/) &bull; **Region**: East China Hub (Shanghai, Jiangsu, Zhejiang, Anhui, Jiangxi, Shandong, Fujian)
+
 ---
 
 <div style="background: linear-gradient(135deg, #fdfaf6 0%, #f7f1e7 100%); border: 1px solid #e8decb; border-left: 4px solid #8c7355; border-radius: 12px; padding: 22px 26px; margin-bottom: 35px; box-shadow: 0 4px 20px rgba(44, 40, 37, 0.04);">

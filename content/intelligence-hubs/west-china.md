@@ -1,24 +1,7 @@
----
-id: 1243
-title: West China Travel & Overland Updates (2026)
-slug: west-china-travel-updates
-url: https://yoututravel.com/west-china-travel-updates/
-type: intelligence-hub
-language: en
-date: '2026-10-03 16:19:09'
-modified: '2026-10-07 15:59:40'
-status: publish
-categories:
-- Travel blog
-- West
-hub: West_China
-hub_name: West China Hub (Shaanxi, Sichuan, Yunnan, Tibet, Xinjiang, Gansu)
-paired_id: 1244
-seo:
-  title: West China Travel & Railway Updates (2026) | YouTu Travel
-  description: 'Official 2026 intelligence for Western China: Sichuan pandas, Jiuzhaigou
-    peak tickets, Xi''an Terracotta Army Pit 2, and new mountain high-speed rail lines.'
-  focus_keyword: West China travel 2026
+# West China Travel & Overland Updates (2026)
+
+> **Live Dispatch Desk**: [https://yoututravel.com/west-china-travel-updates/](https://yoututravel.com/west-china-travel-updates/) &bull; **Region**: West China Hub (Shaanxi, Sichuan, Yunnan, Tibet, Xinjiang, Gansu)
+
 ---
 
 <div style="background: linear-gradient(135deg, #fdfaf6 0%, #f7f1e7 100%); border: 1px solid #e8decb; border-left: 4px solid #8c7355; border-radius: 12px; padding: 22px 26px; margin-bottom: 35px; box-shadow: 0 4px 20px rgba(44, 40, 37, 0.04);">
