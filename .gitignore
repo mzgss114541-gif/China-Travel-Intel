@@ -1,0 +1,15 @@
+# System & temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+/tmp/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local scratch files
+scratch/
+scratch_export.py
+generate_repo.py
