@@ -29,12 +29,6 @@ Live, chronological travel updates categorized into 5 regional zones in English 
 
 ---
 
-## 📖 In-Depth Travel Guides
-
-- [Independent Travel China: Do You Really Need a Group Tour? (An Insider’s Guide to Freedom & Peace of Mind)](content/blog/en/independent-travel-china-guide.md)
-
----
-
 ## 🏢 About YouTu Travel
 
 This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique specialist crafting bespoke private journeys and seamless travel experiences across China for international visitors.
@@ -63,7 +57,6 @@ China-Travel-Intel/
     ├── intelligence-hubs/     # Ongoing regional travel news dispatches
     │   ├── en/                # English updates (National, West, East, South, North)
     │   └── it/                # Italian updates (National, West, East, South, North)
-    ├── blog/                  # Long-form guides
     └── pages/                 # Brand pages (About, Custom Planning, Contact)
 ```
 
