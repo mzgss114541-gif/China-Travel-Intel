@@ -51,9 +51,9 @@ Questo progetto è gestito da **[YouTu Travel](https://yoututravel.com)**, agenz
 
 Se questi aggiornamenti e guide ti sono utili, prendi in considerazione l'idea di **lasciare una stella (⭐) a questo repository**!
 
-Accogliamo con entusiasmo i tuoi suggerimenti per il nostro sito indipendente:
-- Apri pure una **[Issue](../../issues)** per condividere idee o richiedere nuovi contenuti.
-- Visita **[YouTu Travel](https://yoututravel.com)** e facci sapere quali destinazioni o guide sui treni vorresti vedere prossimamente.
+Accogliamo con entusiasmo i tuoi suggerimenti per la nostra piattaforma indipendente:
+1. Esplora **[YouTu Travel](https://yoututravel.com)** per scoprire i nostri itinerari, funzionalità e guide di viaggio.
+2. Apri una **[Issue](../../issues)** su GitHub per condividere le tue opinioni, suggerimenti o per richiedere nuove destinazioni e approfondimenti ferroviari!
 
 ---
 

@@ -51,9 +51,9 @@ This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a bou
 
 If these travel updates and guides are helpful to you, please consider **giving this repo a star (⭐)**!
 
-We welcome your feedback and ideas for our standalone website:
-- Feel free to open an **[Issue](../../issues)** with suggestions, questions, or content requests.
-- Visit **[YouTu Travel](https://yoututravel.com)** and let us know what destination insights, rail guides, or travel features you would like to see next.
+We would love your feedback on our standalone platform:
+1. Explore **[YouTu Travel](https://yoututravel.com)** to see our live itineraries, features, and travel guides.
+2. Open a GitHub **[Issue](../../issues)** to share your feedback, suggestions, or request specific destinations and rail insights you would like us to cover next!
 
 ---
 
