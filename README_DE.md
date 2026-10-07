@@ -43,7 +43,7 @@ Alle aktuellen Reiseberichte und offiziellen Hinweise werden auf **Englisch** ge
 Dieses Projekt wird von **[YouTu Travel](https://yoututravel.com)** betreut, einer spezialisierten Reiseagentur für maßgeschneiderte Privatreisen und erstklassige Reiseerlebnisse in China für internationale Gäste.
 
 - **Offizielle Website**: [yoututravel.com](https://yoututravel.com)
-- **Direktkontakt**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8619835703592)
+- **Direktkontakt**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
 
 ---
 

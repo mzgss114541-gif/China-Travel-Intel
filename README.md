@@ -43,7 +43,7 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique specialist crafting bespoke private journeys and seamless travel experiences across China for international visitors.
 
 - **Website**: [yoututravel.com](https://yoututravel.com)
-- **Direct Contact**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8619835703592)
+- **Direct Contact**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
 
 ---
 
