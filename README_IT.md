@@ -43,7 +43,7 @@ Tutti i dispacci di viaggio e le circolari ufficiali sono centralizzati in **ing
 Questo progetto è gestito da **[YouTu Travel](https://yoututravel.com)**, agenzia boutique specializzata nell'organizzazione di viaggi privati su misura e itinerari esclusivi in Cina per viaggiatori internazionali.
 
 - **Sito Ufficiale**: [yoututravel.com](https://yoututravel.com)
-- **Contatto Diretto**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8619835703592)
+- **Contatto Diretto**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
 
 ---
 

@@ -43,7 +43,7 @@ Tous les bulletins de voyage et avis officiels sont centralisés en **anglais** 
 Ce projet est maintenu par **[YouTu Travel](https://yoututravel.com)**, une agence boutique spécialisée dans la création d'itinéraires privés sur mesure et d'expériences de voyage authentiques en Chine pour les visiteurs internationaux.
 
 - **Site officiel** : [yoututravel.com](https://yoututravel.com)
-- **Contact direct** : [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8619835703592)
+- **Contact direct** : [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
 
 ---
 

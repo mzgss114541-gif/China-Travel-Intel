@@ -43,7 +43,7 @@ Todos los boletines oficiales y avisos de viaje están centralizados en **inglé
 Este proyecto está gestionado por **[YouTu Travel](https://yoututravel.com)**, una agencia boutique especializada en itinerarios privados a medida y experiencias de viaje exclusivas en China para visitantes internacionales.
 
 - **Sitio Web Oficial**: [yoututravel.com](https://yoututravel.com)
-- **Contacto Directo**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8619835703592)
+- **Contacto Directo**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
 
 ---
 
