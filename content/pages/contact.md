@@ -1,12 +1,7 @@
----
-id: 213
-title: Contact
-slug: contact
-url: https://yoututravel.com/contact/
-type: page
-language: en
-date: '2020-04-17 17:53:27'
-modified: '2026-09-10 16:24:24'
+# Contact YouTu Travel
+
+> Official page from [https://yoututravel.com/contact/](https://yoututravel.com/contact/)
+
 ---
 
 <h2>Contact Us</h2>				

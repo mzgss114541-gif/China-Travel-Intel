@@ -1,24 +1,7 @@
----
-id: 1256
-title: South China Travel & High-Speed Rail Updates (2026)
-slug: south-china-travel-updates
-url: https://yoututravel.com/south-china-travel-updates/
-type: intelligence-hub
-language: en
-date: '2026-10-03 16:43:24'
-modified: '2026-10-07 15:59:55'
-status: publish
-categories:
-- South
-- Travel blog
-hub: South_China
-hub_name: South China Hub (Guangdong, Guangxi, Hainan, Hunan, Hubei)
-paired_id: 1257
-seo:
-  title: South China Travel & Railway Updates (2026) | YouTu Travel
-  description: Latest operational travel updates for Guangxi, Guangdong, and Hainan
-    Island. Karst cruising, Longji harvest dates, Greater Bay Area HSR, and transit
-    rules.
+# South China Travel & High-Speed Rail Updates (2026)
+
+> **Live Dispatch Desk**: [https://yoututravel.com/south-china-travel-updates/](https://yoututravel.com/south-china-travel-updates/) &bull; **Region**: South China Hub (Guangdong, Guangxi, Hainan, Hunan, Hubei)
+
 ---
 
 <div style="background: linear-gradient(135deg, #fdfaf6 0%, #f7f1e7 100%); border: 1px solid #e8decb; border-left: 4px solid #8c7355; border-radius: 12px; padding: 22px 26px; margin-bottom: 35px; box-shadow: 0 4px 20px rgba(44, 40, 37, 0.04);">

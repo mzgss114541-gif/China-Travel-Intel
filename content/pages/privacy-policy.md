@@ -1,12 +1,7 @@
----
-id: 308
-title: Privacy Policy
-slug: privacy-policy
-url: https://yoututravel.com/privacy-policy/
-type: page
-language: en
-date: '2020-04-16 13:50:13'
-modified: '2026-10-03 11:21:23'
+# Privacy Policy
+
+> Official page from [https://yoututravel.com/privacy-policy/](https://yoututravel.com/privacy-policy/)
+
 ---
 
 <!-- wp:heading {"level":1} -->
