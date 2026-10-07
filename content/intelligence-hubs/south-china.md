@@ -10,7 +10,7 @@
 
 China Railway Guangzhou Group (CR Guangzhou) concluded the National Day holiday with a 20.8% year-on-year surge in regional travel volume on October 7. A total of 765 supplementary passenger services were mobilized, reinforcing the Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, and Coastal high-speed lines connecting Guangzhou South, Shenzhen North, and Hong Kong West Kowloon. Multi-lingual assistance desks and dedicated border-crossing transfer corridors remained fully staffed across GBA terminals; international travelers connecting to overseas flights via Hong Kong International Airport or downtown ports should allow at least 90 minutes for security clearance.
 
-> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/u/2001717811)
+> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/1923237421/Rl6fxk0K6)
 
 ---
 
@@ -19,7 +19,7 @@ China Railway Guangzhou Group (CR Guangzhou) concluded the National Day holiday 
 
 China Railway Guangzhou Group (CR Guangzhou) experienced its primary return travel peak on October 6, dispatching 2.835 million passengers—a 27.8% surge compared to the previous year. Transport dispatchers operated 3,835 trains, adding 702 passenger services (including 595 high-speed EMUs) across core trunk corridors linking Guangzhou, Shenzhen, Changsha, and Hong Kong West Kowloon. To absorb night arrivals, 401 overnight high-speed trains were scheduled for early hours on October 7. Guangzhou South and Shenzhen North stations opened 100% of egress barriers and deployed automated AI-assisted passenger routing directly into urban transit networks.
 
-> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/u/2001717811)
+> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/1923237421/Rl7CMcAGQ)
 
 ---
 
@@ -28,7 +28,7 @@ China Railway Guangzhou Group (CR Guangzhou) experienced its primary return trav
 
 China Railway Guangzhou Bureau announced that Guangzhou South Station successfully handled over 1 million passenger movements in a single 24-hour cycle. Automated passport recognition lanes and rapid inter-platform transit corridors enabled seamless international passenger transfers between Greater Bay Area hubs (Hong Kong West Kowloon and Shenzhen) and scenic inbound corridors toward Guilin, Yangshuo, and Guiyang.
 
-> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/u/2001717811)
+> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/1923237421/RlftRb1AD)
 
 ---
 
@@ -37,7 +37,7 @@ China Railway Guangzhou Bureau announced that Guangzhou South Station successful
 
 To optimize visitor experience at peak hours, Zhangjiajie National Forest Park introduced live Tujia ethnic folk dance and interactive martial art performances at Tianzi Mountain Cableway and Bailong Elevator plazas. The evening showcase of "Charming Xiangxi" operated multiple special performances, highlighting intangible Xiangxi weaving and song traditions for global guests.
 
-> 📌 **Verified Source**: [Zhangjiajie Municipal Bureau of Culture & Tourism (Sina Weibo)](https://weibo.com/u/1923237421)
+> 📌 **Verified Source**: [Zhangjiajie Tourism Official Bulletin (Sina Weibo)](https://weibo.com/1729314032/RlfWseMjG)
 
 ---
 
@@ -73,7 +73,7 @@ Guilin maritime and tourism authorities published updated navigational safety gu
 
 The Hainan Ring High-Speed Railway connecting Haikou with Sanya in 1 hour 35 minutes rolled out an expanded Bike-on-Train service for international cycle tourers. Designated bullet trains now feature dedicated interior securing brackets for fully assembled road and touring bicycles without requiring disassembly or specialized bike boxes. Bicycle transit spaces can be reserved simultaneously with passenger tickets on the Railway 12306 English app.
 
-> 📌 **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/u/2549511007)
+> 📌 **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
 
 ---
 
@@ -82,7 +82,7 @@ The Hainan Ring High-Speed Railway connecting Haikou with Sanya in 1 hour 35 min
 
 Guangdong provincial transit authorities confirmed high operational efficiency on the Guangzhou-Shenzhen-Hong Kong Express Rail Link. Bullet trains run from Hong Kong West Kowloon to Shenzhen Futian in 14 minutes, Guangzhou South in 47 minutes, and direct services reach Guilin in 3 hours 15 minutes. All departure and arrival border checks occur in a single sequence inside West Kowloon Station via manual passport inspection counters.
 
-> 📌 **Verified Source**: [Guangdong Provincial Department of Transportation (Sina Weibo)](https://weibo.com/2880086884)
+> 📌 **Verified Source**: [Guangdong Provincial Department of Transportation & Tourism (Sina Weibo)](https://weibo.com/2880086884/RkmLOwldd)
 
 ---
 
