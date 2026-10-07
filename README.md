@@ -74,7 +74,7 @@ China-Travel-Intel/
 
 ---
 
-## 📄 License & Commercial Notice
+## 📄 License & Attribution
 
-Travel dispatches and public updates are shared openly for traveler reference.  
-Commercial branding, trademarks, and proprietary media are copyright &copy; [YouTu Travel](https://yoututravel.com). All rights reserved.
+Travel updates are curated and shared openly for traveler reference.  
+Brand identity, logos, and trademarks are copyright &copy; [YouTu Travel](https://yoututravel.com). All rights reserved.

@@ -74,7 +74,7 @@ China-Travel-Intel/
 
 ---
 
-## 📄 Lizenz & Rechtlicher Hinweis
+## 📄 Lizenz & Hinweise
 
-Die Reiseberichte und offiziellen Hinweise werden zur freien Orientierung bereitgestellt.  
-Markenzeichen, Logos und proprietäre Inhalte unterliegen dem Copyright &copy; [YouTu Travel](https://yoututravel.com). Alle Rechte vorbehalten.
+Reiseberichte und offizielle Hinweise werden zur freien Orientierung bereitgestellt.  
+Markenidentität, Logos und Markenzeichen unterliegen dem Copyright &copy; [YouTu Travel](https://yoututravel.com). Alle Rechte vorbehalten.

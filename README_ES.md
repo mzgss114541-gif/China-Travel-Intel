@@ -74,7 +74,7 @@ China-Travel-Intel/
 
 ---
 
-## 📄 Licencia & Aviso Comercial
+## 📄 Licencia & Atribución
 
-Los avisos de viaje y boletines informativos se comparten libremente con fines orientativos.  
-Los logotipos, marcas comerciales y contenidos propietarios están protegidos por copyright &copy; [YouTu Travel](https://yoututravel.com). Todos los derechos reservados.
+Los boletines y avisos de viaje se comparten libremente con fines orientativos.  
+La identidad de marca, los logotipos y las marcas comerciales están protegidos por copyright &copy; [YouTu Travel](https://yoututravel.com). Todos los derechos reservados.
