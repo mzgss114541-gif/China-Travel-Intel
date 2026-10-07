@@ -12,7 +12,6 @@
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
 [![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
 [![Languages: EN & IT](https://img.shields.io/badge/Languages-English%20%7C%20Italiano-48bca2.svg?style=flat)]()
-[![Inquiries: 24/7 Online](https://img.shields.io/badge/Support-24%2F7%20Bilingual-blue.svg?style=flat)](https://yoututravel.com/contact/)
 
 ---
 
@@ -36,24 +35,22 @@ Live, chronological travel updates categorized into 5 regional zones in English 
 
 ---
 
-## 🏢 About the Commercial Project: YouTu Travel
+## 🏢 About YouTu Travel
 
-This repository is maintained by the editorial and dispatch team at **YouTu Travel** ([yoututravel.com](https://yoututravel.com)). We are a boutique private travel specialist dedicated to independent and bespoke travel in China for European and North American travelers.
+This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique specialist crafting bespoke private journeys and seamless travel experiences across China for international visitors.
 
-### Our Commercial Services
-- **Bespoke Itinerary Planning**: Handcrafted travel routes customized for couples, families, and private groups ([Custom Trip Planning](https://yoututravel.com/custom-trip-planning/)).
-- **Private Chauffeured Transportation**: Reliable private transport and seamless High-Speed Rail ticketing across all provinces.
-- **24/7 On-the-Ground Concierge**: Real-time bilingual support resolving language barriers, train connections, and attraction bookings.
+- **Website**: [yoututravel.com](https://yoututravel.com)
+- **Direct Contact**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8619835703592)
 
-### Founders & Team
-- **Xia Yongjian** — *Founder & Private Travel Specialist*
-- **Wang Yihan** — *Co-Founder & Private Travel Specialist*
+---
 
-### Business Contact & Inquiries
-- **Official Website**: [https://yoututravel.com](https://yoututravel.com)
-- **Direct Email**: [contact@yoututravel.com](mailto:contact@yoututravel.com)
-- **WhatsApp Support**: [+86 198-3570-3592](https://wa.me/8619835703592) / [+886 975-659-434](https://wa.me/886975659434)
-- **Physical Address**: No. 5 Jiahe Road, Qiujiang Subdistrict, Shaxian District, Sanming City, Fujian Province, China
+## ⭐ Star & Feedback
+
+If these travel updates and guides are helpful, please consider **giving this repo a star (⭐)**!
+
+We would love to hear your thoughts and suggestions for our standalone website:
+- Feel free to open an **[Issue](../../issues)** with ideas, questions, or content requests.
+- Visit **[YouTu Travel](https://yoututravel.com)** and let us know what destination insights, rail guides, or travel features you would like to see next.
 
 ---
 
@@ -61,12 +58,7 @@ This repository is maintained by the editorial and dispatch team at **YouTu Trav
 
 ```text
 China-Travel-Intel/
-├── assets/brand/              # Official brand assets (Vector SVGs, OG share image, QR codes)
-│   ├── yoututravel-og-share-image.png
-│   ├── yoututravel-logo-vector.svg
-│   ├── yoututravel-home-logo.svg
-│   ├── yoututravel-whatsapp-qr.jpg
-│   └── yoututravel-wechat-qr.jpg
+├── assets/brand/              # Official brand assets & logos
 └── content/
     ├── intelligence-hubs/     # Ongoing regional travel news dispatches
     │   ├── en/                # English updates (National, West, East, South, North)
