@@ -51,9 +51,9 @@ Este proyecto está gestionado por **[YouTu Travel](https://yoututravel.com)**, 
 
 Si estas actualizaciones y guías te resultan útiles, ¡agradecemos que **dejes una estrella (⭐) en este repositorio**!
 
-Tus sugerencias para nuestro sitio web independiente son siempre bienvenidas:
-- No dudes en abrir una **[Issue](../../issues)** con propuestas o consultas sobre nuevos destinos.
-- Visita **[YouTu Travel](https://yoututravel.com)** y cuéntanos qué guías o consejos de transporte te gustaría ver próximamente.
+Tus sugerencias para nuestra plataforma independiente son siempre bienvenidas:
+1. Explora **[YouTu Travel](https://yoututravel.com)** para descubrir nuestros itinerarios, funciones y guías de viaje.
+2. Abre una **[Issue](../../issues)** en GitHub para compartir tus comentarios, sugerencias o pedir destinos y guías de transporte específicos que te gustaría ver a continuación.
 
 ---
 

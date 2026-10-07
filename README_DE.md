@@ -51,9 +51,9 @@ Dieses Projekt wird von **[YouTu Travel](https://yoututravel.com)** betreut, ein
 
 Wenn Ihnen diese Reise-Updates weiterhelfen, freuen wir uns über einen **Stern (⭐) für dieses Repository**!
 
-Wir freuen uns über Ihr Feedback und Ihre Vorschläge für unsere unabhängige Website:
-- Eröffnen Sie gerne ein **[Issue](../../issues)** mit Anregungen oder Inhaltswünschen.
-- Besuchen Sie **[YouTu Travel](https://yoututravel.com)** und teilen Sie uns mit, welche Reiseziele oder Ratgeber Sie sich als Nächstes wünschen.
+Wir freuen uns über Ihr Feedback zu unserer unabhängigen Plattform:
+1. Besuchen Sie **[YouTu Travel](https://yoututravel.com)** und verschaffen Sie sich einen Eindruck von unseren Reiserouten, Features und Ratgebern.
+2. Eröffnen Sie ein GitHub-**[Issue](../../issues)**, um uns Ihre Eindrücke, Feedback oder Wünsche zu neuen Reisezielen und Bahnstrecken mitzuteilen!
 
 ---
 
