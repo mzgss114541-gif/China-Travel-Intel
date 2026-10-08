@@ -36,8 +36,10 @@ Tutti i dispacci di viaggio e le circolari ufficiali sono centralizzati in **ing
 | **Cina Meridionale** | Guangdong (Canton, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/south-china.md) |
 | **Cina Settentrionale** | Pechino (Città Proibita, Grande Muraglia), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/north-china.md) |
 
-> 📱 **In viaggio sul posto in Cina? (Verifica e supporto con il personale locale)**  
-> Se incontri barriere linguistiche ai varchi di accesso dei treni ad alta velocità, ai controlli di imbarco, alla dogana o agli ingressi delle attrazioni, apri uno dei registri regionali qui sopra per accedere alle comunicazioni ufficiali in lingua cinese (`🇨🇳 官方通告原文`). Puoi mostrare questi testi originali direttamente dal tuo telefono a capitreno, capistazione o personale di servizio per una verifica immediata e assistenza tempestiva.
+> 📱 **In viaggio sul posto in Cina? (Verifica con il personale & Comunicazione con i passanti)**  
+> Se incontri barriere linguistiche ai varchi di accesso dei treni ad alta velocità, ai controlli di imbarco, alla dogana o agli ingressi delle attrazioni, apri uno dei registri regionali qui sopra per accedere alle comunicazioni ufficiali in lingua cinese (`🇨🇳 官方通告原文`). Puoi mostrare questi testi originali direttamente dal tuo telefono a capitreno, capistazione, personale di servizio o passanti e residenti locali per una verifica immediata, indicazioni stradali e orientamento.  
+>  
+> ⚠️ **Dichiarazione di non responsabilità**: *Questi estratti ufficiali sono archiviati esclusivamente a titolo informativo e di ausilio linguistico. Normative, quote e condizioni operative possono variare rapidamente; le autorità e gli operatori sul posto mantengono la totale discrezionalità operativa finale. Attenersi sempre alle disposizioni fornite dal personale in loco.*
 
 ---
 

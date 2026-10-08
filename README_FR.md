@@ -36,8 +36,10 @@ Tous les bulletins de voyage et avis officiels sont centralisés en **anglais** 
 | **Chine Méridionale** | Guangdong (Canton, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [Consulter les mises à jour (EN)](content/intelligence-hubs/south-china.md) |
 | **Chine Septentrionale** | Pékin (Cité interdite, Grande Muraille), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Consulter les mises à jour (EN)](content/intelligence-hubs/north-china.md) |
 
-> 📱 **En voyage sur place en Chine ? (Vérification et présentation au personnel)**  
-> Si vous rencontrez une barrière de la langue aux portiques des gares TGV, aux contrôles d'embarquement, aux douanes ou aux entrées de sites touristiques, ouvrez n'importe quel journal régional ci-dessus pour accéder aux annonces officielles en chinois (`🇨🇳 官方通告原文`). Vous pouvez afficher ces textes sources directement sur votre smartphone aux capitreno, chefs de gare ou agents d'accueil pour une vérification et une assistance immédiates.
+> 📱 **En voyage sur place en Chine ? (Présentation au personnel & Échange avec les riverains)**  
+> Si vous rencontrez une barrière de la langue aux portiques des gares TGV, aux contrôles d'embarquement, aux douanes ou aux entrées de sites touristiques, ouvrez n'importe quel journal régional ci-dessus pour accéder aux annonces officielles en chinois (`🇨🇳 官方通告原文`). Vous pouvez afficher ces textes sources directement sur votre smartphone aux contrôleurs, chefs de gare, agents d'accueil ou passants et habitants bienveillants pour une vérification immédiate, vous repérer ou échanger plus facilement.  
+>  
+> ⚠️ **Avertissement légal**: *Ces extraits officiels sont archivés à titre purement indicatif et d'aide à la communication. Les réglementations, quotas et conditions d'accès évoluent en temps réel, et les autorités ou agents sur place conservent l'autorité discrétionnaire finale. Respectez toujours les consignes du personnel en poste.*
 
 ---
 
