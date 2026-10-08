@@ -36,6 +36,9 @@ Todos los boletines oficiales y avisos de viaje están centralizados en **inglé
 | **China Meridional** | Cantón, Shenzhen, Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [Ver Actualizaciones (EN)](content/intelligence-hubs/south-china.md) |
 | **China Septentrional** | Pekín (Ciudad Prohibida, Gran Muralla), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Ver Actualizaciones (EN)](content/intelligence-hubs/north-china.md) |
 
+> 📱 **¿Viajando sobre el terreno en China? (Verificación y asistencia presencial)**  
+> Si experimenta barreras de idioma en torniquetes de trenes de alta velocidad, controles de embarque, aduanas o accesos a monumentos, abra cualquiera de los boletines regionales anteriores para consultar los anuncios oficiales en chino (`🇨🇳 官方通告原文`). Puede mostrar estos avisos originales directamente en su teléfono a interventores, jefes de estación o personal de atención para una verificación inmediata y asistencia eficaz.
+
 ---
 
 ## ⏱️ Estándar editorial y Frecuencia de actualización
