@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 18:30 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
+### 📅 October 8, 2026 &bull; 08:58 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
 #### Hainan Port Entry Terminals: Inbound Travel Surges 13.4% with 54,000 Crossings at Haikou & Sanya Airports
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -18,7 +18,7 @@ Haikou General Station of Exit and Entry Frontier Inspection reported that Haina
 
 ---
 
-### 📅 October 7, 2026 &bull; 11:40 CST `[Greater Bay Area Transit Corridor]`
+### 📅 October 8, 2026 &bull; 08:39 CST `[Greater Bay Area Transit Corridor]`
 #### China Railway Guangzhou Group: 765 Extra Trains Deployed as GBA Return Influx Surges 20.8%
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -31,7 +31,7 @@ China Railway Guangzhou Group (CR Guangzhou) concluded the National Day holiday 
 
 ---
 
-### 📅 October 6, 2026 &bull; 12:10 CST `[Greater Bay Area Transit Corridor]`
+### 📅 October 7, 2026 &bull; 10:08 CST `[Greater Bay Area Transit Corridor]`
 #### China Railway Guangzhou Group: 2.83 Million Travelers Dispatched Across GBA with 401 Overnight Bullet Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -44,7 +44,7 @@ China Railway Guangzhou Group (CR Guangzhou) experienced its primary return trav
 
 ---
 
-### 📅 October 4, 2026 &bull; 09:15 CST `[Waterway & Weather Alert]`
+### 📅 October 4, 2026 &bull; 09:13 CST `[Waterway & Weather Alert]`
 #### Guangxi Issues Severe Thunderstorm & Gale Warnings for Waterways
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -57,20 +57,7 @@ Local tourism authorities reported sudden heavy rain and gusty winds across Guil
 
 ---
 
-### 📅 October 3, 2026 &bull; 11:30 CST `[Maritime Safety & Karst Cruises]`
-#### Li River & Yulong River: Luxury Cruises vs Bamboo Raft Age Restrictions
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【桂林海事局与漓江景区水上安全提示：游船与排筏适乘规定】漓江三星/四星级豪华游船实行实名制预约购票与登船核验，适乘人群广泛且设施完备，无年龄上限限制；漓江精华段及遇龙河排筏执行严格水上安全红线管控，实行实名制预约乘筏。按安全规定，身高1.2米以下儿童及70周岁以上老人严禁乘坐排筏，患有心脑血管等疾病人员禁止乘坐；遇大雨洪峰或强对流天气排筏将立即执行动态停运管制。家庭出行或长者游客建议选乘全景游船。
-
-**🇬🇧 Actionable Travel Intel**:  
-Guilin maritime and tourism authorities published updated navigational safety guidelines. Four-star luxury cruises from Zhujiang Pier to Yangshuo (4 to 4.5 hours) enforce no age limits and feature panoramic decks and buffet dining. Conversely, motorized and punting bamboo rafts on the Yulong River strictly prohibit children under 1.2 meters (under approx. 7 years) and adults aged 70 and above for safety reasons; senior travelers and young families are directed to standard cruise vessels.
-
-> 📌 **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
-
----
-
-### 📅 September 28, 2026 &bull; 08:30 CST `[Tropical Rail Mobility]`
+### 📅 October 3, 2026 &bull; 16:21 CST `[Tropical Rail Mobility]`
 #### Hainan High-Speed Loop: Assembled Bike-on-Train Carriage Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -80,6 +67,19 @@ Guilin maritime and tourism authorities published updated navigational safety gu
 The Hainan Ring High-Speed Railway connecting Haikou with Sanya in 1 hour 35 minutes rolled out an expanded Bike-on-Train service for international cycle tourers. Designated bullet trains now feature dedicated interior securing brackets for fully assembled road and touring bicycles without requiring disassembly or specialized bike boxes. Bicycle transit spaces can be reserved simultaneously with passenger tickets on the Railway 12306 English app.
 
 > 📌 **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
+
+---
+
+### 📅 September 30, 2026 &bull; 10:43 CST `[Maritime Safety & Karst Cruises]`
+#### Li River & Yulong River: Luxury Cruises vs Bamboo Raft Age Restrictions
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【桂林海事局与漓江景区水上安全提示：游船与排筏适乘规定】漓江三星/四星级豪华游船实行实名制预约购票与登船核验，适乘人群广泛且设施完备，无年龄上限限制；漓江精华段及遇龙河排筏执行严格水上安全红线管控，实行实名制预约乘筏。按安全规定，身高1.2米以下儿童及70周岁以上老人严禁乘坐排筏，患有心脑血管等疾病人员禁止乘坐；遇大雨洪峰或强对流天气排筏将立即执行动态停运管制。家庭出行或长者游客建议选乘全景游船。
+
+**🇬🇧 Actionable Travel Intel**:  
+Guilin maritime and tourism authorities published updated navigational safety guidelines. Four-star luxury cruises from Zhujiang Pier to Yangshuo (4 to 4.5 hours) enforce no age limits and feature panoramic decks and buffet dining. Conversely, motorized and punting bamboo rafts on the Yulong River strictly prohibit children under 1.2 meters (under approx. 7 years) and adults aged 70 and above for safety reasons; senior travelers and young families are directed to standard cruise vessels.
+
+> 📌 **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
 
 ---
 
@@ -96,7 +96,7 @@ Guangdong provincial transit authorities confirmed high operational efficiency o
 
 ---
 
-### 📅 September 25, 2026 &bull; 15:30 CST `[Immigration & Visa Policy]`
+### 📅 August 20, 2026 &bull; 10:00 CST `[Immigration & Visa Policy]`
 #### Hainan 30-Day Visa-Free Policy: Territorial Boundaries vs Mainland Entry Rules
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -105,4 +105,4 @@ Guangdong provincial transit authorities confirmed high operational efficiency o
 **🇬🇧 Actionable Travel Intel**:  
 The National Immigration Administration reiterated key operational parameters for the 59-nation 30-day Hainan visa-free scheme. European passport holders entering Hainan directly via Haikou or Sanya from international origins enjoy 30 days of seamless visa-free travel. However, this waiver strictly limits travel to Hainan Province; onward travel to mainland destinations like Guilin, Guangzhou, or Shanghai requires eligibility under China's separate 15-day national visa-free waiver or an ordinary Chinese visa.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147423/c158525/content.html)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147463/c180637/content.html)
