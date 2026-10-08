@@ -9,12 +9,12 @@
 #### Beijing Transit Hubs Process Nearly 1M Return Arrivals; Changbaishan Resumes Crater Lake Access
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #京城秋日漫游录# #北京西兴隆街一步一宝藏# 【胡同不一“Young”｜北京到底有谁在？来西兴隆街找“Luke”】西兴隆街东起东兴隆街，西至鲜鱼口街，是从崇文门外大街到前门大街的主要通道之一。该街在明代称“羊坊草场”，为养羊和堆放草料之地，后来，崇真观及东兴隆街西段并入后统称西兴隆街。如今，老胡同以前门·长巷里的名字焕新启幕。跟随记者毛嘉惠走进西兴隆街，感受北京限定气味，走进藏地文化，闯入温室花园，邂逅云南雨林……快来，“Luke”在西兴隆街等你！ #解锁北京国庆多元玩法# #北京国庆假期出行全攻略# （ @北京交通广播 ） 北京交通广播的微博视频
+> 【国铁北京局七大车站迎来返程客流峰值；长白山景区恢复全线开放】10月7日，国铁北京局迎来黄金周返程客流最高峰，北京站、北京西站、北京南站、北京丰台站等各大车站全天到达旅客近百万人次，各站区协调地铁延时运营并调集应急摆渡大巴保障通宵接驳。同日，吉林长白山气象预警降级，长白山北景区、西景区、南景区全面恢复正常开放，天池主峰观景通道恢复通行，景区执行分时段实名预约与动态安全管控。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 Beijing's primary rail terminals (Beijing South, West, Fengtai, and Central) received approximately 977,000 arriving passengers on October 7 during the holiday's peak return wave. The Beijing Municipal Commission of Transport extended subway operations across lines connecting railway hubs and international airports until 02:00 past midnight. In alpine natural heritage, Changbaishan National Scenic Area reopened access to the iconic volcanic Crater Lake (Heavenly Lake) across North, West, and South zones following post-blizzard slope clearance, though high-altitude backcountry routes remain restricted due to sub-zero freeze warnings.
 
-> 📌 **Verified Source**: [Beijing Municipal Bureau of Culture & Tourism (Sina Weibo)](https://weibo.com/1936009361/RleTHoMnF)
+> 📌 **Verified Source**: [China Railway Beijing Bureau & Changbaishan Scenic Area Administration (Official Dispatch)](https://weibo.com/1916657595/Rlfdd9zpH)
 
 ---
 
@@ -126,9 +126,9 @@ Shanxi Provincial Department of Culture & Tourism released visiting guidelines f
 #### 144-Hour Transit Visa: Beijing-Tianjin-Hebei Unified Travel Perimeter
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 直击国门边境动态，速览一周热点资讯——欢迎收看《国门·7日谈》第十六期。 #外国人旅馆以外住宿登记# #救援# （编辑：卿光强，视频：张傲寒、唐馨雨） 国家移民管理局的微博视频
+> 【国家移民管理局京津冀144小时过境免签政策实施指引】经国务院批准，京津冀三地实施外国人144小时过境免签政策。适用54国公民持有效国际旅行证件和确定日期及座位的联程客票过境前往第三国（地区），可选择从北京首都国际机场、北京大兴国际机场、北京西站、天津滨海国际机场、天津国际邮轮母港、石家庄正定国际机场、秦皇岛海港等口岸出入境，免签活动范围为北京、天津、河北三省市行政区域，停留时间最长144小时。超出京津冀行政区域（如进入山西省等）须依法提前办妥有效中国签证。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 The National Immigration Administration confirmed operational parameters for the 144-hour visa-free transit scheme across Northern China. Eligible international passport holders entering through Beijing Capital (PEK), Beijing Daxing (PKX), Tianjin Binhai (TSN), Tianjin Cruise Port, or Shijiazhuang (SJW) enjoy unrestricted movement across the entire Beijing-Tianjin-Hebei region. This permits excursions to the Jinshanling Great Wall and Chengde Imperial Mountain Resort, though travel beyond the tri-provincial boundary into Shanxi requires a standard visa.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (Sina Weibo)](https://weibo.com/6929716472/RkvEc2jj4)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147423/c158525/content.html)

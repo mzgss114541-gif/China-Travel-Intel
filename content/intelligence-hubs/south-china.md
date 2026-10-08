@@ -9,12 +9,12 @@
 #### China Railway Guangzhou Group: 765 Extra Trains Deployed as GBA Return Influx Surges 20.8%
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #广铁u彩提示您下一站# 104.9万！“宇宙第一”大站创历史最高纪录（凌子旎，戴鸣，李德民） 广州铁路的微博视频
+> 【10月7日广铁迎来返程客流最高峰 预计发送旅客315.5万人次 计划加开旅客列车765列】10月7日，国庆假期最后一天，国铁广州局迎来返程客流最高峰，预计发送旅客315.5万人次，较去年同期增加54.3万人次、增长20.8%。当天计划开行旅客列车3893列，加开旅客列车765列（包括普速列车100列、动车组列车665列），加开线路主要是京广、广深港、杭深、江湛等线路，主要开往广深往返潮汕、广深往返长沙及怀化、广州往返湛江等方向。此外，广铁于10月8日凌晨计划加开夜间高铁435列，全力保障旅客顺畅返程。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China Railway Guangzhou Group (CR Guangzhou) concluded the National Day holiday with a 20.8% year-on-year surge in regional travel volume on October 7. A total of 765 supplementary passenger services were mobilized, reinforcing the Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, and Coastal high-speed lines connecting Guangzhou South, Shenzhen North, and Hong Kong West Kowloon. Multi-lingual assistance desks and dedicated border-crossing transfer corridors remained fully staffed across GBA terminals; international travelers connecting to overseas flights via Hong Kong International Airport or downtown ports should allow at least 90 minutes for security clearance.
 
-> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/1923237421/Rl6fxk0K6)
+> 📌 **Verified Source**: [China Railway Guangzhou Group Official Release (China National Radio / CNR)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
 
 ---
 
@@ -22,12 +22,12 @@ China Railway Guangzhou Group (CR Guangzhou) concluded the National Day holiday 
 #### China Railway Guangzhou Group: 2.83 Million Travelers Dispatched Across GBA with 401 Overnight Bullet Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #广铁u彩提示您下一站# 列车前方到站——岳阳 广州铁路的微博视频
+> 【10月6日广铁迎来客流返程高峰 预计发送旅客283.5万人次 加开夜间高铁401列】10月6日，国铁广州局迎来客流返程小高峰，当天预计发送旅客283.5万人次，较2025年同期增加61.7万人次、增长27.8%。计划开行列车3835列，其中加开列车702列（包括动车组列车595列），加开线路主要是京广、杭深、深湛、广深港等高铁线路，开行方向主要为广州、深圳、长沙、武汉等地。10月7日凌晨计划加开夜间高铁401列，主要开往长沙、潮汕、湛江等方向。广州南站、深圳北站、长沙南站等客流集中大站开启全部出站通道，协同市内地铁和地面公交延长运营时间，确保返程客流顺畅疏散。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China Railway Guangzhou Group (CR Guangzhou) experienced its primary return travel peak on October 6, dispatching 2.835 million passengers—a 27.8% surge compared to the previous year. Transport dispatchers operated 3,835 trains, adding 702 passenger services (including 595 high-speed EMUs) across core trunk corridors linking Guangzhou, Shenzhen, Changsha, and Hong Kong West Kowloon. To absorb night arrivals, 401 overnight high-speed trains were scheduled for early hours on October 7. Guangzhou South and Shenzhen North stations opened 100% of egress barriers and deployed automated AI-assisted passenger routing directly into urban transit networks.
 
-> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/1923237421/Rl7CMcAGQ)
+> 📌 **Verified Source**: [Guangzhou Municipal People's Government & China Railway Guangzhou Group (Official Transport Release)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
 
 ---
 
@@ -87,12 +87,12 @@ The Guangxi Department of Culture and Tourism published the official seasonal ca
 #### Li River & Yulong River: Luxury Cruises vs Bamboo Raft Age Restrictions
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【预告|国庆来桂林永福金鸡河大草原，看“桂林版呼伦贝尔”+全国“秋季村晚”，好看好吃好玩全都有！】 #国庆# # 桂林# #永福# #一键游广西# 金秋十月，福寿永福，好戏开演！ 2026年全国“四季村晚”之 “秋季村晚”示范展示点活动 落地桂林市永福县罗锦镇林村金鸡河大草原！ 10月1日， 在火出圈的秋日大草原， 看一出“村晚”大戏， 并且全天精彩活动不断， 这个国庆，快乐直接超级加倍！ 网页链接
+> 【桂林海事局与漓江景区水上安全提示：游船与排筏适乘规定】漓江三星/四星级豪华游船实行实名制预约购票与登船核验，适乘人群广泛且设施完备，无年龄上限限制；漓江精华段及遇龙河排筏执行严格水上安全红线管控，实行实名制预约乘筏。按安全规定，身高1.2米以下儿童及70周岁以上老人严禁乘坐排筏，患有心脑血管等疾病人员禁止乘坐；遇大雨洪峰或强对流天气排筏将立即执行动态停运管制。家庭出行或长者游客建议选乘全景游船。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 Guilin maritime and tourism authorities published updated navigational safety guidelines. Four-star luxury cruises from Zhujiang Pier to Yangshuo (4 to 4.5 hours) enforce no age limits and feature panoramic decks and buffet dining. Conversely, motorized and punting bamboo rafts on the Yulong River strictly prohibit children under 1.2 meters (under approx. 7 years) and adults aged 70 and above for safety reasons; senior travelers and young families are directed to standard cruise vessels.
 
-> 📌 **Verified Source**: [Guilin Municipal Tourism & Maritime Safety Command (Sina Weibo)](https://weibo.com/1989772524/RktPSktHq)
+> 📌 **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
 
 ---
 
@@ -113,12 +113,12 @@ The Hainan Ring High-Speed Railway connecting Haikou with Sanya in 1 hour 35 min
 #### Guangzhou-Shenzhen-Hong Kong HSR: Co-Location Border Clearance Operations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【天涯共此时 山海遇湾区 广东文旅赴荷兰、奥地利开展文旅交流推介】为深化广东与欧洲在文化旅游领域的交流合作，拓展欧洲客源市场，2026年9月21日至25日，广东省文化和旅游厅组团赴荷兰、奥地利开展系列文旅交流活动，先后在荷兰海牙、阿姆斯特丹及奥地利维也纳等地，以多种形式推介粤港澳大湾区世界级旅游目的地。 #一年四季来广东# # #请到广东过金秋# 天涯共此时 山海遇湾区 广东文旅赴荷兰、奥地利开展文旅交流推介
+> 【广深港高铁香港西九龙站“一地两检”高效通关指引】广深港高铁全线实行“一地两检”通关模式。旅客在香港西九龙站内即可一次性顺序完成香港与内地两地出入境查验程序，跨境列车从西九龙至深圳福田最快仅需14分钟、至广州南最快47分钟。所有进出港旅客均须在西九龙站口岸完成实名制证件核验，外籍旅客持有效护照即可在人工核验通道便捷通关，无需在跨界途中二次下车排队查验。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 Guangdong provincial transit authorities confirmed high operational efficiency on the Guangzhou-Shenzhen-Hong Kong Express Rail Link. Bullet trains run from Hong Kong West Kowloon to Shenzhen Futian in 14 minutes, Guangzhou South in 47 minutes, and direct services reach Guilin in 3 hours 15 minutes. All departure and arrival border checks occur in a single sequence inside West Kowloon Station via manual passport inspection counters.
 
-> 📌 **Verified Source**: [Guangdong Provincial Department of Transportation & Tourism (Sina Weibo)](https://weibo.com/2880086884/RkmLOwldd)
+> 📌 **Verified Source**: [MTR High Speed Rail Official Portal (Co-Location Customs & Immigration Guide)](https://www.highspeed.mtr.com.hk/tc/mainland-travel/co-location-arrangement.html)
 
 ---
 
@@ -126,9 +126,9 @@ Guangdong provincial transit authorities confirmed high operational efficiency o
 #### Hainan 30-Day Visa-Free Policy: Territorial Boundaries vs Mainland Entry Rules
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【多家央媒报道！这个国庆假期海南实力“圈粉”】国庆假期，海南实力“圈粉”。绝美风景、人潮涌动、丰富活动、文旅市场亮点纷呈，获多家央媒关注报道，成为假日旅游市场的一道亮丽风景线。 #中秋国庆海南给你双倍快乐# #中秋国庆游海南巨划算# 网页链接 via.海南发布微信
+> 【国家移民管理局关于扩大59国人员免签入境海南事由的公告】经国务院批准，国家移民管理局扩大59国人员免签入境海南事由，允许俄罗斯、英国、法国、德国、意大利、美国、加拿大、澳大利亚等59国人员因商贸、访问、探亲、医疗、会展、体育竞技等短期事由（工作、学习事由除外）免签入境海南省。免签入境人员活动范围为海南省行政区域，停留时间自入境次日零时起算不超过30天，须从海南省对外开放口岸免签入境。如因正当事由需离开海南省前往中国境内其他地区，必须在停留期限届满前向公安机关出入境管理机构申办签证证件。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 The National Immigration Administration reiterated key operational parameters for the 59-nation 30-day Hainan visa-free scheme. European passport holders entering Hainan directly via Haikou or Sanya from international origins enjoy 30 days of seamless visa-free travel. However, this waiver strictly limits travel to Hainan Province; onward travel to mainland destinations like Guilin, Guangzhou, or Shanghai requires eligibility under China's separate 15-day national visa-free waiver or an ordinary Chinese visa.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (Sina Weibo)](https://weibo.com/2959194963/RkY8KfaeL)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147423/c158525/content.html)

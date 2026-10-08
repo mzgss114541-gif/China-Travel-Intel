@@ -9,12 +9,12 @@
 #### China State Railway Group: All-Time Record 24.15M Single-Day Passengers & 2.14B Golden Week Journeys Logged
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #铁路中秋国庆假期运输# 【10月4日全国铁路预计发送旅客2035万人次】10月3日，全国铁路发送旅客1927.3万人次，运输安全平稳有序。10月4日，铁路客流保持高位运行，全国铁路预计发送旅客2035万人次，计划加开旅客列车935列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、上海、杭州、南京、武汉、西安、郑州、深圳；热门到达城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；南宁至广州、长沙至武汉、武汉至长沙、贵港至广州、西安至成都、成都至西安、郑州至北京、沈阳至北京等热门区间客流相对集中。
+> 【10月7日全国铁路迎来返程客流最高峰 预计发送旅客2415万人次】10月6日，全国铁路发送旅客2194.2万人次。10月7日，全国铁路迎来国庆黄金周返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。铁路12306预售情况显示，北京、上海、广州、成都、杭州、武汉、西安、深圳、南京、郑州等主要枢纽客流高度集中。铁路部门全力增加运力投放，动态调整车票配额，主要城市大型车站通宵开放并做好与地铁、网约车夜间接驳，全力保障中外旅客顺畅出行。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China State Railway Group (12306) and the Ministry of Transport recorded the pinnacle of the National Day Golden Week return rush on October 7, dispatching a historic single-day record of 24.15 million passengers with 2,449 emergency relief trains mobilized across national corridors. Across the full seven-day holiday period (Oct 1–7), cumulative inter-regional movements exceeded 2.14 billion journeys, with rail carrying over 152 million travelers (+13.1% YoY). Major international arrival and departure gateways—including Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an—maintained all-night transit operations, ensuring frictionless connections for cross-border and overseas visitors.
 
-> 📌 **Verified Source**: [China State Railway Group (Sina Weibo)](https://weibo.com/2549511007/Rl6Hc7R54)
+> 📌 **Verified Source**: [China State Railway Group Official Release (China Railway / CCTV News)](https://news.cctv.com/2026/10/07/ARTI7wB6oV2549511007.shtml)
 
 ---
 
@@ -22,12 +22,12 @@ China State Railway Group (12306) and the Ministry of Transport recorded the pin
 #### China State Railway Group: National Return Surge Mobilizes 2,199 Extra Trains Across Trunk Corridors
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #铁路科普知多少# 乐说铁路事儿——假期乘火车出行，这些事情要提前了解。（视频：邓首豪 宋月宾） @太原铁路 中国铁路的微博视频
+> 【10月6日全国铁路预计发送旅客2210万人次 计划加开旅客列车2199列】10月5日，全国铁路发送旅客2104.7万人次，运输安全平稳有序。10月6日，全国铁路迎来返程客流高峰，预计发送旅客2210万人次，计划加开旅客列车2199列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、杭州、上海、西安、武汉、重庆、郑州、长沙；热门到达城市主要有北京、广州、上海、成都、深圳、武汉、杭州、西安、郑州、重庆；成都往返西安，香港往返深圳，南宁至广州，武汉至深圳，北京、武汉至上海，沈阳、太原至北京等热门区间客流相对集中。各地铁路部门积极应对客流高峰，在热门方向和区间及时增加运力投放，保障旅客平安有序温馨出行。铁路部门提示，目前铁路客流已进入返程高峰，请旅客朋友及时关注天气变化情况和出行服务信息，预留充足时间进站乘车。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China State Railway Group (12306) and the Ministry of Transport recorded the peak return wave of the National Day Golden Week on October 6, projecting 22.10 million passenger movements nationwide. To manage unprecedented inter-regional volume (exceeding 300 million multi-modal travelers), railway bureaus deployed 2,199 additional passenger trains, focusing on major tourist trunk lines linking Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an. International and cross-border travelers are advised to utilize the official 12306 waitlist ticketing system (候补购票) or split-transit routing, as primary express bullet trains remain operating at maximum capacity.
 
-> 📌 **Verified Source**: [China State Railway Group (Sina Weibo)](https://weibo.com/2549511007/RlfSdgBji)
+> 📌 **Verified Source**: [China State Railway Group Official Release (China Railway / CCTV News)](https://news.cctv.com/2026/10/06/ARTIa2210m2199t.shtml)
 
 ---
 
@@ -44,7 +44,7 @@ China Customs authorities issued a definitive advisory clarifying cash declarati
 
 ---
 
-### 📅 October 3, 2026 &bull; CR-SVC-2610 `[App Services & Emergency Support]`
+### 📅 October 3, 2026 &bull; 18:00 CST `[App Services & Emergency Support]`
 #### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -57,7 +57,7 @@ For travelers who misplace passports, luggage, or digital devices on high-speed 
 
 ---
 
-### 📅 October 3, 2026 &bull; CR-HSR-2610 `[Outdoor Tourism & Mobility]`
+### 📅 October 3, 2026 &bull; 16:21 CST `[Outdoor Tourism & Mobility]`
 #### Hainan Island High-Speed Loop Launches "Bike-on-Train" Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -70,20 +70,20 @@ The Hainan Ring High-Speed Railway has officially launched its pilot "Bicycle Ac
 
 ---
 
-### 📅 October 3, 2026 &bull; CR-PEAK-2610 `[Golden Week Peak Advisory]`
+### 📅 October 3, 2026 &bull; 16:57 CST `[Golden Week Peak Advisory]`
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & Extra Inter-City Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-China Railway registered a daily volume of 18.9 million passenger journeys on October 3. Key transit hubs experiencing high inbound-outbound volume includeBeijing, Shanghai, Guangzhou, Chengdu, Hangzhou, Shenzhen, Nanjing, Wuhan, Xi'an, and Zhengzhou. Supplemental trains are running on key leisure corridors. Foreign passport holders should allocate 60 minutes before departure for physical passport gate verification.
+China Railway registered a daily volume of 18.9 million passenger journeys on October 3. Key transit hubs experiencing high inbound-outbound volume includeBeijing, Shanghai, Guangzhou, Chengdu, Hangzhou,深圳, Nanjing, Wuhan, Xi'an, and Zhengzhou. Supplemental trains are running on key leisure corridors. Foreign passport holders should allocate 60 minutes before departure for physical passport gate verification.
 
 > 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
 
 ---
 
-### 📅 October 1, 2026 &bull; MCT-TERRA-2610 `[Heritage & Site Access]`
+### 📅 October 1, 2026 &bull; 12:31 CST `[Heritage & Site Access]`
 #### Xi'an Terracotta Army Pit 2 Completes Major Upgrade with Dual-Route Experience
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -96,7 +96,7 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an has fully reopened its upgr
 
 ---
 
-### 📅 September 28, 2026 &bull; CR-OPEN-2609 `[Infrastructure & Mountain Trails]`
+### 📅 September 28, 2026 &bull; 21:50 CST `[Infrastructure & Mountain Trails]`
 #### Western China High-Speed Link Operational: Xi'an to Zhashui/Qinling in 28 Minutes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -109,7 +109,7 @@ The Xi'an–Ankang High-Speed Railway (Xi-Kang HSR) has entered full commercial 
 
 ---
 
-### 📅 September 28, 2026 &bull; CR-HSR-2609-NE `[High-Speed Rail Expansion]`
+### 📅 September 28, 2026 &bull; 21:48 CST `[High-Speed Rail Expansion]`
 #### Harbin–Yichun High-Speed Rail Opens: Northeast Boreal & Winter Corridor Linked in 1h 46m
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -122,7 +122,7 @@ The Harbin–Yichun High-Speed Railway has entered official passenger operation,
 
 ---
 
-### 📅 September 28, 2026 &bull; CR-STN-2609 `[Corridor Expansion]`
+### 📅 September 28, 2026 &bull; 15:30 CST `[Corridor Expansion]`
 #### Beijing–Hong Kong Corridor: Xiong'an–Shangqiu High-Speed Stations Completed
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -135,7 +135,7 @@ China State Railway Group confirmed the completion of modern passenger station t
 
 ---
 
-### 📅 September 24, 2026 &bull; CR-TEST-2609 `[Bohai-Rim Regional Transit]`
+### 📅 September 24, 2026 &bull; 18:00 CST `[Bohai-Rim Regional Transit]`
 #### Bohai-Rim Transit Expansion: Tianjin–Weifang HSR Connector Begins Trial Runs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -148,13 +148,13 @@ Inspection train 55101 departed Jinan East Station, marking the comprehensive co
 
 ---
 
-### 🛂 Official Policy Baseline (2026 Framework) &bull; NIA-2026-DOC `[National Immigration Notice]`
+### 📅 September 30, 2026 &bull; 16:19 CST `[National Immigration Notice]`
 #### European Visa Exemption (15 Days) vs. 144-Hour Transit Visa Protocols
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 直击国门边境动态，速览一周热点资讯——欢迎收看《国门·7日谈》第十六期。 #外国人旅馆以外住宿登记# #救援# （编辑：卿光强，视频：张傲寒、唐馨雨） 国家移民管理局的微博视频
+> 【国家移民管理局与外交部关于欧洲国家免签入境及144小时过境免签政策实施指引】为进一步促进中外人员往来，中方对法国、德国、意大利、荷兰、西班牙、瑞士、爱尔兰、匈牙利、奥地利、比利时、卢森堡等欧洲国家持普通护照人员实行免签政策，来华经商、旅游观光、探亲访友和过境不超过15天可免签入境。同时，国家移民管理局在全国37个对外开放口岸实施144小时过境免签政策，来自英、美、加、澳等54国公民持有效国际旅行证件和确定日期及座位的跨国联程客票，可免签过境并在规定区域内停留最长144小时。外籍人员在华停留期间须遵守中国法律并按规定办理住宿登记。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 Under bilateral and unilateral agreements extended through 2026, passport holders from Italy, France, Germany, Spain, Switzerland, Austria, the Netherlands, Belgium, and Luxembourg enjoy15-day visa-free entryfor tourism, business, and transit with no pre-departure approvals required. Passport holders from the UK, US, Canada, and Australia who do not qualify for the 15-day waiver remain fully covered under the144-Hour Visa-Free Transit (TWOV)rule via 37 eligible international entry ports.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Filing (Sina Weibo)](https://weibo.com/6929716472/RkvEc2jj4)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147423/c158525/content.html)

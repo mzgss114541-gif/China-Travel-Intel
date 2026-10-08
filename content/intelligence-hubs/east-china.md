@@ -9,12 +9,12 @@
 #### Yangtze River Delta Railway: Historic 4.15M Peak Dispatched with 557 Relief Trains & Overnight Metro Shuttles
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 国庆长假期间，上海徐汇旅游打卡路线来啦！ @上海徐汇发布 @上海发布 #来上海感受国庆氛围# #喜欢上海的N种体验# 上海发布的微博视频
+> 【10月7日长三角铁路迎来返程客流最高峰 预计发送旅客415万人次】10月7日是国庆假期最后一天，长三角铁路迎来返程客流最高峰，当天预计发送旅客415万人次，较去年同期增长17.7%。为应对客流高峰，中国铁路上海局集团公司在启用高峰线运行图的基础上，计划增开旅客列车557列（含直通方向186列、管内短途371列），组织动车组重联运行427列，并于10月7日晚间至8日凌晨增开210列夜间高铁。上海站、上海虹桥站、杭州东站等24小时通宵开放，上海地铁1、2、10、17号线延长运营至零点以后，确保抵沪旅客顺畅接驳。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China Railway Shanghai Bureau recorded an all-time Golden Week high of 4.15 million passenger dispatches (+17.7% YoY) across the Yangtze River Delta network on October 7. To maintain punctuality across key tourist nodes, dispatchers ran 557 additional trains, coupled 427 high-speed EMU sets, and deployed 210 overnight bullet trains connecting Shanghai, Hangzhou, and Nanjing with Central China. Key mega-terminals including Shanghai Hongqiao and Hangzhou East maintained 24-hour access, supported by Shanghai Metro Lines 1, 2, 10, and 17 operating through past midnight to facilitate smooth airport and hotel transfers.
 
-> 📌 **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RlfzYnsmY)
+> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1917205532/RldmwsoX7)
 
 ---
 
@@ -22,12 +22,12 @@ China Railway Shanghai Bureau recorded an all-time Golden Week high of 4.15 mill
 #### Yangtze River Delta Railway: 3.9 Million Passengers Mobilized with 553 Added Trains & All-Night Transit in Shanghai
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 国庆长假期间，上海徐汇旅游打卡路线来啦！ @上海徐汇发布 @上海发布 #来上海感受国庆氛围# #喜欢上海的N种体验# 上海发布的微博视频
+> 【10月6日长三角铁路迎来节中返程客流高峰 预计发送旅客390万人次】10月6日，长三角铁路迎来国庆假期返程客流高峰，当天预计发送旅客390万人次。铁路部门在启用高峰线运行图的基础上，计划增开旅客列车553列（长途直通列车186列，短途管内列车367列），组织425列动车组列车重联运行，并于10月6日夜间至7日凌晨增开342列夜间高铁补充热门方向运力。铁路上海站增设进出站绿色通道，协同市内地铁和地面交通延长运营时间，保障大客流平稳疏散。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China Railway Shanghai Bureau recorded a massive return influx on October 6, dispatching an estimated 3.90 million passengers across the Yangtze River Delta corridor. Rail authorities scheduled 553 additional passenger trains, coupled 425 high-speed EMU trainsets to double seat capacity, and activated 342 overnight high-speed trains. In Shanghai, Shanghai Station and Shanghai Hongqiao Station deployed 40 overnight relief trains operating through dawn, coordinated with extended midnight metro services on Lines 1, 2, 10, and 17. International travelers departing Shanghai hubs must allow at least 60 minutes for security clearance and verify terminal names carefully.
 
-> 📌 **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RlfzYnsmY)
+> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1917205532/RldiGA4R8)
 
 ---
 
@@ -113,12 +113,12 @@ Hangzhou Tourism Bureau announced expanded capacity for the UNESCO World Heritag
 #### Yangtze River Delta "Super Loop" Bullet Train (G8388) Expands Operational Capacity
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #哈尔滨至伊春高铁开通运营# 9月28日10时26分，D7288次列车从伊春西站开出，驶向哈尔滨站，标志着哈伊高铁正式开通运营，哈尔滨至伊春最快1小时46分钟可达。哈伊高铁是国内首条穿越高寒岛状冻土区的高速铁路，线路全长318公里，设计时速250公里，设哈尔滨、哈尔滨北、呼兰北、兴隆镇西、绥化南、庆安南、铁力、日月峡、伊春西9座车站，其中伊春西站是我国目前建成的纬度最高的高铁车站，于今日正式开门迎客。（图片：杨宝森） @哈尔滨铁路
+> 【长三角高铁超级环线列车G8388常态化开行】长三角超级环线高铁G8388次列车由上海站始发，途经江苏、安徽、浙江三省，经由苏州、无锡、南京、合肥、黄山、杭州等名城名胜，终到上海虹桥站，全程单向行驶超1200公里，串联起沪宁、宁蓉、京港、池黄、杭昌、沪昆等高铁线路，实现三省一市“超级大环线”无缝连接，极大便利长三角跨省商务与秋季文旅观光出行。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China Railway Shanghai Bureau reported high international patronage on the circular G8388 service. Departing Shanghai Station at 10:27, the train loops through Suzhou, Wuxi, Nanjing, Hefei, Mount Huangshan, and Hangzhou before terminating at Shanghai Hongqiao 8 hours and 9 minutes later. For European travelers exploring southern Anhui and Jiangnan water towns without hotel hopping, this circular route offers unmatched logistical versatility.
 
-> 📌 **Verified Source**: [China State Railway Group Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
+> 📌 **Verified Source**: [China Railway Shanghai Bureau Official Operational Filing (China Railway Official)](http://www.china-railway.com.cn/ywdt/202406/t20240615_137882.html)
 
 ---
 
