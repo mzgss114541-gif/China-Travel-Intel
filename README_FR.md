@@ -88,7 +88,8 @@ China-Travel-Intel/
 
 ---
 
-## 📄 Licence & Attribution
+## 📄 Licence, Attribution et Mention d'Informations Publiques
 
-Les dépêches et avis de voyage sont partagés librement à des fins informatives.  
-L'identité visuelle, les logos et marques sont sous copyright &copy; [YouTu Travel](https://yoututravel.com). Tous droits réservés.
+* **Informations publiques et droits d'auteur** : L'ensemble des dépêches de renseignement de voyage, alertes de transport et extraits d'annonces officielles figurant dans ce dépôt est collecté et structuré à partir **d'informations publiques librement accessibles sur Internet** (notamment les portails gouvernementaux officiels chinois, China State Railway Group, l'Aviation Civile, les bureaux provinciaux et municipaux de la culture et du tourisme, et leurs communiqués officiels vérifiés). Les droits d'auteur afférents aux textes d'origine demeurent la propriété exclusive de leurs organismes émetteurs respectifs. Ces extraits sont compilés à titre d'usage loyal (fair use) exclusivement pour la vérification linguistique, l'orientation pratique et la planification d'itinéraires des voyageurs internationaux.
+* **Consultation ouverte** : Les synthèses et journaux de dépêches sont mis à disposition pour la référence des voyageurs.
+* **Actifs de marque** : L'identité de marque, les logos et marques commerciales sont sous copyright &copy; [YouTu Travel](https://yoututravel.com). Tous droits réservés.

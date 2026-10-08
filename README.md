@@ -88,7 +88,8 @@ China-Travel-Intel/
 
 ---
 
-## 📄 License & Attribution
+## 📄 License, Attribution & Public Information Notice
 
-Travel updates are curated and shared openly for traveler reference.  
-Brand identity, logos, and trademarks are copyright &copy; [YouTu Travel](https://yoututravel.com). All rights reserved.
+* **Public Information & Copyright Disclaimer**: All travel intelligence dispatches, transport bulletins, and official notice excerpts in this repository are gathered and compiled from **publicly available information across the Internet** (including official portals of Chinese government agencies, China State Railway Group, the Civil Aviation Administration, provincial/municipal cultural and tourism departments, and verified official media releases). Original announcement copyrights remain with their respective issuing authorities and rights holders. These excerpts are compiled and presented under fair use solely for international travelers' linguistic verification, informational assistance, and journey planning.
+* **Open Traveler Reference**: Curated briefings and dispatch logs are shared openly for traveler guidance.
+* **Brand Assets**: Brand identity, logos, and trademarks are copyright &copy; [YouTu Travel](https://yoututravel.com). All rights reserved.
