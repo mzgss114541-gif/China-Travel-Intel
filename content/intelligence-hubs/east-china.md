@@ -44,32 +44,6 @@ China Railway Shanghai Bureau recorded a massive return influx on October 6, dis
 
 ---
 
-### 📅 October 5, 2026 &bull; 13:00 CST `[Scenic Wetland & Mountain Sunrise]`
-#### Poyang Lake & Mount Lu: Autumn Sunrise Panorama Witnessed Over Expansive Waterway Basin
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 含鄱岭与主峰汉阳峰之间豁开一道大口，正对鄱阳湖。天未亮时风是凉的，湖面是一片沉沉的灰蓝。渐渐地，东边云底泛起一丝极淡的橘，像有人在天边划了一根火柴。那橘色慢慢洇开，变成粉，变成金红，云层一层一层被点亮，山脊线也跟着亮起来——像远处有人一排一排地点灯。然后一轮红日从湖面方向缓缓托出，整个鄱阳湖接住了这片光：天上是火，水里也是火。图源:九江文旅
-
-**🇬🇧 Actionable Travel Intel**:  
-Jiangxi Provincial Cultural Tourism authorities featured the autumn sunrise phenomenon overlooking Poyang Lake from the Hanpoling ridge on Mount Lu. In the early morning hours, radiant dawn colors illuminate the lake basin and surrounding mountain ridges, creating a breathtaking visual spectacle where atmospheric morning light mirrors across hundreds of square kilometers of open water. International landscape photographers visiting Mount Lu should position at Hanpoling prior to dawn for optimal vantage points.
-
-> 📌 **Verified Source**: [Jiangxi Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2001717811/RldUr6iSw)
-
----
-
-### 📅 October 5, 2026 &bull; 13:15 CST `[Urban Heritage & Architecture]`
-#### Shanghai Culture Bureau: Curated Autumn Architectural Circuit in Historic Xuhui District
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 国庆长假期间，上海徐汇旅游打卡路线来啦！ @上海徐汇发布 @上海发布 #来上海感受国庆氛围# #喜欢上海的N种体验# 上海发布的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-Shanghai Municipal Bureau of Culture and Tourism published its definitive autumn architectural walking itinerary through the historic former French Concession and Hengshan-Fuxing Conservation Zone. The circuit links iconic Art Deco villas, tree-lined plane avenues, and bespoke private tea ateliers, offering discerning travelers an authentic cultural walk away from congested commercial districts.
-
-> 📌 **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RlfzYnsmY)
-
----
-
 ### 📅 October 4, 2026 &bull; 14:15 CST `[Cultural Exhibition Notice]`
 #### Shanghai Forbidden City Treasures Exhibition: Final 3-Day Countdown
 
@@ -93,32 +67,6 @@ Shanghai Tourism confirmed that the major exhibition "Imperial Colors: Qing Dyna
 The Mount Huangshan Management Committee announced its official autumn operational schedule. While global visitors aged 18 and below qualify for ticket fee waivers through late autumn, strict real-name passport quota reservations remain in effect. Daily admissions are capped at 30,000 visitors across morning and afternoon entry windows. Walk-up ticket sales at the mountain base are strictly prohibited once quotas are reached; foreign travelers must secure passport bookings at least 5 days in advance.
 
 > 📌 **Verified Source**: [Mount Huangshan Scenic Area Administration (Sina Weibo)](https://weibo.com/2092477712/Rjflh0GhE)
-
----
-
-### 📅 October 3, 2026 &bull; 10:00 CST `[Urban Heritage & Safety]`
-#### Shanghai Bund: Extended Evening Illumination & Waterfront Crowd Management
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【 #上海外滩亮灯瞬间哇声一片# 】10月2日晚，上海外滩人头攒动，众多游客早早守候在江边，等待万国建筑群景观照明亮灯。晚上6点，灯光骤然点亮，璀璨夜景瞬间绽放，现场“哇声一片”。人群中，不少家长将孩子“举高高”以便观看，一位萌娃兴奋点赞：“好漂亮！”欢声笑语中，游客们纷纷举起手机记录下这美好一刻。 #上海外滩实行单向通行波次放行# （看看新闻） 看看新闻Knews的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-Shanghai Municipal authorities confirmed the seasonal lighting schedule for the historic Bund architecture and Lujiazui skyline, active nightly from 18:00 to 22:30. East Nanjing Road and the main promenade implement unidirectional pedestrian routing during peak hours (19:00–21:00) with dedicated police escorts ensuring smooth flow. Private tours with YouTu Travel utilize dedicated drop-off corridors avoiding pedestrian gridlock.
-
-> 📌 **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RkZ9ahAX2)
-
----
-
-### 📅 October 1, 2026 &bull; 11:00 CST `[Canal Waterways & Culture]`
-#### Hangzhou: West Lake & Grand Canal Autumn Waterway Heritage Excursions
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #乐活杭州##人间天堂 最忆杭州##秋游杭州 渐入佳境# 便利入境，惠游杭城！AI Hangzhou轻松游，国庆赴一场江南之约网页链接 [图片][图片][图片][图片]
-
-**🇬🇧 Actionable Travel Intel**:  
-Hangzhou Tourism Bureau announced expanded capacity for the UNESCO World Heritage Beijing-Hangzhou Grand Canal water bus route and West Lake electric heritage sculling boats. Autumn visitors can view the blooming sweet osmanthus across Manjuelong hills and explore the ancient Gongchen Bridge district. Foreign passport holders can book water transit passes via bilingual self-service terminals at Wulin Gate Wharf.
-
-> 📌 **Verified Source**: [Hangzhou Municipal Bureau of Culture, Radio, TV and Tourism (Sina Weibo)](https://weibo.com/1789342195/RkDnwpHP7)
 
 ---
 

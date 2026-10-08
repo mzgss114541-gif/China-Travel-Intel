@@ -5,19 +5,6 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 17:48 CST `[Northeast Autumn Phenology & Alpine Scenic Corridor]`
-#### Changbaishan & Northeast Alpine Corridor: Prime Autumn Foliage Window Opens Across Jilin Mountain Forests
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #金色吉林秋醉山河# 吉林此刻正是山河慷慨馈赠的时节。山林层林尽染，秋意抵达巅峰。如果你愿意踏上旅途，大地会将积攒一整年的斑斓色彩尽数奉上，邀你赴一场盛大的秋日之约。蛟河红叶谷，红叶长廊色彩浓烈；辉南四方顶子登高远眺，万山铺锦；泛舟于抚松露水河，彩林相伴一路前行；步入敦化寒葱岭，仿佛闯入童话秘境；临江溪谷草原如世外桃源治愈每一个游人；靖宇四海龙湾玛珥湖，一汪澄澈湖水被无边无际的五花山色包裹……#严肃进入喝大水时代#
-
-**🇬🇧 Actionable Travel Intel**:  
-Jilin Provincial Culture and Tourism Department announced that autumn foliage has reached its pinnacle across the Changbaishan ecological zone and surrounding northeastern highlands. Key scenic areas—including the Jiaohe Red Leaf Valley, Huinan Sifangdingzi panoramic ridge, Fusong Lushui River waterway, and Dunhua Hancongling forest corridor—are displaying peak coloration. International landscape travelers and photographers exploring Changbaishan should target the mid-October window before seasonal cold fronts arrive, with regional transit routes and forest park access fully open.
-
-> 📌 **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlJEcEBOb)
-
----
-
 ### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
 #### Beijing Rail Terminals (Beijing South & Beijing Station): Return Peak Protocol Activated with 100% Egress Channels Open
 
@@ -31,19 +18,6 @@ China Railway Beijing Bureau activated full return rush protocols on October 7 a
 
 ---
 
-### 📅 October 6, 2026 &bull; 11:30 CST `[Imperial Monument Cultural Heritage]`
-#### The Palace Museum (Forbidden City): Classical Aesthetics & Curatorial Heritage Guide for Peak Autumn Visits
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【在故宫看见中国美学】书有六义，画有六法。气韵生动，骨法用笔，随类赋彩……笔意流转间，体例、构图、色彩、气韵皆有所悟。先贤归纳的美学理论，继往开来，终成典范。在故宫，看见法度恢弘的中国美学。
-
-**🇬🇧 Actionable Travel Intel**:  
-The Palace Museum (Forbidden City) published a curatorial appreciation guide highlighting classical Chinese compositional and aesthetic philosophies ('Qi Yun Sheng Dong' - rhythmic vitality). Discerning inbound travelers walking the central imperial axis are encouraged to observe how the architectural sequence from the Meridian Gate to the Hall of Supreme Harmony embodies the timeless order and proportional balance of Ming and Qing imperial design. Advance passport reservations remain mandatory through the official digital portal.
-
-> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/1655363172/RlojOBjea)
-
----
-
 ### 📅 October 5, 2026 &bull; 09:42 CST `[Extreme Weather & Alpine Closure]`
 #### Changbai Mountain: North & South Scenic Zones Suspended All Day Following Blizzard Warning
 
@@ -54,19 +28,6 @@ The Palace Museum (Forbidden City) published a curatorial appreciation guide hig
 The Changbaishan Scenic Area Administrative Committee and Jilin Provincial Tourism Department issued an emergency closure order for both the North and South scenic zones on October 5. Changbaishan Meteorological Observatory posted yellow warnings for heavy blizzard conditions and severe gales, causing dangerous road icing across Tianchi crater pass roads. All pre-purchased tickets are being automatically refunded online. International guests in the Changbai region are advised to transition to lower-elevation geothermal hot spring wellness experiences in Erdaobaihe.
 
 > 📌 **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlebHaqs0)
-
----
-
-### 📅 October 5, 2026 &bull; 08:00 CST `[Imperial Heritage & Aesthetics]`
-#### Palace Museum Curatorial Insight: The "Five Cardinal Colors" Governing Forbidden City Architecture
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #在故宫看见中国美学# 五色交织，五行相生。青、赤、黄、白、黑，既是传统色彩体系的核心，也是古人对万物运行的想象。在故宫，看见缤纷有秩的中国美学。 [图片]...
-
-**🇬🇧 Actionable Travel Intel**:  
-The Palace Museum (Forbidden City) published an in-depth curatorial analysis detailing the classical "Five Colors and Five Elements" aesthetic code (Qing, Chi, Huang, Bai, Hei) in Ming and Qing imperial design. Explaining how imperial yellow roof tiles reflect earth sovereignty while vermilion walls embody cosmic Yang vitality, the research piece offers cultural connoisseurs a rare philosophical perspective for private guided walks through the Hall of Supreme Harmony.
-
-> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/1655363172/RleTk26GI)
 
 ---
 
@@ -93,45 +54,6 @@ China Railway Beijing Bureau added a 340-square-meter pre-security waiting area 
 The Palace Museum enforces strict real-name passport reservation limits for all international visitors. On-site ticket booths do not sell walk-in admission tickets. Daily quotas are released precisely 7 days in advance at 20:00 Beijing time and sell out within minutes for peak autumn dates. Foreign travelers must present original physical passports at the Meridian Gate (South Gate) staff-assisted manual verification counters. The museum remains closed every Monday for artifact conservation.
 
 > 📌 **Verified Source**: [The Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
-
----
-
-### 📅 October 3, 2026 &bull; 11:00 CST `[Frontier Heritage & Foliage]`
-#### Great Wall Frontiers: Mutianyu & Jinshanling Autumn Foliage vs Badaling Crowds
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #京城秋日漫游录# 【 #慕田峪长城红叶漫山好美# 】慕田峪长城盘亘层峦，金晖漫染群峰，红叶铺遍山野，城垣蜿蜒。登临其上，仿若触摸千年山河。 #我的祖国这么美# （ @北京卫视 ） 北京卫视的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-Beijing Municipal Bureau of Culture & Tourism issued its autumn foliage bulletin. From mid-October through early November, smoketree and maple leaves turn brilliant crimson across the mountain ridges. Mutianyu offers premier infrastructure with enclosed cable cars and toboggans alongside manageable crowds. Jinshanling, located 130 km northeast along the Hebei frontier, preserves un-restored Ming battlements and provides the ultimate photography trekking route, avoiding Badaling's heavy mass-market bus congestion.
-
-> 📌 **Verified Source**: [Beijing Municipal Bureau of Culture & Tourism Autumn Advisory (Sina Weibo)](https://weibo.com/1936009361/RkY0od5KZ)
-
----
-
-### 📅 September 28, 2026 &bull; 10:30 CST `[High-Speed Rail Hubs]`
-#### North China Rail Terminals: Beijing Station Navigation & Regional Connections
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #京铁微视角# #铁路国庆假期运输# 国铁北京局北京站、北京西站、北京南站依托京铁爱心服务品牌，为老、幼、病、残、孕等重点旅客提供暖心帮扶，确保重点旅客出行无忧。
-
-**🇬🇧 Actionable Travel Intel**:  
-China State Railway Group published departure operational guides for the capital's major rail hubs. Beijing South serves Shanghai (4h 18m), Nanjing, Hangzhou, and the 30-minute Tianjin Intercity. Beijing West serves Xi'an (4h 15m), Wuhan, and direct bullet trains to Hong Kong West Kowloon (8h 18m). Beijing North and Qinghe connect to the automated Olympic line toward Datong and Zhangjiakou. International travelers navigate departures seamlessly using the Railway 12306 English app and manual staff passport check-in lanes.
-
-> 📌 **Verified Source**: [China Railway Beijing Bureau Transport Bulletin (Sina Weibo)](https://weibo.com/1916657595/Rldy73sxl)
-
----
-
-### 📅 September 26, 2026 &bull; 14:00 CST `[Ancient Architecture & Grottos]`
-#### Shanxi Ancient Architecture & Datong Yungang Grottoes Route Guide
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 这个国庆，把"山西"加入清单！五条线路，纵览山河 #五千年文明看山西# #华夏古文明 山西好风光# 网页链接
-
-**🇬🇧 Actionable Travel Intel**:  
-Shanxi Provincial Department of Culture & Tourism released visiting guidelines for its historic treasures. Preserving over 70% of China's surviving pre-Ming wooden architecture, Shanxi is easily accessible via high-speed trains from Beijing. Datong's UNESCO Yungang Grottoes feature over 51,000 Buddhist statues dating from the 5th century (just 1h 55m from Beijing). The 6th-century Hanging Monastery on Mount Hengshan and the 1056 AD Yingxian Wooden Pagoda offer world-class cultural overland excursions.
-
-> 📌 **Verified Source**: [Shanxi Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061857813/Rkmz4AQZM)
 
 ---
 

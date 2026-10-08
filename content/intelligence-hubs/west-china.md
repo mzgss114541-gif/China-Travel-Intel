@@ -184,16 +184,3 @@ Train G9997 departed Xi'an East Station, marking the official commercial opening
 Jiuzhaigou Administrative Bureau confirmed peak season operations continue through November 15 (Entrance fee 190 RMB, Eco-transit bus 90 RMB; single-day validity). The park operates on a strict Y-shaped valley system: internal eco-buses are dispatched centrally from the valley entrance directly to the highest viewpoints (Long Lake on the left branch or Primeval Forest on the right branch), allowing visitors to hike downward along elevated wooden boardwalks without backtracking. Pre-booking 7–14 days in advance is strictly advised during autumn foliage peaks.
 
 > 📌 **Verified Source**: [Jiuzhaigou National Park Administration Official Notice (Sina Weibo)](https://weibo.com/1803921393/RkvTYmoTW)
-
----
-
-### 📅 September 28, 2026 &bull; 11:00 CST `[Sichuan Overland Link]`
-#### Northern Sichuan Scenic Link: Micang Avenue Cuts Nuoshuihe–Guangwushan Transit to 1 Hour
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #一起追秋到四川# 米仓大道通车试运营，从诺水河景区到光雾山景区由4小时缩短至1个小时！ #国庆就和朋友一起来四川# （来源： @巴中日报 ） 巴中日报的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-The scenic Micang Avenue expressway in northeastern Sichuan has entered trial operation, drastically slashing driving time between Nuoshui River Scenic Area and Guangwushan National Park (famed for China's largest red-leaf autumn forest) from 4 hours down to1 hour. This newly opened corridor establishes a seamless overland driving route connecting northern Sichuan and southern Shaanxi.
-
-> 📌 **Verified Source**: [Sina Weibo Sichuan Cultural Tourism (Sichuan Provincial Department of Culture & Tourism Verified)](https://weibo.com/1780853205/RkWCRj2gF)
