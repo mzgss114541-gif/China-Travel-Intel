@@ -45,10 +45,10 @@ Tutti i dispacci di viaggio e le circolari ufficiali sono centralizzati in **ing
 
 ## ⏱️ Standard editoriale & Frequenza degli aggiornamenti
 
-Per garantire la massima accuratezza ed eliminare qualsiasi allucinazione informativa per i viaggiatori internazionali, questo desk opera secondo un **rigido standard editoriale con costante supervisione umana (Human-in-the-Loop)**:
+Per massimizzare l'affidabilità operativa e prevenire allucinazioni informative per i viaggiatori internazionali, questo desk opera secondo un'**architettura automatizzata regolata da rigidi prompt e controllo editoriale**:
 
 * **Aggiornamenti su base oraria durante le finestre di monitoraggio attivo**: Durante i periodi operativi espressamente comunicati dalla redazione (es. picchi di traffico per festività nazionali, allerte meteo severe o improvvise variazioni nelle politiche di transito), i dispacci vengono monitorati, verificati e pubblicati con **cadenza oraria**.
-* **Nessuna automazione non presidiata**: Vietiamo categoricamente la pubblicazione massiva automatizzata tramite IA o l'uso di scraper non controllati. Ogni singola notizia viene verificata e confrontata con i registri ufficiali primari (Amministrazione Nazionale dell'Immigrazione, China Railway 12306, autorità provinciali dei trasporti) prima della pubblicazione da parte di specialisti del settore.
+* **Automazione guidata da prompt e verifica delle fonti (Dichiarazione)**: Il processo di raccolta e sintesi si basa principalmente su flussi automatizzati vincolati da rigorose istruzioni di sistema anti-allucinazione. Sebbene l'autore esamini e verifichi i comunicati ufficiali in lingua cinese confrontandoli con i canali primari (Amministrazione Nazionale dell'Immigrazione, China Railway 12306, dipartimenti provinciali dei trasporti), non è possibile garantire un'infallibilità o accuratezza assoluta al 100%. Poiché normative, orari e controlli locali variano costantemente, tutti i bollettini hanno valore puramente informativo; i viaggiatori sono tenuti a verificare le informazioni critiche direttamente con il personale e le autorità competenti in loco.
 * **Qualità prima del volume (Tolleranza zero per contenuti superflui)**: Al di fuori delle finestre di monitoraggio comunicate o in assenza di criticità per i trasporti, il canale rimane volutamente silenzioso. **Privilegiamo il silenzio fattuale al rumore algoritmico**: ogni bollettino pubblicato garantisce informazioni autentiche, verificate e ad alto valore pratico.
 
 ---

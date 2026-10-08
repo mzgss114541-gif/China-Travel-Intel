@@ -45,10 +45,10 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 
 ## ⏱️ Editorial Standard & Dispatch Cadence
 
-To guarantee absolute factual accuracy and eliminate hallucinations for international travelers, this intelligence desk operates strictly under a **Human-in-the-Loop Curation Standard**:
+To maximize operational reliability and curb hallucinations for international travelers, this intelligence desk operates under an **Automated Architecture with Strict Prompt Guardrails and Curator Audits**:
 
 * **Hourly Cadence During Active Surveillance**: During operational windows designated and announced by the curator (such as peak holiday transit rushes, adverse weather warnings, or sudden border transit policy updates), dispatches are monitored, verified, and published on an **hourly cadence**.
-* **Zero Unattended Automation**: We strictly prohibit unattended automated AI publishing or unvetted robotic scrapers. Every single dispatch is personally investigated, corroborated against authoritative primary registries (e.g., National Immigration Administration, China Railway 12306, provincial transport bureaus), and vetted by human travel specialists before release.
+* **Prompt-Constrained Automation & Source Verification (Disclaimer)**: The curation workflow relies primarily on automated ingestion pipelines governed by strict, anti-hallucination prompt constraints. While the author inspects and cross-verifies the raw Chinese announcements against primary authority links (e.g., National Immigration Administration, China Railway 12306, provincial transport bureaus), 100% accuracy or real-time infallibility cannot be legally guaranteed. Transit regulations, weather conditions, and ticket quotas change dynamically—travelers must exercise independent judgment and verify critical travel plans with official frontline personnel.
 * **Zero-Fluff Commitment (Quality Over Volume)**: Outside announced surveillance windows or when no high-impact travel disruptions occur, this feed remains intentionally quiet. **We prioritize factual silence over automated noise**—ensuring that every bulletin published represents verified, high-signal, actionable intelligence rather than algorithmic filler.
 
 ---
