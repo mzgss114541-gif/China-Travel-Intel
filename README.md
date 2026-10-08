@@ -36,6 +36,9 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 | **South China** | Guangdong (Guangzhou, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [View Updates](content/intelligence-hubs/south-china.md) |
 | **North China** | Beijing (Forbidden City, Great Wall), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [View Updates](content/intelligence-hubs/north-china.md) |
 
+> 📱 **Traveling On-Site in China? (Show-to-Staff Verification)**  
+> If you encounter language barriers at high-speed railway gates, boarding checkpoints, customs inspection channels, or scenic landmark entries, click into any regional dispatch log above to view the raw official Chinese announcements (`🇨🇳 官方通告原文`). You can display these primary source notices directly on your mobile screen to train conductors, station masters, or staff members for instant on-site verification and assistance.
+
 ---
 
 ## ⏱️ Editorial Standard & Dispatch Cadence
