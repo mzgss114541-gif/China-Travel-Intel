@@ -44,7 +44,7 @@ China Railway Beijing Bureau added a 340-square-meter pre-security waiting area 
 
 ---
 
-### 📅 October 3, 2026 &bull; 09:00 CST `[Imperial Monument Quotas]`
+### 📅 September 30, 2026 &bull; 16:10 CST `[Imperial Monument Quotas]`
 #### Forbidden City: 7-Day Real-Name Booking Rules & Meridian Gate Verification
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -57,7 +57,7 @@ The Palace Museum enforces strict real-name passport reservation limits for all 
 
 ---
 
-### 📅 September 26, 2026 &bull; 16:00 CST `[Immigration & Transit Perimeter]`
+### 📅 August 20, 2026 &bull; 10:00 CST `[Immigration & Transit Perimeter]`
 #### 144-Hour Transit Visa: Beijing-Tianjin-Hebei Unified Travel Perimeter
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -66,4 +66,4 @@ The Palace Museum enforces strict real-name passport reservation limits for all 
 **🇬🇧 Actionable Travel Intel**:  
 The National Immigration Administration confirmed operational parameters for the 144-hour visa-free transit scheme across Northern China. Eligible international passport holders entering through Beijing Capital (PEK), Beijing Daxing (PKX), Tianjin Binhai (TSN), Tianjin Cruise Port, or Shijiazhuang (SJW) enjoy unrestricted movement across the entire Beijing-Tianjin-Hebei region. This permits excursions to the Jinshanling Great Wall and Chengde Imperial Mountain Resort, though travel beyond the tri-provincial boundary into Shanxi requires a standard visa.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147423/c158525/content.html)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147463/c183412/content.html)

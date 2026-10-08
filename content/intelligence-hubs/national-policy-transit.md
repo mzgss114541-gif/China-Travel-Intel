@@ -18,7 +18,7 @@ China State Railway Group (12306) announced the official commencement of 500-met
 
 ---
 
-### 📅 October 7, 2026 &bull; 09:15 CST `[National Transit Record & Golden Week Surge]`
+### 📅 October 8, 2026 &bull; 08:31 CST `[National Transit Record & Golden Week Surge]`
 #### China State Railway Group: All-Time Record 24.15M Single-Day Passengers & 2.14B Golden Week Journeys Logged
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -31,7 +31,7 @@ China State Railway Group (12306) and transport authorities recorded the pinnacl
 
 ---
 
-### 📅 October 6, 2026 &bull; 09:30 CST `[National Transport Network & Transit Surge]`
+### 📅 October 5, 2026 &bull; 20:52 CST `[National Transport Network & Transit Surge]`
 #### Ministry of Transport: National Golden Week Surge Mobilizes 300M+ Inter-Regional Journeys & Emergency Rail Capacity
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -70,19 +70,6 @@ For travelers who misplace passports, luggage, or digital devices on high-speed 
 
 ---
 
-### 📅 October 3, 2026 &bull; 16:21 CST `[Outdoor Tourism & Mobility]`
-#### Hainan Island High-Speed Loop Launches "Bike-on-Train" Service
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 自2026年9月20日起，海南环岛高铁试点“自行车随身行”服务。旅客通过铁路12306App线上完成预约付费后，可按规定携带自行车同车出行，实现“高铁＋骑行”无缝衔接，开启说走就走的户外旅行。 @广州铁路 中国铁路的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-The Hainan Ring High-Speed Railway has officially launched its pilot "Bicycle Accompanied Travel" program. European independent cycling groups and outdoor travelers can now reserve carriage space for fully assembled touring bicycles via the Railway 12306 English app, connecting tropical coastal routes with high-speed mobility without requiring bike teardown.
-
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
-
----
-
 ### 📅 October 3, 2026 &bull; 16:57 CST `[Golden Week Peak Advisory]`
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & Extra Inter-City Trains
 
@@ -93,6 +80,19 @@ The Hainan Ring High-Speed Railway has officially launched its pilot "Bicycle Ac
 China Railway registered a daily volume of 18.9 million passenger journeys on October 3. Key transit hubs experiencing high inbound-outbound volume includeBeijing, Shanghai, Guangzhou, Chengdu, Hangzhou,深圳, Nanjing, Wuhan, Xi'an, and Zhengzhou. Supplemental trains are running on key leisure corridors. Foreign passport holders should allocate 60 minutes before departure for physical passport gate verification.
 
 > 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
+
+---
+
+### 📅 October 3, 2026 &bull; 16:21 CST `[Outdoor Tourism & Mobility]`
+#### Hainan Island High-Speed Loop Launches "Bike-on-Train" Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 自2026年9月20日起，海南环岛高铁试点“自行车随身行”服务。旅客通过铁路12306App线上完成预约付费后，可按规定携带自行车同车出行，实现“高铁＋骑行”无缝衔接，开启说走就走的户外旅行。 @广州铁路 中国铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The Hainan Ring High-Speed Railway has officially launched its pilot "Bicycle Accompanied Travel" program. European independent cycling groups and outdoor travelers can now reserve carriage space for fully assembled touring bicycles via the Railway 12306 English app, connecting tropical coastal routes with high-speed mobility without requiring bike teardown.
+
+> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
 
 ---
 
@@ -109,7 +109,7 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an has fully reopened its upgr
 
 ---
 
-### 📅 September 28, 2026 &bull; 21:50 CST `[Infrastructure & Mountain Trails]`
+### 📅 September 28, 2026 &bull; 21:49 CST `[Infrastructure & Mountain Trails]`
 #### Western China High-Speed Link Operational: Xi'an to Zhashui/Qinling in 28 Minutes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -135,7 +135,7 @@ The Harbin–Yichun High-Speed Railway has entered official passenger operation,
 
 ---
 
-### 📅 September 28, 2026 &bull; 15:30 CST `[Corridor Expansion]`
+### 📅 September 28, 2026 &bull; 15:29 CST `[Corridor Expansion]`
 #### Beijing–Hong Kong Corridor: Xiong'an–Shangqiu High-Speed Stations Completed
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -148,7 +148,7 @@ China State Railway Group confirmed the completion of modern passenger station t
 
 ---
 
-### 📅 September 24, 2026 &bull; 18:00 CST `[Bohai-Rim Regional Transit]`
+### 📅 September 27, 2026 &bull; 18:00 CST `[Bohai-Rim Regional Transit]`
 #### Bohai-Rim Transit Expansion: Tianjin–Weifang HSR Connector Begins Trial Runs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -161,7 +161,7 @@ Inspection train 55101 departed Jinan East Station, marking the comprehensive co
 
 ---
 
-### 📅 September 30, 2026 &bull; 16:19 CST `[National Immigration Notice]`
+### 📅 August 20, 2026 &bull; 10:00 CST `[National Immigration Notice]`
 #### European Visa Exemption (15 Days) vs. 144-Hour Transit Visa Protocols
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -170,4 +170,4 @@ Inspection train 55101 departed Jinan East Station, marking the comprehensive co
 **🇬🇧 Actionable Travel Intel**:  
 Under bilateral and unilateral agreements extended through 2026, passport holders from Italy, France, Germany, Spain, Switzerland, Austria, the Netherlands, Belgium, and Luxembourg enjoy15-day visa-free entryfor tourism, business, and transit with no pre-departure approvals required. Passport holders from the UK, US, Canada, and Australia who do not qualify for the 15-day waiver remain fully covered under the144-Hour Visa-Free Transit (TWOV)rule via 37 eligible international entry ports.
 
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147423/c158525/content.html)
+> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147463/c183412/content.html)

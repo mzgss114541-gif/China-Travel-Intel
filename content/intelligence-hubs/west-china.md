@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 18:30 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
+### 📅 October 8, 2026 &bull; 18:12 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
 #### Tibet Tourism Bureau & Medog Scenic Security: Backcountry Areas and Galongla Tianchi Route Prohibited
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -18,7 +18,7 @@ Tibet Autonomous Region Culture & Tourism authorities reissued an alpine safety 
 
 ---
 
-### 📅 October 7, 2026 &bull; 10:30 CST `[Southwestern Trunk Hub & Highland Mobility]`
+### 📅 October 7, 2026 &bull; 08:43 CST `[Southwestern Trunk Hub & Highland Mobility]`
 #### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs & China-Laos Transit
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -31,7 +31,7 @@ China Railway Kunming Bureau mobilized maximum network capacity across the South
 
 ---
 
-### 📅 October 6, 2026 &bull; 17:00 CST `[Highland Rail Corridor Weather Alert]`
+### 📅 October 6, 2026 &bull; 16:59 CST `[Highland Rail Corridor Weather Alert]`
 #### Chengdu Railway Bureau: Heavy Rain Safety Controls Imposed Across Chengdu-Kunming Rail Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -41,19 +41,6 @@ China Railway Kunming Bureau mobilized maximum network capacity across the South
 China Railway Chengdu Bureau (Southwest Railway) issued an urgent operational advisory regarding heavy rainfall across southwestern Sichuan and the Panxi region on October 7 and 8. Speed restrictions and dynamic route adjustments are active along sectors of the Chengdu-Kunming and New Chengdu-Kunming rail lines due to localized precipitation exceeding safety thresholds. Inbound travelers journeying across Western Sichuan and Yunnan rail corridors should verify live train schedules via Railway 12306.
 
 > 📌 **Verified Source**: [China Railway Chengdu Bureau (Southwest Railway Weibo)](https://weibo.com/1919955065/RlqtzhGav)
-
----
-
-### 📅 October 5, 2026 &bull; 13:30 CST `[Heritage Quota Alert]`
-#### Terracotta Warriors Museum: 100% Admission Quota Fully Exhausted for October 5
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #秦始皇帝陵博物院# #约会博物馆# 【10月5日门票已售罄。请观众提前规划行程安排，错峰出行[话筒]】
-
-**🇬🇧 Actionable Travel Intel**:  
-Emperor Qinshihuang's Mausoleum Site Museum in Xi'an confirmed that all admission ticket quotas for October 5 were completely sold out across both morning and afternoon booking windows. Non-ticketed visitors were turned away at the Lintong entrance plazas. International guests planning heritage tours in Shaanxi must pre-book guaranteed VIP entry permits at least 7 to 10 days in advance via certified destination specialists, or redirect to the newly opened Shaanxi History Museum Qinhan Branch.
-
-> 📌 **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
 
 ---
 
@@ -70,7 +57,7 @@ China Railway Urumqi Bureau deployed 16 additional "Hexie" CRH high-speed train 
 
 ---
 
-### 📅 October 5, 2026 &bull; 11:45 CST `[Overland Passage Advisory]`
+### 📅 October 5, 2026 &bull; 12:40 CST `[Overland Passage Advisory]`
 #### Tibet G317 Highway: Road Controls Imposed on Nyima-Gerze Sector Due to Highland Freezing
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -80,6 +67,19 @@ China Railway Urumqi Bureau deployed 16 additional "Hexie" CRH high-speed train 
 Tibet Cultural Tourism and Transportation authorities announced active traffic controls along National Highway G317 between Nyima and Gerze on the Northern Northern Plateau route. With night temperatures dropping below zero, high-pass sections are experiencing icy asphalt. Overland 4WD expeditions crossing towards western Ali/Ngari are advised to journey during peak daylight hours and ensure tire snow chains are mounted.
 
 > 📌 **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
+
+---
+
+### 📅 October 5, 2026 &bull; 10:05 CST `[Heritage Quota Alert]`
+#### Terracotta Warriors Museum: 100% Admission Quota Fully Exhausted for October 5
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #秦始皇帝陵博物院# #约会博物馆# 【10月5日门票已售罄。请观众提前规划行程安排，错峰出行[话筒]】
+
+**🇬🇧 Actionable Travel Intel**:  
+Emperor Qinshihuang's Mausoleum Site Museum in Xi'an confirmed that all admission ticket quotas for October 5 were completely sold out across both morning and afternoon booking windows. Non-ticketed visitors were turned away at the Lintong entrance plazas. International guests planning heritage tours in Shaanxi must pre-book guaranteed VIP entry permits at least 7 to 10 days in advance via certified destination specialists, or redirect to the newly opened Shaanxi History Museum Qinhan Branch.
+
+> 📌 **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
 
 ---
 
@@ -96,20 +96,7 @@ Mount Emei Scenic Area officially confirmed that all admission tickets and sight
 
 ---
 
-### 📅 October 4, 2026 &bull; 08:00 CST `[Overland Corridor Advisory]`
-#### Duku Highway (G217): Final 4-Day Window Before Winter Closure on October 7
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月3日独库日报】 早上好，今天是独库公路开通第125天。 距离2026年独库公路全线封闭倒计时4天！ 截至10月3日21时，独库公路全线运行畅通有序，累计交通量2.24万辆。 今日正常停车。 ◉独库公路部分路段解除交通管制 ⚠️10月3日，独库公路奎屯中心路段天气多云，奎屯公路事业发展中心已完成管养路段G217线K587—K671段道路巡查工作，公路养护部门已将影响行车安全的路面病害及碎落处理完毕，交管部门已于10月3日8时解除交通管制，道路恢复正常通行。 ⚠️10月3日12时00分，G217线K694-K772（乔尔玛交叉路口至那拉提公安检查站）路段，因天气好转，解除该路段双向交通管制，正常通行。 ◉独库公路违法通行将按照相关法律法规进行罚款记分 ⚠️7月10日起，公安机关交通管理部门对独库公路北段管控路段开展专项严查，针对未预约通行、超出预约时段通行、未按指定入口驶入的违法车辆，依法处罚： 1. 罚款处罚：依据《中华人民共和国道路交通安全法》第三十九条、第九十条，《新疆维吾尔自治区实施〈中华人民共和国道路交通安全法〉办法》第七十九条第九项规定，处以200元罚款； 2. 记分处罚：依据《道路交通安全违法行为记分管理办法》规定，对驾驶人一次记1分。 ◉独库公路北段三个入口实行预约通行制度 ⚠️6月25日起，独库公路北段三个入口实行预约通行制度。G217线独库公路北段，即K587+100（乌苏驿）至K773（G217线与G218线交会处-那拉提入口）路段，总长约185公里，采取预约制通行管理。从乌苏驿、乔尔玛、那拉提三个入口进入的社会车辆，需在网上预约成功后方可驶入。 ◉独库公路“昼保通行、夜保施工”的通行保障措施 一、G217乌苏驿至库如力每日8:00-19:00通行，7座及以下小型客车、核载质量5吨及以下货车等社会车辆均可通行，其中G217库如力至那拉提入口根据每日实际交通流量、天气变化等情况，弹性调整封闭时间至21:00。 二、为确保通行安全，坚决杜绝施工车辆与社会车辆混行，那拉提至乌苏驿入口、乔尔玛至G217入口19:00后社会车辆不得进入。 三、限行车辆可从G3012线库车至和静段、G218线和静段，或G30线奎屯至清水河段、G3016线清水河至伊宁段绕行。 #金秋游新疆正当时# #金秋新疆美如画# #到秋天的新疆走一走#
-
-**🇬🇧 Actionable Travel Intel**:  
-Xinjiang tourism authorities confirmed that the scenic Duku Highway will officially enter its seasonal winter shutdown at 24:00 on October 7 due to sub-zero alpine conditions and snow accumulation across the Tianshan mountain passes. Vehicle access will be completely suspended; overland road-trippers must complete traverses before midnight Oct 7 or reroute via the G218 corridor.
-
-> 📌 **Verified Source**: [Xinjiang Department of Culture and Tourism (Sina Weibo)](https://weibo.com/2479930984/Rl461tvSs)
-
----
-
-### 📅 October 4, 2026 &bull; 12:30 CST `[Railway Capacity Deployment]`
+### 📅 October 4, 2026 &bull; 12:34 CST `[Railway Capacity Deployment]`
 #### Xinjiang Railway Deploys 340+ Additional Trains for Return Peak (Ili, Kashgar, Turpan)
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -122,7 +109,7 @@ Xinjiang Railway has deployed over 340 extra train runs connecting Urumqi with I
 
 ---
 
-### 📅 October 4, 2026 &bull; 16:00 CST `[Crowd & Transit Advisory]`
+### 📅 October 4, 2026 &bull; 12:11 CST `[Crowd & Transit Advisory]`
 #### Mount Hua Cableway Delays (120 Mins) & Mount Zhongnan (Nanwutai) Ticketing Halt
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -135,7 +122,20 @@ Mount Hua reported West Peak Cableway descent wait times reaching 80–120 minut
 
 ---
 
-### 📅 October 3, 2026 &bull; 15:00 CST `[Heritage Quota & Peak Alert]`
+### 📅 October 4, 2026 &bull; 08:01 CST `[Overland Corridor Advisory]`
+#### Duku Highway (G217): Final 4-Day Window Before Winter Closure on October 7
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【10月3日独库日报】 早上好，今天是独库公路开通第125天。 距离2026年独库公路全线封闭倒计时4天！ 截至10月3日21时，独库公路全线运行畅通有序，累计交通量2.24万辆。 今日正常停车。 ◉独库公路部分路段解除交通管制 ⚠️10月3日，独库公路奎屯中心路段天气多云，奎屯公路事业发展中心已完成管养路段G217线K587—K671段道路巡查工作，公路养护部门已将影响行车安全的路面病害及碎落处理完毕，交管部门已于10月3日8时解除交通管制，道路恢复正常通行。 ⚠️10月3日12时00分，G217线K694-K772（乔尔玛交叉路口至那拉提公安检查站）路段，因天气好转，解除该路段双向交通管制，正常通行。 ◉独库公路违法通行将按照相关法律法规进行罚款记分 ⚠️7月10日起，公安机关交通管理部门对独库公路北段管控路段开展专项严查，针对未预约通行、超出预约时段通行、未按指定入口驶入的违法车辆，依法处罚： 1. 罚款处罚：依据《中华人民共和国道路交通安全法》第三十九条、第九十条，《新疆维吾尔自治区实施〈中华人民共和国道路交通安全法〉办法》第七十九条第九项规定，处以200元罚款； 2. 记分处罚：依据《道路交通安全违法行为记分管理办法》规定，对驾驶人一次记1分。 ◉独库公路北段三个入口实行预约通行制度 ⚠️6月25日起，独库公路北段三个入口实行预约通行制度。G217线独库公路北段，即K587+100（乌苏驿）至K773（G217线与G218线交会处-那拉提入口）路段，总长约185公里，采取预约制通行管理。从乌苏驿、乔尔玛、那拉提三个入口进入的社会车辆，需在网上预约成功后方可驶入。 ◉独库公路“昼保通行、夜保施工”的通行保障措施 一、G217乌苏驿至库如力每日8:00-19:00通行，7座及以下小型客车、核载质量5吨及以下货车等社会车辆均可通行，其中G217库如力至那拉提入口根据每日实际交通流量、天气变化等情况，弹性调整封闭时间至21:00。 二、为确保通行安全，坚决杜绝施工车辆与社会车辆混行，那拉提至乌苏驿入口、乔尔玛至G217入口19:00后社会车辆不得进入。 三、限行车辆可从G3012线库车至和静段、G218线和静段，或G30线奎屯至清水河段、G3016线清水河至伊宁段绕行。 #金秋游新疆正当时# #金秋新疆美如画# #到秋天的新疆走一走#
+
+**🇬🇧 Actionable Travel Intel**:  
+Xinjiang tourism authorities confirmed that the scenic Duku Highway will officially enter its seasonal winter shutdown at 24:00 on October 7 due to sub-zero alpine conditions and snow accumulation across the Tianshan mountain passes. Vehicle access will be completely suspended; overland road-trippers must complete traverses before midnight Oct 7 or reroute via the G218 corridor.
+
+> 📌 **Verified Source**: [Xinjiang Department of Culture and Tourism (Sina Weibo)](https://weibo.com/2479930984/Rl461tvSs)
+
+---
+
+### 📅 October 3, 2026 &bull; 22:27 CST `[Heritage Quota & Peak Alert]`
 #### Xi'an Terracotta Warriors: High-Season Ticket Exhaustion & Passport Quota Warning
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -148,7 +148,7 @@ The Emperor Qinshihuang's Mausoleum Site Museum issued an urgent capacity adviso
 
 ---
 
-### 📅 October 1, 2026 &bull; 10:00 CST `[Archaeology & Museum Relaunch]`
+### 📅 October 1, 2026 &bull; 12:31 CST `[Archaeology & Museum Relaunch]`
 #### Terracotta Warriors Pit 2 Reopens with Dual North/South Scholarly and XR Circuits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -161,20 +161,7 @@ Following a multi-year systematic curation overhaul, Pit 2 of the Terracotta Arm
 
 ---
 
-### 📅 September 28, 2026 &bull; 09:30 CST `[Mountain Rail & Hiking]`
-#### Xi'an–Ankang High-Speed Line Operational: Xi'an to Qinling Nature Trails in 28 Min
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #西渝高铁西安至安康段开通运营# 9月28日9时16分，G9997次复兴号智能动车组列车从西安东站驶出。随着西渝高铁西安至安康段开通运营，柞水、镇安、安康等县市同步迈入高铁时代。至此，以西安为枢纽，贯通东西、辐射南北的陕西高铁主骨架基本形成，西部铁路“留白”正在加速填补。 @西铁资讯
-
-**🇬🇧 Actionable Travel Intel**:  
-Train G9997 departed Xi'an East Station, marking the official commercial opening of the Xi'an–Ankang High-Speed Railway (Xi-Kang HSR). Travel time from central Xi'an to Zhashui Station deep within the Qinling Mountains is cut to just28 minutes(previously over 2 hours via mountain highway), unlocking direct eco-hiking access to ancient Qinling mountain passes, traditional karst caves, and southern Shaanxi villages.
-
-> 📌 **Verified Source**: [China State Railway Group Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
-
----
-
-### 📅 September 28, 2026 &bull; 08:30 CST `[National Park Entry & Shuttles]`
+### 📅 September 30, 2026 &bull; 16:58 CST `[National Park Entry & Shuttles]`
 #### Jiuzhaigou National Park Peak Season Entry Protocols & Automated Eco-Shuttle Dispatch
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -184,3 +171,16 @@ Train G9997 departed Xi'an East Station, marking the official commercial opening
 Jiuzhaigou Administrative Bureau confirmed peak season operations continue through November 15 (Entrance fee 190 RMB, Eco-transit bus 90 RMB; single-day validity). The park operates on a strict Y-shaped valley system: internal eco-buses are dispatched centrally from the valley entrance directly to the highest viewpoints (Long Lake on the left branch or Primeval Forest on the right branch), allowing visitors to hike downward along elevated wooden boardwalks without backtracking. Pre-booking 7–14 days in advance is strictly advised during autumn foliage peaks.
 
 > 📌 **Verified Source**: [Jiuzhaigou National Park Administration Official Notice (Sina Weibo)](https://weibo.com/1803921393/RkvTYmoTW)
+
+---
+
+### 📅 September 28, 2026 &bull; 21:49 CST `[Mountain Rail & Hiking]`
+#### Xi'an–Ankang High-Speed Line Operational: Xi'an to Qinling Nature Trails in 28 Min
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #西渝高铁西安至安康段开通运营# 9月28日9时16分，G9997次复兴号智能动车组列车从西安东站驶出。随着西渝高铁西安至安康段开通运营，柞水、镇安、安康等县市同步迈入高铁时代。至此，以西安为枢纽，贯通东西、辐射南北的陕西高铁主骨架基本形成，西部铁路“留白”正在加速填补。 @西铁资讯
+
+**🇬🇧 Actionable Travel Intel**:  
+Train G9997 departed Xi'an East Station, marking the official commercial opening of the Xi'an–Ankang High-Speed Railway (Xi-Kang HSR). Travel time from central Xi'an to Zhashui Station deep within the Qinling Mountains is cut to just28 minutes(previously over 2 hours via mountain highway), unlocking direct eco-hiking access to ancient Qinling mountain passes, traditional karst caves, and southern Shaanxi villages.
+
+> 📌 **Verified Source**: [China State Railway Group Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
