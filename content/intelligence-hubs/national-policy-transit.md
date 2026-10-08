@@ -83,45 +83,6 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 
 ---
 
-### 📅 October 3, 2026 &bull; 16:21 CST `[Outdoor Tourism & Mobility]`
-#### Hainan Island High-Speed Loop Launches Pilot "Bike-on-Train" Service
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 自2026年9月20日起，海南环岛高铁试点“自行车随身行”服务。旅客通过铁路12306App线上完成预约付费后，可按规定携带自行车同车出行，实现“高铁＋骑行”无缝衔接，开启说走就走的户外旅行。 @广州铁路 中国铁路的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel" service starting September 20, 2026. Passengers can complete reservations and payments via the Railway 12306 app to travel with their bicycles on the same train according to regulations, facilitating direct integration of high-speed rail and outdoor cycling travel.
-
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
-
----
-
-### 📅 October 1, 2026 &bull; 12:31 CST `[Heritage & Site Access]`
-#### Xi'an Terracotta Army Pit Two Completes Major Upgrade with Dual-Route Experience
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #文化西安# #千年古都 常来长安# 【 #秦兵马俑二号坑焕新迎客# 今起全面开放】记者了解到，秦始皇帝陵博物院二号兵马俑坑部分展陈提升工作全面完成，展厅经过系统性改陈优化，将于2026年10月1日起全面开放。此前提升改造期间，二号坑仍对游客开放。国庆假期，兵马俑历来是热门参观地，全新升级的二号坑展厅也将迎接观众。 #秦兵马俑二号坑展陈提升完成# 从军阵细节读懂大秦文明 二号兵马俑坑自1994年10月14日正式对公众开放以来，始终是研究秦代军事制度、军阵体系、工艺科技与时代精神的核心遗址现场。30余年来，围绕二号坑的考古发掘、文物保护、综合研究等持续推进、成果丰硕，为本次展陈升级奠定了扎实的学术基础。 相关专家介绍，近年来，随着社会公众文化素养、审美能力与参观需求不断提升，传统展陈内容、展示形式与服务体系已难以适配新时代文博传播需要；同时，现代博物馆展示理念、数字展示技术与叙事手法持续迭代，为遗址价值的深度阐释提供了全新路径。此前，秦始皇帝陵博物院已相继完成K9901（百戏俑坑）、K0006（文官俑坑）、铜车马博物馆、兵马俑三号坑的展陈提升改造，持续优化遗址展示体系、完善公共服务功能。 此次展示全面增加了1994年以来的考古、保护与科研成果，尤其是近几年多学科融合下科技考古与保护的成果。该博物院工作人员表示，展示内容结合展厅空间格局与二号坑军阵编列特征，通过分组叙事、分层解读，整体设置“二号坑的考古历程”“二号坑的建筑结构”“二号坑军阵的编列”“弓弩步兵方阵”“战车方阵”“战车、步兵、骑兵混合方阵”“骑兵方阵”“秦兵马俑坑出土的典型陶俑”“秦兵马俑坑出土的建筑构件和工具”等内容，立足遗址本体、延伸历史维度、升华文明内涵，形成多层次阐释体系。以“组”为叙事单元，不仅契合遗址布局特征，也把参观自由度还给观众，让观众在任何参观路线和参观点，都能浏览到一组或几组完整信息。 展示形式上，展览坚持以遗址保护与阐释为核心，动静结合、虚实互补，构建多维立体化阐释场景。记者了解到，展览通过静态图文展板系统梳理学术脉络和遗址内涵，依托动态多媒体屏解读关键知识点，结合XR场景复原、遗址坑内动态光影投影演示，将抽象军阵编列、考古研究、遗址保护成果可视化、场景化，让静态遗址可看、可感、可读、可悟。 作为三座兵马俑坑中展示空间最大的遗址展厅，二号坑展厅以军阵体系为切入点，辐射阐释整个兵马俑军阵的设计思想、时代背景与精神内核，系统揭示秦兵马俑承载的大一统格局、制度与秩序以及开拓进取的民族精神。 南北两线参观 快看慢看都行 本次展陈提升还同步优化了参观动线、硬件设施与服务功能。该博物院工作人员介绍，展览结合展厅空间特点与观众参观习惯，科学划分南北参观流线：北区打造深度参观流线，侧重学术阐释、文物细节与科研成果展示，适合深度研学与专业观展需求；南区设置快速参观流线，优化灯箱布设与多媒体点位，结合遗址实况、军阵特点进行轻量化科普展示，满足大众快速观览、直观认知需求。 展厅还全面升级展示环境、安全防护体系、展陈硬件设备、专业照明系统与导览标识体系，优化公共休息空间，增设科普漫画、趣味解读等轻量化内容，兼顾展览学术性与公共性。 相关专家表示，本次二号兵马俑坑展陈提升，不仅是物理空间与展陈设备的更新迭代，更是博物院在新时代文化传承视域下的文化传播创新与遗产利用模式升级。展览施工全程严格对标国家文物局大遗址保护利用相关要求，坚持理论研究与实践应用相结合、本体保护与公众展示相统一，探索大遗址本体保护、学术阐释、活化传播的标准化路径，着力打造全国大遗址保护展示与活化利用的国家范本。 全新升级的二号兵马俑坑展厅将长期对公众开放。（文/西安报业全媒体记者 张潇 图/通讯员 张天柱 西安报业全媒体记者 李明）via. @西安新闻网
-
-**🇬🇧 Actionable Travel Intel**:  
-Emperor Qinshihuang's Mausoleum Site Museum in Xi'an fully reopened the upgraded exhibition hall of Pit Two on October 1, 2026. The upgraded exhibition incorporates research findings from excavations since 1994 and establishes two designated visiting routes: a North Route focused on scholarly interpretation and artifact details, and a South Route featuring rapid viewing with multimedia displays and XR reconstructions.
-
-> 📌 **Verified Source**: [Sina Weibo Shaanxi Cultural Heritage Bureau & Xi'an Bureau of Culture & Tourism (Shaanxi Cultural Heritage / Xi'an Tourism)](https://weibo.com/2061858797/RkDA6303z)
-
----
-
-### 📅 September 28, 2026 &bull; 21:49 CST `[Infrastructure & Mountain Trails]`
-#### Western China High-Speed Link Operational: Xi'an–Ankang High-Speed Railway Opens
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #西渝高铁西安至安康段开通运营# 9月28日9时16分，G9997次复兴号智能动车组列车从西安东站驶出。随着西渝高铁西安至安康段开通运营，柞水、镇安、安康等县市同步迈入高铁时代。至此，以西安为枢纽，贯通东西、辐射南北的陕西高铁主骨架基本形成，西部铁路“留白”正在加速填补。 @西铁资讯
-
-**🇬🇧 Actionable Travel Intel**:  
-The Xi'an–Ankang section of the Xi'an–Chongqing High-Speed Railway officially entered commercial service on September 28. Train G9997 departed Xi'an East Station at 9:16, connecting Zhashui, Zhen'an, and Ankang into the high-speed rail framework radiating from Xi'an.
-
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
-
----
-
 ### 📅 September 28, 2026 &bull; 21:48 CST `[High-Speed Rail Expansion]`
 #### Harbin–Yichun High-Speed Rail Opens: Northeast Boreal Corridor Linked in 1h 46m
 
