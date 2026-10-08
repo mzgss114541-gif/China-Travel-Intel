@@ -38,6 +38,16 @@ Tous les bulletins de voyage et avis officiels sont centralisés en **anglais** 
 
 ---
 
+## ⏱️ Standard éditorial & Fréquence de mise à jour
+
+Afin de garantir une fiabilité absolue et d'éliminer toute hallucination pour les voyageurs internationaux, ce bureau d'information applique un **standard éditorial rigoureusement supervisé par des experts humains (Human-in-the-Loop)** :
+
+* **Mises à jour horaires lors des périodes de veille active** : Durant les créneaux opérationnels annoncés par notre rédaction (pics de flux des vacances nationales, alertes météorologiques sévères ou évolutions réglementaires frontalières soudaines), les dépêches sont vérifiées et publiées **toutes les heures**.
+* **Refus absolu de l'automatisation sans surveillance** : Nous interdisons expressément les robots d'aspiration automatisés non supervisés ou la génération d'intelligence artificielle sans contrôle humain. Chaque bulletin est minutieusement vérifié, recoupé auprès des registres primaires officiels (Administration Nationale de l'Immigration, China Railway 12306, autorités régionales des transports) et validé par un spécialiste du voyage avant publication.
+* **Exigence de qualité prioritaire (Zéro contenu de remplissage)** : En dehors des périodes de veille annoncées ou en l'absence de perturbation critique, le flux reste volontairement silencieux. **Nous privilégions le silence factuel au bruit algorithmique** : chaque alerte publiée apporte une valeur réelle, vérifiée et immédiatement exploitable.
+
+---
+
 ## 🏢 À propos de YouTu Travel
 
 Ce projet est maintenu par **[YouTu Travel](https://yoututravel.com)**, une agence boutique spécialisée dans la création d'itinéraires privés sur mesure et d'expériences de voyage authentiques en Chine pour les visiteurs internationaux.

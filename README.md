@@ -38,6 +38,16 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 
 ---
 
+## ⏱️ Editorial Standard & Dispatch Cadence
+
+To guarantee absolute factual accuracy and eliminate hallucinations for international travelers, this intelligence desk operates strictly under a **Human-in-the-Loop Curation Standard**:
+
+* **Hourly Cadence During Active Surveillance**: During operational windows designated and announced by the curator (such as peak holiday transit rushes, adverse weather warnings, or sudden border transit policy updates), dispatches are monitored, verified, and published on an **hourly cadence**.
+* **Zero Unattended Automation**: We strictly prohibit unattended automated AI publishing or unvetted robotic scrapers. Every single dispatch is personally investigated, corroborated against authoritative primary registries (e.g., National Immigration Administration, China Railway 12306, provincial transport bureaus), and vetted by human travel specialists before release.
+* **Zero-Fluff Commitment (Quality Over Volume)**: Outside announced surveillance windows or when no high-impact travel disruptions occur, this feed remains intentionally quiet. **We prioritize factual silence over automated noise**—ensuring that every bulletin published represents verified, high-signal, actionable intelligence rather than algorithmic filler.
+
+---
+
 ## 🏢 About YouTu Travel
 
 This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique specialist crafting bespoke private journeys and seamless travel experiences across China for international visitors.

@@ -38,6 +38,16 @@ Alle aktuellen Reiseberichte und offiziellen Hinweise werden auf **Englisch** ge
 
 ---
 
+## ⏱️ Redaktioneller Standard & Veröffentlichungsrhythmus
+
+Um absolute Zuverlässigkeit und fehlerfreie Informationen für internationale Reisende zu gewährleisten, arbeitet dieses Portal nach einem **strengen Human-in-the-Loop-Redaktionsprinzip**:
+
+* **Stündliche Aktualisierungen in aktiven Überwachungsphasen**: In den von unserer Redaktion angekündigten Beobachtungsfenstern (z. B. Feiertags-Rückreisewellen, unvorhersehbare Wetterwarnungen oder kurzfristige Änderungen von Visabestimmungen) erfolgen Meldungen im **stündlichen Rhythmus**.
+* **Keine unbeaufsichtigte Automatisierung**: Wir untersagen unbeaufsichtigte KI-Massenveröffentlichungen und unkontrollierte Web-Scraper strikt. Jede einzelne Meldung wird persönlich geprüft, mit offiziellen Primärquellen (Nationale Einwanderungsbehörde, China Railway 12306, regionale Verkehrsbehörden) abgeglichen und durch Reisespezialisten autorisiert.
+* **Qualität vor Quantität (Null-Füllstoff-Garantie)**: Außerhalb aktiver Überwachungsfenster oder bei normaler Verkehrslage bleibt dieser Feed bewusst ruhig. **Wir bevorzugen sachliche Stille gegenüber automatisiertem Datenrauschen** – jede veröffentlichte Mitteilung stellt verifizierte, handlungsrelevante Information dar.
+
+---
+
 ## 🏢 Über YouTu Travel
 
 Dieses Projekt wird von **[YouTu Travel](https://yoututravel.com)** betreut, einer spezialisierten Reiseagentur für maßgeschneiderte Privatreisen und erstklassige Reiseerlebnisse in China für internationale Gäste.
