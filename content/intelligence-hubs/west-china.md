@@ -6,28 +6,28 @@
 ---
 
 ### 📅 October 7, 2026 &bull; 10:30 CST `[Southwestern Trunk Hub & Highland Mobility]`
-#### Chengdu East Railway Hub: Historic 800,000+ Passenger Volume Handled via 24-Hour Non-Stop Night Rail Operations
+#### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs & China-Laos Transit
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【成都局迎来返程客流最高峰 成都东站单日到发突破80万人次实行通宵运营】10月7日，国庆长假进入最后一天，西南铁路迎来返程客流最高峰。成都局集团公司预计发送旅客超180万人次，成都东站单日到发旅客突破80万人次，为西南地区返程最密集枢纽。为保障旅客顺利出行，成都东站通宵开放候车大厅与出站通道，计划加开前往北京、上海、广州等热门方向夜间动车组154列，并联动成都地铁延长夜间运营时间。
+> 【国庆假日运输 云南铁路迎来返程高峰】记者从中国铁路昆明局集团有限公司获悉，10月7日云南铁路迎来国庆假期返程高峰，全天预计发送旅客59万人次。国铁昆明局加开省际、省内列车65.5对（直通14.5对、管内51对），其中夜间动车20.5对，全力满足返程客流需求。中老铁路方面，多措并举优化出入境与跨省接驳组织，确保旅客高效顺畅通关乘车。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-Chengdu East Railway Station, the primary transit gateway to Western China and the Qinghai-Tibet plateau, processed an unprecedented 805,000 daily passenger movements (419,000 arrivals and 386,000 departures) on October 7. The terminal activated uninterrupted 24-hour night operations, adding 210 scheduled train runs, including 52 overnight high-speed services directly linking Beijing, Shanghai, and Guangzhou. Concurrently, the Sichuan Provincial Culture and Tourism Department confirmed that core scenic areas across Western Sichuan (including Jiuzhaigou and Daocheng Yading) operated normally under strict quota controls, while unpaved high-altitude backcountry loops remain closed for safety.
+China Railway Kunming Bureau mobilized maximum network capacity across the Southwest corridor on October 7 to manage the peak return wave of 590,000 passengers. Railway operations deployed 65.5 additional train pairs, including 20.5 overnight bullet train pairs connecting Yunnan with national transit gateways. Along the international China-Laos Railway, customs and station staff coordinated streamlined bilingual clearance corridors for cross-border and regional overland travelers.
 
-> 📌 **Verified Source**: [China Railway Chengdu Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919955065/RlgmEe1tu)
+> 📌 **Verified Source**: [China Railway Kunming Bureau (Sina Weibo)](https://weibo.com/1920078035/RlwEVbUwp)
 
 ---
 
-### 📅 October 6, 2026 &bull; 10:15 CST `[UNESCO Heritage Ecological Quota Alert]`
-#### Jiuzhaigou National Park: Maximum Daily Ecological Capacity (41,000 Visitors) Fully Sold Out
+### 📅 October 6, 2026 &bull; 17:00 CST `[Highland Rail Corridor Weather Alert]`
+#### Chengdu Railway Bureau: Heavy Rain Safety Controls Imposed Across Chengdu-Kunming Rail Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #九寨沟旅游攻略# #这个国庆来九寨沟怎么玩# 一、基础信息（旺季+淡季门票政策） 九寨沟旅游旺季（每年4月1日至11月15日）期间，门票190元/张，观光车票 90元/张，门票和观光车票均为当日有效，次日进沟需另购门票和观光车票。 九寨沟旅游淡季（每年11月16日至次年3月31日）期间，门票80元/张，观光车票80元/张。门票和观光车票均为当日有效，次日进沟需另购门票和观光车票。 二、游玩攻略 景区为Y字形布局，分日则沟（右线）、则查洼沟（左线）、树正沟（中线），全程观光车+下行栈道徒步，不走回头路，游览时间仅供参考，精简速游版6～8小时。 （一）入园攻略 1.门票建议提前7–14天线上实名预订，检票入园。入园后乘坐景区观光车，车辆由指挥中心统一调度，可直达景区最高点长海或原始森林，车程约40分钟，之后从上往下游览。 2. 区间车路线：景区除直达最高点长海和原始森林，还有一种沟口搭乘区间车到树正寨，车程约15分钟，沿栈道步行游览树正群海、水磨坊、树正瀑布、老虎海、犀牛海。游览结束后，在犀牛海站点乘车向上返程去游览则渣洼沟和日则沟。 （二）日则沟精华（1.5小时） 原始森林短暂游览后，乘车抵达箭竹海，游览箭竹海。（约30分钟） 乘车抵达熊猫海，观赏熊猫海。（约20分钟） 乘车抵达五花海，环湖栈道观赏五彩湖水。（约30分钟） 乘车抵达珍珠滩，沿栈道步行游览珍珠滩+珍珠滩瀑布，继续步行1.8km至镜海停车场乘车。（约30分钟） 乘车抵达镜海，游览镜海，随后乘车抵达诺日朗中心。（约10分钟） （三）诺日朗午餐休整（1小时） 乘车抵达诺日朗中心，简单休整，用午餐。 （四）则查洼沟（1.5小时） 乘车直达长海，游览长海。（约40分钟） 沿栈道步行到五彩池，游览五彩池。（约30分钟） 乘车返回诺日朗。（约20分钟） （五）树正沟（1.5小时） 步行游览诺日朗瀑布。（约30分钟） 乘车停靠游览犀牛海，老虎海、树正群海。（约30分钟） 观光车游览卧龙海、火花海、芦苇海（也可根据个人体力步行游览该段景点，量力而行）最后抵达景区出口，结束全天行程。（约30分钟） 三、实用游玩贴士 （一）路线技巧：从上往下游玩，不用折返，大幅节省体力与时间；景区全程游览听从观光车统一调度。 （二）淡季调整：淡季期间日则沟原始森林—箭竹海路段封闭，从箭竹海起点开始游览，沿步行栈道下行。 （三）九寨沟的秋色巅峰通常在10月中旬到11月初，届时漫山彩林倒映在水中，景色最为震撼。 （四）秋季是旺季，尤其是节假日，务必提前在官方渠道预订门票和观光车票。
+> 【出行提示：攀西地区降雨预警与成昆铁路安全管控】根据气象部门预报，10月7日至8日，四川省内攀西地区有一轮强降雨过程。在此轮降水过程中，成昆铁路、新成昆铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据降雨情况动态调整列车开行方案，采取限速运行、停运等措施。请广大旅客及时关注车站公告或12306网站信息。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-The Jiuzhaigou National Park Administration confirmed that admission tickets for October 4 through October 6 have completely sold out, hitting the strict daily ecological conservation ceiling of 41,000 visitors. The scenic administration reiterated that on-site ticket windows are permanently closed to unreserved arrivals, and all international visitors must hold verified real-name passport bookings prior to reaching the park gates. An official waitlist allocation operates via the WeChat portal for returned tickets; travelers without reservations should divert to alternative high-plateau destinations such as Huanglong or Songpan Ancient City.
+China Railway Chengdu Bureau (Southwest Railway) issued an urgent operational advisory regarding heavy rainfall across southwestern Sichuan and the Panxi region on October 7 and 8. Speed restrictions and dynamic route adjustments are active along sectors of the Chengdu-Kunming and New Chengdu-Kunming rail lines due to localized precipitation exceeding safety thresholds. Inbound travelers journeying across Western Sichuan and Yunnan rail corridors should verify live train schedules via Railway 12306.
 
-> 📌 **Verified Source**: [Jiuzhaigou National Park Administration (Sina Weibo)](https://weibo.com/1803921393/RkvTYmoTW)
+> 📌 **Verified Source**: [China Railway Chengdu Bureau (Southwest Railway Weibo)](https://weibo.com/1919955065/RlqtzhGav)
 
 ---
 

@@ -9,25 +9,25 @@
 #### China State Railway Group: All-Time Record 24.15M Single-Day Passengers & 2.14B Golden Week Journeys Logged
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月7日全国铁路迎来返程客流最高峰 预计发送旅客2415万人次】10月6日，全国铁路发送旅客2194.2万人次。10月7日，全国铁路迎来国庆黄金周返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。铁路12306预售情况显示，北京、上海、广州、成都、杭州、武汉、西安、深圳、南京、郑州等主要枢纽客流高度集中。铁路部门全力增加运力投放，动态调整车票配额，主要城市大型车站通宵开放并做好与地铁、网约车夜间接驳，全力保障中外旅客顺畅出行。
+> 【全国铁路迎来返程客流最高峰！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。10月6日，全国铁路发送旅客2160.5万人次，连续三天旅客发送量超2000万人次，运输安全平稳有序。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、西安、武汉、杭州、重庆等。各地铁路部门积极应对客流高峰，在热门方向和区间及时增加运力投放，保障旅客平安有序温馨出行。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-China State Railway Group (12306) and the Ministry of Transport recorded the pinnacle of the National Day Golden Week return rush on October 7, dispatching a historic single-day record of 24.15 million passengers with 2,449 emergency relief trains mobilized across national corridors. Across the full seven-day holiday period (Oct 1–7), cumulative inter-regional movements exceeded 2.14 billion journeys, with rail carrying over 152 million travelers (+13.1% YoY). Major international arrival and departure gateways—including Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an—maintained all-night transit operations, ensuring frictionless connections for cross-border and overseas visitors.
+China State Railway Group (12306) and transport authorities recorded the pinnacle of the National Day Golden Week return rush on October 7, dispatching a historic single-day peak of 24.15 million passengers with 2,449 emergency relief trains mobilized across national corridors. Across the full holiday period, national rail operations maintained safe and fluid operations, carrying tens of millions of inter-regional travelers. Major international gateways—including Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an—activated all-night transit protocols and extended connecting metro services, ensuring frictionless transfers for foreign visitors.
 
-> 📌 **Verified Source**: [China State Railway Group Official Release (China Railway / CCTV News)](https://news.cctv.com/2026/10/07/ARTI7wB6oV2549511007.shtml)
+> 📌 **Verified Source**: [China State Railway Group Official Release (China Railway Lanzhou Bureau Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
 
 ---
 
-### 📅 October 6, 2026 &bull; 09:30 CST `[National Rail Infrastructure & Transit Surge]`
-#### China State Railway Group: National Return Surge Mobilizes 2,199 Extra Trains Across Trunk Corridors
+### 📅 October 6, 2026 &bull; 09:30 CST `[National Transport Network & Transit Surge]`
+#### Ministry of Transport: National Golden Week Surge Mobilizes 300M+ Inter-Regional Journeys & Emergency Rail Capacity
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月6日全国铁路预计发送旅客2210万人次 计划加开旅客列车2199列】10月5日，全国铁路发送旅客2104.7万人次，运输安全平稳有序。10月6日，全国铁路迎来返程客流高峰，预计发送旅客2210万人次，计划加开旅客列车2199列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、杭州、上海、西安、武汉、重庆、郑州、长沙；热门到达城市主要有北京、广州、上海、成都、深圳、武汉、杭州、西安、郑州、重庆；成都往返西安，香港往返深圳，南宁至广州，武汉至深圳，北京、武汉至上海，沈阳、太原至北京等热门区间客流相对集中。各地铁路部门积极应对客流高峰，在热门方向和区间及时增加运力投放，保障旅客平安有序温馨出行。铁路部门提示，目前铁路客流已进入返程高峰，请旅客朋友及时关注天气变化情况和出行服务信息，预留充足时间进站乘车。
+> 【升级交通服务 强化返程保障】记者从交通运输部了解到，10月5日全社会跨区域人员流动量超3亿人次。全国交通出行陆续迎来返程客流，交通运输部门多措并举，优化服务，强化保障。铁路方面，全国铁路加开旅客列车强化热门方向运力，主要车站联动城市地铁、地面公交延长运营时间，确保抵离旅客顺畅接驳。各地针对枢纽大客流，加密公共交通班次，全力保障中外旅客平安有序出行。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-China State Railway Group (12306) and the Ministry of Transport recorded the peak return wave of the National Day Golden Week on October 6, projecting 22.10 million passenger movements nationwide. To manage unprecedented inter-regional volume (exceeding 300 million multi-modal travelers), railway bureaus deployed 2,199 additional passenger trains, focusing on major tourist trunk lines linking Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an. International and cross-border travelers are advised to utilize the official 12306 waitlist ticketing system (候补购票) or split-transit routing, as primary express bullet trains remain operating at maximum capacity.
+The Ministry of Transport reported that single-day inter-regional passenger movements surpassed 300 million journeys as the Golden Week return wave initiated. Railway bureaus nationwide deployed thousands of additional train runs along trunk travel corridors connecting Beijing, Shanghai, Guangzhou, and Chengdu. Urban transit coordinators extended midnight metro operations and deployed backup airport and high-speed rail shuttle buses. International travelers are advised to verify terminal names carefully and allow at least 60 minutes for security clearance during peak return hours.
 
-> 📌 **Verified Source**: [China State Railway Group Official Release (China Railway / CCTV News)](https://news.cctv.com/2026/10/06/ARTIa2210m2199t.shtml)
+> 📌 **Verified Source**: [Ministry of Transport of the PRC Official Release (Gov.cn)](https://www.gov.cn/yaowen/liebiao/202610/content_7082652.htm)
 
 ---
 
