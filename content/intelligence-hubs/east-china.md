@@ -80,16 +80,3 @@ Suzhou Municipal Bureau of Culture released guidelines for the Humble Administra
 The Mount Huangshan Management Committee announced its official autumn operational schedule. While global visitors aged 18 and below qualify for ticket fee waivers through late autumn, strict real-name passport quota reservations remain in effect. Daily admissions are capped at 30,000 visitors across morning and afternoon entry windows. Walk-up ticket sales at the mountain base are strictly prohibited once quotas are reached; foreign travelers must secure passport bookings at least 5 days in advance.
 
 > 📌 **Verified Source**: [Mount Huangshan Scenic Area Administration (Sina Weibo)](https://weibo.com/2092477712/Rjflh0GhE)
-
----
-
-### 📅 June 15, 2024 &bull; 08:30 CST `[High-Speed Rail Corridor]`
-#### Yangtze River Delta "Super Loop" Bullet Train (G8388) Expands Operational Capacity
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【长三角高铁超级环线列车G8388常态化开行】长三角超级环线高铁G8388次列车由上海站始发，途经江苏、安徽、浙江三省，经由苏州、无锡、南京、合肥、黄山、杭州等名城名胜，终到上海虹桥站，全程单向行驶超1200公里，串联起沪宁、宁蓉、京港、池黄、杭昌、沪昆等高铁线路，实现三省一市“超级大环线”无缝连接，极大便利长三角跨省商务与秋季文旅观光出行。
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway Shanghai Bureau reported high international patronage on the circular G8388 service. Departing Shanghai Station at 10:27, the train loops through Suzhou, Wuxi, Nanjing, Hefei, Mount Huangshan, and Hangzhou before terminating at Shanghai Hongqiao 8 hours and 9 minutes later. For European travelers exploring southern Anhui and Jiangnan water towns without hotel hopping, this circular route offers unmatched logistical versatility.
-
-> 📌 **Verified Source**: [China Railway Shanghai Bureau Official Operational Filing (China Railway Official)](http://www.china-railway.com.cn/ywdt/202406/t20240615_137882.html)

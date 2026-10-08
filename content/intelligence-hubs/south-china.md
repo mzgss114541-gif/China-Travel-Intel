@@ -80,29 +80,3 @@ The Hainan Ring High-Speed Railway connecting Haikou with Sanya in 1 hour 35 min
 Guilin maritime and tourism authorities published updated navigational safety guidelines. Four-star luxury cruises from Zhujiang Pier to Yangshuo (4 to 4.5 hours) enforce no age limits and feature panoramic decks and buffet dining. Conversely, motorized and punting bamboo rafts on the Yulong River strictly prohibit children under 1.2 meters (under approx. 7 years) and adults aged 70 and above for safety reasons; senior travelers and young families are directed to standard cruise vessels.
 
 > 📌 **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
-
----
-
-### 📅 September 25, 2026 &bull; 14:00 CST `[Cross-Border Rail Corridor]`
-#### Guangzhou-Shenzhen-Hong Kong HSR: Co-Location Border Clearance Operations
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【广深港高铁香港西九龙站“一地两检”高效通关指引】广深港高铁全线实行“一地两检”通关模式。旅客在香港西九龙站内即可一次性顺序完成香港与内地两地出入境查验程序，跨境列车从西九龙至深圳福田最快仅需14分钟、至广州南最快47分钟。所有进出港旅客均须在西九龙站口岸完成实名制证件核验，外籍旅客持有效护照即可在人工核验通道便捷通关，无需在跨界途中二次下车排队查验。
-
-**🇬🇧 Actionable Travel Intel**:  
-Guangdong provincial transit authorities confirmed high operational efficiency on the Guangzhou-Shenzhen-Hong Kong Express Rail Link. Bullet trains run from Hong Kong West Kowloon to Shenzhen Futian in 14 minutes, Guangzhou South in 47 minutes, and direct services reach Guilin in 3 hours 15 minutes. All departure and arrival border checks occur in a single sequence inside West Kowloon Station via manual passport inspection counters.
-
-> 📌 **Verified Source**: [MTR High Speed Rail Official Portal (Co-Location Customs & Immigration Guide)](https://www.highspeed.mtr.com.hk/tc/mainland-travel/co-location-arrangement.html)
-
----
-
-### 📅 August 20, 2026 &bull; 10:00 CST `[Immigration & Visa Policy]`
-#### Hainan 30-Day Visa-Free Policy: Territorial Boundaries vs Mainland Entry Rules
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国家移民管理局关于扩大59国人员免签入境海南事由的公告】经国务院批准，国家移民管理局扩大59国人员免签入境海南事由，允许俄罗斯、英国、法国、德国、意大利、美国、加拿大、澳大利亚等59国人员因商贸、访问、探亲、医疗、会展、体育竞技等短期事由（工作、学习事由除外）免签入境海南省。免签入境人员活动范围为海南省行政区域，停留时间自入境次日零时起算不超过30天，须从海南省对外开放口岸免签入境。如因正当事由需离开海南省前往中国境内其他地区，必须在停留期限届满前向公安机关出入境管理机构申办签证证件。
-
-**🇬🇧 Actionable Travel Intel**:  
-The National Immigration Administration reiterated key operational parameters for the 59-nation 30-day Hainan visa-free scheme. European passport holders entering Hainan directly via Haikou or Sanya from international origins enjoy 30 days of seamless visa-free travel. However, this waiver strictly limits travel to Hainan Province; onward travel to mainland destinations like Guilin, Guangzhou, or Shanghai requires eligibility under China's separate 15-day national visa-free waiver or an ordinary Chinese visa.
-
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147463/c180637/content.html)
