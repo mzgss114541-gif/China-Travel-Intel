@@ -9,12 +9,12 @@
 #### Yangtze River Delta Railway: Historic 4.15M Peak Dispatched with 557 Relief Trains & Overnight Metro Shuttles
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月7日长三角铁路迎来返程客流最高峰 预计发送旅客415万人次】10月7日是国庆假期最后一天，长三角铁路迎来返程客流最高峰，当天预计发送旅客415万人次，较去年同期增长17.7%。为应对客流高峰，中国铁路上海局集团公司在启用高峰线运行图的基础上，计划增开旅客列车557列（含直通方向186列、管内短途371列），组织动车组重联运行427列，并于10月7日晚间至8日凌晨增开210列夜间高铁。上海站、上海虹桥站、杭州东站等24小时通宵开放，上海地铁1、2、10、17号线延长运营至零点以后，确保抵沪旅客顺畅接驳。
+> 【长三角铁路迎来返程客流最高峰 增开夜间高铁210列！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，上铁集团当天预计发送旅客415万人次，较去年同比增长17.7%。上铁集团在启用高峰线运行图的基础上，计划增开南昌、武汉、广州、郑州、临沂等方向旅客列车557列（其中直通旅客列车216列，管内旅客列车341列），组织427列动车组列车重联运行；同时，计划于10月7日晚间至10月8日凌晨增开夜间高铁列车210列，重点补充管内及直通热门方向运力，更好地满足旅客乘车出行需求。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 China Railway Shanghai Bureau recorded an all-time Golden Week high of 4.15 million passenger dispatches (+17.7% YoY) across the Yangtze River Delta network on October 7. To maintain punctuality across key tourist nodes, dispatchers ran 557 additional trains, coupled 427 high-speed EMU sets, and deployed 210 overnight bullet trains connecting Shanghai, Hangzhou, and Nanjing with Central China. Key mega-terminals including Shanghai Hongqiao and Hangzhou East maintained 24-hour access, supported by Shanghai Metro Lines 1, 2, 10, and 17 operating through past midnight to facilitate smooth airport and hotel transfers.
 
-> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1917205532/RldmwsoX7)
+> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
 
 ---
 
@@ -22,23 +22,23 @@ China Railway Shanghai Bureau recorded an all-time Golden Week high of 4.15 mill
 #### Yangtze River Delta Railway: 3.9 Million Passengers Mobilized with 553 Added Trains & All-Night Transit in Shanghai
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月6日长三角铁路迎来节中返程客流高峰 预计发送旅客390万人次】10月6日，长三角铁路迎来国庆假期返程客流高峰，当天预计发送旅客390万人次。铁路部门在启用高峰线运行图的基础上，计划增开旅客列车553列（长途直通列车186列，短途管内列车367列），组织425列动车组列车重联运行，并于10月6日夜间至7日凌晨增开342列夜间高铁补充热门方向运力。铁路上海站增设进出站绿色通道，协同市内地铁和地面交通延长运营时间，保障大客流平稳疏散。
+> 【长三角铁路迎来节中返程客流高峰！计划增开旅客列车553列】10月6日是国庆假期第六天，长三角铁路迎来节中返程客流高峰，当天预计发送旅客390万人次。午后起，上海、南京、杭州、合肥、宁波、南通、盐城、扬州多地火车站将迎节中返程集中客流。10月5日，上铁集团发送旅客384.1万人次。自9月23日中秋国庆假期运输启动以来，截至10月5日，长三角铁路累计发送旅客4483万人次，日均发送约344.8万人次。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-China Railway Shanghai Bureau recorded a massive return influx on October 6, dispatching an estimated 3.90 million passengers across the Yangtze River Delta corridor. Rail authorities scheduled 553 additional passenger trains, coupled 425 high-speed EMU trainsets to double seat capacity, and activated 342 overnight high-speed trains. In Shanghai, Shanghai Station and Shanghai Hongqiao Station deployed 40 overnight relief trains operating through dawn, coordinated with extended midnight metro services on Lines 1, 2, 10, and 17. International travelers departing Shanghai hubs must allow at least 60 minutes for security clearance and verify terminal names carefully.
+China Railway Shanghai Bureau recorded a massive return influx on October 6, dispatching an estimated 3.90 million passengers across the Yangtze River Delta corridor. Rail authorities scheduled 553 additional passenger trains, coupled high-speed EMU trainsets to double capacity, and reinforced trunk routes serving Shanghai, Nanjing, Hangzhou, and Hefei. In Shanghai, Shanghai Station and Shanghai Hongqiao Station coordinated with extended midnight metro services on Lines 1, 2, 10, and 17. International travelers departing Shanghai hubs must allow at least 60 minutes for security clearance and verify terminal names carefully.
 
-> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1917205532/RldiGA4R8)
+> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlqxDx2Bw)
 
 ---
 
-### 📅 October 5, 2026 &bull; 13:00 CST `[Seasonal Wetland Natural Wonder]`
-#### Poyang Lake: Endless "Green Grass Sea" Phenomenon Emerges for Autumn Season
+### 📅 October 5, 2026 &bull; 13:00 CST `[Scenic Wetland & Mountain Sunrise]`
+#### Poyang Lake & Mount Lu: Autumn Sunrise Panorama Witnessed Over Expansive Waterway Basin
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 含鄱岭与主峰汉阳峰之间豁开一道大口，正对鄱阳湖。天未亮时风是凉的，湖面是一片沉沉的灰蓝。渐渐地，东边云底泛起一丝极淡的橘，像有人在天边划了一根火柴。那橘色慢慢洇开，变成粉，变成金红，云层一层一层被点亮，山脊线也跟着亮起来——像远处有人一排一排地点灯。然后一轮红日从湖面方向缓缓托出，整个鄱阳湖接住了这片光：天上是火，水里也是火。图源:九江文旅
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-Jiangxi Provincial Cultural Tourism authorities reported the official emergence of Poyang Lake's seasonal "Grass Sea" at Duchang. As water levels recede in early autumn, hundreds of square kilometers of the exposed lakebed transform into an endless emerald carpet, creating an extraordinary panorama where wild wetland flora meets the first arrival flocks of migratory Siberian cranes.
+Jiangxi Provincial Cultural Tourism authorities featured the autumn sunrise phenomenon overlooking Poyang Lake from the Hanpoling ridge on Mount Lu. In the early morning hours, radiant dawn colors illuminate the lake basin and surrounding mountain ridges, creating a breathtaking visual spectacle where atmospheric morning light mirrors across hundreds of square kilometers of open water. International landscape photographers visiting Mount Lu should position at Hanpoling prior to dawn for optimal vantage points.
 
 > 📌 **Verified Source**: [Jiangxi Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2001717811/RldUr6iSw)
 

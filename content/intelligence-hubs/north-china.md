@@ -5,29 +5,29 @@
 
 ---
 
-### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Mobility & Alpine Operations]`
-#### Beijing Transit Hubs Process Nearly 1M Return Arrivals; Changbaishan Resumes Crater Lake Access
+### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
+#### Beijing Rail Terminals (Beijing South & Beijing Station): Return Peak Protocol Activated with 100% Egress Channels Open
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国铁北京局七大车站迎来返程客流峰值；长白山景区恢复全线开放】10月7日，国铁北京局迎来黄金周返程客流最高峰，北京站、北京西站、北京南站、北京丰台站等各大车站全天到达旅客近百万人次，各站区协调地铁延时运营并调集应急摆渡大巴保障通宵接驳。同日，吉林长白山气象预警降级，长白山北景区、西景区、南景区全面恢复正常开放，天池主峰观景通道恢复通行，景区执行分时段实名预约与动态安全管控。
+> 【国庆假期运输 返程客流持续攀升】近日，返程客流持续攀升，国铁北京局北京南站到达高峰时段开启全部出站通道，强化安全提示和引导帮扶，做好旅客返程保障；北京站划分一、二楼爱心候车专区，建立上下联动值守、就近对接服务机制，协同城市交通接驳确保大客流顺畅疏散。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-Beijing's primary rail terminals (Beijing South, West, Fengtai, and Central) received approximately 977,000 arriving passengers on October 7 during the holiday's peak return wave. The Beijing Municipal Commission of Transport extended subway operations across lines connecting railway hubs and international airports until 02:00 past midnight. In alpine natural heritage, Changbaishan National Scenic Area reopened access to the iconic volcanic Crater Lake (Heavenly Lake) across North, West, and South zones following post-blizzard slope clearance, though high-altitude backcountry routes remain restricted due to sub-zero freeze warnings.
+China Railway Beijing Bureau activated full return rush protocols on October 7 across the capital's major rail hubs. Beijing South Station opened 100% of its exit barriers and pedestrian egress lanes during peak arrival waves to ensure fluid passenger dispersal, while Beijing Station established dedicated priority assistance waiting areas. Local transport authorities coordinated extended midnight subway connections to transfer arriving passengers directly into central hotels and international airports.
 
-> 📌 **Verified Source**: [China Railway Beijing Bureau & Changbaishan Scenic Area Administration (Official Dispatch)](https://weibo.com/1916657595/Rlfdd9zpH)
+> 📌 **Verified Source**: [China Railway Beijing Bureau (Sina Weibo)](https://weibo.com/1916657595/Rlx9MsepS)
 
 ---
 
-### 📅 October 6, 2026 &bull; 08:45 CST `[Imperial Landmark Booking Ceiling]`
-#### The Palace Museum (Forbidden City): Complete National Holiday Quota (40,000 Daily Visitors) Fully Exhausted
+### 📅 October 6, 2026 &bull; 11:30 CST `[Imperial Monument Cultural Heritage]`
+#### The Palace Museum (Forbidden City): Classical Aesthetics & Curatorial Heritage Guide for Peak Autumn Visits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #在故宫看见中国美学# 中轴一线，殿宇铺陈如卷；东西相对，门廊次第生辉。日晷立于阶前，云影掠过飞檐，自有一番端凝气度。 不偏不倚，是建筑的秩序，也是文明绵延数千年的定力。 在故宫，看见中正平和的中国美学。 #爱上紫禁城#
+> 【在故宫看见中国美学】书有六义，画有六法。气韵生动，骨法用笔，随类赋彩……笔意流转间，体例、构图、色彩、气韵皆有所悟。先贤归纳的美学理论，继往开来，终成典范。在故宫，看见法度恢弘的中国美学。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
-The Palace Museum issued a definitive advisory confirming that all admission tickets for October 1 through October 6 have been 100% booked, maintaining the museum's strict daily preservation threshold of 40,000 visitors. Curatorial security teams at the Meridian Gate (午门) are enforcing mandatory real-name passport and international ID verification; unreserved visitors cannot purchase same-day passes at the perimeter. Overseas travelers unable to secure tickets are advised to take in panoramic views of the Forbidden City from Jingshan Park’s Wanchun Pavilion or explore Prince Kung’s Palace and the Temple of Heaven.
+The Palace Museum (Forbidden City) published a curatorial appreciation guide highlighting classical Chinese compositional and aesthetic philosophies ('Qi Yun Sheng Dong' - rhythmic vitality). Discerning inbound travelers walking the central imperial axis are encouraged to observe how the architectural sequence from the Meridian Gate to the Hall of Supreme Harmony embodies the timeless order and proportional balance of Ming and Qing imperial design. Advance passport reservations remain mandatory through the official digital portal.
 
-> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/1655363172/RkDbkD2aG)
+> 📌 **Verified Source**: [The Palace Museum (Sina Weibo)](https://weibo.com/1655363172/RlojOBjea)
 
 ---
 
