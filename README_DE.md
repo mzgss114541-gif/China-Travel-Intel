@@ -36,8 +36,10 @@ Alle aktuellen Reiseberichte und offiziellen Hinweise werden auf **Englisch** ge
 | **Südchina** | Guangdong (Guangzhou, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [Updates ansehen (EN)](content/intelligence-hubs/south-china.md) |
 | **Nordchina** | Peking (Verbotene Stadt, Große Mauer), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Updates ansehen (EN)](content/intelligence-hubs/north-china.md) |
 
-> 📱 **Vor Ort in China unterwegs? (Nachweis für Bahn- und Servicepersonal)**  
-> Falls Sie an Bahnsteigsperren, Bordkontrollen, Zollschaltern oder Sehenswürdigkeiten auf Sprachbarrieren stoßen: Öffnen Sie einfach den jeweiligen regionalen Nachrichten-Log oben, um die authentischen chinesischen Originalmitteilungen (`🇨🇳 官方通告原文`) aufzurufen. Zeigen Sie diesen amtlichen Originaltext direkt auf Ihrem Smartphone vor, damit Zugbegleiter oder Bahnhofspersonal Ihr Anliegen sofort verstehen und weiterhelfen können.
+> 📱 **Vor Ort in China unterwegs? (Nachweis für Personal & Verständigung mit Passanten)**  
+> Falls Sie an Bahnsteigsperren, Bordkontrollen, Zollschaltern oder Sehenswürdigkeiten auf Sprachbarrieren stoßen: Öffnen Sie einfach den jeweiligen regionalen Nachrichten-Log oben, um die authentischen chinesischen Originalmitteilungen (`🇨🇳 官方通告原文`) aufzurufen. Zeigen Sie diesen amtlichen Originaltext direkt auf Ihrem Smartphone vor – sei es Zugbegleitern, Bahnhofspersonal oder hilfsbereiten Einheimischen und Passanten, um Ihr Anliegen sofort zu klären oder nach dem Weg zu fragen.  
+>  
+> ⚠️ **Haftungsausschluss**: *Diese offiziellen Auszüge dienen ausschließlich der Orientierung und Verständigungshilfe. Vorschriften, Kontingente und Verkehrsbedingungen können sich kurzfristig ändern. Die zuständigen Behörden und das Personal vor Ort haben stets die finale Weisungsbefugnis. Befolgen Sie immer die Anweisungen des Personals vor Ort.*
 
 ---
 
