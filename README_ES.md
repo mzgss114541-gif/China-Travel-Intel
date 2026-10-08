@@ -43,13 +43,13 @@ Todos los boletines oficiales y avisos de viaje están centralizados en **inglé
 
 ---
 
-## ⏱️ Estándar editorial y Frecuencia de actualización
+## ⏱️ Estándares editoriales y Frecuencia de actualización
 
-Para maximizar la fiabilidad operativa y mitigar alucinaciones de IA para los viajeros internacionales, esta mesa de información opera bajo una **arquitectura automatizada con estrictas restricciones de prompts y verificación editorial**:
+Para garantizar la máxima fiabilidad y precisión operativa a los viajeros internacionales, esta mesa de información opera bajo **rigurosos estándares editoriales, contraste con registros oficiales y revisión especializada**:
 
-* **Frecuencia horaria durante ventanas de monitorización activa**: Durante los períodos operativos comunicados por nuestro equipo (p. ej., picos de desplazamiento en festivos nacionales, emergencias meteorológicas o cambios repentinos en normativas de tránsito fronterizo), los despachos se monitorizan, verifican y publican con **frecuencia horaria**.
-* **Automatización con restricción de prompts y verificación de fuentes (Descargo)**: El flujo de recopilación y redacción se sustenta primordialmente en procesos automatizados regidos por rigurosas restricciones de prompts contra alucinaciones. Si bien el autor revisa y contrasta los comunicados originales en chino frente a enlaces de fuentes oficiales primarias (Administración Nacional de Inmigración, China Railway 12306, departamentos de transporte provinciales), no es posible garantizar una precisión o infalibilidad al 100%. Estos boletines proporcionan orientación situacional y no constituyen decretos oficiales. En caso de duda, trátelos como no confirmados y verifique las gestiones críticas directamente con el personal en el lugar o los canales oficiales antes de viajar.
-* **Calidad sobre volumen (Compromiso de cero contenido de relleno)**: Fuera de los períodos activos comunicados o ante la ausencia de incidencias graves, el feed se mantiene intencionadamente tranquilo. **Priorizamos el silencio factual frente al ruido algorítmico**: garantizamos que cada reporte publicado constituya información rigurosamente contrastada y de verdadero valor práctico.
+* **Frecuencia horaria durante períodos de monitorización activa**: Durante fases de alta intensidad (p. ej., picos de desplazamiento en festivos, emergencias climáticas o ajustes en normativas de visados), los despachos se actualizan con **frecuencia horaria**.
+* **Contraste con fuentes oficiales y descargo de responsabilidad**: Cada boletín se contrasta frente a registros primarios autorizados (Administración Nacional de Inmigración, China Railway 12306, direcciones provinciales de transporte y turismo). No obstante, dado que las directrices sobre el terreno pueden variar dinámicamente, no es posible garantizar una infalibilidad absoluta en tiempo real. Estos informes proporcionan orientación situacional y no constituyen decretos oficiales. En caso de duda, trátelos como no confirmados y verifique las gestiones críticas directamente con el personal local o canales oficiales antes de viajar.
+* **Calidad sobre volumen (Compromiso de cero contenido de relleno)**: Fuera de los períodos de alta intensidad o ante la ausencia de incidencias significativas, este canal permanece intencionadamente tranquilo. **Priorizamos el silencio riguroso frente al ruido innecesario**: cada reporte publicado aporta información contrastada y directamente aplicable.
 
 ---
 

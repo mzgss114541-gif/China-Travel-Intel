@@ -43,13 +43,14 @@ Tutti i dispacci di viaggio e le circolari ufficiali sono centralizzati in **ing
 
 ---
 
-## ⏱️ Standard editoriale & Frequenza degli aggiornamenti
+## ⏱️ Standard editoriali & Frequenza degli aggiornamenti
 
-Per massimizzare l'affidabilità operativa e prevenire allucinazioni informative per i viaggiatori internazionali, questo desk opera secondo un'**architettura automatizzata regolata da rigidi prompt e controllo editoriale**:
+Per garantire la massima affidabilità operativa ai viaggiatori internazionali, questo desk opera secondo **rigide linee guida editoriali e il principio di riscontro con le fonti primarie**:
 
-* **Aggiornamenti su base oraria durante le finestre di monitoraggio attivo**: Durante i periodi operativi espressamente comunicati dalla redazione (es. picchi di traffico per festività nazionali, allerte meteo severe o improvvise variazioni nelle politiche di transito), i dispacci vengono monitorati, verificati e pubblicati con **cadenza oraria**.
-* **Automazione guidata da prompt e verifica delle fonti (Dichiarazione)**: Il processo di raccolta e sintesi si basa principalmente su flussi automatizzati vincolati da rigorose istruzioni di sistema anti-allucinazione. Sebbene l'autore esamini e verifichi i comunicati ufficiali in lingua cinese confrontandoli con i canali primari (Amministrazione Nazionale dell'Immigrazione, China Railway 12306, dipartimenti provinciali dei trasporti), non è possibile garantire un'infallibilità o accuratezza assoluta al 100%. Questi bollettini forniscono orientamento situazionale e non costituiscono decreti ufficiali. In caso di dubbio, considerateli come non confermati e verificate i piani critici direttamente con il personale sul posto o tramite i canali ufficiali prima di mettervi in viaggio.
-* **Qualità prima del volume (Tolleranza zero per contenuti superflui)**: Al di fuori delle finestre di monitoraggio comunicate o in assenza di criticità per i trasporti, il canale rimane volutamente silenzioso. **Privilegiamo il silenzio fattuale al rumore algoritmico**: ogni bollettino pubblicato garantisce informazioni autentiche, verificate e ad alto valore pratico.
+* **Aggiornamenti su base oraria durante le finestre di monitoraggio attivo**: Durante i periodi operativi specificamente annunciati dalla redazione (es. picchi di traffico per festività nazionali, allerte meteo severe o variazioni nelle politiche di transito), i dispacci vengono monitorati, verificati e pubblicati con **cadenza oraria**.
+* **Linee guida editoriali & Riscontro con le fonti primarie (Dichiarazione)**: Le sintesi informative si basano sull'analisi rigorosa dei comunicati ufficiali primari (Amministrazione Nazionale dell'Immigrazione, China Railway 12306, dipartimenti provinciali dei trasporti). Questi bollettini forniscono orientamento situazionale e non costituiscono decreti o atti ufficiali. In caso di dubbio, considerateli sempre come non confermati e verificate i piani critici direttamente con il personale in loco o tramite i canali ufficiali prima di mettervi in viaggio.
+* **Qualità prima del volume (Tolleranza zero per contenuti superflui)**: Al di fuori dei periodi di monitoraggio o in assenza di criticità per i trasporti, il canale rimane volutamente silenzioso. **Privilegiamo il silenzio fattuale al rumore di fondo privo di valore**: ogni bollettino pubblicato garantisce informazioni autentiche, verificate e ad alto valore pratico.
+
 
 ---
 

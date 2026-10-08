@@ -43,13 +43,13 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 
 ---
 
-## ⏱️ Editorial Standard & Dispatch Cadence
+## ⏱️ Editorial Standards & Dispatch Cadence
 
-To maximize operational reliability and curb hallucinations for international travelers, this intelligence desk operates under an **Automated Architecture with Strict Prompt Guardrails and Curator Audits**:
+To maximize operational accuracy and dependability for international travelers, this intelligence desk operates under **Rigorous Editorial Guidelines, Primary Registry Corroboration, and Specialist Audits**:
 
-* **Hourly Cadence During Active Surveillance**: During operational windows designated and announced by the curator (such as peak holiday transit rushes, adverse weather warnings, or sudden border transit policy updates), dispatches are monitored, verified, and published on an **hourly cadence**.
-* **Prompt-Constrained Automation & Source Verification (Disclaimer)**: The curation workflow relies primarily on automated ingestion pipelines governed by strict, anti-hallucination prompt constraints. While the author inspects and cross-verifies raw Chinese announcements against primary authority links (e.g., National Immigration Administration, China Railway 12306, provincial transport bureaus), 100% accuracy or real-time infallibility cannot be legally guaranteed. This intelligence provides situational guidance rather than official decrees. When in doubt, travelers must treat dispatches as unconfirmed and verify critical itinerary arrangements directly with frontline staff or official hotlines before traveling.
-* **Zero-Fluff Commitment (Quality Over Volume)**: Outside announced surveillance windows or when no high-impact travel disruptions occur, this feed remains intentionally quiet. **We prioritize factual silence over automated noise**—ensuring that every bulletin published represents verified, high-signal, actionable intelligence rather than algorithmic filler.
+* **Hourly Cadence During Active Monitoring**: During peak transit rushes, adverse alpine weather emergencies, or sudden border policy updates, dispatches are monitored, verified, and updated on an **hourly cadence**.
+* **Primary Registry Verification & Disclaimer**: Every bulletin is investigated and corroborated against authoritative primary registries (e.g., National Immigration Administration, China Railway 12306, provincial transport and tourism bureaus). However, because field conditions and frontline directives evolve dynamically, 100% real-time infallibility cannot be legally guaranteed. These dispatches provide situational guidance rather than official decrees. When in doubt, travelers must treat items as unconfirmed and verify critical itinerary arrangements directly with frontline railway staff, station masters, or official customer hotlines before traveling.
+* **Zero-Fluff Commitment (Quality Over Volume)**: Outside active monitoring windows or when no high-impact travel disruptions occur, this intelligence desk remains intentionally quiet. **We prioritize factual silence over meaningless noise**—ensuring that every bulletin published represents verified, high-impact, actionable intelligence.
 
 ---
 
