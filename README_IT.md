@@ -89,7 +89,8 @@ China-Travel-Intel/
 
 ---
 
-## 📄 Licenza & Attribuzione
+## 📄 Licenza, Attribuzione e Avviso di Informazioni Pubbliche
 
-I dispacci di viaggio e gli avvisi informativi sono condivisi liberamente a scopo consultivo.  
-L'identità del marchio, i loghi e i marchi commerciali sono protetti da copyright &copy; [YouTu Travel](https://yoututravel.com). Tutti i diritti riservati.
+* **Informazioni pubbliche e diritti d'autore**: Tutti i bollettini di viaggio, gli aggiornamenti sui trasporti e gli estratti dei comunicati ufficiali presenti in questo repository sono raccolti e organizzati a partire da **informazioni pubbliche accessibili su Internet** (compresi i portali istituzionali governativi cinesi, China State Railway Group, l'Ente per l'Aviazione Civile, i dipartimenti provinciali e municipali di cultura e turismo e i canali informativi ufficiali verificati). I diritti d'autore sui testi originali appartengono ai rispettivi enti governativi ed emittenti. Questi estratti sono forniti secondo il principio del fair use al solo scopo di supporto linguistico, orientamento pratico e pianificazione degli itinerari per i viaggiatori internazionali.
+* **Consultazione aperta**: I riepiloghi e i registri dei dispacci sono condivisi liberamente a supporto dei viaggiatori.
+* **Marchi e identità**: L'identità visiva, i loghi e i marchi commerciali sono protetti da copyright &copy; [YouTu Travel](https://yoututravel.com). Tutti i diritti riservati.
