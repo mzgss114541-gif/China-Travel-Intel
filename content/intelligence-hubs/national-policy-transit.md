@@ -158,16 +158,3 @@ China State Railway Group confirmed the completion of modern passenger station t
 Inspection train 55101 departed Jinan East Station, marking the comprehensive commissioning phase of the Jinan Connector for the Tianjin–Weifang High-Speed Railway. This line will substantially shorten transit between the Beijing-Tianjin metro area and Shandong peninsula heritage destinations (Qingdao, Mount Tai, Qufu).
 
 > 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rk41ECTRB)
-
----
-
-### 📅 August 20, 2026 &bull; 10:00 CST `[National Immigration Notice]`
-#### European Visa Exemption (15 Days) vs. 144-Hour Transit Visa Protocols
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国家移民管理局与外交部关于欧洲国家免签入境及144小时过境免签政策实施指引】为进一步促进中外人员往来，中方对法国、德国、意大利、荷兰、西班牙、瑞士、爱尔兰、匈牙利、奥地利、比利时、卢森堡等欧洲国家持普通护照人员实行免签政策，来华经商、旅游观光、探亲访友和过境不超过15天可免签入境。同时，国家移民管理局在全国37个对外开放口岸实施144小时过境免签政策，来自英、美、加、澳等54国公民持有效国际旅行证件和确定日期及座位的跨国联程客票，可免签过境并在规定区域内停留最长144小时。外籍人员在华停留期间须遵守中国法律并按规定办理住宿登记。
-
-**🇬🇧 Actionable Travel Intel**:  
-Under bilateral and unilateral agreements extended through 2026, passport holders from Italy, France, Germany, Spain, Switzerland, Austria, the Netherlands, Belgium, and Luxembourg enjoy15-day visa-free entryfor tourism, business, and transit with no pre-departure approvals required. Passport holders from the UK, US, Canada, and Australia who do not qualify for the 15-day waiver remain fully covered under the144-Hour Visa-Free Transit (TWOV)rule via 37 eligible international entry ports.
-
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147463/c183412/content.html)

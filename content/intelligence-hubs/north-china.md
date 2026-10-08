@@ -54,16 +54,3 @@ China Railway Beijing Bureau added a 340-square-meter pre-security waiting area 
 The Palace Museum enforces strict real-name passport reservation limits for all international visitors. On-site ticket booths do not sell walk-in admission tickets. Daily quotas are released precisely 7 days in advance at 20:00 Beijing time and sell out within minutes for peak autumn dates. Foreign travelers must present original physical passports at the Meridian Gate (South Gate) staff-assisted manual verification counters. The museum remains closed every Monday for artifact conservation.
 
 > 📌 **Verified Source**: [The Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
-
----
-
-### 📅 August 20, 2026 &bull; 10:00 CST `[Immigration & Transit Perimeter]`
-#### 144-Hour Transit Visa: Beijing-Tianjin-Hebei Unified Travel Perimeter
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国家移民管理局京津冀144小时过境免签政策实施指引】经国务院批准，京津冀三地实施外国人144小时过境免签政策。适用54国公民持有效国际旅行证件和确定日期及座位的联程客票过境前往第三国（地区），可选择从北京首都国际机场、北京大兴国际机场、北京西站、天津滨海国际机场、天津国际邮轮母港、石家庄正定国际机场、秦皇岛海港等口岸出入境，免签活动范围为北京、天津、河北三省市行政区域，停留时间最长144小时。超出京津冀行政区域（如进入山西省等）须依法提前办妥有效中国签证。
-
-**🇬🇧 Actionable Travel Intel**:  
-The National Immigration Administration confirmed operational parameters for the 144-hour visa-free transit scheme across Northern China. Eligible international passport holders entering through Beijing Capital (PEK), Beijing Daxing (PKX), Tianjin Binhai (TSN), Tianjin Cruise Port, or Shijiazhuang (SJW) enjoy unrestricted movement across the entire Beijing-Tianjin-Hebei region. This permits excursions to the Jinshanling Great Wall and Chengde Imperial Mountain Resort, though travel beyond the tri-provincial boundary into Shanxi requires a standard visa.
-
-> 📌 **Verified Source**: [National Immigration Administration Official Directives (NIA Portal)](https://en.nia.gov.cn/n147418/n147463/c183412/content.html)
