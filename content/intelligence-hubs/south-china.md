@@ -6,13 +6,13 @@
 ---
 
 ### 📅 October 8, 2026 &bull; 18:30 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
-#### Hainan Free Trade Port: Inbound Visitor Numbers Surge via Expanded 59-Country Visa-Free Framework
+#### Hainan Port Entry Terminals: Inbound Travel Surges 13.4% with 54,000 Crossings at Haikou & Sanya Airports
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国庆假期海南出入境客流同比增长明显 59国免签与国际直飞航线效能持续释放】记者从海南省旅游和文化广电体育厅获悉，国庆黄金周期间，海南全省各口岸出入境客流同比实现显著增长，海口美兰国际机场与三亚凤凰国际机场国际及地区客运航线运行平稳有序。随着59国人员免签入境海南政策深化实施及国际邮轮航线加密，来自东南亚、欧洲及中东等地的境外游客数量大幅提升。全省各涉外景区、星级酒店全面落实境外银行卡受理与多语种服务保障，进一步便利境外游客度假体验。
+> 据海口出入境边防检查总站消息，10月1日至10月7日16时，海南共验放出入境交通工具409架（艘）次、出入境人员5.4万人次，较去年同期分别增长12.1%和13.4%。国庆假期，海口美兰国际机场口岸出入境人员3万人次，同比增长3.4%；三亚凤凰国际机场口岸出入境人员2.2万人次，同比增长28.7%。数据显示，入境客源国主要包括俄罗斯、哈萨克斯坦、印度尼西亚、马来西亚、新加坡、白俄罗斯等国家。海口美兰、三亚凤凰、博鳌边检机关提前公布客流高峰，合理安排执勤警力，开足验证通道，增设现场标识，落实边检便民举措，确保中国公民和外国旅客高效、顺畅通关。
 
 **🇬🇧 Actionable Travel Intel**:  
-The Department of Tourism, Culture, Radio, Television and Sports of Hainan Province reported a substantial year-on-year surge in international inbound visitor traffic across the island's entry ports during the National Day holiday. The expanding impact of the 59-country visa-free policy, coupled with augmented direct flights into Haikou (HAK) and Sanya (SYX) airports, facilitated seamless arrivals from European, Southeast Asian, and Middle Eastern markets. International hospitality providers and major 5A coastal resorts across Sanya and Lingshui maintain multi-lingual concierge counters and universal overseas credit card acceptance (Visa, Mastercard, UnionPay) for inbound vacationers.
+Haikou General Station of Exit and Entry Frontier Inspection reported that Hainan air and maritime ports handled 54,000 cross-border passenger crossings during the National Day Golden Week, representing a 13.4% year-on-year increase. Sanya Phoenix International Airport recorded a notable 28.7% leap in cross-border traffic (22,000 passengers), while Haikou Meilan handled 30,000 arrivals and departures. Leading inbound source markets included Russia, Kazakhstan, Indonesia, Malaysia, Singapore, and Belarus. Border inspection authorities across Haikou and Sanya operated at maximum channel capacity with multilingual directional signage to ensure efficient processing for international holiday travelers.
 
 > 📌 **Verified Source**: [Hainan Provincial Department of Tourism, Culture, Radio, Television and Sports](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
 
