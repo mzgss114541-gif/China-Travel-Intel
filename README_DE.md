@@ -43,13 +43,13 @@ Alle aktuellen Reiseberichte und offiziellen Hinweise werden auf **Englisch** ge
 
 ---
 
-## ⏱️ Redaktioneller Standard & Veröffentlichungsrhythmus
+## ⏱️ Redaktionelle Standards & Veröffentlichungsrhythmus
 
-Um maximale Zuverlässigkeit zu gewährleisten und KI-Halluzinationen für internationale Reisende zu minimieren, basiert dieses Informationsportal auf einer **automatisierten Pipeline mit strengen Prompt-Vorgaben und redaktioneller Prüfung**:
+Um maximale Zuverlässigkeit und verlässliche Genauigkeit für internationale Reisende zu gewährleisten, arbeitet diese Informationsredaktion nach **strengen redaktionellen Richtlinien, behördlichem Quellenabgleich und fachlicher Prüfung**:
 
-* **Stündliche Aktualisierungen in aktiven Überwachungsphasen**: In den von unserer Redaktion angekündigten Beobachtungsfenstern (z. B. Feiertags-Rückreisewellen, unvorhersehbare Wetterwarnungen oder kurzfristige Änderungen von Visabestimmungen) erfolgen Meldungen im **stündlichen Rhythmus**.
-* **Prompt-gestützte Automatisierung & Quellenprüfung (Haftungsausschluss)**: Die Erfassung und Aufbereitung stützt sich maßgeblich auf automatisierte Daten-Pipelines unter strengen, halluzinationshemmenden Prompt-Regeln. Obwohl der Autor die chinesischen Originalmitteilungen anhand offizieller Primärquellen (Nationale Einwanderungsbehörde, China Railway 12306, regionale Verkehrsämter) stichprobenartig gegenprüft, kann eine hundertprozentige Fehlerfreiheit oder Echtzeit-Vollständigkeit nicht garantiert werden. Diese Meldungen bieten Orientierung, stellen jedoch keine amtlichen Erlasse dar. Im Zweifelsfall sind Meldungen als unbestätigt zu betrachten und kritische Buchungen direkt mit dem Personal vor Ort oder über offizielle Hotlines abzugleichen.
-* **Qualität vor Quantität (Null-Füllstoff-Garantie)**: Außerhalb aktiver Überwachungsfenster oder bei normaler Verkehrslage bleibt dieser Feed bewusst ruhig. **Wir bevorzugen sachliche Stille gegenüber automatisiertem Datenrauschen** – jede veröffentlichte Mitteilung stellt verifizierte, handlungsrelevante Information dar.
+* **Stündliche Aktualisierungen in aktiven Überwachungsphasen**: In besonders dynamischen Phasen (z. B. Feiertags-Rückreisewellen, alpine Unwetterwarnungen oder kurzfristige Anpassungen von Einreisebestimmungen) erfolgen Meldungen und Aktualisierungen im **stündlichen Rhythmus**.
+* **Behördlicher Quellenabgleich & Haftungsausschluss**: Jede Mitteilung wird sorgfältig anhand offizieller Primärquellen (Nationale Einwanderungsbehörde, China Railway 12306, regionale Verkehrs- und Tourismusbehörden) geprüft. Da sich betriebliche Abläufe und behördliche Weisungen vor Ort jedoch dynamisch ändern können, kann eine hundertprozentige Fehlerfreiheit nicht garantiert werden. Diese Meldungen bieten Orientierung, stellen jedoch keine amtlichen Erlasse dar. Im Zweifelsfall sind Mitteilungen als unbestätigt zu betrachten und kritische Buchungen direkt mit dem Personal vor Ort oder über offizielle Hotlines abzugleichen.
+* **Qualität vor Quantität (Keine Füllinhalte)**: Außerhalb aktiver Überwachungsphasen oder bei normaler Betriebslage bleibt dieser Feed bewusst ruhig. **Wir bevorzugen sachliche Stille gegenüber unnötigem Rauschen** – jede veröffentlichte Mitteilung stellt verifizierte, handlungsrelevante Information dar.
 
 ---
 

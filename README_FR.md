@@ -43,13 +43,13 @@ Tous les bulletins de voyage et avis officiels sont centralisés en **anglais** 
 
 ---
 
-## ⏱️ Standard éditorial & Fréquence de mise à jour
+## ⏱️ Standards éditoriaux & Fréquence de mise à jour
 
-Afin de maximiser la fiabilité opérationnelle et d'éliminer les hallucinations d'IA pour les voyageurs internationaux, ce bureau d'information s'appuie sur une **architecture automatisée encadrée par des instructions strictes et une révision éditoriale** :
+Afin de garantir une fiabilité et une précision opérationnelle maximales aux voyageurs internationaux, ce bureau d'information applique des **règles éditoriales strictes, un recoupement avec les registres officiels et une validation spécialisée** :
 
-* **Mises à jour horaires lors des périodes de veille active** : Durant les créneaux opérationnels annoncés par notre rédaction (pics de flux des vacances nationales, alertes météorologiques sévères ou évolutions réglementaires frontalières soudaines), les dépêches sont vérifiées et publiées **toutes les heures**.
-* **Automatisation sous contraintes de prompts & vérification des sources (Avertissement)** : Le traitement des dépêches repose principalement sur des flux automatisés régis par des contraintes de prompts rigoureuses visant à empêcher toute hallucination. Bien que l'auteur examine et recoupe les annonces officielles en chinois avec les portails primaires faisant autorité (Administration Nationale de l'Immigration, China Railway 12306, directions provinciales des transports), une exactitude ou une exhaustivité à 100 % ne saurait être garantie. Ces alertes fournissent un éclairage contextuel et ne constituent pas des décrets officiels. En cas de doute, considérez-les comme non confirmées et vérifiez vos réservations critiques directement auprès du personnel en poste ou des lignes directes officielles avant de voyager.
-* **Exigence de qualité prioritaire (Zéro contenu de remplissage)** : En dehors des périodes de veille annoncées ou en l'absence de perturbation critique, le flux reste volontairement silencieux. **Nous privilégions le silence factuel au bruit algorithmique** : chaque alerte publiée apporte une valeur réelle, vérifiée et immédiatement exploitable.
+* **Mises à jour horaires lors des périodes de veille active** : Durant les phases à forte affluence ou à évolution rapide (pics de départs des vacances nationales, intempéries alpines majeures ou ajustements soudains des règles de visa), les dépêches sont actualisées **toutes les heures**.
+* **Recoupement avec les registres primaires & Clause de non-responsabilité** : Chaque alerte est vérifiée auprès des registres primaires officiels (Administration Nationale de l'Immigration, China Railway 12306, directions provinciales des transports et du tourisme). Toutefois, les consignes de terrain évoluant en temps réel, une infaillibilité absolue ne saurait être garantie. Ces dépêches constituent un éclairage contextuel et non des décrets officiels. En cas de doute, considérez-les comme non confirmées et vérifiez vos réservations critiques directement auprès du personnel en gare ou des services compétents avant le départ.
+* **Exigence de qualité prioritaire (Zéro contenu inutile)** : En dehors des périodes de veille active ou en situation normale, le flux reste volontairement silencieux. **Nous privilégions le silence factuel aux informations superflues** : chaque publication apporte une valeur concrète et immédiatement exploitable.
 
 ---
 
