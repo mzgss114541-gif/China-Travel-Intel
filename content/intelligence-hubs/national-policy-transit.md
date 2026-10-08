@@ -5,6 +5,19 @@
 
 ---
 
+### 📅 October 8, 2026 &bull; 12:00 CST `[National Trunk Expansion & High-Speed Rail Corridor]`
+#### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【#2026铁路建设进展# 成达万高铁铺轨施工正式启动】10月1日8时18分，在四川省南充市南充北站的施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路铺轨施工正式启动。成达万高铁是我国“八纵八横”高铁网沿江通道的重要组成部分，线路西起四川省成都市天府站，途经四川省资阳市、遂宁市、南充市、达州市及重庆市开州区、万州区，正线全长477公里，设计时速350公里。
+
+**🇬🇧 Actionable Travel Intel (AI Curated)**:  
+China State Railway Group (12306) announced the official commencement of 500-meter welded track-laying for the Chengdu–Dazhou–Wanzhou (Cheng-Da-Wan) High-Speed Railway. Spanning 477 kilometers with a design speed of 350 km/h, the strategic line connects Chengdu Tianfu Rail Hub with eastern Sichuan and Chongqing Wanzhou, forming a core section of China's national Yangtze River HSR trunk corridor. Once completed, travel time between Chengdu and the Three Gorges gateway will be cut to within 90 minutes, drastically accelerating regional connections for international travelers exploring inland Sichuan and overland Yangtze cruise routes.
+
+> 📌 **Verified Source**: [China State Railway Group (Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
+
+---
+
 ### 📅 October 7, 2026 &bull; 09:15 CST `[National Transit Record & Golden Week Surge]`
 #### China State Railway Group: All-Time Record 24.15M Single-Day Passengers & 2.14B Golden Week Journeys Logged
 

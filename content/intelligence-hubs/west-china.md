@@ -5,6 +5,19 @@
 
 ---
 
+### 📅 October 8, 2026 &bull; 18:30 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
+#### Tibet Autonomous Region Tourism Dept: Undeveloped Gorges in Medog & Galongla Alpine Route Closed for Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【西藏自治区文化和旅游厅转发生态安全告示：严禁带领游客进入墨脱县未开发区域】墨脱县未开发开放区域地形复杂、气候多变、通信不畅且缺乏安全设施，存在极高安全风险。任何组织或个人不得带领游客进入此类区域。个别已开发区域有固定通行期限，出行前请认真了解相关讯息。嘎隆拉天池徒步路线每年只有7-9月是安全通行期，且今年因天气原因已通告提前全面禁止通行，非通行期请勿进入。请游客朋友通过正规渠道选择已开发景区游览，切勿轻信非法揽客信息，主动拒绝前往危险区域。
+
+**🇬🇧 Actionable Travel Intel (AI Curated)**:  
+Tibet Autonomous Region Department of Culture & Tourism published an urgent alpine safety notice on October 8 regarding Medog County and the Galongla mountain pass. Due to shifting autumn weather and early freeze hazards, the high-altitude Galongla Tianchi trekking route—ordinarily accessible only between July and September—has been officially closed ahead of schedule for the winter season, with self-driving and backcountry expeditions strictly prohibited. International overland explorers and trekking agencies are advised to keep all itineraries strictly within formally developed scenic corridors in Nyingchi and Lhasa, heed all local checkpoints, and avoid unauthorized high-altitude passes.
+
+> 📌 **Verified Source**: [Tibet Autonomous Region Department of Culture & Tourism](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
+
+---
+
 ### 📅 October 7, 2026 &bull; 10:30 CST `[Southwestern Trunk Hub & Highland Mobility]`
 #### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs & China-Laos Transit
 
