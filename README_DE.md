@@ -45,10 +45,10 @@ Alle aktuellen Reiseberichte und offiziellen Hinweise werden auf **Englisch** ge
 
 ## ⏱️ Redaktioneller Standard & Veröffentlichungsrhythmus
 
-Um absolute Zuverlässigkeit und fehlerfreie Informationen für internationale Reisende zu gewährleisten, arbeitet dieses Portal nach einem **strengen Human-in-the-Loop-Redaktionsprinzip**:
+Um maximale Zuverlässigkeit zu gewährleisten und KI-Halluzinationen für internationale Reisende zu minimieren, basiert dieses Informationsportal auf einer **automatisierten Pipeline mit strengen Prompt-Vorgaben und redaktioneller Prüfung**:
 
 * **Stündliche Aktualisierungen in aktiven Überwachungsphasen**: In den von unserer Redaktion angekündigten Beobachtungsfenstern (z. B. Feiertags-Rückreisewellen, unvorhersehbare Wetterwarnungen oder kurzfristige Änderungen von Visabestimmungen) erfolgen Meldungen im **stündlichen Rhythmus**.
-* **Keine unbeaufsichtigte Automatisierung**: Wir untersagen unbeaufsichtigte KI-Massenveröffentlichungen und unkontrollierte Web-Scraper strikt. Jede einzelne Meldung wird persönlich geprüft, mit offiziellen Primärquellen (Nationale Einwanderungsbehörde, China Railway 12306, regionale Verkehrsbehörden) abgeglichen und durch Reisespezialisten autorisiert.
+* **Prompt-gestützte Automatisierung & Quellenprüfung (Haftungsausschluss)**: Die Erfassung und Aufbereitung stützt sich maßgeblich auf automatisierte Daten-Pipelines unter strengen, halluzinationshemmenden Prompt-Regeln. Obwohl der Autor die chinesischen Originalmitteilungen anhand offizieller Primärquellen (Nationale Einwanderungsbehörde, China Railway 12306, regionale Verkehrsämter) stichprobenartig gegenprüft, kann eine hundertprozentige Fehlerfreiheit oder Echtzeit-Vollständigkeit nicht garantiert werden. Da sich behördliche Bestimmungen, Zugkapazitäten und örtliche Kontrollen dynamisch ändern, dienen alle Angaben reinen Orientierungszwecken ohne Rechtsanspruch; Reisende sollten verbindliche Details stets direkt mit den zuständigen Stellen vor Ort abgleichen.
 * **Qualität vor Quantität (Null-Füllstoff-Garantie)**: Außerhalb aktiver Überwachungsfenster oder bei normaler Verkehrslage bleibt dieser Feed bewusst ruhig. **Wir bevorzugen sachliche Stille gegenüber automatisiertem Datenrauschen** – jede veröffentlichte Mitteilung stellt verifizierte, handlungsrelevante Information dar.
 
 ---
