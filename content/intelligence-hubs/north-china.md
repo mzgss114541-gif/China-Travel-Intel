@@ -6,13 +6,13 @@
 ---
 
 ### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
-#### Beijing Rail Terminals (Beijing South & Beijing Station): Return Peak Protocol Activated with Full Exit Channels Open
+#### China Railway Beijing Bureau: Beijing South Station Opens All Exit Channels During Peak Arrival Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国庆假期运输 返程客流持续攀升】近日，返程客流持续攀升，国铁北京局北京南站到达高峰时段开启全部出站通道，强化安全提示和引导帮扶，做好旅客返程保障；北京站划分一、二楼爱心候车专区，建立上下联动值守、就近对接服务机制，协同城市交通接驳确保大客流顺畅疏散。
+> 近日，返程客流持续攀升，国铁北京局北京南站到达高峰时段开启全部出站通道，强化安全提示和引导帮扶，做好旅客返程保障。
 
 **🇬🇧 Actionable Travel Intel**:  
-China Railway Beijing Bureau activated return peak operations across the capital's railway stations. Beijing South Station opened all exit channels during peak arrival hours to assist disembarking passengers. Beijing Station designated priority waiting zones on the first and second floors and coordinated with municipal transit connections to facilitate passenger dispersal.
+With return passenger flows continuing to climb, China Railway Beijing Bureau announced that Beijing South Station has opened all exit channels during peak arrival periods, while enhancing safety notices and passenger guidance to support return journeys.
 
 > 📌 **Verified Source**: [China Railway Beijing Bureau (Sina Weibo)](https://weibo.com/1916657595/Rlx9MsepS)
 
