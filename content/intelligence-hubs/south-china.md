@@ -44,32 +44,6 @@ China Railway Guangzhou Group (CR Guangzhou) experienced its primary return trav
 
 ---
 
-### 📅 October 5, 2026 &bull; 13:00 CST `[High-Speed Rail Transit Hub]`
-#### Guangzhou South Railway Hub: Record 1 Million+ Daily Movements Handled with Frictionless Transit
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #广铁u彩提示您下一站# 作为全国首个单日客流突破百万的车站，看广州南站如何实现客流快速疏散（段凌云，苏晶琪，李德民） 广州铁路的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway Guangzhou Bureau announced that Guangzhou South Station successfully handled over 1 million passenger movements in a single 24-hour cycle. Automated passport recognition lanes and rapid inter-platform transit corridors enabled seamless international passenger transfers between Greater Bay Area hubs (Hong Kong West Kowloon and Shenzhen) and scenic inbound corridors toward Guilin, Yangshuo, and Guiyang.
-
-> 📌 **Verified Source**: [China Railway Guangzhou Group (Sina Weibo)](https://weibo.com/1923237421/RlftRb1AD)
-
----
-
-### 📅 October 5, 2026 &bull; 14:10 CST `[Living Heritage & Peak Operations]`
-#### Zhangjiajie Wulingyuan: Live Ethnic Heritage & Martial Performance Integrated at Tianzi Mountain
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #国庆嗨玩武陵源# #仙境张家界胜地武陵源# #带着微博去旅行# 国庆假期，张家界《魅力湘西》艺术团对节目舞美编排、灯光音效等进行提质优化，并根据市场需求调整节目内容和演出场次，为中外游客带来良好的观演体验，近几日每天吸引万余名中外游客欣赏。吴勇兵 摄 张家界·武陵源风景区
-
-**🇬🇧 Actionable Travel Intel**:  
-To optimize visitor experience at peak hours, Zhangjiajie National Forest Park introduced live Tujia ethnic folk dance and interactive martial art performances at Tianzi Mountain Cableway and Bailong Elevator plazas. The evening showcase of "Charming Xiangxi" operated multiple special performances, highlighting intangible Xiangxi weaving and song traditions for global guests.
-
-> 📌 **Verified Source**: [Zhangjiajie Tourism Official Bulletin (Sina Weibo)](https://weibo.com/1729314032/RlfWseMjG)
-
----
-
 ### 📅 October 4, 2026 &bull; 09:15 CST `[Waterway & Weather Alert]`
 #### Guangxi Issues Severe Thunderstorm & Gale Warnings for Waterways
 
@@ -80,19 +54,6 @@ To optimize visitor experience at peak hours, Zhangjiajie National Forest Park i
 Local tourism authorities reported sudden heavy rain and gusty winds across Guilin, Chongzuo, and Beihai on October 4. Visitors planning river rafting (Yulong River / Li River) or ferry crossings to Weizhou Island should check with operators for temporary weather-related sailing suspensions.
 
 > 📌 **Verified Source**: [Guangxi Department of Culture and Tourism (Sina Weibo)](https://weibo.com/1780560607/Rl4zmeQjC)
-
----
-
-### 📅 October 3, 2026 &bull; 10:00 CST `[Terraced Agriculture & Seasonality]`
-#### Longji Rice Terraces: 2026 Golden Season & Mandatory Harvest Date Notice
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【附近期实拍图！ #广西龙脊梯田迎来最佳观赏期# [憧憬][憧憬]】秋天的桂林龙胜龙脊梯田，是一封写给大地的情书，每一层梯田，都是一行稻浪写就的滚烫诗行。 而此刻正逢龙脊梯田最好的时节：稻浪黄透山野，夜来灯火缀满梯田。趁着这满山金黄，邀请你国庆假期来广西赴一场稻浪之约。2026年10月1日至10月5日，还有限定活动，篝火晚会、非遗市集都在等你……[点赞] ⭐️【基本信息】 📍地点：龙脊梯田景区（广西桂林·龙胜各族自治县） 🎫购票：金佛顶观景台往返索道票成人票98元/人；单日票成人票80元/人，老人票&amp;儿童票40元/人；门票+索道套票178元/人（景区门票为通票，包含平安、金坑大寨、龙脊古壮寨） [心]温馨提示：2026年龙脊梯田稻谷收割时间为11月1日，景色最佳观赏期有限 ⭐️【精彩活动】 ●打卡平安星光梯田（亮灯时间：每晚19:30-22:30） 天光收尽，田埂上的灯次第亮起，金黄稻浪与点点灯火连成一片星河，坠进群山的夜里。 ●龙脊之夜（活动时间：10月1日至10月5日每晚20:00-21:30） 每晚20点在龙脊梯田大寨村广场，光束灯划破梯田夜空，本土乐队原创歌曲响起，篝火晚会上红瑶群众与远道而来的你共舞，现场还有非遗市集和瑶药艾灸，在热闹的夜里用另一种方式走进龙胜。 ●古壮寨晒秋（活动时间：10月1日至10月7日全天） 百年吊脚楼下晒秋正艳，红黄铺满竹架与屋檐，循青石小巷一路逛吃寻找宝藏美食，现打油茶醇、艾粑糯、龙脊水酒甘，你可以把秋味一口口吃进心坎。 ⭐️【打卡点】 ●金坑大寨 想看最盛大的梯田风光，就从清晨登上西山韶乐（1号台）开始，等一场日出云海；午后踱上千层天梯（2号台），层层如阶梯直抵云端；黄昏再转上金佛顶（3号台），缆车直达、视野最开阔，看稻浪被落日染成一地鎏金。 ●平安壮寨 这里开发最早，驻足九龙五虎，九道山脊如龙、五座山包似虎，是龙脊最硬核的山水名场面；回望七星伴月，七个小山包守着山顶一轮银光水田，傍晚光影绝美；两座观景台之间有成熟步道相连，慢慢走上一段，感受轻柔的秋风。 ●古壮寨 此刻寨子里正是晒秋的时节——红椒、黄稻、金玉米晾满竹架屋檐，与青瓦木楼撞出满目浓烈的撞色美学，随手一拍都是画。 图片来源：比格你姥姥、摄影师潘志祥、摄影师陆恒江、达芬奇、mini小布丁、yicor、龙脊梯田景区
-
-**🇬🇧 Actionable Travel Intel**:  
-The Guangxi Department of Culture and Tourism published the official seasonal calendar for the Longji Rice Terraces in Longsheng County, Guilin. The agricultural harvest begins strictly on November 1, 2026. Travelers wishing to witness unbroken golden terraces across Ping'an and Jinkeng Dazhai must schedule their visit between October 1 and October 31. Unified scenic admission is 80 RMB per adult, verified at entrance gates via physical passport.
-
-> 📌 **Verified Source**: [Guangxi Department of Culture & Tourism Official Filing (Sina Weibo)](https://weibo.com/1780560607/RkWeI5RkI)
 
 ---
 
