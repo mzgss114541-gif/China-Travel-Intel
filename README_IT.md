@@ -38,6 +38,16 @@ Tutti i dispacci di viaggio e le circolari ufficiali sono centralizzati in **ing
 
 ---
 
+## ⏱️ Standard editoriale & Frequenza degli aggiornamenti
+
+Per garantire la massima accuratezza ed eliminare qualsiasi allucinazione informativa per i viaggiatori internazionali, questo desk opera secondo un **rigido standard editoriale con costante supervisione umana (Human-in-the-Loop)**:
+
+* **Aggiornamenti su base oraria durante le finestre di monitoraggio attivo**: Durante i periodi operativi espressamente comunicati dalla redazione (es. picchi di traffico per festività nazionali, allerte meteo severe o improvvise variazioni nelle politiche di transito), i dispacci vengono monitorati, verificati e pubblicati con **cadenza oraria**.
+* **Nessuna automazione non presidiata**: Vietiamo categoricamente la pubblicazione massiva automatizzata tramite IA o l'uso di scraper non controllati. Ogni singola notizia viene verificata e confrontata con i registri ufficiali primari (Amministrazione Nazionale dell'Immigrazione, China Railway 12306, autorità provinciali dei trasporti) prima della pubblicazione da parte di specialisti del settore.
+* **Qualità prima del volume (Tolleranza zero per contenuti superflui)**: Al di fuori delle finestre di monitoraggio comunicate o in assenza di criticità per i trasporti, il canale rimane volutamente silenzioso. **Privilegiamo il silenzio fattuale al rumore algoritmico**: ogni bollettino pubblicato garantisce informazioni autentiche, verificate e ad alto valore pratico.
+
+---
+
 ## 🏢 Chi siamo: YouTu Travel
 
 Questo progetto è gestito da **[YouTu Travel](https://yoututravel.com)**, agenzia boutique specializzata nell'organizzazione di viaggi privati su misura e itinerari esclusivi in Cina per viaggiatori internazionali.

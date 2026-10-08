@@ -38,6 +38,16 @@ Todos los boletines oficiales y avisos de viaje están centralizados en **inglé
 
 ---
 
+## ⏱️ Estándar editorial y Frecuencia de actualización
+
+Para garantizar la máxima fiabilidad y evitar cualquier inconsistencia para los viajeros internacionales, esta mesa de información opera bajo un **estricto estándar editorial supervisado por especialistas humanos (Human-in-the-Loop)**:
+
+* **Frecuencia horaria durante ventanas de monitorización activa**: Durante los períodos operativos comunicados por nuestro equipo (p. ej., picos de desplazamiento en festivos nacionales, emergencias meteorológicas o cambios repentinos en normativas de tránsito fronterizo), los despachos se monitorizan, verifican y publican con **frecuencia horaria**.
+* **Cero automatización desatendida**: Prohibimos de forma taxativa la publicación automática masiva por IA sin supervisión y los extractores web no verificados. Cada boletín es investigado personalmente, contrastado frente a registros oficiales primarios (Administración Nacional de Inmigración, China Railway 12306, departamentos provinciales de transporte) y validado por editores humanos antes de su difusión.
+* **Calidad sobre volumen (Compromiso de cero contenido de relleno)**: Fuera de los períodos activos comunicados o ante la ausencia de incidencias graves, el feed se mantiene intencionadamente tranquilo. **Priorizamos el silencio factual frente al ruido algorítmico**: garantizamos que cada reporte publicado constituya información rigurosamente contrastada y de verdadero valor práctico.
+
+---
+
 ## 🏢 Sobre YouTu Travel
 
 Este proyecto está gestionado por **[YouTu Travel](https://yoututravel.com)**, una agencia boutique especializada en itinerarios privados a medida y experiencias de viaje exclusivas en China para visitantes internacionales.
