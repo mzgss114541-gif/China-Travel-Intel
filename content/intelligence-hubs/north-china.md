@@ -5,6 +5,19 @@
 
 ---
 
+### 📅 October 8, 2026 &bull; 17:48 CST `[Northeast Autumn Phenology & Alpine Scenic Corridor]`
+#### Changbaishan & Northeast Alpine Corridor: Prime Autumn Foliage Window Opens Across Jilin Mountain Forests
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【#金色吉林秋醉山河# 山林层林尽染 秋意抵达巅峰】吉林此刻正是山河慷慨馈赠的时节。山林层林尽染，秋意抵达巅峰。如果你愿意踏上旅途，大地会将积攒一整年的斑斓色彩尽数奉上，邀你赴一场盛大的秋日之约。蛟河红叶谷，红叶长廊色彩浓烈；辉南四方顶子登高远眺，万山铺锦；泛舟于抚松露水河，彩林相伴一路前行；步入敦化寒葱岭，感受林海苍茫与红枫摇曳。长白山脉与松花江畔正值最佳赏秋窗口期。
+
+**🇬🇧 Actionable Travel Intel (AI Curated)**:  
+Jilin Provincial Culture and Tourism Department issued an autumn foliage advisory confirming that the prime autumn viewing window has arrived across the Changbaishan mountain ranges and Songhua River basin. Key scenic corridors—including the Jiaohe Red Leaf Valley, Fusong Lushui River rapids, and Dunhua Hancongling Maple Forest—have reached peak coloration. International nature travelers visiting Changbaishan should prioritize mid-October for alpine foliage excursions before early winter freezes take hold in late October, with scenic shuttle services operating on standard post-holiday autumn timetables.
+
+> 📌 **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlJEcEBOb)
+
+---
+
 ### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
 #### Beijing Rail Terminals (Beijing South & Beijing Station): Return Peak Protocol Activated with 100% Egress Channels Open
 

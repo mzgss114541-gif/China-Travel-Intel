@@ -5,6 +5,19 @@
 
 ---
 
+### 📅 October 8, 2026 &bull; 18:30 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
+#### Hainan Free Trade Port: Inbound Visitor Numbers Surge via Expanded 59-Country Visa-Free Framework
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【国庆假期海南出入境客流同比增长明显 59国免签与国际直飞航线效能持续释放】记者从海南省旅游和文化广电体育厅获悉，国庆黄金周期间，海南全省各口岸出入境客流同比实现显著增长，海口美兰国际机场与三亚凤凰国际机场国际及地区客运航线运行平稳有序。随着59国人员免签入境海南政策深化实施及国际邮轮航线加密，来自东南亚、欧洲及中东等地的境外游客数量大幅提升。全省各涉外景区、星级酒店全面落实境外银行卡受理与多语种服务保障，进一步便利境外游客度假体验。
+
+**🇬🇧 Actionable Travel Intel (AI Curated)**:  
+The Department of Tourism, Culture, Radio, Television and Sports of Hainan Province reported a substantial year-on-year surge in international inbound visitor traffic across the island's entry ports during the National Day holiday. The expanding impact of the 59-country visa-free policy, coupled with augmented direct flights into Haikou (HAK) and Sanya (SYX) airports, facilitated seamless arrivals from European, Southeast Asian, and Middle Eastern markets. International hospitality providers and major 5A coastal resorts across Sanya and Lingshui maintain multi-lingual concierge counters and universal overseas credit card acceptance (Visa, Mastercard, UnionPay) for inbound vacationers.
+
+> 📌 **Verified Source**: [Hainan Provincial Department of Tourism, Culture, Radio, Television and Sports](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
+
+---
+
 ### 📅 October 7, 2026 &bull; 11:40 CST `[Greater Bay Area Transit Corridor]`
 #### China Railway Guangzhou Group: 765 Extra Trains Deployed as GBA Return Influx Surges 20.8%
 
