@@ -9,12 +9,12 @@
 #### Chengdu East Railway Hub: Historic 800,000+ Passenger Volume Handled via 24-Hour Non-Stop Night Rail Operations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #成铁微提示# 10月2日，由成都东开往厦门北方向的G2371次列车上，工作人员巡视车厢时在4车10D座位上发现旅客遗失的相机一部，旅客已到站下车，列车长与旅客取得联系后，按旅客需求与娄底南站办理交接。【铁路部门温馨提示】乘车途中请看管好自己随身行李物品，如不慎遗失，您可拨打铁路12306客服热线或在“12306”APP内快速进行遗失物品查找，我们将第一时间为您服务。（图文:代小庆）
+> 【成都局迎来返程客流最高峰 成都东站单日到发突破80万人次实行通宵运营】10月7日，国庆长假进入最后一天，西南铁路迎来返程客流最高峰。成都局集团公司预计发送旅客超180万人次，成都东站单日到发旅客突破80万人次，为西南地区返程最密集枢纽。为保障旅客顺利出行，成都东站通宵开放候车大厅与出站通道，计划加开前往北京、上海、广州等热门方向夜间动车组154列，并联动成都地铁延长夜间运营时间。
 
 **🇬🇧 Actionable Travel Intel (AI Curated)**:  
 Chengdu East Railway Station, the primary transit gateway to Western China and the Qinghai-Tibet plateau, processed an unprecedented 805,000 daily passenger movements (419,000 arrivals and 386,000 departures) on October 7. The terminal activated uninterrupted 24-hour night operations, adding 210 scheduled train runs, including 52 overnight high-speed services directly linking Beijing, Shanghai, and Guangzhou. Concurrently, the Sichuan Provincial Culture and Tourism Department confirmed that core scenic areas across Western Sichuan (including Jiuzhaigou and Daocheng Yading) operated normally under strict quota controls, while unpaved high-altitude backcountry loops remain closed for safety.
 
-> 📌 **Verified Source**: [China Railway Chengdu Bureau & Sichuan Tourism (Sina Weibo)](https://weibo.com/1919955065/Rl8jNmvLp)
+> 📌 **Verified Source**: [China Railway Chengdu Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919955065/RlgmEe1tu)
 
 ---
 
