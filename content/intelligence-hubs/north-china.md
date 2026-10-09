@@ -5,6 +5,19 @@
 
 ---
 
+### October 9, 2026 &bull; 15:27 CST `[Cultural Relic Conservation & Facility Closure]`
+#### Changbaishan Folk Museum: Temporary Closure for Cultural Relic Protection from October 9 to 18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为保护馆藏文物，消除文物损坏风险，长白山民俗博物馆将于2026年10月9日至10月18日进行可移动文物预防性保护作业，作业期间暂停对外开放，10月19日恢复开放。作业期间，一楼松花石艺术馆正常开放，欢迎前往参观。（长白山文旅）
+
+**🇬🇧 Actionable Travel Intel**:  
+Changbaishan Folk Museum announced a temporary closure from October 9 to October 18, 2026, to conduct preventive conservation work on movable cultural relics. The museum will resume public visits on October 19. During the closure period, the Songhua Stone Art Museum on the first floor remains open as normal.
+
+> **Verified Source**: [吉林文旅 (Sina Weibo)](https://weibo.com/2061847537/RlS9DFxEw)
+
+---
+
 ### October 8, 2026 &bull; 09:00 CST `[Museum Exhibition Schedule]`
 #### Palace Museum: Donated Cultural Relics Exhibition at Jingren Palace Extended Through October 15, 2028
 

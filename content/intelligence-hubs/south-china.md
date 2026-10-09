@@ -5,6 +5,19 @@
 
 ---
 
+### October 8, 2026 &bull; 12:01 CST `[Mountain Transit Controls & Road Surface Construction]`
+#### Mount Heng Nanyue Scenic Area: Road Traffic Controls Imposed on Routes X016 and X024 from October 8 to 16
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 南岳中心景区进行公路提质改造，今起，部分路段将进行交通管制，官方公告如下： 南岳中心景区公路提质改造工程部分路段交通管制公告 为保障南岳中心景区公路提质改造工程的路面防滑层施工顺利进行，确保道路交通安全有序，依据相关法律法规，现将施工期间交通管制事项公告如下： 一、管制时间10月8日至10月16日 二、管制路线X016线（电力宾馆至西岭路口）、X024线（西岭路口至南天门） 三、管制措施1. 施工区域管制：上述管制路段实行全封闭施工、分段推进，严禁无关车辆、行人进入施工区域。2. 景区运营车辆通行：康家垅——半山亭——财富山庄——祖师殿往返。3. 景区内居民及工作人员通行：除上述施工路段外均可正常通行。 四、温馨提示1. 施工期间，相关路段关键路口将设置公告牌提示绕行路线，过往车辆及行人请严格遵守交通标志指引和现场工作人员指挥，谨慎慢行。
+
+**🇬🇧 Actionable Travel Intel**:  
+Nanyue District highway authorities announced traffic controls in Mount Heng Nanyue central scenic area from October 8 to October 16 for road anti-skid surfacing work. Route X016 (Power Hotel to Xiling intersection) and Route X024 (Xiling intersection to Nantianmen) are under full closure. Non-authorized vehicles and pedestrians are prohibited from entering construction sections. Scenic area shuttle operations are rerouted between Kangjialong, Banshanting, Caifushanzhuang, and Zushidian.
+
+> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RlHnApy6k)
+
+---
+
 ### October 8, 2026 &bull; 08:58 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
 #### Hainan Port Entry Terminals: Inbound Travel Surges 13.4% with 54,000 Crossings at Haikou & Sanya Airports
 

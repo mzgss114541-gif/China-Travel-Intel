@@ -5,6 +5,32 @@
 
 ---
 
+### October 9, 2026 &bull; 15:26 CST `[UNESCO Heritage Transit & Shuttle Advisory]`
+#### Wulong Karst: Tian Sheng San Qiao Exit Sightseeing Shuttle Suspended for Construction from October 9
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友：为进一步提升景区通行条件，改善游览配套设施，给广大游客提供更加安全、舒适的游览环境，景区于2026年10月9日起，对天生三桥景区出口观光车道路实施全封闭施工。施工期间景区观光车业务暂停运营，请各位游客朋友按照现场工作人员指引、标识标牌提示，通过步游道（约800米）步行至景区出口（中转车换乘点）。待道路施工完毕、具备通行条件后，即刻恢复正常运营，恢复运营时间另行通知。由此给您带来的不便，我们深表歉意，感谢广大游客的理解、支持与配合。（via.武隆文旅） 武隆景区官方咨询电话：400-023-5666 天生三桥景区咨询电话：023-77710118 特此公告 重庆武隆旅游产业（集团）有限公司 2026年10月8日
+
+**🇬🇧 Actionable Travel Intel**:  
+Chongqing Wulong Tourism Industry Group announced that road construction at the exit of Tian Sheng San Qiao scenic area begins October 9, 2026. Sightseeing shuttle services are temporarily suspended during construction. Visitors must follow on-site staff directions and signage to walk approximately 800 meters along the pedestrian trail to reach the scenic area exit transfer bus point. Normal shuttle operations will resume once roadwork is complete.
+
+> **Verified Source**: [重庆文旅 (Sina Weibo)](https://weibo.com/2128914281/RlS96g4X1)
+
+---
+
+### October 9, 2026 &bull; 10:59 CST `[Alpine Closure & Seasonal Scheduling]`
+#### Xinjiang Tourism Authority: Seasonal Closures and Operating Hours Adjusted for Multiple Scenic Areas
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 📣别跑空啦！新疆这些景区暂停对外开放，如有出行计划的小伙伴，看过来~ 👇暂停营业 📅10月12日起 📍巴州巴音布鲁克景区 📅10月8日起 📍塔城野果林景区 📅10月9日起 📍巴州巩乃斯景区 📅10月9日起 📍阿勒泰可可苏里景区 👇对外开放时间有变化 📍乌鲁木齐天山大峡谷景区 📅10月8日至2027年4月30日；10:00开园，17:30停止售票，18:30闭园 📍那拉提景区天神台（雪莲谷）线路 📅9月24日起，天神台（雪莲谷）线路实行季节性封闭，前往该线路的观光车辆（区间车）暂停通行。那拉提索道运营时间同步调整为：9月24日起每日09:00开始运行；17:30停止索道售票；18:00停止索道检票入园；18:30完成全线停运。 📍哈巴河县白桦林景区 📅景区开放时间：09:30-20:00
+
+**🇬🇧 Actionable Travel Intel**:  
+Xinjiang cultural and tourism authorities announced seasonal suspensions and schedule changes across multiple destinations. Suspended operations: Bayinbuluke scenic area closes starting October 12; Tacheng Wild Fruit Forest closed starting October 8; Gongnaisi and Altay Kokusuli closed starting October 9. In Urumqi, Tianshan Grand Canyon operates from 10:00 to 18:30 (ticket sales end at 17:30) from October 8 to April 30, 2027. At Nalati, the Tianshentai (Snow Lotus Valley) route entered seasonal closure on September 24 with shuttle buses halted and cableway operating 09:00 to 18:30 (ticket sales stop at 17:30, entry ends at 18:00). Habahe County Birch Forest operates 09:30 to 20:00.
+
+> **Verified Source**: [新疆是个好地方V (Sina Weibo)](https://weibo.com/2479930984/RlQoVdBss)
+
+---
+
 ### October 8, 2026 &bull; 18:12 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
 #### Tibet Tourism Bureau & Medog Scenic Security: Backcountry Areas and Galongla Tianchi Route Prohibited
 
