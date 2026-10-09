@@ -5,6 +5,32 @@
 
 ---
 
+### September 22, 2026 &bull; 09:20 CST `[National Museum Schedule & Real-Name Reservation]`
+#### National Museum of China: Temporary Closure on September 30 and Real-Name Bookings Open for October 1 to 7
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 各位观众： 为满足广大观众假日期间文化需求，中国国家博物馆2026年国庆假日期间（10月1日至7日）正常开放，9月30日（周三）配合天安门地区活动安排暂停开放。 我馆实行全员实名预约参观，您可在参观前7日内通过中国国家博物馆官网、国家博物馆微信小程序和微信公众号预约免费入馆门票。参观当日须按照您所预约的时段入馆，入馆时请有序排队进行身份证件核录，入馆后请文明观展，共同营造舒适的参观环境。 为保证观众合法权益、维护正常参观秩序，我馆将持续配合公安机关依法严厉打击“黄牛”倒票行为。在此也提醒各位观众不要通过其他途径预约，避免个人信息泄露导致上当受骗和财产损失。 特此公告。 中国国家博物馆 2026年9月22日
+
+**🇬🇧 Actionable Travel Intel**:  
+The National Museum of China announced it is temporarily closed on September 30 to accommodate Tiananmen area events, operating under normal hours from October 1 to 7. All visitors must complete advance real-name ticket reservations via the official website or WeChat channels. Visitors must enter during their booked time slots and undergo identity document verification upon entry.
+
+> **Verified Source**: [中国国家博物馆](https://www.chnmuseum.cn/gbgg/202609/t20260922_282648.shtml)
+
+---
+
+### October 3, 2026 &bull; 16:24 CST `[Heritage & Museum Reservation Saturation Notice]`
+#### Henan Tourism Authority: Capacity Alerts and Ticket Saturation for Longmen Grottoes and Luoyang Museums
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> hct.henan.gov.cn 2026-10-03 16:24 来源： 点击：2365 --> 国庆假期 河南旅游市场火热 多个热门景区、博物馆 迎来客流高峰 提醒大家注意错峰出行 洛阳龙门石窟景区 10月3日线上、线下门票预约已满，10月4日和5日线下还有余票，10月6和7日线上、线下均有余票 图源：龙门石窟官微公众号页面 洛阳老君山景区 10月3日线上预约已满 图源：老君山景区公众号页面 开封万岁山武侠城景区 10月3日线上预约已满，今日可提前购买明日的门票 图源：万岁山武侠城公众号页面 宝泉崖天下景区 10月3日线上预约已满 图源：宝泉景区公众号页面 洛阳博物馆 10月3日、10月4日、10月5日门票预约已满 图源：洛阳博物馆公众号页面 洛阳古墓博物馆 10月3日、10月4日门票预约已满 图源：洛阳古墓博物馆公众号页面 图源：洛阳古墓博物馆公众号页面 请大家合理安排行程 尽量避开…
+
+**🇬🇧 Actionable Travel Intel**:  
+Henan cultural and tourism authorities announced that Longmen Grottoes in Luoyang reached full booking capacity for online and offline tickets on October 3, with offline tickets available for October 4 and 5, and tickets remaining for October 6 and 7. Luoyang Museum reported full capacity for October 3, 4, and 5, while Luoyang Ancient Tombs Museum reached full capacity for October 3 and 4. Travelers are advised to complete advance reservations via official channels.
+
+> **Verified Source**: [河南省文化和旅游厅](http://hct.henan.gov.cn/2026/10-03/3434531.html)
+
+---
+
 ### October 9, 2026 &bull; 15:27 CST `[Cultural Relic Conservation & Facility Closure]`
 #### Changbaishan Folk Museum: Temporary Closure for Cultural Relic Protection from October 9 to 18
 
