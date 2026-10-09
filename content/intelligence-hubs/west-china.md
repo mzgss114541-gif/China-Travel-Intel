@@ -57,6 +57,19 @@ Medog County cultural and tourism authorities in Tibet issued a notice prohibiti
 
 ---
 
+### October 8, 2026 &bull; 12:43 CST `[Cableway Maintenance & Capacity Alert]`
+#### Mount Emei Jinding No. 1 Cableway Closed for Maintenance on October 9–10
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于金顶1号索道（往复式索道）停运检修的公告 尊敬的游客朋友： 您好！ 为确保索道安全运行，峨眉山景区金顶1号索道（往复式索道）计划于2026年10月9日至10日（共两天）进行检修。届时金顶1号索道（往复式索道）停运，仅运行金顶2号索道（循环式索道）。 金顶2号索道（循环式索道）单边运力为1000人/小时，在高峰时段（上行11:00-15:00，下行13:00-17:00）乘坐索道排队时间可能较长，建议您合理安排行程，错峰出行。由此给您带来不便，敬请谅解。 峨眉山风景名胜区管理委员会 2026年10月8日
+
+**🇬🇧 Actionable Travel Intel**:  
+The Mount Emei Scenic Area Management Committee announced that the Jinding No. 1 Cableway is suspended for scheduled maintenance on October 9 and 10, 2026. Only the Jinding No. 2 Cableway remains in service with a one-way capacity of 1000 visitors per hour. Travelers should expect longer queues during peak operating hours (uphill 11:00-15:00, downhill 13:00-17:00) and are advised to plan off-peak transit.
+
+> **Verified Source**: [峨眉山 (Sina Weibo)](https://weibo.com/1975395992/RlHEPhJAH)
+
+---
+
 ### October 7, 2026 &bull; 08:43 CST `[Southwestern Trunk Hub & Highland Mobility]`
 #### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs
 
@@ -135,6 +148,19 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission ti
 
 ---
 
+### October 4, 2026 &bull; 21:15 CST `[Ticketing Quota & Crowd Control]`
+#### Zhongnan Mountain Nanwutai Halts Same-Day Ticket Sales and Enforces Flow Controls
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 】今天（10月4日）终南山南五台景区发布停票限流公告:今日天气晴好，终南山南五台景区客流量较大，为提升广大游客的游览体验，景区将于10月4日13:00采取限流措施。请已预约的游客按预约时间前来参观游览；未预约到门票的游客可选择其他日期进行预约和游览。 望各位游客合理规划出行路线，错峰出游，感谢您的支持与理解！景区咨询电话：4009949234 终南山南五台景区 2026年10月4日
+
+**🇬🇧 Actionable Travel Intel**:  
+The Zhongnan Mountain Nanwutai Scenic Area announced an immediate halt to on-site ticket sales and implemented visitor flow controls starting at 13:00 on October 4, 2026. Only visitors with advance bookings are permitted to enter during their reserved time slots. Unreserved travelers must reschedule for alternate dates. Official inquiry line is 4009949234.
+
+> **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/Rl9iD3pP6)
+
+---
+
 ### October 4, 2026 &bull; 17:30 CST `[Heritage Quota Alert]`
 #### Mount Emei: October 5 Admission Tickets & Golden Summit Buses Completely Sold Out
 
@@ -171,6 +197,19 @@ China Railway Urumqi Bureau scheduled more than 340 additional passenger trains 
 Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center and Yuquan Courtyard was full, with backup parking opened at Huashan Ice & Snow World, Gubaixing, and the East Visitor Center plot. Uphill queues reached 80 minutes on the Sante Cableway and 60 minutes on the Taihua Cableway, while downhill cableways had no waiting queues. Surrounding road traffic remained smooth.
 
 > **Verified Source**: [Mount Hua Tourism Group Official Weibo (Mount Hua Scenic Area)](https://weibo.com/1885449832/Rl6OqfaI7)
+
+---
+
+### October 4, 2026 &bull; 11:35 CST `[Heritage Quota & Ticket Sellout]`
+#### Leshan Giant Buddha Daytime Admission Tickets Sold Out for October 4
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 乐山大佛遗产地10月4日（星期日）白天游山门票已售罄，您可选择夜游凌云山、乐山大佛数字影院等项目，或前往乌尤寺、麻浩崖墓、大佛文化广场等免费区域游览，或前往东方佛都等周边景区游览。 门票售罄后，请您不要轻信和购买非官方授权平台门票以及其他“黄牛票”“门票代办”等产品，避免造成个人财产损失。 祝您假期愉快！ 票务咨询电话：0833-2355557 旅游投诉电话：0833-6116666 乐山大佛文物保护管理委员会 2026年10月4日
+
+**🇬🇧 Actionable Travel Intel**:  
+The Leshan Giant Buddha Cultural Heritage Management Committee announced that all daytime mountain admission tickets for October 4, 2026, are completely sold out. Visitors are advised not to purchase tickets from unauthorized scalpers. Alternative options include night tours of Lingyun Mountain, the digital cinema, or free surrounding areas including Wuyou Temple and Mahao Cliff Tombs. Official ticketing inquiry is 0833-2355557.
+
+> **Verified Source**: [乐山大佛 (Sina Weibo)](https://weibo.com/3502986442/Rl5v9ro1K)
 
 ---
 
@@ -236,3 +275,29 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the commercial opening of the Xi'an–Ankang section of the Xi'an–Chongqing High-Speed Railway. The line connects Zhashui, Zhen'an, and Ankang into the high-speed rail framework radiating from Xi'an.
 
 > **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
+
+---
+
+### September 25, 2026 &bull; 11:44 CST `[High-Speed Rail & Regional Transit]`
+#### Lhasa Railway Station Adds Passenger Trains to Nyingchi, Shigatse, and Xining
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中秋、国庆双节将至，为全力保障节日期间旅客出行安全、顺畅、便捷，拉萨火车站提前研判客流态势、科学统筹运力资源、升级客运服务举措，全方位筑牢“双节”运输保障防线。 据了解，2026年“双节”铁路运输周期为9月23日至10月8日，共计16天。全站预计发送旅客17万人次，日均发送1.06万人次，10月1日将迎来客流峰值，单日预计发送旅客1.5万人次。 针对“双节”长短途客流交织、进出藏与区内短途出游双向激增的特点，拉萨火车站精准对接出行需求，科学布局运力。区内出行方面，在拉萨至林芝、日喀则间加开临时旅客列车，9月24日、30日，10月1日、6日、7日、9日、16日、23日、30日，加开K6833/4次临时旅客列车，9月27日加开C4389/90次临时旅客列车服务拉林区间出行；9月24日、25日、30日，10月1日、4日、6日、7日加开C4393/4次临时旅客列车保障拉日区间客流。
+
+**🇬🇧 Actionable Travel Intel**:  
+Lhasa Railway Station added temporary passenger train services to meet surging travel demand. Regional operations between Lhasa and Nyingchi feature additional train K6833/4 on dates including September 24 and 30, and October 1, 6, 7, 9, 16, 23, and 30, alongside C4389/90 on September 27. Services connecting Lhasa and Shigatse include additional train C4393/4 on September 24, 25, 30, and October 1, 4, 6, and 7. Dual-direction extra trains between Lhasa and Xining include Z9817, Z9818, Z9819, and Z9820, alongside tourist trains Y839 and Y840.
+
+> **Verified Source**: [西藏自治区文化和旅游厅](https://wlt.xizang.gov.cn/xwzx_69/xydt/202609/t20260928_560851.html)
+
+---
+
+### September 1, 2026 &bull; 18:33 CST `[Trail Closure & Safety]`
+#### Daocheng Yading Enforces Strict Ban on Unauthorized Trekking in Core Reserve
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 分类： 景区公告 日期：2026年9月01日 广大游客、旅行社、户外运动组织及社会各界： 稻城亚丁是世界人自然与生物圈保护区、国家级自然保护区、省级风景名胜区，高原生态系统极其脆弱，未开放区域海拔高、地形复杂、气候多变，氧气稀薄、昼夜温差极大，存在雪崩、落石、沼泽、大雾迷路、高原急性疾病等极高生命风险，无通信信号、无应急救援保障条件。为严格保护高原生态环境，防范人员伤亡事故，依据《中华人民共和国生态环境法典》《中华人民共和国青藏高原生态保护法》《中华人民共和国旅游法》《中华人民共和国自然保护区条例》《风景名胜区条例》《四川省风景名胜区条例》等法律法规，现就严禁非法穿越有关事项公告如下： 一、严格管控活动区域。 亚丁国家级自然保护区核心保护区，除法定科研监测、管护巡护、应急救援等情形外，禁止一切人为活动；一般控制区未经主管部门审批，严禁开展穿越、徒步、探险、露营等活动。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Daocheng Yading Nature Reserve Administration strictly prohibits unauthorized trekking, hiking, and camping across undeveloped valleys and core conservation areas. Visitors must remain on official designated tour routes. Illegal entry into core protected areas is subject to fines reaching 100,000, while severe ecological damage faces penalties up to 5,000,000, alongside mandatory liability for emergency rescue costs.
+
+> **Verified Source**: [稻城亚丁景区](https://cn.yadingtour.com/e-news/notice/1009-2026-09-01-10-33-47)
