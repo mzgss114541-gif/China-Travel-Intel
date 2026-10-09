@@ -13,89 +13,98 @@
   <a href="README_ZH.md">中文</a>
 </p>
 
-# China Travel Intel
+# China Travel Intel (Centrale Operativa per i Viaggi in Cina)
 
-> **Il desk ufficiale di intelligence e aggiornamenti di viaggio di [YouTu Travel](https://yoututravel.com)**  
-> Bollettini in tempo reale sui viaggi in Cina, aggiornamenti sulle politiche senza visto, corridoi dell'alta velocità e avvisi operativi per viaggiatori internazionali.
+> **L'Ufficio Notizie e Aggiornamenti Operativi Ufficiale di [YouTu Travel](https://yoututravel.com)**  
+> Notizie in tempo reale sui viaggi in Cina, aggiornamenti sulle esenzioni visti, corridoi ferroviari ad alta velocità e avvisi operativi dei grandi siti monumentali per i viaggiatori internazionali.
 
-[![Sito commerciale: yoututravel.com](https://img.shields.io/badge/Sito%20Commerciale-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
-[![Brand: YouTu Travel](https://img.shields.io/badge/Gestito%20da-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
-[![Feed di notizie: Inglese](https://img.shields.io/badge/Feed%20Notizie-Solo%20Inglese-48bca2.svg?style=flat)]()
-[![Lingue UE supportate](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES-blue.svg?style=flat)]()
+[![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
+[![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
+[![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
+[![EU Languages Supported](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES-blue.svg?style=flat)]()
 
 ---
 
-## 📌 Aggiornamenti Regionali (Feed di Intelligence in Inglese)
+## Hub Informativi Regionali (Feed in Lingua Inglese)
 
-Tutti i dispacci di viaggio e le circolari ufficiali sono centralizzati in **inglese** come lingua internazionale comune di riferimento per i viaggiatori europei e d'oltreoceano.
+Per garantire piena fruibilità a visitatori europei e internazionali, tutti gli avvisi di viaggio e le note operative sono redatti in **inglese** come lingua veicolare internazionale.
 
-| Hub Regionale | Copertura & Destinazioni | Registro Dispacci in Tempo Reale |
+| Hub Regionale | Copertura & Destinazioni | Bollettino Operativo |
 |:---|:---|:---:|
-| **Politiche Nazionali & Transito** | Esenzioni dal visto (15/30 giorni, transito 144 ore TWOV), dogane, prenotazioni treni 12306, aviazione | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/national-policy-transit.md) |
-| **Cina Occidentale** | Shaanxi (Xi'an), Sichuan (Chengdu, Jiuzhaigou), Yunnan, Tibet (Lhasa), Xinjiang, Gansu (Dunhuang) | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/west-china.md) |
-| **Cina Orientale** | Shanghai, Jiangsu (Suzhou), Zhejiang (Hangzhou), Anhui (Huangshan), Jiangxi, Fujian, Shandong | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/east-china.md) |
-| **Cina Meridionale** | Guangdong (Canton, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/south-china.md) |
-| **Cina Settentrionale** | Pechino (Città Proibita, Grande Muraglia), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Consulta Aggiornamenti (EN)](content/intelligence-hubs/north-china.md) |
+| **Politica Nazionale & Transiti** | Esenzioni visti 15/30 giorni, transito TWOV 144 ore, dogane, biglietteria ferroviaria 12306 | [Consulta il bollettino](content/intelligence-hubs/national-policy-transit.md) |
+| **Cina Occidentale** | Shaanxi (Xi'an), Sichuan (Chengdu, Jiuzhaigou), Yunnan, Tibet (Lhasa), Xinjiang, Gansu | [Consulta il bollettino](content/intelligence-hubs/west-china.md) |
+| **Cina Orientale** | Shanghai, Jiangsu (Suzhou), Zhejiang (Hangzhou), Anhui (Huangshan), Jiangxi, Fujian, Shandong | [Consulta il bollettino](content/intelligence-hubs/east-china.md) |
+| **Cina Meridionale** | Guangdong (Guangzhou, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [Consulta il bollettino](content/intelligence-hubs/south-china.md) |
+| **Cina Settentrionale** | Pechino (Città Proibita, Grande Muraglia), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Consulta il bollettino](content/intelligence-hubs/north-china.md) |
 
-> 📱 **In viaggio sul posto in Cina? (Verifica con il personale & Comunicazione con i passanti)**  
-> Se incontri barriere linguistiche ai varchi di accesso dei treni ad alta velocità, ai controlli di imbarco, alla dogana o agli ingressi delle attrazioni, apri uno dei registri regionali qui sopra per accedere alle comunicazioni ufficiali in lingua cinese (`🇨🇳 官方通告原文`). Puoi mostrare questi testi originali direttamente dal tuo telefono a capitreno, capistazione, personale di servizio o passanti e residenti locali per una verifica immediata, indicazioni stradali e orientamento.  
+> **Sul posto in Cina? (Presentazione al personale ferroviario e di frontiera / Show-to-Staff)**  
+> Se incontrate ostacoli linguistici ai varchi ferroviari, imbarchi, controlli doganali o ingressi monumentali, aprite il bollettino regionale corrispondente per visualizzare il testo originale cinese dell'avviso (`🇨🇳 官方通告原文`). Potete mostrarlo direttamente sullo schermo del vostro smartphone al personale di stazione o di bordo per una verifica immediata.  
 >  
-> ⚠️ **Dichiarazione di non responsabilità e Regola di prudenza**: *Questi estratti ufficiali sono archiviati esclusivamente a titolo informativo e di ausilio linguistico. Normative, quote e disposizioni operative variano rapidamente; **se avete il minimo dubbio sull'affidabilità, tempestività o applicabilità di un bollettino, consideratelo sempre come non confermato**. Le autorità in loco, il personale ferroviario e gli ufficiali di frontiera mantengono la totale discrezionalità operativa finale. Non prendete mai decisioni di viaggio irreversibili o critiche senza una verifica indipendente sul posto.*
+> **Clausola di esclusione della responsabilità e principio di prudenza (The Prudence Rule)**: *Questi estratti sono forniti a titolo puramente orientativo e di ausilio linguistico. Poiché disposizioni e operatività sul campo possono variare rapidamente, **in caso di dubbio considerate sempre l'informazione come suscettibile di verifica**. Il personale sul posto dispone di piena discrezionalità. Non assumete decisioni irreversibili senza aver prima consultato il personale autorizzato.*
 
 ---
 
-## ⏱️ Standard editoriali & Frequenza degli aggiornamenti
+## Standard Editoriali & Verifica su Più Livelli
 
-Per garantire la massima affidabilità operativa ai viaggiatori internazionali, questo desk opera secondo **rigide linee guida editoriali e il principio di riscontro con le fonti primarie**:
+Per garantire ai viaggiatori internazionali la massima accuratezza, la nostra centrale informativa osserva **rigorosi criteri editoriali e controlli incrociati con i registri primari di stato**:
 
-* **Aggiornamenti su base oraria durante le finestre di monitoraggio attivo**: Durante i periodi operativi specificamente annunciati dalla redazione (es. picchi di traffico per festività nazionali, allerte meteo severe o variazioni nelle politiche di transito), i dispacci vengono monitorati, verificati e pubblicati con **cadenza oraria**.
-* **Verifica su tre livelli e dichiarazione di non responsabilità**: Ogni bollettino è rigorosamente verificato e confrontato con registri ufficiali primari e pubblicazioni di settore accreditate attraverso tre livelli operativi:
-  1. **Portali istituzionali e trasporti nazionali**: Amministrazione Nazionale dell'Immigrazione (NIA), Dogane Generali, Aviazione Civile (CAAC), China State Railway Group (12306) e Ministero della Cultura e del Turismo.
-  2. **Patrimonio Mondiale e grandi istituzioni culturali**: Museo del Palazzo (Città Proibita), Museo dell'Esercito di Terracotta (Mausoleo di Qinshihuang), Ufficio di gestione del Palazzo del Potala, Accademia di Dunhuang e parchi 5A.
-  3. **Media accreditati e osservatori di settore**: *China Tourism News* (stampa ufficiale nazionale del turismo), *TravelDaily* (economia dei trasporti e hôtellerie), *LVJIE*, *Tripvivid* e *Pinchain* (supply chain e trend del turismo incoming).
-  Questi bollettini forniscono orientamento situazionale e non costituiscono decreti o atti ufficiali. In caso di dubbio, considerateli sempre come non confermati e verificate i piani critici direttamente con il personale in loco o tramite i canali ufficiali prima di mettervi in viaggio.
-* **Qualità prima del volume (Tolleranza zero per contenuti superflui)**: Al di fuori dei periodi di monitoraggio o in assenza di criticità per i trasporti, il canale rimane volutamente silenzioso. **Privilegiamo il silenzio fattuale al rumore di fondo privo di valore**: ogni bollettino pubblicato garantisce informazioni autentiche, verificate e ad alto valore pratico.
-
-
----
-
-## 🏢 Chi siamo: YouTu Travel
-
-Questo progetto è gestito da **[YouTu Travel](https://yoututravel.com)**, agenzia boutique specializzata nell'organizzazione di viaggi privati su misura e itinerari esclusivi in Cina per viaggiatori internazionali.
-
-- **Sito Ufficiale**: [yoututravel.com](https://yoututravel.com)
-- **Contatto Diretto**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
+* **Frequenza oraria durante il monitoraggio attivo**: Nei periodi di picco del traffico, emergenze meteo alpine o variazioni dei visti di frontiera, gli aggiornamenti avvengono a **cadenza oraria**.
+* **Verifica in 4 livelli sulle sole fonti istituzionali primarie**: Tutte le informazioni pubbliche provengono **esclusivamente da istituzioni pubbliche ufficiali**:
+  1. **Sovranità Statale & Controllo delle Frontiere**: Amministrazione Nazionale dell'Immigrazione (NIA), Dogane, Ministero degli Affari Esteri e stazioni di frontiera (Pechino, Shanghai, Shenzhen, Guangzhou, Zhuhai).
+  2. **Infrastrutture di Trasporto & Aeroporti Internazionali**: China State Railway Group (12306) con le 18 direzioni ferroviarie regionali, Aviazione Civile (CAAC) e gestori dei grandi hub aeroportuali.
+  3. **Patrimonio Mondiale & Amministrazioni Monumentali 5A**: Museo del Palazzo (Città Proibita), Esercito di Terracotta, Palazzo del Potala, Accademia di Dunhuang ed enti parco statali.
+  4. **Sicurezza Stradale in Alta Quota & Monitoraggio Meteo**: Polizia stradale provinciale (es. chiusure per neve della statale Duku nello Xinjiang), capitanerie marittime (sospensione traghetti) e protezione civile.
+* **Impegno alla concisione (Qualità prima della quantità)**: Al di fuori dei contesti di rilievo, la centrale mantiene un rigoroso silenzio informativo. **Diamo valore al silenzio accertato rispetto al rumore superfluo**.
 
 ---
 
-## ⭐ Supporto & Feedback
+## Architettura di Sicurezza: Radar Pubblico vs Bollettini Interni Riservati
 
-Se questi aggiornamenti e guide ti sono utili, prendi in considerazione l'idea di **lasciare una stella (⭐) a questo repository**!
+Per evitare qualsiasi rischio di copyright e consolidare l'autorevolezza del portale nei motori di ricerca (linee guida Google Helpful Content), il nostro sistema mantiene una netta separazione:
 
-Accogliamo con entusiasmo i tuoi suggerimenti per la nostra piattaforma indipendente:
-1. Esplora **[YouTu Travel](https://yoututravel.com)** per scoprire i nostri itinerari, funzionalità e guide di viaggio.
-2. Apri una **[Issue](../../issues)** su GitHub per condividere le tue opinioni, suggerimenti o per richiedere nuove destinazioni e approfondimenti ferroviari!
+* **Radar Pubblico di Viaggio (Questo archivio e il sito web YouTu Travel)**: Riporta **esclusivamente circolari ministeriali, comunicati istituzionali e bollettini operativi dei trasporti pubblici** ai sensi del fair use. Non vi è alcun rischio di copyright e le informazioni offrono utilità immediata a chi viaggia.
+* **Archivio Interno Riservato (Base di Conoscenza IA & Redazione)**: I media commerciali di settore (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), gli studi di settore e le testate economico-finanziarie (*WSJ*, *Bloomberg*, *Financial Times*) **sono rigorosamente confinati negli ambienti interni di ricerca IA**. Non vengono mai diffusi sul web né su GitHub, servendo esclusivamente per l'analisi dei trend di mercato e l'ideazione di itinerari privati d'eccellenza.
 
 ---
 
-## 📂 Struttura del Repository
+## Chi Siamo: YouTu Travel
+
+Questo progetto è curato da **[YouTu Travel](https://yoututravel.com)**, punto di riferimento per viaggi privati su misura ed esperienze di alto livello in Cina per visitatori internazionali.
+
+- **Sito web**: [yoututravel.com](https://yoututravel.com)
+- **Contatti diretti**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
+
+---
+
+## Feedback & Assistenza
+
+Se questi bollettini vi sono utili per viaggiare in Cina, potete sostenerci aggiungendo una stella su GitHub.
+
+Saremo lieti di ricevere le vostre considerazioni:
+1. Esplorate **[YouTu Travel](https://yoututravel.com)** per consultare i nostri itinerari e le guide dedicate.
+2. Aprite una segnalazione su GitHub **[Issue](../../issues)** per inviare suggerimenti o proporre nuove rotte ferroviarie e destinazioni da coprire.
+
+---
+
+## Struttura dell'Archivio
 
 ```text
 China-Travel-Intel/
-├── README.md                  # Documentazione in inglese (predefinita)
+├── README.md                  # Documentazione principale in inglese (predefinita)
+├── README_ZH.md               # Documentazione in cinese
 ├── README_FR.md               # Documentazione in francese
 ├── README_DE.md               # Documentazione in tedesco
 ├── README_IT.md               # Documentazione in italiano
 ├── README_ES.md               # Documentazione in spagnolo
-├── assets/brand/              # Risorse visive e loghi ufficiali
+├── assets/brand/              # Risorse grafiche e loghi ufficiali
 └── content/
-    └── intelligence-hubs/     # Ongoing regional travel news dispatches (English)
+    └── intelligence-hubs/     # Bollettini regionali in lingua inglese
 ```
 
 ---
 
-## 📄 Licenza, Attribuzione e Avviso di Informazioni Pubbliche
+## Note Legali, Fonti & Informativa sull'Uso delle Informazioni Pubbliche
 
-* **Informazioni pubbliche e diritti d'autore**: Tutti i bollettini di viaggio, gli aggiornamenti sui trasporti e gli estratti dei comunicati presenti in questo repository sono raccolti e organizzati a partire da **registri ufficiali pubblici e media specializzati verificati** (compresi i portali istituzionali cinesi, le autorità ferroviarie e dell'aviazione civile, le amministrazioni dei siti Patrimonio Mondiale e i media turistici accreditati come *China Tourism News*, *TravelDaily*, *LVJIE*, *Tripvivid* e *Pinchain*). I diritti d'autore sui testi originali appartengono esclusivamente ai rispettivi enti governativi ed emittenti. Questi estratti sono forniti secondo il principio del fair use al solo scopo di supporto linguistico, orientamento pratico e pianificazione degli itinerari per i viaggiatori internazionali.
-* **Consultazione aperta**: I riepiloghi e i registri dei dispacci sono condivisi liberamente a supporto dei viaggiatori.
-* **Marchi e identità**: L'identità visiva, i loghi e i marchi commerciali sono protetti da copyright &copy; [YouTu Travel](https://yoututravel.com). Tutti i diritti riservati.
+* **Informazioni pubbliche e diritti d'autore**: Tutti i bollettini sui trasporti e gli estratti di avvisi ufficiali presenti in questo archivio provengono **esclusivamente da registri pubblici di ministeri, autorità di frontiera, compagnie ferroviarie nazionali ed enti del Patrimonio Mondiale**. I diritti d'autore originali restano di esclusiva pertinenza degli enti governativi ed emittenti. Gli estratti sono riprodotti a titolo di fair use per finalità di assistenza linguistica e orientamento operativo dei viaggiatori internazionali. I media commerciali di seconda mano sono espressamente esclusi da qualsiasi pubblicazione sul portale.
+* **Consultazione aperta**: I bollettini sono liberamente accessibili per il supporto diretto ai viaggiatori.
+* **Tutela del marchio**: L'identità visiva, i loghi e i marchi sono protetti da copyright &copy; [YouTu Travel](https://yoututravel.com). Tutti i diritti riservati.
