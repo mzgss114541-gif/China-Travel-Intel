@@ -5,32 +5,6 @@
 
 ---
 
-### October 7, 2026 &bull; 20:02 CST `[Alpine Cableway Maintenance & Route Adjustment]`
-#### Zhangjiajie Tianmen Mountain: Tianmen Cave Express Cableway Suspended for Maintenance from October 8 to 12
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月8日至12日，张家界天门山景区天门洞快线索道进行检修维护，停止载客运行，请广大游客提前规划好行程。 【检修维护时间】 10月8日至12日 天门洞快线索道停止运行 【景区运营时间】 10月8日至12日景区仅开放 双程索道游览A线 售票时间 6：30-16：00 载客运营时间 7：00 双程索道游览B线、C线套票 单程索道游览1线、2线套票停售 【游览线路调整】 此期间，天门山索道下段（下站至中站）正常运行，上段（中站至山顶上站）因改造施工继续停运，双程索道游览A线套票临时线路调整如下： 自「天门山索道下站」乘索道上山——「索道中站」下索道——换乘「景区游览车」至天门洞——自天门洞后方乘「7级穿山自动扶梯」（上段扶梯）上山顶——游览山顶景点——再乘「7级穿山自动扶梯」（上段扶梯）返回至天门洞——自天门洞广场乘「景区游览车」下山至索道中站——换乘「天门山索道」下山至索道下站 备注：A线票包…
-
-**🇬🇧 Actionable Travel Intel**:  
-Hunan cultural and tourism authorities announced that the Tianmen Cave express cableway in Zhangjiajie Tianmen Mountain Scenic Area is closed for maintenance from October 8 to 12. During this period, the scenic area operates only Line A round-trip cableway tickets with ticketing from 6:30 to 16:00 and operational departure starting at 7:00, while Line B, Line C, and one-way package tickets are suspended. Visitors on temporary Line A take the lower cableway section to the middle station, transfer by shuttle to Tianmen Cave, and take the 7-level trans-mountain escalator to the mountain summit.
-
-> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RlB68m3n2)
-
----
-
-### October 1, 2026 &bull; 13:53 CST `[Transnational Waterfall Quota & Border Transit Advisory]`
-#### Detian Transnational Waterfall: Online Ticket Reservations Near Saturation from October 1 to 4
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【公告丨崇左德天跨国瀑布景区10月1日-4日线上预约即将饱和[话筒][话筒]】游客朋友：国庆假期期间，德天跨国瀑布景区按照“限量 预约 错峰”实名制购票入园，10月1日至10月4日景区预约接待票即将达到饱和状态，已预约购买成功门票的游客，请合理安排行程，按预约时段入园。因假日期间道路交通通行缓慢且恰逢区域交通升级改造抢修阶段，核心景区地处边境不具备大型停车条件，为了您的游览舒适体验，建议您听从现场交通指挥将车辆停放至游客中心停车场。
-
-**🇬🇧 Actionable Travel Intel**:  
-Guangxi cultural and tourism authorities announced that online reservations for Detian Transnational Waterfall in Chongzuo near full capacity from October 1 to 4 under real-name ticketing rules. Visitors holding tickets must enter during their reserved time slots. Due to regional road maintenance and limited parking near the border scenic core, travelers are advised to park at the visitor center parking facilities.
-
-> **Verified Source**: [广西文化和旅游厅 (Sina Weibo)](https://weibo.com/1780560607/RkE7vrSRl)
-
----
-
 ### October 8, 2026 &bull; 12:01 CST `[Mountain Transit Controls & Road Surface Construction]`
 #### Mount Heng Nanyue Scenic Area: Road Traffic Controls Imposed on Routes X016 and X024 from October 8 to 16
 
@@ -70,6 +44,19 @@ China Railway Guangzhou Group handled its peak return travel day on October 7, d
 
 ---
 
+### October 7, 2026 &bull; 20:02 CST `[Alpine Cableway Maintenance & Route Adjustment]`
+#### Zhangjiajie Tianmen Mountain: Tianmen Cave Express Cableway Suspended for Maintenance from October 8 to 12
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月8日至12日，张家界天门山景区天门洞快线索道进行检修维护，停止载客运行，请广大游客提前规划好行程。 【检修维护时间】 10月8日至12日 天门洞快线索道停止运行 【景区运营时间】 10月8日至12日景区仅开放 双程索道游览A线 售票时间 6：30-16：00 载客运营时间 7：00 双程索道游览B线、C线套票 单程索道游览1线、2线套票停售 【游览线路调整】 此期间，天门山索道下段（下站至中站）正常运行，上段（中站至山顶上站）因改造施工继续停运，双程索道游览A线套票临时线路调整如下： 自「天门山索道下站」乘索道上山——「索道中站」下索道——换乘「景区游览车」至天门洞——自天门洞后方乘「7级穿山自动扶梯」（上段扶梯）上山顶——游览山顶景点——再乘「7级穿山自动扶梯」（上段扶梯）返回至天门洞——自天门洞广场乘「景区游览车」下山至索道中站——换乘「天门山索道」下山至索道下站 备注：A线票包…
+
+**🇬🇧 Actionable Travel Intel**:  
+Hunan cultural and tourism authorities announced that the Tianmen Cave express cableway in Zhangjiajie Tianmen Mountain Scenic Area is closed for maintenance from October 8 to 12. During this period, the scenic area operates only Line A round-trip cableway tickets with ticketing from 6:30 to 16:00 and operational departure starting at 7:00, while Line B, Line C, and one-way package tickets are suspended. Visitors on temporary Line A take the lower cableway section to the middle station, transfer by shuttle to Tianmen Cave, and take the 7-level trans-mountain escalator to the mountain summit.
+
+> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RlB68m3n2)
+
+---
+
 ### October 7, 2026 &bull; 10:08 CST `[Greater Bay Area Transit Corridor]`
 #### China Railway Guangzhou Group: Return Travel Dispatched Across GBA with 401 Overnight Bullet Trains
 
@@ -106,6 +93,19 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel" service starting September 20, 2026. Passengers can complete reservations and payments via the Railway 12306 app to travel with their bicycles on the same train according to regulations, facilitating direct integration of high-speed rail and outdoor cycling travel.
 
 > **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
+
+---
+
+### October 1, 2026 &bull; 13:53 CST `[Transnational Waterfall Quota & Border Transit Advisory]`
+#### Detian Transnational Waterfall: Online Ticket Reservations Near Saturation from October 1 to 4
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【公告丨崇左德天跨国瀑布景区10月1日-4日线上预约即将饱和[话筒][话筒]】游客朋友：国庆假期期间，德天跨国瀑布景区按照“限量 预约 错峰”实名制购票入园，10月1日至10月4日景区预约接待票即将达到饱和状态，已预约购买成功门票的游客，请合理安排行程，按预约时段入园。因假日期间道路交通通行缓慢且恰逢区域交通升级改造抢修阶段，核心景区地处边境不具备大型停车条件，为了您的游览舒适体验，建议您听从现场交通指挥将车辆停放至游客中心停车场。
+
+**🇬🇧 Actionable Travel Intel**:  
+Guangxi cultural and tourism authorities announced that online reservations for Detian Transnational Waterfall in Chongzuo near full capacity from October 1 to 4 under real-name ticketing rules. Visitors holding tickets must enter during their reserved time slots. Due to regional road maintenance and limited parking near the border scenic core, travelers are advised to park at the visitor center parking facilities.
+
+> **Verified Source**: [广西文化和旅游厅 (Sina Weibo)](https://weibo.com/1780560607/RkE7vrSRl)
 
 ---
 

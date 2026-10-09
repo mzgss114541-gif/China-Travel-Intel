@@ -5,19 +5,6 @@
 
 ---
 
-### October 5, 2026 &bull; 11:03 CST `[UNESCO Heritage Booking & Real-Name Quotas]`
-#### Huangguoshu Waterfall: Shuiliandong Real-Name Timed Reservations Capped at 6,000 Daily Visitors
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 尊敬的游客朋友： 您好！ 黄果树水帘洞游道狭窄、地貌特殊，为满足游客需求、保障游览安全、提升游玩体验，景区对水帘洞实行实名制分时预约管控，每日限流6000人。 截至2026年10月4日11:19，黄果树水帘洞在10月7日的预约名额已约满。 黄果树景区门票十天有效，水帘洞预约当日有效，已成功预约景区门票但未预约到水帘洞的游客，仍可正常游览大瀑布、天星桥、陡坡塘等区域，建议您合理安排行程，错峰出行或选择其他日期游览水帘洞。 水帘洞预约的唯一官方渠道为“安旅通”平台，且预约服务全程免费。景区从未授权任何第三方机构或个人开展有偿代预约服务，亦不提供任何形式的加急、加价或代办补票通道。所有非官方渠道提供的预约服务均属未经授权的行为，存在欺诈风险，请广大游客务必提高警惕，切勿轻信，以免造成个人信息泄露或经济损失。
-
-**🇬🇧 Actionable Travel Intel**:  
-Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforces real-name timed reservation controls with a daily capacity limit of 6,000 visitors. Main scenic area entrance tickets maintain multi-day validity, while Shuiliandong reservations are valid only on the designated date. Visitors holding general tickets without a cave reservation can still access the Grand Waterfall, Tianxingqiao, and Doupotang areas. Reservations are available exclusively through the official Anlv Tong platform free of charge.
-
-> **Verified Source**: [黄果树景区 (Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
-
----
-
 ### October 9, 2026 &bull; 15:27 CST `[National Forest Park & Infrastructure Closure]`
 #### Taiping National Forest Park: Temporary One-Day Closure for Bridge Maintenance on October 9
 
@@ -122,6 +109,19 @@ Highway authorities implemented traffic control along National Highway 317 betwe
 
 ---
 
+### October 5, 2026 &bull; 11:03 CST `[UNESCO Heritage Booking & Real-Name Quotas]`
+#### Huangguoshu Waterfall: Shuiliandong Real-Name Timed Reservations Capped at 6,000 Daily Visitors
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友： 您好！ 黄果树水帘洞游道狭窄、地貌特殊，为满足游客需求、保障游览安全、提升游玩体验，景区对水帘洞实行实名制分时预约管控，每日限流6000人。 截至2026年10月4日11:19，黄果树水帘洞在10月7日的预约名额已约满。 黄果树景区门票十天有效，水帘洞预约当日有效，已成功预约景区门票但未预约到水帘洞的游客，仍可正常游览大瀑布、天星桥、陡坡塘等区域，建议您合理安排行程，错峰出行或选择其他日期游览水帘洞。 水帘洞预约的唯一官方渠道为“安旅通”平台，且预约服务全程免费。景区从未授权任何第三方机构或个人开展有偿代预约服务，亦不提供任何形式的加急、加价或代办补票通道。所有非官方渠道提供的预约服务均属未经授权的行为，存在欺诈风险，请广大游客务必提高警惕，切勿轻信，以免造成个人信息泄露或经济损失。
+
+**🇬🇧 Actionable Travel Intel**:  
+Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforces real-name timed reservation controls with a daily capacity limit of 6,000 visitors. Main scenic area entrance tickets maintain multi-day validity, while Shuiliandong reservations are valid only on the designated date. Visitors holding general tickets without a cave reservation can still access the Grand Waterfall, Tianxingqiao, and Doupotang areas. Reservations are available exclusively through the official Anlv Tong platform free of charge.
+
+> **Verified Source**: [黄果树景区 (Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
+
+---
+
 ### October 5, 2026 &bull; 10:05 CST `[Heritage Quota Alert]`
 #### Terracotta Warriors Museum: Admission Quotas Fully Exhausted for October 5
 
@@ -174,19 +174,6 @@ Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center 
 
 ---
 
-### October 3, 2026 &bull; 21:00 CST `[Overland Corridor Advisory]`
-#### Duku Highway: Final 4-Day Window Before Winter Closure
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月3日独库日报】 早上好，今天是独库公路开通第125天。 距离2026年独库公路全线封闭倒计时4天！ 截至10月3日21时，独库公路全线运行畅通有序，累计交通量2.24万辆。 今日正常停车。 ◉独库公路部分路段解除交通管制 ⚠️10月3日，独库公路奎屯中心路段天气多云，奎屯公路事业发展中心已完成路面清扫与巡查作业，全线通行正常。
-
-**🇬🇧 Actionable Travel Intel**:  
-Highway authorities issued a 4-day countdown for the seasonal winter closure of the Duku Highway. As of October 3, traffic along the highway operated smoothly with cumulative volume of 22,400 vehicles, and traffic controls were lifted on select sections.
-
-> **Verified Source**: [Sina Weibo Duku Highway Official Traffic Authority (Xinjiang Duku Highway Weather & Traffic Command)](https://weibo.com/6403274291/RkZX4E5fV)
-
----
-
 ### October 3, 2026 &bull; 22:27 CST `[Heritage Quota & Peak Alert]`
 #### Xi'an Terracotta Warriors: October 4 Admission Sold Out & October 5 Approaching Capacity
 
@@ -197,6 +184,19 @@ Highway authorities issued a 4-day countdown for the seasonal winter closure of 
 Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets for October 4 are sold out and tickets for October 5 are nearly sold out, advising visitors to plan their schedules in advance and travel during off-peak periods.
 
 > **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/RkZXe5Z9z)
+
+---
+
+### October 3, 2026 &bull; 21:00 CST `[Overland Corridor Advisory]`
+#### Duku Highway: Final 4-Day Window Before Winter Closure
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【10月3日独库日报】 早上好，今天是独库公路开通第125天。 距离2026年独库公路全线封闭倒计时4天！ 截至10月3日21时，独库公路全线运行畅通有序，累计交通量2.24万辆。 今日正常停车。 ◉独库公路部分路段解除交通管制 ⚠️10月3日，独库公路奎屯中心路段天气多云，奎屯公路事业发展中心已完成路面清扫与巡查作业，全线通行正常。
+
+**🇬🇧 Actionable Travel Intel**:  
+Highway authorities issued a 4-day countdown for the seasonal winter closure of the Duku Highway. As of October 3, traffic along the highway operated smoothly with cumulative volume of 22,400 vehicles, and traffic controls were lifted on select sections.
+
+> **Verified Source**: [Sina Weibo Duku Highway Official Traffic Authority (Xinjiang Duku Highway Weather & Traffic Command)](https://weibo.com/6403274291/RkZX4E5fV)
 
 ---
 

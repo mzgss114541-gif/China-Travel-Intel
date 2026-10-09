@@ -5,32 +5,6 @@
 
 ---
 
-### October 6, 2026 &bull; 14:57 CST `[Scenic Area Admission & Senior Exemption Policy]`
-#### Mount Huangshan: Free Admission for Visitors Aged 60 and Above from October 8 to 18
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 秋意渐浓，重阳将至。10月8日至18日，黄山风景区、花山谜窟景区、太平湖景区面向60周岁及以上人群开展免门票活动。符合条件的游客，需进入“黄山旅游官方平台”支付宝或微信小程序，提前预约活动专属的【重阳节活动黄山门票】。
-
-**🇬🇧 Actionable Travel Intel**:  
-Anhui and Zhejiang cultural and tourism authorities announced a free admission promotion for visitors aged 60 and above across Mount Huangshan Scenic Area, Huashan Mystery Grottoes, and Taiping Lake from October 8 to 18. Eligible visitors must complete advance reservations for designated event tickets via the official Huangshan Tourism mini-program.
-
-> **Verified Source**: [安徽文旅 (Sina Weibo)](https://weibo.com/2062557711/RlpFZkKyp)
-
----
-
-### September 29, 2026 &bull; 15:43 CST `[Museum Renovation & Facility Closure]`
-#### Suzhou Lin Zexu Memorial Hall: Temporary Closure for Exhibition Upgrades from September 30 to October 25
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 苏州林则徐纪念馆（姑苏区道前街170号江苏按察使署旧址内）2026年9月30日至10月25日期间闭馆进行展陈提升改造，10月26日焕新归来。 苏州林则徐纪念馆临时闭馆通告 亲爱的市民和游客朋友们： 为进一步优化参观体验、丰富展陈内容、提升服务品质，苏州林则徐纪念馆将进行展陈全面提升改造。闭馆期间，场馆暂停对外开放及所有线下活动。由此给您带来的不便，我们深表歉意，敬请谅解。 闭馆时间：2026年9月30日至10月25日 咨询电话：18012606566
-
-**🇬🇧 Actionable Travel Intel**:  
-Suzhou cultural and tourism authorities announced that Suzhou Lin Zexu Memorial Hall is temporarily closed for exhibition upgrades from September 30 to October 25, 2026. The venue is scheduled to reopen on October 26.
-
-> **Verified Source**: [苏州文化旅游资讯 (Sina Weibo)](https://weibo.com/2571243254/RklZadWdL)
-
----
-
 ### October 9, 2026 &bull; 14:00 CST `[Museum Renovation & Temporary Closure]`
 #### Zhangjiagang Museum: Temporary Closure for Exhibition Hall Upgrades Starting October 10
 
@@ -83,6 +57,19 @@ China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on Oc
 
 ---
 
+### October 6, 2026 &bull; 14:57 CST `[Scenic Area Admission & Senior Exemption Policy]`
+#### Mount Huangshan: Free Admission for Visitors Aged 60 and Above from October 8 to 18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意渐浓，重阳将至。10月8日至18日，黄山风景区、花山谜窟景区、太平湖景区面向60周岁及以上人群开展免门票活动。符合条件的游客，需进入“黄山旅游官方平台”支付宝或微信小程序，提前预约活动专属的【重阳节活动黄山门票】。
+
+**🇬🇧 Actionable Travel Intel**:  
+Anhui and Zhejiang cultural and tourism authorities announced a free admission promotion for visitors aged 60 and above across Mount Huangshan Scenic Area, Huashan Mystery Grottoes, and Taiping Lake from October 8 to 18. Eligible visitors must complete advance reservations for designated event tickets via the official Huangshan Tourism mini-program.
+
+> **Verified Source**: [安徽文旅 (Sina Weibo)](https://weibo.com/2062557711/RlpFZkKyp)
+
+---
+
 ### October 4, 2026 &bull; 14:11 CST `[Cultural Exhibition Notice]`
 #### Shanghai Forbidden City Treasures Exhibition: Final Days Ahead of October 7 Conclusion
 
@@ -93,6 +80,19 @@ China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on Oc
 The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Museum" in Shanghai enters its final days, with the last day of exhibition on October 7. The exhibition features 101 rare textile and embroidery artifacts from the Palace Museum before they conclude their display in Shanghai and return to Beijing.
 
 > **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (Sina Weibo)](https://weibo.com/2014034660/Rl6waDekB)
+
+---
+
+### September 29, 2026 &bull; 15:43 CST `[Museum Renovation & Facility Closure]`
+#### Suzhou Lin Zexu Memorial Hall: Temporary Closure for Exhibition Upgrades from September 30 to October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 苏州林则徐纪念馆（姑苏区道前街170号江苏按察使署旧址内）2026年9月30日至10月25日期间闭馆进行展陈提升改造，10月26日焕新归来。 苏州林则徐纪念馆临时闭馆通告 亲爱的市民和游客朋友们： 为进一步优化参观体验、丰富展陈内容、提升服务品质，苏州林则徐纪念馆将进行展陈全面提升改造。闭馆期间，场馆暂停对外开放及所有线下活动。由此给您带来的不便，我们深表歉意，敬请谅解。 闭馆时间：2026年9月30日至10月25日 咨询电话：18012606566
+
+**🇬🇧 Actionable Travel Intel**:  
+Suzhou cultural and tourism authorities announced that Suzhou Lin Zexu Memorial Hall is temporarily closed for exhibition upgrades from September 30 to October 25, 2026. The venue is scheduled to reopen on October 26.
+
+> **Verified Source**: [苏州文化旅游资讯 (Sina Weibo)](https://weibo.com/2571243254/RklZadWdL)
 
 ---
 
