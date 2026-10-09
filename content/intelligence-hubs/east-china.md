@@ -5,6 +5,19 @@
 
 ---
 
+### October 9, 2026 &bull; 14:00 CST `[Museum Renovation & Temporary Closure]`
+#### Zhangjiagang Museum: Temporary Closure for Exhibition Hall Upgrades Starting October 10
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 张家港博物馆自10月10日起临时闭馆 各位市民、观众朋友： 因博物馆大厅改造、通史厅等多个展厅提升维护工作需要，本馆将于10月10日（周六）起临时闭馆，开馆时间另行通知。由此给您带来的不便，敬请谅解，感谢您的理解、支持与配合！ 张家港博物馆 2026年10月8日
+
+**🇬🇧 Actionable Travel Intel**:  
+Zhangjiagang Museum announced a temporary closure beginning October 10 for hall renovations and exhibition space maintenance. Reopening dates will be announced separately.
+
+> **Verified Source**: [苏州文化旅游资讯 (Sina Weibo)](https://weibo.com/2571243254/RlRAx53nz)
+
+---
+
 ### October 8, 2026 &bull; 16:49 CST `[Holiday Travel Consumption Trends & Experiential Tourism]`
 #### Holiday Travel Consumption Review: County Destinations and In-Depth Cultural Tourism Experience Surge
 
