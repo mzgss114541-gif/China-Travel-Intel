@@ -5,6 +5,19 @@
 
 ---
 
+### October 9, 2026 &bull; 16:49 CST `[National Rail Transit & Cross-Border Passenger Record]`
+#### China State Railway Group: Holiday Travel Transport Concludes with Record Rail and Cross-Border Volumes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 9月23日至10月8日，为期16天的铁路中秋国庆假期运输圆满收官，运输安全平稳有序，全国铁路累计发送旅客3.02亿人次，国家铁路累计发送货物1.92亿吨，同比分别增长24.6%、5.0%，呈现客货两旺的良好态势。 今年中秋国庆双节假期相邻，旅游、探亲、休闲等出行和节日物资运输需求旺盛，铁路部门坚持以人民为中心的发展思想，积极适应旺盛的客货运输需求，增加运力投放，提升服务品质，为旅客假日平安有序温馨出行和国民经济平稳运行提供了有力支撑。 一是多项客运指标创历史新高。优化铁路12306系统功能，科学制定售票策略，实施系列风控措施，维护公平售票环境，提升旅客购票体验，9月23日发售火车票2973.7万张、创单日售票量历史新高。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group reported that national railways handled 302,000,000 passenger journeys across the 16-day holiday transport period from September 23 to October 8. On October 1, passenger dispatches peaked at 25,204,000 journeys with 14,885 passenger trains operating. Cross-border transit services handled 1,660,000 passenger journeys on the Guangzhou–Shenzhen–Hong Kong High-Speed Railway and 14,000 journeys on the China–Laos Railway.
+
+> **Verified Source**: [中国铁路 (Sina Weibo)](https://weibo.com/2549511007/RlSGX1esN)
+
+---
+
 ### October 8, 2026 &bull; 12:00 CST `[National Trunk Expansion & High-Speed Rail Corridor]`
 #### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
 
