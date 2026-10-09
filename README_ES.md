@@ -9,7 +9,8 @@
   <a href="README_FR.md">Français</a> &bull;
   <a href="README_DE.md">Deutsch</a> &bull;
   <a href="README_IT.md">Italiano</a> &bull;
-  <b>Español</b>
+  <b>Español</b> &bull;
+  <a href="README_ZH.md">中文</a>
 </p>
 
 # China Travel Intel
