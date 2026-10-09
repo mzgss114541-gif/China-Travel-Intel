@@ -25,7 +25,7 @@
 
 ---
 
-## 📌 Regional Updates (English Intelligence Feed)
+## Regional Updates (English Intelligence Feed)
 
 All real-time travel dispatches and policy advisories are centralized in **English** as the unified international lingua franca for European and overseas visitors.
 
@@ -37,28 +37,37 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 | **South China** | Guangdong (Guangzhou, Shenzhen), Guangxi (Guilin, Yangshuo), Hainan, Hunan (Zhangjiajie), Hubei | [View Updates](content/intelligence-hubs/south-china.md) |
 | **North China** | Beijing (Forbidden City, Great Wall), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [View Updates](content/intelligence-hubs/north-china.md) |
 
-> 📱 **Traveling On-Site in China? (Show-to-Staff & On-the-Ground Communication)**  
-> If you encounter language barriers at high-speed railway gates, boarding checkpoints, customs inspection channels, or scenic landmark entries, click into any regional dispatch log above to view the raw official Chinese announcements (`🇨🇳 官方通告原文`). You can display these primary source notices directly on your mobile screen to train conductors, station masters, staff members, or helpful locals and passersby for instant on-site verification, wayfinding, and communication.  
+> **Traveling On-Site in China? (Show-to-Staff & On-the-Ground Communication)**  
+> If you encounter language barriers at high-speed railway gates, boarding checkpoints, customs inspection channels, or scenic landmark entries, click into any regional dispatch log above to view the raw official Chinese announcements (`🇨🇳 官方通告原文`). You can display these primary source notices directly on your mobile screen to train conductors, station masters, staff members, or checkpoint personnel for instant on-site verification, wayfinding, and communication.  
 >  
-> ⚠️ **Disclaimer & The Prudence Rule**: *These official excerpts are curated strictly for situational reference and translation assistance. Because regulations, ticket allocations, and frontline operational directives evolve dynamically, **if you ever doubt the reliability, timeliness, or applicability of any dispatch, always treat it as unconfirmed**. On-site authorities, railway crews, and border checkpoint officers retain full discretionary discretion. Never make irreversible or time-critical travel decisions without independent on-site verification.*
+> **Disclaimer & The Prudence Rule**: *These official excerpts are curated strictly for situational reference and translation assistance. Because regulations, ticket allocations, and frontline operational directives evolve dynamically, **if you ever doubt the reliability, timeliness, or applicability of any dispatch, always treat it as unconfirmed**. On-site authorities, railway crews, and border checkpoint officers retain full discretionary discretion. Never make irreversible or time-critical travel decisions without independent on-site verification.*
 
 ---
 
-## ⏱️ Editorial Standards & Dispatch Cadence
+## Editorial Standards & Multi-Tier Verification
 
 To maximize operational accuracy and dependability for international travelers, this intelligence desk operates under **Rigorous Editorial Guidelines, Primary Registry Corroboration, and Specialist Audits**:
 
 * **Hourly Cadence During Active Monitoring**: During peak transit rushes, adverse alpine weather emergencies, or sudden border policy updates, dispatches are monitored, verified, and updated on an **hourly cadence**.
-* **Three-Tier Verification & Disclaimer**: Every bulletin is investigated and corroborated against authoritative primary registries and certified industry publications across three operational tiers:
-  1. **Sovereign & Transport Portals**: National Immigration Administration (NIA), General Administration of Customs, Civil Aviation Administration of China (CAAC), China State Railway Group (12306), and the Ministry of Culture and Tourism.
-  2. **World Heritage & Cultural Administrations**: The Palace Museum, Emperor Qinshihuang's Mausoleum Site Museum (Terracotta Army), Potala Palace Management Office, Dunhuang Academy, and provincial 5A landmark authorities.
-  3. **Accredited Industry & Trade Intelligence Media**: *China Tourism News* (official national tourism press), *TravelDaily* (commercial aviation/hospitality), *LVJIE*, *Tripvivid*, and *Pinchain* (inbound trade & destination insights).
-  However, because field conditions and frontline directives evolve dynamically, 100% real-time infallibility cannot be legally guaranteed. These dispatches provide situational guidance rather than official decrees. When in doubt, travelers must treat items as unconfirmed and verify critical itinerary arrangements directly with frontline railway staff, station masters, or official customer hotlines before traveling.
+* **Four-Tier Primary Official Source Verification**: Every public bulletin is sourced and cross-verified exclusively against authoritative primary public registries and official statutory authorities:
+  1. **Sovereign Administration & Border Inspection**: National Immigration Administration (NIA), General Administration of Customs, Ministry of Foreign Affairs, and municipal border inspection authorities (Beijing, Shanghai, Shenzhen, Guangzhou, Zhuhai).
+  2. **National Transit & Core Gateway Infrastructure**: China State Railway Group (12306) and the 18 regional railway administrations, Civil Aviation Administration of China (CAAC), and international airport hubs.
+  3. **World Heritage & Cultural Preservation Administrations**: The Palace Museum, Emperor Qinshihuang's Mausoleum Site Museum (Terracotta Army), Potala Palace Management Office, Dunhuang Academy, and provincial 5A landmark authorities.
+  4. **Emergency Transport & Highland Weather Patrols**: Provincial traffic police (e.g. Xinjiang Duku Highway seasonal and weather controls), maritime safety administrations (ferry suspensions), and emergency management offices.
 * **Zero-Fluff Commitment (Quality Over Volume)**: Outside active monitoring windows or when no high-impact travel disruptions occur, this intelligence desk remains intentionally quiet. **We prioritize factual silence over meaningless noise**—ensuring that every bulletin published represents verified, high-impact, actionable intelligence.
 
 ---
 
-## 🏢 About YouTu Travel
+## The Architectural Firewall: Public Radar vs. Private Internal Briefings
+
+To maintain absolute copyright compliance, search engine authority (Google Helpful Content standards), and traveler relevance, our system strictly enforces an architectural firewall between public publishing and private research:
+
+* **Public Travel Radar (This Repository & Website)**: Publishes **strictly primary official notices, statutory announcements, and operational transit bulletins** under fair use. These notices carry zero copyright risk, zero commercial fluff, and provide immediate, actionable orientation for travelers navigating border entries, transit hubs, and cultural landmarks.
+* **Air-Gapped Private Internal Intelligence (AI Knowledge Base & Editorial Desk)**: Commercial industry trade media (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), think-tank whitepapers, and international financial media (*WSJ*, *Bloomberg*, *Financial Times*) are **strictly quarantined within private internal AI ingestion pipelines**. They are **never published on public websites or GitHub repositories**. These materials are utilized solely as background intelligence for internal trend analysis, macro policy tracking, and designing proprietary bespoke itineraries.
+
+---
+
+## About YouTu Travel
 
 This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique specialist crafting bespoke private journeys and seamless travel experiences across China for international visitors.
 
@@ -67,21 +76,22 @@ This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a bou
 
 ---
 
-## ⭐ Star & Feedback
+## Feedback & Inquiries
 
-If these travel updates and guides are helpful to you, please consider **giving this repo a star (⭐)**!
+If these travel updates and guides are helpful to you, please consider starring this repository.
 
-We would love your feedback on our standalone platform:
+We welcome feedback on our standalone platform:
 1. Explore **[YouTu Travel](https://yoututravel.com)** to see our live itineraries, features, and travel guides.
-2. Open a GitHub **[Issue](../../issues)** to share your feedback, suggestions, or request specific destinations and rail insights you would like us to cover next!
+2. Open a GitHub **[Issue](../../issues)** to share your feedback, suggestions, or request specific destinations and rail corridors you would like us to cover next.
 
 ---
 
-## 📂 Repository Layout
+## Repository Layout
 
 ```text
 China-Travel-Intel/
 ├── README.md                  # English documentation (default)
+├── README_ZH.md               # Chinese documentation
 ├── README_FR.md               # French documentation
 ├── README_DE.md               # German documentation
 ├── README_IT.md               # Italian documentation
@@ -93,8 +103,8 @@ China-Travel-Intel/
 
 ---
 
-## 📄 License, Attribution & Public Information Notice
+## License, Attribution & Public Fair Use Notice
 
-* **Public Information & Copyright Disclaimer**: All travel intelligence dispatches, transport bulletins, and official notice excerpts in this repository are gathered and compiled from **publicly accessible official registries and verified trade media** (including Chinese state agencies, national rail and civil aviation authorities, provincial/municipal cultural & tourism bureaus, World Heritage site administrations, and accredited tourism trade platforms like *China Tourism News*, *TravelDaily*, *LVJIE*, *Tripvivid*, and *Pinchain*). Original announcement copyrights remain strictly with their respective issuing authorities and rights holders. These excerpts are compiled and presented under fair use solely for international travelers' linguistic verification, informational assistance, and journey planning.
+* **Public Information & Copyright Disclaimer**: All travel intelligence dispatches, transport bulletins, and official notice excerpts in this repository are gathered and compiled exclusively from **publicly accessible official government registries, port administrations, national transit operators, and world heritage authorities**. Original announcement copyrights remain strictly with their respective statutory issuing authorities. These excerpts are compiled and presented under fair use solely for international travelers' linguistic verification, informational assistance, and journey planning. Commercial trade media and secondary reporting are strictly excluded from public dissemination.
 * **Open Traveler Reference**: Curated briefings and dispatch logs are shared openly for traveler guidance.
 * **Brand Assets**: Brand identity, logos, and trademarks are copyright &copy; [YouTu Travel](https://yoututravel.com). All rights reserved.
