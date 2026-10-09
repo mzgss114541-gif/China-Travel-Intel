@@ -5,6 +5,32 @@
 
 ---
 
+### October 9, 2026 &bull; 13:30 CST `[Regional Rail & Urban Interconnection]`
+#### Wuhan Intercity Railway Timetable Adjusted with Early Morning Service from October 11
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据最新列车时刻表，新增的D5876次列车（仙桃-黄冈东）将于早上6:52从仙桃站准时发车。该趟列车沿途经停汉川、武昌、武汉东、黄冈西。这趟早班车的开行，意味着在武汉武昌、光谷（武汉东站）等片区上班的仙桃“早八人”，可以在家门口吃完早餐后从容出发，预计7点半左右即可抵达武汉，完美赶上正常上班时间。与此同时，清晨6:33，由汉口开来的D5871次列车也将抵达仙桃站，极大方便了在汉过夜的仙桃人一早返乡。 除了备受瞩目的清晨首班车，本次调图后，仙桃站的列车线路和时间分布更加科学密集，为武仙同城化提供了全方位的交通支撑： 上午时段：10:50，D5768次（仙桃-阳新）经停武昌、武汉东、葛店南等站；11:05，D5220次前往汉口。
+
+**🇬🇧 Actionable Travel Intel**:  
+Under the new rail operating schedule effective October 11, additional intercity train D5876 operates from Xiantao at 6:52 to Huanggang East, stopping at Hanchuan, Wuchang, Wuhan East, and Huanggang West. Opposite service D5871 from Hankou arrives at Xiantao at 6:33. Synchronized municipal bus routes 7 and 10 provide early transit connections before 6:30.
+
+> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/RlRo1lAAX)
+
+---
+
+### October 9, 2026 &bull; 00:00 CST `[Port Clearance & Border Mobility]`
+#### Shenzhen Huanggang Port Opens New Clearance Facility with 24-Hour Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据《国务院关于同意启用皇岗口岸港方口岸区及相关延伸区的批复》，皇岗口岸港方口岸区及相关延伸区自2026年7月31日零时起启用并依照香港特别行政区法律实施管辖，正式开通日期由粤港两地政府商定。 皇岗口岸新联检大楼已通过验收，深港双方已完成一系列系统测试、试运行及应急演练，确认皇岗口岸已具备开通条件。经粤港两地政府协商， 皇岗口岸定于2026年10月12日上午6时30分正式开通运行 ，为旅客和客运车辆提供24小时通关服务，同时暂停往来深圳皇岗口岸临时旅检楼和香港落马洲管制站的旅检服务。 深圳市人民政府口岸办公室 香港特别行政区政府保安局 2026年10月9日 附件： 主办单位：深圳市人民政府口岸办公室 备案号： 粤
+
+**🇬🇧 Actionable Travel Intel**:  
+The Shenzhen Port Office and Hong Kong Security Bureau announced that the reconstructed Huanggang Port officially opens operations at 6:30 on October 12, 2026. The new inspection complex provides 24-hour border clearance services for passengers and vehicles between Shenzhen and Hong Kong. Temporary passenger inspection building services are simultaneously discontinued.
+
+> **Verified Source**: [深圳市口岸办](https://ka.sz.gov.cn/xxgk/qt/tzgg/content/post_13011201.html)
+
+---
+
 ### October 8, 2026 &bull; 12:01 CST `[Mountain Transit Controls & Road Surface Construction]`
 #### Mount Heng Nanyue Scenic Area: Road Traffic Controls Imposed on Routes X016 and X024 from October 8 to 16
 
@@ -70,6 +96,19 @@ China Railway Guangzhou Group dispatched an estimated 2,835,000 passengers on Oc
 
 ---
 
+### October 6, 2026 &bull; 07:59 CST `[Duty-Free & Tax Refund Policy]`
+#### Guangxi Implements Cross-Regional Buy-Now Refund-Now Departure Tax Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 广西壮族自治区人民政府门户网站 - www.gxzf.gov.cn 个人中心 无障碍 老年人模式 集 EN | 繁 | 简 | 广西壮族自治区人民政府门户网站 热搜词： 营商环境 学籍 社保 企业开办 身份证 桂惠贷 公积金 养老保险 网站首页 政府信息公开 政策 政府信息公开指南 政府信息公开制度 主动公开事项目录 法定主动公开内容 政府信息公开年报 政府公报 依申请公开 政府网站年度报表 国家、各设区市和自治区部门链接 政务服务 综合服务 政务资讯 个人服务 法人服务 服务清单 特色创新 好差评 政民互动 @自治区人民政府 12345接诉即办 新闻发布 回应关切 调查征集 在线访谈 “桂在问”知识库 广西数据 数据开放 分类数据 广西统计数据发布 主要经济指标 分项数据 商品价格 数据分析 易达东盟 要闻 相关政策 便民信息 东盟成员国概况 经贸往来 文化交流 东盟旅游 东盟投资开放天…
+
+**🇬🇧 Actionable Travel Intel**:  
+Under the nationwide mutual recognition policy effective September 1, foreign travelers utilizing the Buy-Now Refund-Now departure tax scheme in Nanning can collect refund advances directly on-site and complete Customs verification at any departure port across China. Travelers are no longer required to depart from the purchase city. The program is supported by 168 certified tax-refund stores across 313 retail locations in Nanning.
+
+> **Verified Source**: [广西壮族自治区文化和旅游厅](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
+
+---
+
 ### October 4, 2026 &bull; 09:13 CST `[Waterway & Weather Alert]`
 #### Guangxi Weather Alert: Moderate to Heavy Rain and Gale Warnings Across Coastal & Eastern Cities
 
@@ -83,6 +122,19 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 
 ---
 
+### October 4, 2026 &bull; 08:00 CST `[Railway Terminal Logistics & Drop-off Rule]`
+#### Wuhan Hankou Railway Station Imposes 7-Minute Limit on South Square Drop-off Zone
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【由汉口站出行别误车！临时落客区：“即停即走、7分钟限时通行”】国庆假期，汉口火车站及周边道路将迎来客流与车流高峰。9月28日，有关部门发布交通组织调整信息：自2026年9月29日起，原汉口火车站南广场二号停车场改造为南广场临时落客区，该片区实行“即停即走、7分钟限时通行”的管理办法。 网页链接
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Wuhan Bureau announced that starting September 29, 2026, the former south parking facility at Hankou Railway Station was converted into a temporary passenger drop-off zone. The facility enforces a strict stop-and-go policy with a maximum 7 minutes transit window. Drivers dropping off rail passengers must depart immediately and avoid stopping along surrounding roads.
+
+> **Verified Source**: [武汉铁路 (Sina Weibo)](https://weibo.com/1919291765/Rl45Z2lrt)
+
+---
+
 ### October 3, 2026 &bull; 16:21 CST `[Tropical Rail Mobility]`
 #### Hainan High-Speed Loop: Pilot "Bike-on-Train" Service Available via 12306 App
 
@@ -93,6 +145,19 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel" service starting September 20, 2026. Passengers can complete reservations and payments via the Railway 12306 app to travel with their bicycles on the same train according to regulations, facilitating direct integration of high-speed rail and outdoor cycling travel.
 
 > **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
+
+---
+
+### October 3, 2026 &bull; 10:53 CST `[Heritage Quota & Flow Control]`
+#### Mount Heng Central Scenic Area Suspends Same-Day Online Bookings on October 3
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于南岳衡山中心景区10月3日限流的温馨提示 尊敬的游客朋友们： 南岳衡山中心景区10月3日预约入园人数已接近最大承载量，为保障游客安全，上午11时起暂停当日线上预约，无预约不入园。 已成功预约的游客请携带身份证在预约时段内有序入园；在规定时间内未入园的游客请通过“南岳一码游”申请退款或改签。 尚未购票的游客建议预约10月4日及后续日期的门票和景区交通票，也可选择前往南岳大庙、万寿大鼎、水濂洞、祝融探火太空体验馆、南岳里、时光之城·1944以及东洲岛、衡山渡等周边景区游览。 给您造成的不便，敬请谅解，如需帮助，请拨打景区咨询电话0734-12345。 南岳区文化旅游广电体育局 湖南南岳文化旅游集团有限公司 2026年10月3日 三湘都市报的微博视频 视频无法显示，请前往 微博视频 观看。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Nanyue Mount Heng Scenic Area Administration suspended same-day online reservations starting at 11 am on October 3, 2026, as bookings neared maximum capacity. Entry is strictly barred without an advance reservation. Reserved visitors must enter during their assigned time slot with official identification. Unreserved travelers should book for October 4 or later dates. Inquiries can be directed to 0734-12345.
+
+> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RkVNwrD4N)
 
 ---
 
