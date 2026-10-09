@@ -3,18 +3,7 @@
 > **Official Live Desk**: [https://yoututravel.com/west-china-travel-updates/](https://yoututravel.com/west-china-travel-updates/)  
 > **Coverage**: Shaanxi (Xi'an), Sichuan (Chengdu, Jiuzhaigou), Yunnan (Lijiang, Shangri-La), Tibet (Lhasa), Xinjiang (Silk Road), Gansu (Dunhuang), Qinghai, Chongqing.
 
----
 
-### October 8, 2026 &bull; 18:12 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
-#### Tibet Tourism Bureau & Medog Scenic Security: Backcountry Areas and Galongla Tianchi Route Prohibited
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 墨脱县未开发开放区域地形复杂、气候多变、通信不畅且缺乏安全设施，存在极高安全风险。任何组织或个人不得带领游客进入此类区域。个别已开发区域有固定通行期限，出行前请认真了解相关讯息，如，嘎隆拉天池徒步路线每年只有7-9月是安全通行期，且今年因天气原因已通告提前全面禁止通行，非通行期请勿进入。请广大干部群众，向导、驾驶员等旅游服务人员自觉遵守法律法规，不组织、不带领、不推荐游客进入未开发开放区域。请游客朋友通过正规渠道选择已开发景区游览，切勿轻信“野路子”等揽客信息，主动拒绝前往危险区域。
-
-**🇬🇧 Actionable Travel Intel**:  
-Medog County cultural and tourism authorities in Tibet issued a notice prohibiting any organization or individual from guiding tourists into undeveloped backcountry areas, citing complex terrain, volatile weather, poor communication, and lack of safety facilities. The Galongla Tianchi hiking route has an open window only from July to September, and is closed for the entire season ahead of schedule this year due to weather conditions. Tour guides, drivers, and travelers are advised to choose officially developed scenic areas and avoid unvetted routes.
-
-> **Verified Source**: [Tibet Autonomous Region Department of Culture & Tourism](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
 
 ---
 
