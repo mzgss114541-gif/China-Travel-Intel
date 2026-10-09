@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 18:12 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
+### October 8, 2026 &bull; 18:12 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
 #### Tibet Tourism Bureau & Medog Scenic Security: Backcountry Areas and Galongla Tianchi Route Prohibited
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -14,11 +14,11 @@
 **🇬🇧 Actionable Travel Intel**:  
 Medog County cultural and tourism authorities in Tibet issued a notice prohibiting any organization or individual from guiding tourists into undeveloped backcountry areas, citing complex terrain, volatile weather, poor communication, and lack of safety facilities. The Galongla Tianchi hiking route has an open window only from July to September, and is closed for the entire season ahead of schedule this year due to weather conditions. Tour guides, drivers, and travelers are advised to choose officially developed scenic areas and avoid unvetted routes.
 
-> 📌 **Verified Source**: [Tibet Autonomous Region Department of Culture & Tourism](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
+> **Verified Source**: [Tibet Autonomous Region Department of Culture & Tourism](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
 
 ---
 
-### 📅 October 7, 2026 &bull; 08:43 CST `[Southwestern Trunk Hub & Highland Mobility]`
+### October 7, 2026 &bull; 08:43 CST `[Southwestern Trunk Hub & Highland Mobility]`
 #### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -27,11 +27,11 @@ Medog County cultural and tourism authorities in Tibet issued a notice prohibiti
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Kunming Bureau handled its Golden Week return peak on October 7, dispatching an estimated 590,000 passengers across Yunnan. Operations deployed 65.5 additional train pairs (14.5 inter-provincial, 51 regional), including 20.5 overnight EMU pairs. Along the international China-Laos Railway, customs and station authorities coordinated passenger clearance and transit connections to ensure smooth travel.
 
-> 📌 **Verified Source**: [China Railway Kunming Bureau (Sina Weibo)](https://weibo.com/1920078035/RlwEVbUwp)
+> **Verified Source**: [China Railway Kunming Bureau (Sina Weibo)](https://weibo.com/1920078035/RlwEVbUwp)
 
 ---
 
-### 📅 October 6, 2026 &bull; 16:59 CST `[Highland Rail Corridor Weather Alert]`
+### October 6, 2026 &bull; 16:59 CST `[Highland Rail Corridor Weather Alert]`
 #### Chengdu Railway Bureau: Heavy Rain Safety Controls Imposed Across Chengdu-Kunming Rail Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -40,11 +40,11 @@ China Railway Kunming Bureau handled its Golden Week return peak on October 7, d
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Chengdu Bureau issued an operational advisory regarding strong rainfall forecast across the Panxi region on October 7 and 8. Speed limits and train cancellations are planned on affected sections of the Chengdu-Kunming and New Chengdu-Kunming railways if rainfall exceeds safety limits. Passengers are advised to monitor station announcements and 12306 updates.
 
-> 📌 **Verified Source**: [China Railway Chengdu Bureau (Southwest Railway Weibo)](https://weibo.com/1919955065/RlqtzhGav)
+> **Verified Source**: [China Railway Chengdu Bureau (Southwest Railway Weibo)](https://weibo.com/1919955065/RlqtzhGav)
 
 ---
 
-### 📅 October 5, 2026 &bull; 15:39 CST `[Silk Road Railway Mobility]`
+### October 5, 2026 &bull; 15:39 CST `[Silk Road Railway Mobility]`
 #### Xinjiang High-Speed Rail: 16 Additional "Hexie" Bullet Trains Deployed on Urumqi-Turpan Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -53,11 +53,11 @@ China Railway Chengdu Bureau issued an operational advisory regarding strong rai
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train services between Urumqi and Turpan North Station in eastern Xinjiang to support holiday passenger travel.
 
-> 📌 **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/RlgwofnZO)
+> **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/RlgwofnZO)
 
 ---
 
-### 📅 October 5, 2026 &bull; 12:40 CST `[Overland Passage Advisory]`
+### October 5, 2026 &bull; 12:40 CST `[Overland Passage Advisory]`
 #### Tibet Highway: Road Controls Imposed on Nyima-Gerze Sector from Oct 4 to Oct 14
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -66,11 +66,11 @@ China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train service
 **🇬🇧 Actionable Travel Intel**:  
 Highway authorities implemented traffic control along National Highway 317 between Nyima and Gerze (K2627+000 to K2628+000) from October 4 to October 14, 2026, due to roadbed subsidence and void repair construction. The main roadway is fully closed during construction, with all passing vehicles diverted via a temporary detour.
 
-> 📌 **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
+> **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
 
 ---
 
-### 📅 October 5, 2026 &bull; 10:05 CST `[Heritage Quota Alert]`
+### October 5, 2026 &bull; 10:05 CST `[Heritage Quota Alert]`
 #### Terracotta Warriors Museum: Admission Quotas Fully Exhausted for October 5
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -79,11 +79,11 @@ Highway authorities implemented traffic control along National Highway 317 betwe
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission tickets for October 5 were completely sold out, advising visitors to plan their travel arrangements in advance and travel during off-peak periods.
 
-> 📌 **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
+> **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
 
 ---
 
-### 📅 October 4, 2026 &bull; 17:30 CST `[Heritage Quota Alert]`
+### October 4, 2026 &bull; 17:30 CST `[Heritage Quota Alert]`
 #### Mount Emei: October 5 Admission Tickets & Golden Summit Buses Completely Sold Out
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -92,11 +92,11 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission ti
 **🇬🇧 Actionable Travel Intel**:  
 Mount Emei Scenic Area Management Committee confirmed that as of 17:30 on October 4, all admission tickets for October 5 were completely sold out. Self-driving visitors without confirmed bookings for admission and highland sightseeing buses are advised not to travel to Linggongli Station, and may consider visiting surrounding attractions or booking tickets for other dates.
 
-> 📌 **Verified Source**: [Mount Emei Scenic Area Official Notice (Sina Weibo)](https://weibo.com/1975395992/Rl7PcCO1j)
+> **Verified Source**: [Mount Emei Scenic Area Official Notice (Sina Weibo)](https://weibo.com/1975395992/Rl7PcCO1j)
 
 ---
 
-### 📅 October 4, 2026 &bull; 12:34 CST `[Railway Capacity Deployment]`
+### October 4, 2026 &bull; 12:34 CST `[Railway Capacity Deployment]`
 #### Xinjiang Railway Deploys 340+ Additional Trains for Return Peak (Ili, Kashgar, Turpan)
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -105,11 +105,11 @@ Mount Emei Scenic Area Management Committee confirmed that as of 17:30 on Octobe
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Urumqi Bureau scheduled more than 340 additional passenger trains for the Golden Week return rush, including 138 conventional trains in Northern Xinjiang, 171 in Southern Xinjiang, and 34 outbound trains, serving travel peaks toward Ili, Kashgar, and Turpan.
 
-> 📌 **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/Rl76q2W0O)
+> **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/Rl76q2W0O)
 
 ---
 
-### 📅 October 4, 2026 &bull; 12:11 CST `[Crowd & Transit Advisory]`
+### October 4, 2026 &bull; 12:11 CST `[Crowd & Transit Advisory]`
 #### Mount Hua: Sante Cableway Uphill Queue 80 Mins & Taihua Cableway Uphill Queue 60 Mins
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -118,11 +118,11 @@ China Railway Urumqi Bureau scheduled more than 340 additional passenger trains 
 **🇬🇧 Actionable Travel Intel**:  
 Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center and Yuquan Courtyard was full, with backup parking opened at Huashan Ice & Snow World, Gubaixing, and the East Visitor Center plot. Uphill queues reached 80 minutes on the Sante Cableway and 60 minutes on the Taihua Cableway, while downhill cableways had no waiting queues. Surrounding road traffic remained smooth.
 
-> 📌 **Verified Source**: [Mount Hua Tourism Group Official Weibo (Mount Hua Scenic Area)](https://weibo.com/1885449832/Rl6OqfaI7)
+> **Verified Source**: [Mount Hua Tourism Group Official Weibo (Mount Hua Scenic Area)](https://weibo.com/1885449832/Rl6OqfaI7)
 
 ---
 
-### 📅 October 3, 2026 &bull; 21:00 CST `[Overland Corridor Advisory]`
+### October 3, 2026 &bull; 21:00 CST `[Overland Corridor Advisory]`
 #### Duku Highway: Final 4-Day Window Before Winter Closure
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -131,11 +131,11 @@ Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center 
 **🇬🇧 Actionable Travel Intel**:  
 Highway authorities issued a 4-day countdown for the seasonal winter closure of the Duku Highway. As of October 3, traffic along the highway operated smoothly with cumulative volume of 22,400 vehicles, and traffic controls were lifted on select sections.
 
-> 📌 **Verified Source**: [Sina Weibo Duku Highway Official Traffic Authority (Xinjiang Duku Highway Weather & Traffic Command)](https://weibo.com/6403274291/RkZX4E5fV)
+> **Verified Source**: [Sina Weibo Duku Highway Official Traffic Authority (Xinjiang Duku Highway Weather & Traffic Command)](https://weibo.com/6403274291/RkZX4E5fV)
 
 ---
 
-### 📅 October 3, 2026 &bull; 22:27 CST `[Heritage Quota & Peak Alert]`
+### October 3, 2026 &bull; 22:27 CST `[Heritage Quota & Peak Alert]`
 #### Xi'an Terracotta Warriors: October 4 Admission Sold Out & October 5 Approaching Capacity
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -144,11 +144,11 @@ Highway authorities issued a 4-day countdown for the seasonal winter closure of 
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets for October 4 are sold out and tickets for October 5 are nearly sold out, advising visitors to plan their schedules in advance and travel during off-peak periods.
 
-> 📌 **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/RkZXe5Z9z)
+> **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/RkZXe5Z9z)
 
 ---
 
-### 📅 October 1, 2026 &bull; 12:31 CST `[Archaeology & Museum Relaunch]`
+### October 1, 2026 &bull; 12:31 CST `[Archaeology & Museum Relaunch]`
 #### Terracotta Warriors Pit Two Reopens with Dual North/South Viewing Circuits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -157,11 +157,11 @@ Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements for Pit Two, opening fully to the public on October 1, 2026. The upgraded hall introduces scientific North/South viewing circuits: a North Route dedicated to in-depth archaeological and artifact research, and a South Route featuring rapid viewing with multimedia displays and XR reconstructions.
 
-> 📌 **Verified Source**: [Sina Weibo Shaanxi Cultural Heritage Bureau & Xi'an Bureau of Culture & Tourism (Shaanxi Cultural Heritage / Xi'an Tourism)](https://weibo.com/2061858797/RkDA6303z)
+> **Verified Source**: [Sina Weibo Shaanxi Cultural Heritage Bureau & Xi'an Bureau of Culture & Tourism (Shaanxi Cultural Heritage / Xi'an Tourism)](https://weibo.com/2061858797/RkDA6303z)
 
 ---
 
-### 📅 September 30, 2026 &bull; 16:58 CST `[National Park Entry & Shuttles]`
+### September 30, 2026 &bull; 16:58 CST `[National Park Entry & Shuttles]`
 #### Jiuzhaigou National Park Peak Season Entry Pricing & Bus Fares Through Nov 15
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -170,11 +170,11 @@ Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements fo
 **🇬🇧 Actionable Travel Intel**:  
 Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through November 15, with admission tickets at 190 RMB and sightseeing bus tickets at 90 RMB (both valid for a single day). Off-season rates apply from November 16 to March 31, with admission tickets at 80 RMB and sightseeing bus tickets at 80 RMB.
 
-> 📌 **Verified Source**: [Jiuzhaigou National Park Administration (Sina Weibo)](https://weibo.com/1885449832/RkvLd0GhE)
+> **Verified Source**: [Jiuzhaigou National Park Administration (Sina Weibo)](https://weibo.com/1885449832/RkvLd0GhE)
 
 ---
 
-### 📅 September 28, 2026 &bull; 21:49 CST `[Mountain Rail & Hiking]`
+### September 28, 2026 &bull; 21:49 CST `[Mountain Rail & Hiking]`
 #### Xi'an–Ankang High-Speed Line Operational: Train G9997 Commences Commercial Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -183,4 +183,4 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 **🇬🇧 Actionable Travel Intel**:  
 Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the commercial opening of the Xi'an–Ankang section of the Xi'an–Chongqing High-Speed Railway. The line connects Zhashui, Zhen'an, and Ankang into the high-speed rail framework radiating from Xi'an.
 
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
+> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)

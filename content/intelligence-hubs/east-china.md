@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 16:49 CST `[Holiday Travel Consumption Trends & Experiential Tourism]`
+### October 8, 2026 &bull; 16:49 CST `[Holiday Travel Consumption Trends & Experiential Tourism]`
 #### Holiday Travel Consumption Review: County Destinations and In-Depth Cultural Tourism Experience Surge
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -14,11 +14,11 @@
 **🇬🇧 Actionable Travel Intel**:  
 Shanghai Municipal Administration of Culture & Tourism shared the Golden Week travel consumption review, highlighting an evolving preference for extended, segmented travel and immersive regional tourism. While traditional destination cities maintained strong interest, county-level destinations, autumn tours, and evening cultural activities experienced rapid expansion, with slow-paced, in-depth cultural itineraries becoming mainstream choices.
 
-> 📌 **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RlJgmomaP)
+> **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RlJgmomaP)
 
 ---
 
-### 📅 October 7, 2026 &bull; 18:04 CST `[Megacity Rail Corridor & Night Transit]`
+### October 7, 2026 &bull; 18:04 CST `[Megacity Rail Corridor & Night Transit]`
 #### Yangtze River Delta Railway: Historic Peak Dispatched with 557 Relief Trains & 210 Overnight Services
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -27,11 +27,11 @@ Shanghai Municipal Administration of Culture & Tourism shared the Golden Week tr
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an estimated 4,150,000 passenger dispatches (+17.7% YoY) across the Yangtze River Delta network. Authorities scheduled 557 additional passenger trains (216 direct, 341 regional) toward destinations including Nanchang, Wuhan, Guangzhou, Zhengzhou, and Linyi, coupled 427 EMU trainsets, and operated 210 overnight high-speed trains between the evening of October 7 and the early morning of October 8.
 
-> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
+> **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
 
 ---
 
-### 📅 October 6, 2026 &bull; 17:09 CST `[High-Speed Rail Mobility & Transit Hub]`
+### October 6, 2026 &bull; 17:09 CST `[High-Speed Rail Mobility & Transit Hub]`
 #### Yangtze River Delta Railway: Passenger Flow Mobilized with 553 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -40,11 +40,11 @@ China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on October 6 across the Yangtze River Delta corridor. Rail stations in Shanghai, Nanjing, Hangzhou, Hefei, Ningbo, Nantong, Yancheng, and Yangzhou handled concentrated return passenger flows from the afternoon onward, supported by 553 scheduled additional passenger trains.
 
-> 📌 **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlqxDx2Bw)
+> **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlqxDx2Bw)
 
 ---
 
-### 📅 October 4, 2026 &bull; 14:11 CST `[Cultural Exhibition Notice]`
+### October 4, 2026 &bull; 14:11 CST `[Cultural Exhibition Notice]`
 #### Shanghai Forbidden City Treasures Exhibition: Final Days Ahead of October 7 Conclusion
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -53,11 +53,11 @@ China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on Oc
 **🇬🇧 Actionable Travel Intel**:  
 The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Museum" in Shanghai enters its final days, with the last day of exhibition on October 7. The exhibition features 101 rare textile and embroidery artifacts from the Palace Museum before they conclude their display in Shanghai and return to Beijing.
 
-> 📌 **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (Sina Weibo)](https://weibo.com/2014034660/Rl6waDekB)
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (Sina Weibo)](https://weibo.com/2014034660/Rl6waDekB)
 
 ---
 
-### 📅 September 29, 2026 &bull; 15:00 CST `[UNESCO Heritage Quotas]`
+### September 29, 2026 &bull; 15:00 CST `[UNESCO Heritage Quotas]`
 #### Suzhou Night Route: Suzhou Museum Advance Booking & Humble Administrator's Garden Night Tour
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -66,11 +66,11 @@ The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Mus
 **🇬🇧 Actionable Travel Intel**:  
 Suzhou Municipal Bureau of Culture recommended an evening cultural route linking the Suzhou Museum, the Humble Administrator's Garden ("Zhuozheng Wenya" night tour), and Pingjiang Road. Suzhou Museum (main branch) requires advance reservations; its Northern Song Pearl Sarira Stupa relic is exhibited in the "Ta Fang Rui Guang" gallery through October 18. Pricing and operational details for the "Zhuozheng Wenya" night tour are available on its official WeChat mini-program.
 
-> 📌 **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, Television and Tourism (Sina Weibo)](https://weibo.com/2571243254/RklHA7yQI)
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, Television and Tourism (Sina Weibo)](https://weibo.com/2571243254/RklHA7yQI)
 
 ---
 
-### 📅 September 22, 2026 &bull; 08:58 CST `[Scenic Mountain Quota]`
+### September 22, 2026 &bull; 08:58 CST `[Scenic Mountain Quota]`
 #### Mount Huangshan: Autumn Youth Admission Waivers & Mandatory Time-Slot Quotas
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -79,4 +79,4 @@ Suzhou Municipal Bureau of Culture recommended an evening cultural route linking
 **🇬🇧 Actionable Travel Intel**:  
 From September 21 to December 31, 2026 (excluding the Mid-Autumn and National Day holidays), Mount Huangshan, Huashan Mystery Grottoes, and Taiping Lake scenic areas offer free admission waivers for visitors aged 18 and under. Free admission applies only to the first entrance ticket and excludes secondary fees such as cableways, transit buses, and boats. Mount Huangshan requires real-name, time-slot reservations; eligible visitors must book the free ticket in advance via the official Huangshan Tourism mini-program.
 
-> 📌 **Verified Source**: [Mount Huangshan Scenic Area Administration (Sina Weibo)](https://weibo.com/2092477712/Rjflh0GhE)
+> **Verified Source**: [Mount Huangshan Scenic Area Administration (Sina Weibo)](https://weibo.com/2092477712/Rjflh0GhE)

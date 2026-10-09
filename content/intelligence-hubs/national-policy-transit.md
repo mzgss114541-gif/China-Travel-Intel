@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 12:00 CST `[National Trunk Expansion & High-Speed Rail Corridor]`
+### October 8, 2026 &bull; 12:00 CST `[National Trunk Expansion & High-Speed Rail Corridor]`
 #### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -14,11 +14,11 @@
 **🇬🇧 Actionable Travel Intel**:  
 China State Railway Group announced the start of track-laying operations for the Chengdu–Dazhou–Wanzhou High-Speed Railway at Nanchong North Station on October 1. The line forms a key component of the Yangtze River corridor in the national high-speed railway grid, running 477 kilometers from Chengdu Tianfu Station to Wanzhou North Station with a design speed of 350 km/h.
 
-> 📌 **Verified Source**: [China State Railway Group (Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
+> **Verified Source**: [China State Railway Group (Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
 
 ---
 
-### 📅 October 8, 2026 &bull; 08:31 CST `[National Transit Record & Golden Week Surge]`
+### October 8, 2026 &bull; 08:31 CST `[National Transit Record & Golden Week Surge]`
 #### China State Railway Group: Peak Return Passengers Handled with 2,449 Extra Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -27,11 +27,11 @@ China State Railway Group announced the start of track-laying operations for the
 **🇬🇧 Actionable Travel Intel**:  
 China State Railway Group reported that national railways handled their return passenger peak on October 7, with an estimated 24,150,000 passenger journeys and 2,449 additional passenger trains scheduled. On October 6, 21,605,000 passengers were dispatched. Top departure cities identified through Railway 12306 included Beijing, Guangzhou, Chengdu, Xi'an, Wuhan, Hangzhou, and Chongqing.
 
-> 📌 **Verified Source**: [China State Railway Group Official Release (China Railway Lanzhou Bureau Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
+> **Verified Source**: [China State Railway Group Official Release (China Railway Lanzhou Bureau Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
 
 ---
 
-### 📅 October 5, 2026 &bull; 20:52 CST `[National Transport Network & Transit Surge]`
+### October 5, 2026 &bull; 20:52 CST `[National Transport Network & Transit Surge]`
 #### Ministry of Transport: Golden Week Return Surge Mobilizes 300,000,000+ Inter-Regional Passenger Journeys
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -40,11 +40,11 @@ China State Railway Group reported that national railways handled their return p
 **🇬🇧 Actionable Travel Intel**:  
 The Ministry of Transport reported that inter-regional passenger movements surpassed 300,000,000 journeys on October 5 as return travel commenced. Railway bureaus operated additional passenger trains on popular routes, and major transport hubs coordinated with urban subways and buses to extend operating hours to facilitate passenger transfers.
 
-> 📌 **Verified Source**: [Ministry of Transport of the PRC Official Release (Gov.cn)](https://www.gov.cn/yaowen/liebiao/202610/content_7082652.htm)
+> **Verified Source**: [Ministry of Transport of the PRC Official Release (Gov.cn)](https://www.gov.cn/yaowen/liebiao/202610/content_7082652.htm)
 
 ---
 
-### 📅 October 5, 2026 &bull; 14:37 CST `[Customs & Currency Compliance]`
+### October 5, 2026 &bull; 14:37 CST `[Customs & Currency Compliance]`
 #### General Administration of Customs: Mandatory Declaration Limits for Inbound & Outbound Cash
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -53,11 +53,11 @@ The Ministry of Transport reported that inter-regional passenger movements surpa
 **🇬🇧 Actionable Travel Intel**:  
 China Customs issued a reminder regarding currency restrictions for inbound and outbound travelers. Passengers carrying more than CNY 20,000 in cash or foreign currency exceeding the equivalent of USD 5,000 must declare to customs. Outbound travelers carrying USD 5,000 to USD 10,000 must obtain a permit from an authorized bank, while amounts exceeding USD 10,000 require a permit from the State Administration of Foreign Exchange.
 
-> 📌 **Verified Source**: [General Administration of Customs of China (Sina Weibo)](https://weibo.com/5832321505/Rlg7zni9N)
+> **Verified Source**: [General Administration of Customs of China (Sina Weibo)](https://weibo.com/5832321505/Rlg7zni9N)
 
 ---
 
-### 📅 October 3, 2026 &bull; 18:00 CST `[App Services & Emergency Support]`
+### October 3, 2026 &bull; 18:00 CST `[App Services & Emergency Support]`
 #### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -66,11 +66,11 @@ China Customs issued a reminder regarding currency restrictions for inbound and 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway highlighted the lost property tracking service available on the Railway 12306 app. Passengers who misplace belongings on trains or at railway stations can navigate to "Warm Service" on the app home screen, select "Lost Property Search", fill in trip details, and submit for staff assistance.
 
-> 📌 **Verified Source**: [Sina Weibo China State Railway Group & Xi'an Bureau of Culture & Tourism (Verified Transport Safety Bulletin)](https://weibo.com/2061858797/RkYAD8qqA)
+> **Verified Source**: [Sina Weibo China State Railway Group & Xi'an Bureau of Culture & Tourism (Verified Transport Safety Bulletin)](https://weibo.com/2061858797/RkYAD8qqA)
 
 ---
 
-### 📅 October 3, 2026 &bull; 16:57 CST `[Golden Week Peak Advisory]`
+### October 3, 2026 &bull; 16:57 CST `[Golden Week Peak Advisory]`
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -79,11 +79,11 @@ China Railway highlighted the lost property tracking service available on the Ra
 **🇬🇧 Actionable Travel Intel**:  
 China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
 
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
+> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
 
 ---
 
-### 📅 September 28, 2026 &bull; 21:48 CST `[High-Speed Rail Expansion]`
+### September 28, 2026 &bull; 21:48 CST `[High-Speed Rail Expansion]`
 #### Harbin–Yichun High-Speed Rail Opens: Northeast Boreal Corridor Linked in 1h 46m
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -92,11 +92,11 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 **🇬🇧 Actionable Travel Intel**:  
 The Harbin–Yichun High-Speed Railway has entered official passenger operation, marking China's first high-speed line built across high-latitude discontinuous permafrost. The 318 km line (speed 250 km/h) connects Harbin with Yichun in 1 hour 46 minutes. Yichun West Station now operates as the country's northernmost high-speed terminus across 9 newly operational stations.
 
-> 📌 **Verified Source**: [China Railway Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
+> **Verified Source**: [China Railway Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
 
 ---
 
-### 📅 September 28, 2026 &bull; 15:29 CST `[Corridor Expansion]`
+### September 28, 2026 &bull; 15:29 CST `[Corridor Expansion]`
 #### Beijing–Hong Kong Corridor: Xiong'an–Shangqiu High-Speed Line Opens in 2h 27m
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -105,11 +105,11 @@ The Harbin–Yichun High-Speed Railway has entered official passenger operation,
 **🇬🇧 Actionable Travel Intel**:  
 The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway entered operation on September 28 as train G3935 departed Xiong'an Station. The 552-kilometer line links the North China Plain with eastern Henan and southwestern Shandong, achieving a travel time of 2 hours 27 minutes between Xiong'an and Shangqiu.
 
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rkct8a8Zx)
+> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rkct8a8Zx)
 
 ---
 
-### 📅 September 27, 2026 &bull; 18:00 CST `[Bohai-Rim Regional Transit]`
+### September 27, 2026 &bull; 18:00 CST `[Bohai-Rim Regional Transit]`
 #### Bohai-Rim Transit Expansion: Tianjin–Weifang HSR Connector Begins Trial Runs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -118,4 +118,4 @@ The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway en
 **🇬🇧 Actionable Travel Intel**:  
 Inspection train 55101 departed Jinan East Station on September 24, launching full commissioning for the Jinan Connector of the Tianjin–Weifang High-Speed Railway. Extending approximately 145 kilometers with a design speed of 350 km/h, the line connects Jinan East Station with Yaoqiang Airport and Binzhou Station.
 
-> 📌 **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rk41ECTRB)
+> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rk41ECTRB)

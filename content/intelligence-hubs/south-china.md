@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 08:58 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
+### October 8, 2026 &bull; 08:58 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
 #### Hainan Port Entry Terminals: Inbound Travel Surges 13.4% with 54,000 Crossings at Haikou & Sanya Airports
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -14,11 +14,11 @@
 **🇬🇧 Actionable Travel Intel**:  
 Haikou General Station of Exit and Entry Frontier Inspection reported that Hainan air and maritime ports handled 54,000 cross-border passenger crossings during the National Day holiday (+13.4% YoY). Sanya Phoenix International Airport recorded a 28.7% rise in cross-border traffic (22,000 passengers), while Haikou Meilan handled 30,000 arrivals and departures. Leading source markets included Russia, Kazakhstan, Indonesia, Malaysia, Singapore, and Belarus. Border inspection authorities opened maximum verification channels with updated signage to ensure efficient processing.
 
-> 📌 **Verified Source**: [Hainan Provincial Department of Tourism, Culture, Radio, Television and Sports](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
+> **Verified Source**: [Hainan Provincial Department of Tourism, Culture, Radio, Television and Sports](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
 
 ---
 
-### 📅 October 8, 2026 &bull; 08:39 CST `[Greater Bay Area Transit Corridor]`
+### October 8, 2026 &bull; 08:39 CST `[Greater Bay Area Transit Corridor]`
 #### China Railway Guangzhou Group: 765 Extra Trains Deployed as GBA Return Influx Surges 20.8%
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -27,11 +27,11 @@ Haikou General Station of Exit and Entry Frontier Inspection reported that Haina
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Guangzhou Group handled its peak return travel day on October 7, dispatching an estimated 3,155,000 passengers (+20.8% YoY). A total of 3,893 trains were operated, including 765 additional passenger services (100 conventional, 665 EMUs) along routes including Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, Hangzhou–Shenzhen, and Jiangmen–Zhanjiang lines, with 435 overnight bullet trains scheduled for early morning on October 8.
 
-> 📌 **Verified Source**: [China Railway Guangzhou Group Official Release (China National Radio / CNR)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
+> **Verified Source**: [China Railway Guangzhou Group Official Release (China National Radio / CNR)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
 
 ---
 
-### 📅 October 7, 2026 &bull; 10:08 CST `[Greater Bay Area Transit Corridor]`
+### October 7, 2026 &bull; 10:08 CST `[Greater Bay Area Transit Corridor]`
 #### China Railway Guangzhou Group: Return Travel Dispatched Across GBA with 401 Overnight Bullet Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -40,11 +40,11 @@ China Railway Guangzhou Group handled its peak return travel day on October 7, d
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Guangzhou Group dispatched an estimated 2,835,000 passengers on October 6 (+27.8% YoY). Transport authorities scheduled 3,835 trains, including 702 additional services (595 EMUs) along Beijing–Guangzhou, Hangzhou–Shenzhen, Shenzhen–Zhanjiang, and Guangzhou–Shenzhen–Hong Kong high-speed lines toward Guangzhou, Shenzhen, Changsha, and Wuhan. Early on October 7, 401 overnight high-speed trains were added, and major stations opened all exit channels in coordination with local municipal subways and buses.
 
-> 📌 **Verified Source**: [Guangzhou Municipal People's Government & China Railway Guangzhou Group (Official Transport Release)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
+> **Verified Source**: [Guangzhou Municipal People's Government & China Railway Guangzhou Group (Official Transport Release)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
 
 ---
 
-### 📅 October 4, 2026 &bull; 09:13 CST `[Waterway & Weather Alert]`
+### October 4, 2026 &bull; 09:13 CST `[Waterway & Weather Alert]`
 #### Guangxi Weather Alert: Moderate to Heavy Rain and Gale Warnings Across Coastal & Eastern Cities
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -53,11 +53,11 @@ China Railway Guangzhou Group dispatched an estimated 2,835,000 passengers on Oc
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi Meteorological Bureau issued weather advisories for moderate rain and localized downpours accompanied by short-term convective gales on October 4 across Chongzuo, Nanning, Guigang, Wuzhou, Yulin, Beihai, Qinzhou, and Fangchenggang. Cold air is forecast to reduce daily average temperatures by 4–6°C (locally exceeding 8°C), with coastal and eastern areas experiencing northerly winds of force 5–6 and gusts of force 7–8.
 
-> 📌 **Verified Source**: [Guangxi Department of Culture and Tourism (Sina Weibo)](https://weibo.com/1780560607/Rl4zmeQjC)
+> **Verified Source**: [Guangxi Department of Culture and Tourism (Sina Weibo)](https://weibo.com/1780560607/Rl4zmeQjC)
 
 ---
 
-### 📅 October 3, 2026 &bull; 16:21 CST `[Tropical Rail Mobility]`
+### October 3, 2026 &bull; 16:21 CST `[Tropical Rail Mobility]`
 #### Hainan High-Speed Loop: Pilot "Bike-on-Train" Service Available via 12306 App
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -66,11 +66,11 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 **🇬🇧 Actionable Travel Intel**:  
 The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel" service starting September 20, 2026. Passengers can complete reservations and payments via the Railway 12306 app to travel with their bicycles on the same train according to regulations, facilitating direct integration of high-speed rail and outdoor cycling travel.
 
-> 📌 **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
+> **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
 
 ---
 
-### 📅 September 30, 2026 &bull; 10:43 CST `[Maritime Safety & Karst Cruises]`
+### September 30, 2026 &bull; 10:43 CST `[Maritime Safety & Karst Cruises]`
 #### Li River & Yulong River: Luxury Cruises vs Bamboo Raft Age Restrictions
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -79,4 +79,4 @@ The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel"
 **🇬🇧 Actionable Travel Intel**:  
 Guilin Maritime Safety Administration and Li River scenic authorities outlined vessel safety regulations: Three-star and four-star luxury cruises on the Li River operate under real-name ticketing with no upper age limit. Conversely, bamboo rafts along the Li River and Yulong River enforce strict real-name bookings and prohibit children under 1.2 meters in height, adults aged 70 and above, and individuals with cardiovascular conditions. Raft operations suspend dynamically during heavy rainfall or strong convective weather.
 
-> 📌 **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
+> **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)

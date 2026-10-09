@@ -5,7 +5,7 @@
 
 ---
 
-### 📅 October 8, 2026 &bull; 09:00 CST `[Museum Exhibition Schedule]`
+### October 8, 2026 &bull; 09:00 CST `[Museum Exhibition Schedule]`
 #### Palace Museum: Donated Cultural Relics Exhibition at Jingren Palace Extended Through October 15, 2028
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -14,9 +14,9 @@
 **🇬🇧 Actionable Travel Intel**:  
 The Palace Museum announced that the exhibition 'Renfeng Jingcong: Donated Cultural Relics in the Collection of the Palace Museum' located at Jingren Palace, originally scheduled to run through October 18, 2026, is now extended to October 15, 2028. Visitors are welcome to visit.
 
-> 📌 **Verified Source**: [故宫博物院](https://www.dpm.org.cn/announce_detail/379634.html)
+> **Verified Source**: [故宫博物院](https://www.dpm.org.cn/announce_detail/379634.html)
 
-### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
+### October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
 #### China Railway Beijing Bureau: Beijing South Station Opens All Exit Channels During Peak Arrival Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -25,11 +25,11 @@ The Palace Museum announced that the exhibition 'Renfeng Jingcong: Donated Cultu
 **🇬🇧 Actionable Travel Intel**:  
 With return passenger flows continuing to climb, China Railway Beijing Bureau announced that Beijing South Station has opened all exit channels during peak arrival periods, while enhancing safety notices and passenger guidance to support return journeys.
 
-> 📌 **Verified Source**: [China Railway Beijing Bureau (Sina Weibo)](https://weibo.com/1916657595/Rlx9MsepS)
+> **Verified Source**: [China Railway Beijing Bureau (Sina Weibo)](https://weibo.com/1916657595/Rlx9MsepS)
 
 ---
 
-### 📅 October 5, 2026 &bull; 09:42 CST `[Extreme Weather & Alpine Closure]`
+### October 5, 2026 &bull; 09:42 CST `[Extreme Weather & Alpine Closure]`
 #### Changbai Mountain: North & South Scenic Zones Suspended All Day Following Blizzard Warning
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -38,11 +38,11 @@ With return passenger flows continuing to climb, China Railway Beijing Bureau an
 **🇬🇧 Actionable Travel Intel**:  
 Changbaishan Meteorological Observatory issued a blue blizzard warning with continuous snowfall, temperatures between -7°C and -1°C, and snow and ice accumulation on roads and boardwalks. For visitor safety, the North and South Scenic Zones of Changbaishan are closed all day on October 5, and all vehicle transport is suspended. Unchecked admission and vehicle tickets are automatically refunded to the original purchasing account on the same day.
 
-> 📌 **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlebHaqs0)
+> **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlebHaqs0)
 
 ---
 
-### 📅 October 4, 2026 &bull; 14:00 CST `[Railway Hub Transit]`
+### October 4, 2026 &bull; 14:00 CST `[Railway Hub Transit]`
 #### Beijing West Railway Station Expands Platform 18 Exit Channels for Disembarking Passengers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -51,11 +51,11 @@ Changbaishan Meteorological Observatory issued a blue blizzard warning with cont
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Beijing Bureau expanded exit channels at Platform 18 of Beijing West Station to relieve egress pressure for arriving passengers, responding to increased high-speed train services following the opening of new rail routes.
 
-> 📌 **Verified Source**: [China Railway Beijing Bureau Official Release (Sina Weibo)](https://weibo.com/1916657595/Rl6rI4Eth)
+> **Verified Source**: [China Railway Beijing Bureau Official Release (Sina Weibo)](https://weibo.com/1916657595/Rl6rI4Eth)
 
 ---
 
-### 📅 September 30, 2026 &bull; 16:10 CST `[Imperial Monument Quotas]`
+### September 30, 2026 &bull; 16:10 CST `[Imperial Monument Quotas]`
 #### Forbidden City: Tang and Song Calligraphy & Painting Exhibition (Phase Two) Opens with Reservation Required
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -64,4 +64,4 @@ China Railway Beijing Bureau expanded exit channels at Platform 18 of Beijing We
 **🇬🇧 Actionable Travel Intel**:  
 The Palace Museum opened the second phase of the "Dianze: Tang and Song Calligraphy and Painting Exhibition" at the Hall of Literary Brilliance (Wenhua Dian) from September 30 to November 1. The exhibition does not require separate ticketing, but admission requires advance reservation via the Palace Museum WeChat mini-program. Visitors may contact the visitor service hotline at 400-950-1925 for inquiries.
 
-> 📌 **Verified Source**: [The Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
+> **Verified Source**: [The Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
