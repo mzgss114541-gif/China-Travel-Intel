@@ -5,6 +5,32 @@
 
 ---
 
+### October 5, 2026 &bull; 11:03 CST `[UNESCO Heritage Booking & Real-Name Quotas]`
+#### Huangguoshu Waterfall: Shuiliandong Real-Name Timed Reservations Capped at 6,000 Daily Visitors
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友： 您好！ 黄果树水帘洞游道狭窄、地貌特殊，为满足游客需求、保障游览安全、提升游玩体验，景区对水帘洞实行实名制分时预约管控，每日限流6000人。 截至2026年10月4日11:19，黄果树水帘洞在10月7日的预约名额已约满。 黄果树景区门票十天有效，水帘洞预约当日有效，已成功预约景区门票但未预约到水帘洞的游客，仍可正常游览大瀑布、天星桥、陡坡塘等区域，建议您合理安排行程，错峰出行或选择其他日期游览水帘洞。 水帘洞预约的唯一官方渠道为“安旅通”平台，且预约服务全程免费。景区从未授权任何第三方机构或个人开展有偿代预约服务，亦不提供任何形式的加急、加价或代办补票通道。所有非官方渠道提供的预约服务均属未经授权的行为，存在欺诈风险，请广大游客务必提高警惕，切勿轻信，以免造成个人信息泄露或经济损失。
+
+**🇬🇧 Actionable Travel Intel**:  
+Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforces real-name timed reservation controls with a daily capacity limit of 6,000 visitors. Main scenic area entrance tickets maintain multi-day validity, while Shuiliandong reservations are valid only on the designated date. Visitors holding general tickets without a cave reservation can still access the Grand Waterfall, Tianxingqiao, and Doupotang areas. Reservations are available exclusively through the official Anlv Tong platform free of charge.
+
+> **Verified Source**: [黄果树景区 (Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
+
+---
+
+### October 9, 2026 &bull; 15:27 CST `[National Forest Park & Infrastructure Closure]`
+#### Taiping National Forest Park: Temporary One-Day Closure for Bridge Maintenance on October 9
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 因太平峪八亩场桥面进行维修，车辆无法通行。太平国家森林公园将于2026年10月9日临时闭园1天，10月10日恢复正常营业。（来源：太平国家森林公园）
+
+**🇬🇧 Actionable Travel Intel**:  
+Shaanxi authorities announced that Taiping National Forest Park implemented a temporary closure on October 9, 2026, due to bridge surface maintenance preventing vehicular access at Bamuchang in Taipingyu. Normal operations resume on October 10.
+
+> **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/RlS9vkQuq)
+
+---
+
 ### October 9, 2026 &bull; 15:26 CST `[UNESCO Heritage Transit & Shuttle Advisory]`
 #### Wulong Karst: Tian Sheng San Qiao Exit Sightseeing Shuttle Suspended for Construction from October 9
 
