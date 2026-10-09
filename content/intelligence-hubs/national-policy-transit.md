@@ -31,6 +31,19 @@ China State Railway Group reported that national railways handled their return p
 
 ---
 
+### October 7, 2026 &bull; 13:03 CST `[Customs Compliance & Biosecurity]`
+#### China Customs Issues Inbound Quarantine Reminder: Prohibitions on Meat, Bird's Nest, and Fresh Fruits
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，北京海关在1名进境旅客的行李中查获冻肉11千克，深圳海关在1名进境旅客的行李中查获藏匿在奶粉罐中的燕窝423克，重庆海关在1名进境旅客行李中查获龙宫果3.5千克，大连海关在1名进境旅客行李中查获柿子2.67千克。依据《中华人民共和国禁止携带、寄递进境的动植物及其产品和其他检疫物名录》，海关对上述物品实施截留处置。 上述动植物产品来源不明，可能携带非洲猪瘟病毒、高致病性禽流感病毒等动物病原体，大洋臀纹粉蚧、地中海实蝇等植物检疫性有害生物，一旦携带入境，极易引发重大动植物疫情，危害我国农林牧渔业生产，威胁国家生物安全。 海关提醒：根据《中华人民共和国生物安全法》和《中华人民共和国进出境动植物检疫法》及其实施条例等法律法规，未经审批禁止携带、寄递肉类、燕窝、新鲜水果等《中华人民共和国禁止携带、寄递进境的动植物及其产品和其他检疫物名录》内的物品进境。如有携带，应主动向海关申报。
+
+**🇬🇧 Actionable Travel Intel**:  
+The General Administration of Customs reminded inbound travelers that bringing meat products, bird's nest, and fresh fruits into China is strictly prohibited without prior official approval under border quarantine regulations. Arriving passengers carrying any restricted biological items must declare them to Customs for official quarantine inspection, and failure to comply carries legal liability under border health and biosecurity laws.
+
+> **Verified Source**: [海关发布 (Sina Weibo)](https://weibo.com/5832321505/RlymrysSL)
+
+---
+
 ### October 5, 2026 &bull; 20:52 CST `[National Transport Network & Transit Surge]`
 #### Ministry of Transport: Golden Week Return Surge Mobilizes 300,000,000+ Inter-Regional Passenger Journeys
 
@@ -54,6 +67,19 @@ The Ministry of Transport reported that inter-regional passenger movements surpa
 China Customs issued a reminder regarding currency restrictions for inbound and outbound travelers. Passengers carrying more than CNY 20,000 in cash or foreign currency exceeding the equivalent of USD 5,000 must declare to customs. Outbound travelers carrying USD 5,000 to USD 10,000 must obtain a permit from an authorized bank, while amounts exceeding USD 10,000 require a permit from the State Administration of Foreign Exchange.
 
 > **Verified Source**: [General Administration of Customs of China (Sina Weibo)](https://weibo.com/5832321505/Rlg7zni9N)
+
+---
+
+### October 5, 2026 &bull; 07:30 CST `[Aviation Transit & Cross-Border Flights]`
+#### Direct Passenger Flight Resumes: Qingdao to Vancouver Weekly Route
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月2日，山东青岛直飞加拿大温哥华客运航线正式复航。山东边检总站青岛机场边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线每周五执飞一班。（文：徐哲/图：朱杰）
+
+**🇬🇧 Actionable Travel Intel**:  
+The direct passenger air route between Qingdao and Vancouver officially resumed on October 2, with international flights operating weekly on Fridays. Qingdao Airport border inspection deployed optimized duty arrangements to maintain passenger clearance for incoming and departing travelers.
+
+> **Verified Source**: [国家移民管理局 (Sina Weibo)](https://weibo.com/6929716472/RldjUcMIZ)
 
 ---
 
@@ -83,6 +109,32 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 
 ---
 
+### October 3, 2026 &bull; 11:18 CST `[National Rail Fares & Senior Concessions]`
+#### China State Railway Group Introduces Fare Discount on Designated Trains for Senior Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【老年人购买10月18日至12月30日铁路12306标注“敬”字车次的火车票将享受“折上折”票价优惠】继今年5至6月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措，年满60周岁及以上老年人购买2026年10月18日（含）至12月30日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠，进一步扩大优惠时间范围，不再限定周中时段，相关优惠车票将于10月4日起陆续发售。 今年5至6月，国铁集团推出了老年人淡季周中享受执行票价9折优惠措施，助力更多银发族坐着火车追寻“诗与远方”。为更好地服务老年旅客出行，国铁集团在认真总结前期工作情况的基础上，近期对老年旅客淡季购票优惠举措进行了优化，进一步扩大了优惠时间范围，不再限定周中时段，优惠服务实行期间内均可享受“折上折”票价优惠。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group announced off-peak fare discounts for passengers aged 60 and above traveling on Railway 12306 trains marked with the character Jing. Eligible travelers holding valid documentation, including Foreign Permanent Resident ID Cards and travel permits, receive a discount on executed ticket fares for departures between October 18 and December 30, 2026. Ticket sales under this program begin rolling out from October 4.
+
+> **Verified Source**: [中国铁路 (Sina Weibo)](https://weibo.com/2549511007/RkVXxhrbw)
+
+---
+
+### September 29, 2026 &bull; 18:00 CST `[Travel Weather & Regional Climate Advisory]`
+#### Ministry of Culture and Tourism Issues National Holiday Travel Weather Advisory
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 国庆节假期即将来临，文化和旅游部与中国气象局提醒广大游客，关注天气变化，快乐平安出游。 一、全国大部地区气象条件较好，总体有利于出行 预计国庆节假日期间（10月1日至7日），北方大部地区多数时间以晴到多云天气为主。除华南地区外，全国大部地区、多数时间气候舒适度为“较舒适”及以上等级，其中华北到江南北部以及西南地区东部、西北地区大部气候舒适度可以达到“舒适”或“最舒适”等级，总体有利于旅游出行。华北到黄淮、东北地区南部、西北地区大部适合游玩。10月1日至4日，南方地区多阴雨天气；10月5日后，南方大部地区将转为晴好天气，而且随着气温和湿度降低，气候舒适度将达到“较舒适”及以上等级，可规划旅游出行。 二、重点关注假日期间阶段性降温和阴雨天气 假日期间全国大部地区气温较适宜。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Ministry of Culture and Tourism and the China Meteorological Administration jointly issued a nationwide holiday travel weather advisory. While northern and central regions experienced favorable conditions for tourism, incoming cold air fronts brought temperature drops of 4 to 6 degrees across central and eastern regions from October 3 to 4, with minimum temperatures near 0 degrees in northern areas. Authorities advised travelers to monitor local forecasts and avoid high-risk water and mountain zones.
+
+> **Verified Source**: [文旅之声 (Sina Weibo)](https://weibo.com/5713450386/RkmT0bVyx)
+
+---
+
 ### September 28, 2026 &bull; 21:48 CST `[High-Speed Rail Expansion]`
 #### Harbin–Yichun High-Speed Rail Opens: Northeast Boreal Corridor Linked in 1h 46m
 
@@ -93,6 +145,19 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 The Harbin–Yichun High-Speed Railway has entered official passenger operation, marking China's first high-speed line built across high-latitude discontinuous permafrost. The 318 km line (speed 250 km/h) connects Harbin with Yichun in 1 hour 46 minutes. Yichun West Station now operates as the country's northernmost high-speed terminus across 9 newly operational stations.
 
 > **Verified Source**: [China Railway Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
+
+---
+
+### September 28, 2026 &bull; 18:04 CST `[High-Speed Rail Expansion & Corridor Transit]`
+#### Yichang–Xingshan High-Speed Railway Enters Service Connecting Yangtze Corridor
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 9月28日清晨，群山环抱下的兴山站十分热闹。站前广场上人潮涌动，舞狮表演、昭君小戏、踩堂戏、汉服快闪等特色节目轮番上演，处处洋溢着喜庆的氛围。9时58分，随着一声风笛长鸣，G6888次首发列车缓缓驶离兴山站，向宜昌北站疾驰而去，标志着宜兴高铁正式开通运营。至此，沪渝蓉沿江高铁与郑渝高铁成功“牵手”，兴山至宜昌两地火车出行半小时可达，武汉至重庆时空距离进一步压缩，两地最快3小时54分钟可达。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Yichang–Xingshan High-Speed Railway officially entered commercial passenger service on September 28 as train G6888 departed Xingshan Station towards Yichang North Station at 9:58. The line connects the Yangtze River corridor with the Zhengzhou–Chongqing High-Speed Railway, cutting rail travel time between Xingshan and Yichang to half an hour and reducing Wuhan–Chongqing travel time to 3 hours 54 minutes.
+
+> **Verified Source**: [中国铁路 (Sina Weibo)](https://weibo.com/2549511007/Rkdu7u1Qm)
 
 ---
 
