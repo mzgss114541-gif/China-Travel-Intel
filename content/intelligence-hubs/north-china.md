@@ -5,6 +5,17 @@
 
 ---
 
+### 📅 October 8, 2026 &bull; 09:00 CST `[Museum Exhibition Schedule]`
+#### Palace Museum: Donated Cultural Relics Exhibition at Jingren Palace Extended Through October 15, 2028
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 故宫博物院藏捐献文物展”原计划展出至2026年10月18日，现延期至2028年10月15日。欢迎各位观众前往参观。 故宫博物院 2026年10月8日 问题反馈 分享到： 返回列表 图书馆 视听馆 故宫旗舰店 全景故宫 v故宫 微博 微信 小程序 学习强国号 视频号 抖音号 网站访问量 网站地图 相关链接 影像授权 隐私政策 版权声明 留言板 联系我们 关于我们 网站维护：故宫博物院数字与信息部 联系方式： gugong@dpm.org.cn 京公网安备 11010102004165号 京ICP备05067311号-1 © 2001- 现在 故宫博物院 网站建设 ： 北京分形科技 浏览建议 火狐 谷歌 360浏览器 最佳分辨率（1920 * 1080） -->
+
+**🇬🇧 Actionable Travel Intel**:  
+The Palace Museum announced that the exhibition 'Renfeng Jingcong: Donated Cultural Relics in the Collection of the Palace Museum' located at Jingren Palace, originally scheduled to run through October 18, 2026, is now extended to October 15, 2028. Visitors are welcome to visit.
+
+> 📌 **Verified Source**: [故宫博物院](https://www.dpm.org.cn/announce_detail/379634.html)
+
 ### 📅 October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
 #### China Railway Beijing Bureau: Beijing South Station Opens All Exit Channels During Peak Arrival Hours
 
