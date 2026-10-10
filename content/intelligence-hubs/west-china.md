@@ -5,6 +5,19 @@
 
 ---
 
+### October 10, 2026 &bull; 18:40 CST `[Seasonal Operating Hours]`
+#### Hailuogou Scenic Area Transitions to Winter-Spring Operating Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 甘孜旅游【10月10日起海螺沟景区执行冬春运营时段】自2026年10月10日起，海螺沟景区启用冬春运营时段。冬春时段（10月10日—次年4月30日）售票、入园：08:00—14:00，14:00停止入园，闭园17:00。温馨提示：冬春高海拔区域天气多变，易降雪、结冰、起雾，请游客提前查看天气路况，合理规划行程 ...全文
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective October 10, 2026 through April 30 of the following year, Hailuogou Scenic Area operates under its winter-spring schedule. Ticket sales and visitor entry are available from 08:00 to 14:00, with park entry closing at 14:00 and final park closure at 17:00. High-altitude weather is volatile with snow, ice, and fog; travelers should check road and weather conditions in advance to plan itineraries.
+
+> **Verified Source**: [甘孜文旅 (Sina Weibo)](https://weibo.com/2014827750/Rm2QskQ55)
+
+---
+
 ### October 10, 2026 &bull; 15:47 CST `[Alpine Closure & Seasonal Scheduling]`
 #### Mount Kailash Scenic Area: Closed from October 20, 2026 Due to Severe Blizzard and Icing
 
