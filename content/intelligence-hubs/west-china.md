@@ -5,6 +5,19 @@
 
 ---
 
+### October 10, 2026 &bull; 21:19 CST `[Operating Hours Adjustment]`
+#### Xi'an Bell and Drum Towers Museum Switches to Off-Season Hours Starting October 11
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【西安市钟鼓楼博物馆开放时间调整 明起执行淡季开放时间】为进一步优化参观环境，西安市钟鼓楼博物馆将于国庆节后对钟楼、鼓楼楼内展厅基本陈列进行提升改造。现将参观事项公告如下：一、开放时间自2026年10月11日起，我馆执行淡季开放时间：每日8:30—18:00，17:30停止检票。 ...全文
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum will implement off-season opening hours from 8:30 to 18:00 daily, with ticket inspection stopping at 17:30. Following the National Day holiday, the permanent exhibitions inside the Bell Tower and Drum Tower exhibition halls will undergo upgrading and renovation to improve the visiting environment. The source announcement does not specify further details.
+
+> **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/Rm3T4fzUw)
+
+---
+
 ### October 10, 2026 &bull; 18:40 CST `[Seasonal Operating Hours]`
 #### Hailuogou Scenic Area Transitions to Winter-Spring Operating Hours
 
