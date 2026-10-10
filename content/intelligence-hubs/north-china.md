@@ -5,6 +5,19 @@
 
 ---
 
+### October 10, 2026 &bull; 14:56 CST `[High-Speed Rail Transit & Heritage Admission]`
+#### Gaopingdong Railway Station: Free Tourist Bus Transfers and Free Admission to 18 Scenic Sites Through October 20
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 金秋时节，太行秋意渐浓，搭乘高铁直达高平东站，出站就能换乘免费旅游公交，18个景区景点，22处国保单位免门票开放，一站式解锁古建遗存、炎帝文化与太行秋色↓↓活动时间：9月20日-10月20日✅ 免费游景区：全市18个景区景点、22处国 ...全文
+
+**🇬🇧 Actionable Travel Intel**:  
+Passengers arriving directly by high-speed rail at Gaopingdong Station can transfer to free tourist buses upon exiting the station. From September 20 to October 20, admission is free across 18 scenic attractions and 22 national historical and cultural protection sites in the city, covering ancient architectural heritage, Yandi culture, and Taihang autumn scenery.
+
+> **Verified Source**: [郑州铁路 (Sina Weibo)](https://weibo.com/1904469113/Rm1nGfvfM)
+
+---
+
 ### October 10, 2026 &bull; 13:18 CST `[Alpine Closure & Seasonal Scheduling]`
 #### Changbaishan South Scenic Area: Seasonal Winter Closure Effective October 16 Due to Snow and Ice
 
