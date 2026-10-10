@@ -15,13 +15,13 @@
 
 # China Travel Intel (Reise- und Lagezentrum China)
 
-> **Das offizielle Lage- und Informationszentrum von [YouTu Travel](https://yoututravel.com)**  
-> Echtzeit-Reisehinweise für China, Visabefreiungen, Transitkorridore des Hochgeschwindigkeitsnetzes und operative Mitteilungen bedeutender Kulturstätten für internationale Reisende.
+> **Das offizielle Informationszentrum für Chinareisen von [YouTu Travel](https://yoututravel.com)**  
+> Reisehinweise für China, Visabefreiungen, Transitkorridore des Hochgeschwindigkeitsnetzes und operative Mitteilungen bedeutender Kulturstätten für internationale Reisende.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
 [![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
 [![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
-[![EU Languages Supported](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES-blue.svg?style=flat)]()
+[![Multilingual Documentation](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES%20%7C%20ZH-blue.svg?style=flat)]()
 
 ---
 
@@ -38,7 +38,7 @@ Um Reisenden aus Europa und Übersee verlässliche Orientierung zu bieten, werde
 | **Nordchina** | Peking (Verbotene Stadt, Große Mauer), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Bericht einsehen](content/intelligence-hubs/north-china.md) |
 
 > **Vor Ort in China? (Vorlage beim Bahn- und Kontrollpersonal / Show-to-Staff)**  
-> Sollten Sie an Bahnsteigsperren, Flugsteigen, Grenzkontrollstellen oder Museumseingängen auf Sprachbarrieren stoßen, öffnen Sie das jeweilige regionale Bulletin, um den chinesischen Originaltext der behördlichen Bekanntmachung aufzurufen (`🇨🇳 官方通告原文`). Zeigen Sie diesen Text direkt auf Ihrem Smartphone vor.  
+> Sollten Sie an Bahnsteigsperren, Flugsteigen, Grenzkontrollstellen oder Museumseingängen auf Sprachbarrieren stoßen, öffnen Sie das jeweilige regionale Bulletin, um den chinesischen Originaltext der behördlichen Bekanntmachung aufzurufen (`🇨🇳 官方通告原文`). Zeigen Sie diesen Text direkt auf Ihrem Smartphone Zugbegleitern, Bahnhofsvorstehern, Mitarbeitern vor Ort oder hilfsbereiten Passanten zur sofortigen Überprüfung, Wegbeschreibung und Verständigung vor.  
 >  
 > **Haftungsausschluss & Vorsichtsprinzip (The Prudence Rule)**: *Die Auszüge dienen ausschließlich der Orientierung und Verständigungshilfe. Da behördliche Weisungen und operative Bedingungen kurzfristigen Änderungen unterliegen, **sollten Mitteilungen im Zweifelsfall stets als vorläufig betrachtet werden**. Das Personal vor Ort verfügt über uneingeschränkte Ermessensbefugnis. Treffen Sie zeitkritische oder unumkehrbare Reiseentscheidungen erst nach Rücksprache mit dem Servicepersonal vor Ort.*
 
@@ -48,25 +48,23 @@ Um Reisenden aus Europa und Übersee verlässliche Orientierung zu bieten, werde
 
 Um ein Höchstmaß an Genauigkeit für internationale Gäste zu gewährleisten, folgt unser Lagezentrum **strengen redaktionellen Leitlinien und primären Quellenabgleichen**:
 
-* **Stündliche Taktung bei aktiver Lageüberwachung**: Während starker Verkehrsspitzen, alpiner Wetterlagen oder kurzfristiger Grenzregelungen werden Meldungen im **Stundentakt** überprüft und aktualisiert.
-* **Vierstufige behördliche Primärquellenverifikation**: Jede öffentliche Meldung stützt sich **ausschließlich auf amtliche Register und Träger öffentlicher Aufgaben**:
+* Sämtliche an Reisende gerichteten öffentlichen Meldungen werden **zu 100 % aus staatlichen Organen und Verkehrsverwaltungseinheiten bezogen und verifiziert**:
   1. **Hoheitsverwaltung & Grenzkontrolle**: Nationale Einwanderungsbehörde (NIA), Generalzolldirektion, Außenministerium sowie Grenzstationen (Peking, Shanghai, Shenzhen, Guangzhou, Zhuhai).
   2. **Nationaler Fernverkehr & Luftfahrt**: China State Railway Group (12306) nebst 18 regionalen Eisenbahndirektionen, Zivilluftfahrtbehörde (CAAC) und internationale Flughafenbetreiber.
   3. **Weltkulturerbe- & Denkmalverwaltungen**: Palastmuseum (Verbotene Stadt), Terrakotta-Armee, Potala-Palast, Dunhuang-Akademie und staatliche 5A-Denkmalverwaltungen.
   4. **Verkehrssicherheit & alpine Wetterdienste**: Autobahnpolizeien (z.B. witterungsbedingte Sperrungen der Duku-Fernstraße), maritime Sicherheitsbehörden (Fährenausfälle) und Katastrophenschutzämter.
-* **Verzicht auf Überflüssiges (Qualität vor Quantität)**: Außerhalb relevanter Ereignisse bleibt das Lagezentrum bewusst zurückhaltend. **Geprüfte Stille hat Vorrang vor unbedeutendem Rauschen**.
 
 ---
 
 ## Öffentliches Reise-Lagezentrum und Fair-Use-Prinzip
 
-Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautorität (Google Helpful Content Richtlinien) veröffentlichen dieses Repository und die Website **ausschließlich amtliche Bekanntmachungen, Gesetzesmeldungen und betriebliche Mitteilungen des öffentlichen Verkehrs** im Rahmen des Fair-Use-Prinzips. Diese Meldungen sind frei von Urheberrechtsrisiken und bieten unmittelbaren praktischen Nutzen für Einreise, Ticketbuchung und Orientierung.
+Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautorität (Google Helpful Content Richtlinien) veröffentlichen dieses Repository und die Website **ausschließlich amtliche Bekanntmachungen aus erster Hand sowie betriebliche Weisungen öffentlicher Behörden und Verkehrsunternehmen**. Rechtlich fallen solche amtlichen Dokumente unter das Fair-Use-Prinzip – sie sind frei von Urheberrechtsstreitigkeiten, bieten hohen praktischen Nutzen und decken die zentralen Bedürfnisse ausländischer Reisender in vielfältigen Dimensionen ab.
 
 ---
 
 ## Über YouTu Travel
 
-Dieses Projekt wird gepflegt von **[YouTu Travel](https://yoututravel.com)**, einem Premiumanbieter für maßgeschneiderte Privatreisen und anspruchsvolle Reiseerlebnisse in China für Gäste aus aller Welt.
+Dieses Projekt wird gepflegt von **[YouTu Travel](https://yoututravel.com)**, einer Boutique-Agentur für maßgeschneiderte Reisen und hochwertige Reiseerlebnisse in China für internationale Reisende.
 
 - **Webseite**: [yoututravel.com](https://yoututravel.com)
 - **Kontakt**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
@@ -79,7 +77,7 @@ Wenn Ihnen diese Reisehinweise helfen, freuen wir uns über einen Star auf GitHu
 
 Besuchen Sie uns gern auf unserer Website:
 1. Erfahren Sie auf **[YouTu Travel](https://yoututravel.com)** mehr über unsere maßgeschneiderten Routen und Reiseführer.
-2. Eröffnen Sie ein GitHub **[Issue](../../issues)** für Feedback oder Anregungen zu neuen Zielen und Zugverbindungen.
+2. Eröffnen Sie ein GitHub **[Issue](../../issues)** für Ihre Vorschläge oder teilen Sie uns mit, welche Informationsquellen wir als Nächstes abdecken sollen!
 
 ---
 

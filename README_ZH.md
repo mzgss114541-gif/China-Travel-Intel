@@ -64,7 +64,7 @@
 
 ## 关于 YouTu Travel
 
-本项目由 **[YouTu Travel](https://yoututravel.com)** 维护。我们是一家专注于为国际来华旅客提供定制定制旅程与高品质中国旅行体验的精品服务机构。
+本项目由 **[YouTu Travel](https://yoututravel.com)** 维护。我们是一家专注于为国际来华旅客提供定制旅程与高品质中国旅行体验的精品服务机构。
 
 - **官方网站**：[yoututravel.com](https://yoututravel.com)
 - **直接联络**：[contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)

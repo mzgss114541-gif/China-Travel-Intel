@@ -15,13 +15,13 @@
 
 # China Travel Intel (Centrale Operativa per i Viaggi in Cina)
 
-> **L'Ufficio Notizie e Aggiornamenti Operativi Ufficiale di [YouTu Travel](https://yoututravel.com)**  
-> Notizie in tempo reale sui viaggi in Cina, aggiornamenti sulle esenzioni visti, corridoi ferroviari ad alta velocità e avvisi operativi dei grandi siti monumentali per i viaggiatori internazionali.
+> **La Centrale Informativa Ufficiale per i Viaggi in Cina di [YouTu Travel](https://yoututravel.com)**  
+> Aggiornamenti sui viaggi in Cina, esenzioni visti, corridoi ferroviari ad alta velocità e avvisi operativi dei grandi siti monumentali per i viaggiatori internazionali.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
 [![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
 [![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
-[![EU Languages Supported](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES-blue.svg?style=flat)]()
+[![Multilingual Documentation](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES%20%7C%20ZH-blue.svg?style=flat)]()
 
 ---
 
@@ -38,7 +38,7 @@ Per garantire piena fruibilità a visitatori europei e internazionali, tutti gli
 | **Cina Settentrionale** | Pechino (Città Proibita, Grande Muraglia), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [Consulta il bollettino](content/intelligence-hubs/north-china.md) |
 
 > **Sul posto in Cina? (Presentazione al personale ferroviario e di frontiera / Show-to-Staff)**  
-> Se incontrate ostacoli linguistici ai varchi ferroviari, imbarchi, controlli doganali o ingressi monumentali, aprite il bollettino regionale corrispondente per visualizzare il testo originale cinese dell'avviso (`🇨🇳 官方通告原文`). Potete mostrarlo direttamente sullo schermo del vostro smartphone al personale di stazione o di bordo per una verifica immediata.  
+> Se incontrate ostacoli linguistici ai varchi ferroviari, imbarchi, controlli doganali o ingressi monumentali, aprite il bollettino regionale corrispondente per visualizzare il testo originale cinese dell'avviso (`🇨🇳 官方通告原文`). Potete mostrarlo direttamente sullo schermo del vostro smartphone a capitreno, capistazione, personale sul posto o passanti disponibili per una verifica immediata, chiedere indicazioni e agevolare la comunicazione.  
 >  
 > **Clausola di esclusione della responsabilità e principio di prudenza (The Prudence Rule)**: *Questi estratti sono forniti a titolo puramente orientativo e di ausilio linguistico. Poiché disposizioni e operatività sul campo possono variare rapidamente, **in caso di dubbio considerate sempre l'informazione come suscettibile di verifica**. Il personale sul posto dispone di piena discrezionalità. Non assumete decisioni irreversibili senza aver prima consultato il personale autorizzato.*
 
@@ -48,25 +48,23 @@ Per garantire piena fruibilità a visitatori europei e internazionali, tutti gli
 
 Per garantire ai viaggiatori internazionali la massima accuratezza, la nostra centrale informativa osserva **rigorosi criteri editoriali e controlli incrociati con i registri primari di stato**:
 
-* **Frequenza oraria durante il monitoraggio attivo**: Nei periodi di picco del traffico, emergenze meteo alpine o variazioni dei visti di frontiera, gli aggiornamenti avvengono a **cadenza oraria**.
-* **Verifica in 4 livelli sulle sole fonti istituzionali primarie**: Tutte le informazioni pubbliche provengono **esclusivamente da istituzioni pubbliche ufficiali**:
+* Tutti i bollettini pubblici rivolti ai viaggiatori sono **raccolti e verificati al 100% da organi statali ed enti di gestione dei trasporti**:
   1. **Sovranità Statale & Controllo delle Frontiere**: Amministrazione Nazionale dell'Immigrazione (NIA), Dogane, Ministero degli Affari Esteri e stazioni di frontiera (Pechino, Shanghai, Shenzhen, Guangzhou, Zhuhai).
   2. **Infrastrutture di Trasporto & Aeroporti Internazionali**: China State Railway Group (12306) con le 18 direzioni ferroviarie regionali, Aviazione Civile (CAAC) e gestori dei grandi hub aeroportuali.
   3. **Patrimonio Mondiale & Amministrazioni Monumentali 5A**: Museo del Palazzo (Città Proibita), Esercito di Terracotta, Palazzo del Potala, Accademia di Dunhuang ed enti parco statali.
   4. **Sicurezza Stradale in Alta Quota & Monitoraggio Meteo**: Polizia stradale provinciale (es. chiusure per neve della statale Duku nello Xinjiang), capitanerie marittime (sospensione traghetti) e protezione civile.
-* **Impegno alla concisione (Qualità prima della quantità)**: Al di fuori dei contesti di rilievo, la centrale mantiene un rigoroso silenzio informativo. **Diamo valore al silenzio accertato rispetto al rumore superfluo**.
 
 ---
 
 ## Ambito del Radar Pubblico e Fair Use
 
-Per evitare qualsiasi rischio di copyright e consolidare l'autorevolezza del portale nei motori di ricerca (linee guida Google Helpful Content), questo archivio e il sito web YouTu Travel riportano **esclusivamente circolari ministeriali, comunicati istituzionali e bollettini operativi dei trasporti pubblici** ai sensi del fair use. Non vi è alcun rischio di copyright e le informazioni offrono utilità immediata a chi viaggia.
+Per evitare qualsiasi rischio di copyright e tutelare l'autorevolezza del portale nei motori di ricerca (standard Google Helpful Content), questo archivio e il sito indipendente pubblicano **unicamente avvisi ufficiali di prima mano e direttive operative di autorità pubbliche ed enti di trasporto pubblico**. Sul piano giuridico, tali atti rientrano nel legittimo utilizzo (Fair Use), offrendo zero controversie sul diritto d'autore ed elevata utilità pratica per rispondere alle esigenze fondamentali dei viaggiatori stranieri sotto molteplici dimensioni.
 
 ---
 
 ## Chi Siamo: YouTu Travel
 
-Questo progetto è curato da **[YouTu Travel](https://yoututravel.com)**, punto di riferimento per viaggi privati su misura ed esperienze di alto livello in Cina per visitatori internazionali.
+Questo progetto è curato da **[YouTu Travel](https://yoututravel.com)**, agenzia specializzata in itinerari su misura ed esperienze di viaggio di alta qualità in Cina per viaggiatori internazionali.
 
 - **Sito web**: [yoututravel.com](https://yoututravel.com)
 - **Contatti diretti**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
@@ -79,7 +77,7 @@ Se questi bollettini vi sono utili per viaggiare in Cina, potete sostenerci aggi
 
 Saremo lieti di ricevere le vostre considerazioni:
 1. Esplorate **[YouTu Travel](https://yoututravel.com)** per consultare i nostri itinerari e le guide dedicate.
-2. Aprite una segnalazione su GitHub **[Issue](../../issues)** per inviare suggerimenti o proporre nuove rotte ferroviarie e destinazioni da coprire.
+2. Aprite una segnalazione su GitHub **[Issue](../../issues)** per inviare i vostri suggerimenti o indicarci quali fonti informative vorreste vedere coperte prossimamente!
 
 ---
 

@@ -15,13 +15,13 @@
 
 # China Travel Intel
 
-> **The Official Travel Updates Desk of [YouTu Travel](https://yoututravel.com)**  
-> Real-time China travel dispatches, visa-free policy updates, high-speed rail corridors, and scenic landmark operational advisories for international travelers.
+> **The Official China Travel Intelligence Desk of [YouTu Travel](https://yoututravel.com)**  
+> China travel dispatches, visa-free policy updates, high-speed rail corridors, and scenic landmark operational advisories for international travelers.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
 [![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
 [![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
-[![EU Languages Supported](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES-blue.svg?style=flat)]()
+[![Multilingual Documentation](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES%20%7C%20ZH-blue.svg?style=flat)]()
 
 ---
 
@@ -38,7 +38,7 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 | **North China** | Beijing (Forbidden City, Great Wall), Tianjin, Shanxi (Datong, Pingyao), Henan (Luoyang), Harbin | [View Updates](content/intelligence-hubs/north-china.md) |
 
 > **Traveling On-Site in China? (Show-to-Staff & On-the-Ground Communication)**  
-> If you encounter language barriers at high-speed railway gates, boarding checkpoints, customs inspection channels, or scenic landmark entries, click into any regional dispatch log above to view the raw official Chinese announcements (`🇨🇳 官方通告原文`). You can display these primary source notices directly on your mobile screen to train conductors, station masters, staff members, or checkpoint personnel for instant on-site verification, wayfinding, and communication.  
+> If you encounter language barriers at high-speed railway gates, boarding checkpoints, customs inspection channels, or scenic landmark entries, click into any regional dispatch log above to view the raw official Chinese announcements (`🇨🇳 官方通告原文`). You can display these primary source notices directly on your mobile screen to train conductors, station masters, on-site staff, or helpful locals for instant verification, wayfinding, and communication.  
 >  
 > **Disclaimer & The Prudence Rule**: *These official excerpts are curated strictly for situational reference and translation assistance. Because regulations, ticket allocations, and frontline operational directives evolve dynamically, **if you ever doubt the reliability, timeliness, or applicability of any dispatch, always treat it as unconfirmed**. On-site authorities, railway crews, and border checkpoint officers retain full discretionary discretion. Never make irreversible or time-critical travel decisions without independent on-site verification.*
 
@@ -48,25 +48,23 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 
 To maximize operational accuracy and dependability for international travelers, this intelligence desk operates under **Rigorous Editorial Guidelines, Primary Registry Corroboration, and Specialist Audits**:
 
-* **Hourly Cadence During Active Monitoring**: During peak transit rushes, adverse alpine weather emergencies, or sudden border policy updates, dispatches are monitored, verified, and updated on an **hourly cadence**.
-* **Four-Tier Primary Official Source Verification**: Every public bulletin is sourced and cross-verified exclusively against authoritative primary public registries and official statutory authorities:
+* Every public bulletin is **100% sourced and verified from state authorities and transit management entities**:
   1. **Sovereign Administration & Border Inspection**: National Immigration Administration (NIA), General Administration of Customs, Ministry of Foreign Affairs, and municipal border inspection authorities (Beijing, Shanghai, Shenzhen, Guangzhou, Zhuhai).
   2. **National Transit & Core Gateway Infrastructure**: China State Railway Group (12306) and the 18 regional railway administrations, Civil Aviation Administration of China (CAAC), and international airport hubs.
   3. **World Heritage & Cultural Preservation Administrations**: The Palace Museum, Emperor Qinshihuang's Mausoleum Site Museum (Terracotta Army), Potala Palace Management Office, Dunhuang Academy, and provincial 5A landmark authorities.
   4. **Emergency Transport & Highland Weather Patrols**: Provincial traffic police (e.g. Xinjiang Duku Highway seasonal and weather controls), maritime safety administrations (ferry suspensions), and emergency management offices.
-* **Zero-Fluff Commitment (Quality Over Volume)**: Outside active monitoring windows or when no high-impact travel disruptions occur, this intelligence desk remains intentionally quiet. **We prioritize factual silence over meaningless noise**—ensuring that every bulletin published represents verified, high-impact, actionable intelligence.
 
 ---
 
 ## Public Travel Radar & Fair Use Standards
 
-To maintain absolute copyright compliance, search engine authority (Google Helpful Content standards), and traveler relevance, this platform publishes **strictly primary official notices, statutory announcements, and operational transit bulletins** under fair use. These notices carry zero copyright risk, zero commercial fluff, and provide immediate, actionable orientation for travelers navigating border entries, transit hubs, and cultural landmarks.
+To maintain absolute copyright compliance and search engine authority (Google Helpful Content standards), this repository and standalone platform publish **only primary official notices and operational directives from public authorities and public transit entities**. Under legal principles, such official documents fall under Fair Use—carrying zero copyright disputes and high practical value, while addressing core multi-dimensional pain points for international travelers.
 
 ---
 
 ## About YouTu Travel
 
-This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique specialist crafting bespoke private journeys and seamless travel experiences across China for international visitors.
+This project is maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique agency specializing in tailored journeys and high-quality China travel experiences for international visitors.
 
 - **Website**: [yoututravel.com](https://yoututravel.com)
 - **Direct Contact**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
@@ -79,7 +77,7 @@ If these travel updates and guides are helpful to you, please consider starring 
 
 We welcome feedback on our standalone platform:
 1. Explore **[YouTu Travel](https://yoututravel.com)** to see our live itineraries, features, and travel guides.
-2. Open a GitHub **[Issue](../../issues)** to share your feedback, suggestions, or request specific destinations and rail corridors you would like us to cover next.
+2. Open a GitHub **[Issue](../../issues)** to share your suggestions or tell us which information sources you would like us to cover next!
 
 ---
 
