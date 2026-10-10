@@ -58,12 +58,9 @@ Afin de garantir un niveau d'exactitude exemplaire aux voyageurs internationaux,
 
 ---
 
-## Architecture de Sécurité : Radar Public vs Notes Internes Confidentielles
+## Périmètre du Radar Public et Usage Loyal
 
-Afin d'éviter tout risque lié aux droits d'auteur et d'assurer une visibilité maximale sur les moteurs de recherche (critères Helpful Content de Google), notre dispositif sépare rigoureusement deux flux :
-
-* **Radar Public de Voyage (Ce dépôt & le site YouTu Travel)** : Publie **strictement des avis institutionnels, circulaires officielles et bulletins d'exploitation des transports publics** dans le respect du fair use. Ces publications ne comportent aucun risque juridique et fournissent une aide opérationnelle directe aux voyageurs.
-* **Notes Internes Isolées (Base de Connaissance IA & Rédaction)** : Médias professionnels (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), rapports d'experts et presse économique internationale (*WSJ*, *Bloomberg*, *Financial Times*) **sont strictement confinés dans nos outils internes d'ingestion IA**. Ils ne font l'objet d'aucune publication publique, servant uniquement à l'analyse stratégique et à l'élaboration d'itinéraires sur mesure.
+Afin d'éviter tout risque lié aux droits d'auteur et d'assurer une visibilité maximale sur les moteurs de recherche (critères Helpful Content de Google), ce dépôt et le site YouTu Travel publient **strictement des avis institutionnels, circulaires officielles et bulletins d'exploitation des transports publics** dans le respect du fair use. Ces publications ne comportent aucun risque juridique et fournissent une aide opérationnelle directe aux voyageurs.
 
 ---
 

@@ -58,12 +58,9 @@ Per garantire ai viaggiatori internazionali la massima accuratezza, la nostra ce
 
 ---
 
-## Architettura di Sicurezza: Radar Pubblico vs Bollettini Interni Riservati
+## Ambito del Radar Pubblico e Fair Use
 
-Per evitare qualsiasi rischio di copyright e consolidare l'autorevolezza del portale nei motori di ricerca (linee guida Google Helpful Content), il nostro sistema mantiene una netta separazione:
-
-* **Radar Pubblico di Viaggio (Questo archivio e il sito web YouTu Travel)**: Riporta **esclusivamente circolari ministeriali, comunicati istituzionali e bollettini operativi dei trasporti pubblici** ai sensi del fair use. Non vi è alcun rischio di copyright e le informazioni offrono utilità immediata a chi viaggia.
-* **Archivio Interno Riservato (Base di Conoscenza IA & Redazione)**: I media commerciali di settore (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), gli studi di settore e le testate economico-finanziarie (*WSJ*, *Bloomberg*, *Financial Times*) **sono rigorosamente confinati negli ambienti interni di ricerca IA**. Non vengono mai diffusi sul web né su GitHub, servendo esclusivamente per l'analisi dei trend di mercato e l'ideazione di itinerari privati d'eccellenza.
+Per evitare qualsiasi rischio di copyright e consolidare l'autorevolezza del portale nei motori di ricerca (linee guida Google Helpful Content), questo archivio e il sito web YouTu Travel riportano **esclusivamente circolari ministeriali, comunicati istituzionali e bollettini operativi dei trasporti pubblici** ai sensi del fair use. Non vi è alcun rischio di copyright e le informazioni offrono utilità immediata a chi viaggia.
 
 ---
 

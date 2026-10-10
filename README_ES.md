@@ -58,12 +58,9 @@ Para ofrecer la máxima fiabilidad a los viajeros internacionales, nuestro centr
 
 ---
 
-## Arquitectura de Cortafuegos: Radar Público vs. Informes Internos
+## Ámbito del Radar Público y Uso Legítimo
 
-Para evitar contingencias de derechos de autor y mantener la máxima relevancia en motores de búsqueda (estándares Helpful Content de Google), nuestro sistema mantiene una separación estricta:
-
-* **Radar Público de Viajes (Este repositorio y la web de YouTu Travel)**: Difunde **estrictamente comunicados y avisos operativos de organismos oficiales y operadores públicos de transporte** bajo el principio de uso legítimo (fair use). No entrañan riesgos de propiedad intelectual y ofrecen utilidad directa para cruces fronterizos y reservas.
-* **Informes Internos Aislados (Base de Conocimiento de IA y Redacción)**: Medios especializados (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), informes sectoriales y prensa económica internacional (*WSJ*, *Bloomberg*, *Financial Times*) **se custodian de forma aislada en sistemas internos de IA**. Nunca se publican en repositorios públicos ni en la web, empleándose exclusivamente para análisis estratégico y diseño de itinerarios a medida.
+Para evitar contingencias de derechos de autor y mantener la máxima relevancia en motores de búsqueda (estándares Helpful Content de Google), este repositorio y la web de YouTu Travel difunden **estrictamente comunicados y avisos operativos de organismos oficiales y operadores públicos de transporte** bajo el principio de uso legítimo (fair use). No entrañan riesgos de propiedad intelectual y ofrecen utilidad directa para cruces fronterizos y reservas.
 
 ---
 
