@@ -16,7 +16,7 @@
 # China Travel Intel (中国文旅出行情报台)
 
 > **[YouTu Travel](https://yoututravel.com) 官方中国旅行情报台**  
-> 专为国际来华旅客提供实时中国旅行动态、免签与口岸政策通报、高铁干线走廊及重点景区运营公告。
+> 专为国际来华旅客提供中国旅行动态、免签与口岸政策通报、高铁干线走廊及重点景区运营公告。
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
 [![Brand: YouTu Travel](https://img.shields.io/badge/Operated%20by-YouTu%20Travel-8c7355.svg?style=flat)](https://yoututravel.com/about-us/)
@@ -58,7 +58,7 @@
 
 ## 公开旅行雷达定位与合理使用规范
 
-为彻底杜绝第三方版权侵权风险、捍卫独立站在搜索引擎中的权威度（Google Helpful Content 核心算法标准），本仓库与独立站前台**100% 仅发布公权力与公共交通实体的第一手政务通告与运营指令**。此类公文在国际法理上属于合理使用（Fair Use），具有零版权争议、高实操价值的特点，精准覆盖外国游客在通关、购票、避坑等维度的核心痛点。
+为彻底杜绝第三方版权侵权风险、捍卫独立站在搜索引擎中的权威度（Google Helpful Content 核心算法标准），本仓库与独立站前台**仅发布公权力与公共交通实体的第一手政务通告与运营指令**。此类公文在法理上属于合理使用（Fair Use），具有零版权争议、高实操价值的特点，精准覆盖外国游客在多维度的核心痛点。
 
 ---
 
