@@ -58,12 +58,9 @@ To maximize operational accuracy and dependability for international travelers, 
 
 ---
 
-## The Architectural Firewall: Public Radar vs. Private Internal Briefings
+## Public Travel Radar & Fair Use Standards
 
-To maintain absolute copyright compliance, search engine authority (Google Helpful Content standards), and traveler relevance, our system strictly enforces an architectural firewall between public publishing and private research:
-
-* **Public Travel Radar (This Repository & Website)**: Publishes **strictly primary official notices, statutory announcements, and operational transit bulletins** under fair use. These notices carry zero copyright risk, zero commercial fluff, and provide immediate, actionable orientation for travelers navigating border entries, transit hubs, and cultural landmarks.
-* **Air-Gapped Private Internal Intelligence (AI Knowledge Base & Editorial Desk)**: Commercial industry trade media (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), think-tank whitepapers, and international financial media (*WSJ*, *Bloomberg*, *Financial Times*) are **strictly quarantined within private internal AI ingestion pipelines**. They are **never published on public websites or GitHub repositories**. These materials are utilized solely as background intelligence for internal trend analysis, macro policy tracking, and designing proprietary bespoke itineraries.
+To maintain absolute copyright compliance, search engine authority (Google Helpful Content standards), and traveler relevance, this platform publishes **strictly primary official notices, statutory announcements, and operational transit bulletins** under fair use. These notices carry zero copyright risk, zero commercial fluff, and provide immediate, actionable orientation for travelers navigating border entries, transit hubs, and cultural landmarks.
 
 ---
 

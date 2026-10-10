@@ -58,12 +58,9 @@ Um ein Höchstmaß an Genauigkeit für internationale Gäste zu gewährleisten, 
 
 ---
 
-## Die Sicherheitsarchitektur: Öffentliches Lagezentrum vs. Interne Fachanalysen
+## Öffentliches Reise-Lagezentrum und Fair-Use-Prinzip
 
-Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautorität (Google Helpful Content Richtlinien) trennt unser System strikt zwischen zwei Datenebenen:
-
-* **Öffentliches Reise-Lagezentrum (Dieses Repository & Website)**: Veröffentlicht **ausschließlich amtliche Bekanntmachungen, Gesetzesmeldungen und betriebliche Mitteilungen des öffentlichen Verkehrs** im Rahmen des Fair-Use-Prinzips. Diese Meldungen sind frei von Urheberrechtsrisiken und bieten unmittelbaren praktischen Nutzen für Einreise, Ticketbuchung und Orientierung.
-* **Isolierte interne Fachanalysen (KI-Wissensdatenbank & Redaktion)**: Kommerzielle Branchenmedien (*TravelDaily*, *LVJIE*, *Tripvivid*, *Pinchain*, *China Tourism News*), Think-Tank-Whitepaper und internationale Wirtschaftszeitungen (*WSJ*, *Bloomberg*, *Financial Times*) **bleiben streng auf interne KI-Forschungssysteme beschränkt**. Sie werden niemals öffentlich auf GitHub oder unserer Website publiziert, sondern dienen ausschließlich der internen Trendanalyse und Konzeption individueller Reiserouten.
+Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautorität (Google Helpful Content Richtlinien) veröffentlichen dieses Repository und die Website **ausschließlich amtliche Bekanntmachungen, Gesetzesmeldungen und betriebliche Mitteilungen des öffentlichen Verkehrs** im Rahmen des Fair-Use-Prinzips. Diese Meldungen sind frei von Urheberrechtsrisiken und bieten unmittelbaren praktischen Nutzen für Einreise, Ticketbuchung und Orientierung.
 
 ---
 
