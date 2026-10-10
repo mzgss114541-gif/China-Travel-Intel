@@ -265,6 +265,19 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 
 ---
 
+### September 30, 2026 &bull; 09:16 CST `[UNESCO Heritage Ticketing & Peak Capacity Alert]`
+#### Jiuzhaigou Scenic Area: Tickets Sold Out for October 1–5 with Daily 41,000 Capacity Reached
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 分类： 旅游公告 日期：2026年9月30日 亲爱的游客朋友们： 截至9月30日9时，九寨沟景区10月1日门票预订4.1万张，已达最大承载量，再次提醒：10月2日至5日门票同样已售罄，请合理规划行程。未预订到门票的游客朋友可选择购买其他日期门票，或选择到九寨沟县神仙池、甲勿海·熊猫园等周边景区游玩。为了让您有一个愉快的旅程，出行前请密切关注九寨沟景区官网、微信、微博获取最新公告信息。 温馨提示： 1.非预约，不出行， 九寨沟景区旺季最大游客承载量为41000人次/天，售罄即止。 享受免票、优惠票政策的游客同样需要实名制预约，未预约，将无法入园。 门票预约请关注微信公众号或微信小程序“九寨沟旅游官方平台”（票务咨询电话：0837-7769999），或登录小程序阿坝旅游网（票务咨询电话：400-088-6969转1。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiuzhaigou Scenic Area announced that tickets for October 1 reached maximum daily capacity of 41,000, and tickets for October 2 through 5 are completely sold out. Real-name advance reservations are mandatory for all visitors, including those eligible for ticket exemptions. Daily admissions during the holiday period operate from 7:30 to 14:00 (park entry closes after 14:00), with full park closure at 18:00. When daily reservations hit capacity, a waitlist system activates on official channels. Returned tickets are pooled and released daily at 08:00 and 17:00.
+
+> **Verified Source**: [九寨沟风景名胜区](https://www.jiuzhai.com/news/notice/11430-2026-09-30-09-16-53)
+
+---
+
 ### September 28, 2026 &bull; 21:49 CST `[Mountain Rail & Hiking]`
 #### Xi'an–Ankang High-Speed Line Operational: Train G9997 Commences Commercial Service
 
