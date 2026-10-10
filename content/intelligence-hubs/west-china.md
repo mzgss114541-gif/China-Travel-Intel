@@ -44,19 +44,6 @@ Due to severe blizzard conditions and sharp temperature drops, road sections acr
 
 ---
 
-### October 10, 2026 &bull; 11:55 CST `[Alpine Scenic Reopening & Road Clearance]`
-#### Namtso Shengxiang Tianmen Scenic Area Resumes Operations Following Snow Clearance
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 纳木错圣象天门景区恢复开园！各位游客朋友，圣象天门景区内道路积雪已基本处理完毕，已具备通行条件，现已恢复开园。此前因突降大雪、道路结冰，景区于10月8日发布公告暂停进入。计划前往的游客请关注天气和路况，注意安全。 来源： ...全文
-
-**🇬🇧 Actionable Travel Intel**:  
-Road snow accumulation within the Namtso Shengxiang Tianmen Scenic Area has been cleared and travel conditions are restored, allowing the site to resume operations. The scenic area had temporarily suspended visitor entry on October 8 due to sudden heavy snowfall and road icing. Travelers planning to visit are advised to monitor local weather and road conditions.
-
-> **Verified Source**: [西藏文旅 (Sina Weibo)](https://weibo.com/2061860827/Rm0cei3sJ)
-
----
-
 ### October 9, 2026 &bull; 15:27 CST `[National Forest Park & Infrastructure Closure]`
 #### Taiping National Forest Park: Temporary One-Day Closure for Bridge Maintenance on October 9
 
