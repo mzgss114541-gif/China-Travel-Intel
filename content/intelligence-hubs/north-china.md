@@ -5,6 +5,19 @@
 
 ---
 
+### October 10, 2026 &bull; 13:18 CST `[Alpine Closure & Seasonal Scheduling]`
+#### Changbaishan South Scenic Area: Seasonal Winter Closure Effective October 16 Due to Snow and Ice
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象预报，10月16日起，长白山南景区将迎来持续降雪、低温天气，景区道路和栈道将出现大面积积雪、结冰，不满足安全运营条件。为保障游览安全，长白山南景区自10月16日起实施季节性闭园，恢复开放时间另行公告。 ...全文
+
+**🇬🇧 Actionable Travel Intel**:  
+According to weather forecasts, Changbaishan South Scenic Area will experience continuous snowfall and low temperatures starting October 16. As roads and boardwalks will see widespread snow and icing that do not meet safe operating conditions, the scenic area will implement a seasonal closure beginning October 16. The reopening date will be announced in a separate notice.
+
+> **Verified Source**: [吉林文旅 (Sina Weibo)](https://weibo.com/2061847537/Rm0JI81Kn)
+
+---
+
 ### October 9, 2026 &bull; 17:16 CST `[Imperial Heritage Opening & Hours Adjustment]`
 #### Beihai Park Glazed Pavilion Courtyard Opens to Public with Seasonal Hours
 

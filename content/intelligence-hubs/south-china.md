@@ -5,6 +5,19 @@
 
 ---
 
+### October 10, 2026 &bull; 12:30 CST `[Urban Transit & High-Speed Rail Transfer]`
+#### Wuhan Railway Station Opens Underground Passage Linking P3 Parking and Metro Line 5
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 连接武汉站P3地下停车场与地铁5号线的地下通道已经开放，旅客下车后可直接进入通道，经地铁既有地下空间前往武汉站，减少露天绕行。 （文旅+交通） （ 长江日报） 湖北文旅的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+An underground corridor connecting the P3 underground parking garage at Wuhan Railway Station with Metro Line 5 is officially open. Arriving passengers can directly enter the passage and access Wuhan Railway Station through existing underground subway facilities, eliminating the need for outdoor detours.
+
+> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/Rm0q9Ee8J)
+
+---
+
 ### October 9, 2026 &bull; 13:30 CST `[Regional Rail & Urban Interconnection]`
 #### Wuhan Intercity Railway Timetable Adjusted with Early Morning Service from October 11
 
