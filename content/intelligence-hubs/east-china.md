@@ -12,7 +12,7 @@
 > 杭衢旅游季如约开启！10月8日—10月31日，衢州14个重点景区对杭州市户籍市民免首道大门票，景区交通、二次消费等费用自理。11月起免票政策面向全球游客。可通过“衢州文旅”公众号、游浙里等小程序线上预约，也能持杭州户籍身份证现场预约。14个景区分为登高赏秋、古建人文、山水洗肺、轻量周末四大类，涵盖江郎山、廿八都、根宫佛国、钱江源等。杭州前往衢州高铁最快50多分钟，也可选直通车或自驾，秋游赏景、品尝衢州美食正合适。
 
 **🇬🇧 Actionable Travel Intel**:  
-The Hang-Qu Tourism Season has launched in Zhejiang. From October 8 to October 31, 14 key scenic areas across Quzhou offer free first-gate admission to registered Hangzhou residents. Starting November, the free admission policy expands to global visitors. Transportation within scenic areas and secondary expenditures must be paid separately. Advance online reservations can be made via the official Quzhou Culture and Tourism WeChat account or the Youzheli mini-program.
+The Hang-Qu Tourism Season has launched in Zhejiang: from October 8 to October 31, 14 key scenic areas across Quzhou offer free first-gate admission to registered Hangzhou residents, and starting in November the free admission policy expands to global visitors (internal scenic transport and secondary consumption fees are self-paid). Reservations can be made online via the "Quzhou Culture and Tourism" WeChat official account or the "Youzheli" mini-program, or on-site with a Hangzhou household registration ID card. The 14 participating scenic areas span four categories—autumn mountain climbing, ancient architecture and culture, nature and forest retreats, and light weekend trips—covering Jianglang Mountain, Nianbadu, Root Palace Buddhist Cultural Zone, and Qianjiangyuan, with high-speed rail from Hangzhou to Quzhou taking just over 50 minutes alongside direct tourist bus and self-driving options.
 
 > **Verified Source**: [浙江文旅 (Sina Weibo)](https://weibo.com/2273048547/RmaPxnL1L)
 
@@ -155,7 +155,7 @@ Suzhou Gardens administration announced that Lion Grove Garden is hosting the 20
 > 一园之中，书香藏幽，别有洞天。闭园改造的长风公园北区10月1日重新开放。在银锄湖、铁臂山这些几代上海人的童年记忆之外，一处新的文化空间已悄然生长——全国首个诺贝尔文学奖主题书店“诺贝尔文学书店”，落址长风公园二号门入口处，并揭开神秘面纱。 诺贝尔文学奖主题书店长什么样？ 一栋原木暖棕与深灰石材相间的建筑融入城市园林。若非外立面上的“诺贝尔文学书店”，很难第一眼把它与传统书店联系起来。推门而入，阅读区座椅完全嵌入书架，藏书、阅读、休憩合为一体；双面书架陈列历届诺贝尔文学奖获奖作品、经典译本、作家传记与文学评论。咖啡座席没有另辟一区，而是嵌入书墙，形成“随手取书、落座即饮”的流畅动线。弧形落地窗外，花园外摆区、古树区与湖光树色相连。 书店展览负责人马青介绍，书店汇集122位诺贝尔文学奖得主的中文译本、外文原版书籍，共计400余种，2026年度诺贝尔文学奖相关新作将在10月奖项揭晓后同步上架。
 
 **🇬🇧 Actionable Travel Intel**:  
-The north zone of Changfeng Park in Shanghai reopened on October 1, 2026, featuring the debut of the Nobel Literature Bookstore. The venue houses over 400 titles in Chinese and foreign editions representing 122 Nobel laureates, alongside a permanent exhibition detailing historical cultural connections between international writers and Shanghai.
+Following renovation closures, the north zone of Changfeng Park in Shanghai reopened on October 1, featuring the debut of China's first Nobel Prize in Literature-themed bookstore, the "Nobel Literature Bookstore," at the Gate 2 entrance. Built with warm wood and dark gray stone integrated into the urban garden beside Yinchu Lake and Tiebi Hill, the venue embeds reading seats and coffee seating directly into double-sided bookshelves displaying award-winning works, classic translations, biographies, and literary criticism, connected to an outdoor garden seating area via curved floor-to-ceiling windows. The bookstore brings together over 400 titles in Chinese translations and foreign-language original editions from 122 Nobel laureates, with new works related to the 2026 Nobel Prize in Literature to be added after the October announcement.
 
 > **Verified Source**: [上海市文化和旅游局](https://whlyj.sh.gov.cn/gqfc/20260930/300fa7a2c23d407192b9e4612e9f31e0.html)
 

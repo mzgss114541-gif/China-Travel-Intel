@@ -58,7 +58,7 @@ On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou
 施工期间，钟楼、鼓楼单楼票价由原价30元/人调整为15元/人，原有各类门票优惠政策不变；待展厅全面开放后，恢复原票价。（西安市钟鼓楼博物馆）@西安发布
 
 **🇬🇧 Actionable Travel Intel**:  
-Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum will implement off-season opening hours from 8:30 to 18:00 daily, with ticket inspection stopping at 17:30. Following the National Day holiday, the permanent exhibitions inside the Bell Tower and Drum Tower exhibition halls will undergo upgrading and renovation to improve the visiting environment. The source announcement does not specify further details.
+Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum switches to off-season operating hours from 8:30 to 18:00 daily (ticket inspection stops at 17:30) and upgrades its interior permanent exhibitions in phases: (1) Bell Tower construction runs from October 11 to November 15, 2026, during which the interior exhibition hall is temporarily closed while the second-floor viewing platform remains open as normal; (2) Drum Tower construction runs from November 1 to November 30, 2026, during which the interior exhibition hall is temporarily closed while the second-floor viewing platform remains open as normal; and (3) during construction, single-tower admission for the Bell Tower and Drum Tower is reduced from the original price of 30 RMB per person to 15 RMB per person with existing discount policies unchanged, returning to the original price once the exhibition halls fully reopen.
 
 > **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/Rm3T4fzUw)
 
@@ -358,7 +358,7 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 > 分类： 旅游公告 日期：2026年9月30日 亲爱的游客朋友们： 截至9月30日9时，九寨沟景区10月1日门票预订4.1万张，已达最大承载量，再次提醒：10月2日至5日门票同样已售罄，请合理规划行程。未预订到门票的游客朋友可选择购买其他日期门票，或选择到九寨沟县神仙池、甲勿海·熊猫园等周边景区游玩。为了让您有一个愉快的旅程，出行前请密切关注九寨沟景区官网、微信、微博获取最新公告信息。 温馨提示： 1.非预约，不出行， 九寨沟景区旺季最大游客承载量为41000人次/天，售罄即止。 享受免票、优惠票政策的游客同样需要实名制预约，未预约，将无法入园。 门票预约请关注微信公众号或微信小程序“九寨沟旅游官方平台”（票务咨询电话：0837-7769999），或登录小程序阿坝旅游网（票务咨询电话：400-088-6969转1。
 
 **🇬🇧 Actionable Travel Intel**:  
-Jiuzhaigou Scenic Area announced that tickets for October 1 reached maximum daily capacity of 41,000, and tickets for October 2 through 5 are completely sold out. Real-name advance reservations are mandatory for all visitors, including those eligible for ticket exemptions. Daily admissions during the holiday period operate from 7:30 to 14:00 (park entry closes after 14:00), with full park closure at 18:00. When daily reservations hit capacity, a waitlist system activates on official channels. Returned tickets are pooled and released daily at 08:00 and 17:00.
+As of 9:00 on September 30, 2026, Jiuzhaigou Scenic Area announced that ticket reservations for October 1 reached the peak-season maximum daily capacity of 41,000 visitors, and tickets for October 2 through 5 are also sold out. Visitors without reservations may book alternative dates or visit nearby attractions in Jiuzhaigou County such as Shenxianchi and Jiawuhai Panda Park. Advance real-name reservation is mandatory for all visitors, including those eligible for free or discounted admission, via the "Jiuzhaigou Tourism Official Platform" WeChat official account or mini-program (ticketing inquiry: 0837-7769999) or the Aba Tourism mini-program (ticketing inquiry: 400-088-6969 ext. 1).
 
 > **Verified Source**: [九寨沟风景名胜区](https://www.jiuzhai.com/news/notice/11430-2026-09-30-09-16-53)
 
@@ -378,13 +378,13 @@ Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the com
 ---
 
 ### September 25, 2026 &bull; 11:44 CST `[High-Speed Rail & Regional Transit]`
-#### Lhasa Railway Station Adds Passenger Trains to Nyingchi, Shigatse, and Xining
+#### Lhasa Railway Station Adds Temporary Passenger Trains to Nyingchi and Shigatse
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 中秋、国庆双节将至，为全力保障节日期间旅客出行安全、顺畅、便捷，拉萨火车站提前研判客流态势、科学统筹运力资源、升级客运服务举措，全方位筑牢“双节”运输保障防线。 据了解，2026年“双节”铁路运输周期为9月23日至10月8日，共计16天。全站预计发送旅客17万人次，日均发送1.06万人次，10月1日将迎来客流峰值，单日预计发送旅客1.5万人次。 针对“双节”长短途客流交织、进出藏与区内短途出游双向激增的特点，拉萨火车站精准对接出行需求，科学布局运力。区内出行方面，在拉萨至林芝、日喀则间加开临时旅客列车，9月24日、30日，10月1日、6日、7日、9日、16日、23日、30日，加开K6833/4次临时旅客列车，9月27日加开C4389/90次临时旅客列车服务拉林区间出行；9月24日、25日、30日，10月1日、4日、6日、7日加开C4393/4次临时旅客列车保障拉日区间客流。
 
 **🇬🇧 Actionable Travel Intel**:  
-Lhasa Railway Station added temporary passenger train services to meet surging travel demand. Regional operations between Lhasa and Nyingchi feature additional train K6833/4 on dates including September 24 and 30, and October 1, 6, 7, 9, 16, 23, and 30, alongside C4389/90 on September 27. Services connecting Lhasa and Shigatse include additional train C4393/4 on September 24, 25, 30, and October 1, 4, 6, and 7. Dual-direction extra trains between Lhasa and Xining include Z9817, Z9818, Z9819, and Z9820, alongside tourist trains Y839 and Y840.
+During the 16-day Mid-Autumn and National Day holiday transport period from September 23 to October 8, 2026, Lhasa Railway Station projects 170,000 passenger departures (averaging 10,600 daily, with a peak of 15,000 on October 1). To meet surging regional travel demand within Tibet, the station added temporary passenger trains between Lhasa and Nyingchi—operating K6833/4 on September 24 and 30 and October 1, 6, 7, 9, 16, 23, and 30, plus C4389/90 on September 27—as well as C4393/4 between Lhasa and Shigatse on September 24, 25, and 30 and October 1, 4, 6, and 7.
 
 > **Verified Source**: [西藏自治区文化和旅游厅](https://wlt.xizang.gov.cn/xwzx_69/xydt/202609/t20260928_560851.html)
 
@@ -397,6 +397,6 @@ Lhasa Railway Station added temporary passenger train services to meet surging t
 > 分类： 景区公告 日期：2026年9月01日 广大游客、旅行社、户外运动组织及社会各界： 稻城亚丁是世界人自然与生物圈保护区、国家级自然保护区、省级风景名胜区，高原生态系统极其脆弱，未开放区域海拔高、地形复杂、气候多变，氧气稀薄、昼夜温差极大，存在雪崩、落石、沼泽、大雾迷路、高原急性疾病等极高生命风险，无通信信号、无应急救援保障条件。为严格保护高原生态环境，防范人员伤亡事故，依据《中华人民共和国生态环境法典》《中华人民共和国青藏高原生态保护法》《中华人民共和国旅游法》《中华人民共和国自然保护区条例》《风景名胜区条例》《四川省风景名胜区条例》等法律法规，现就严禁非法穿越有关事项公告如下： 一、严格管控活动区域。 亚丁国家级自然保护区核心保护区，除法定科研监测、管护巡护、应急救援等情形外，禁止一切人为活动；一般控制区未经主管部门审批，严禁开展穿越、徒步、探险、露营等活动。
 
 **🇬🇧 Actionable Travel Intel**:  
-The Daocheng Yading Nature Reserve Administration strictly prohibits unauthorized trekking, hiking, and camping across undeveloped valleys and core conservation areas. Visitors must remain on official designated tour routes. Illegal entry into core protected areas is subject to fines reaching 100,000, while severe ecological damage faces penalties up to 5,000,000, alongside mandatory liability for emergency rescue costs.
+On September 1, 2026, Daocheng Yading issued an official notice strictly prohibiting illegal crossing and unauthorized outdoor activities to protect its fragile plateau ecosystem and prevent casualties, noting that unopened areas feature high altitude, complex terrain, volatile weather, thin oxygen, extreme day-night temperature swings, hazards including avalanches, rockfalls, marshes, dense fog, and acute altitude sickness, and no communication signals or emergency rescue conditions. Within the core protection zone of Yading National Nature Reserve, all human activities are prohibited except statutory scientific monitoring, conservation patrols, and emergency rescue; within the general control zone, crossing, hiking, exploration, and camping without competent authority approval are strictly forbidden.
 
 > **Verified Source**: [稻城亚丁景区](https://cn.yadingtour.com/e-news/notice/1009-2026-09-01-10-33-47)

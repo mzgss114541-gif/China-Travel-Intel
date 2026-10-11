@@ -17,7 +17,7 @@
 ✅ 免费拿礼包：面向游客推出文旅大礼包，根据通关打卡情况阶梯式兑现——手绘地图、非遗小样、定制书签、神农主题文创一应俱全！
 
 **🇬🇧 Actionable Travel Intel**:  
-Passengers arriving directly by high-speed rail at Gaopingdong Station can transfer to free tourist buses upon exiting the station. From September 20 to October 20, admission is free across 18 scenic attractions and 22 national historical and cultural protection sites in the city, covering ancient architectural heritage, Yandi culture, and Taihang autumn scenery.
+From September 20 to October 20, visitors arriving by high-speed rail at Gaopingdong Station can enjoy three coordinated travel benefits: (1) free admission for visitors nationwide across 18 scenic attractions and 22 national cultural relic protection units in the city; (2) free transfers to dedicated tourist bus routes directly outside the high-speed rail station exit, connecting ancient architectural heritage, countryside landscapes, and cultural landmarks; and (3) tiered cultural tourism gift packs redeemed based on check-in progress, including hand-drawn maps, intangible cultural heritage samples, custom bookmarks, and Shennong-themed cultural items.
 
 > **Verified Source**: [郑州铁路 (Sina Weibo)](https://weibo.com/1904469113/Rm1nGfvfM)
 
@@ -50,13 +50,13 @@ Changbaishan Folk Museum announced a temporary closure from October 9 to October
 ---
 
 ### October 8, 2026 &bull; 09:00 CST `[Museum Exhibition Schedule]`
-#### Palace Museum: Donated Cultural Relics Exhibition at Jingren Palace Extended Through October 15, 2028
+#### Palace Museum: Donated Cultural Relics Exhibition Extended Through October 15, 2028
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 故宫博物院藏捐献文物展”原计划展出至2026年10月18日，现延期至2028年10月15日。欢迎各位观众前往参观。
 
 **🇬🇧 Actionable Travel Intel**:  
-The Palace Museum announced that the exhibition 'Renfeng Jingcong: Donated Cultural Relics in the Collection of the Palace Museum' located at Jingren Palace, originally scheduled to run through October 18, 2026, is now extended to October 15, 2028. Visitors are welcome to visit.
+The Palace Museum announced that the "Donated Cultural Relics in the Collection of the Palace Museum" exhibition, originally scheduled to run through October 18, 2026, has been extended to October 15, 2028. Visitors are welcome to attend.
 
 > **Verified Source**: [故宫博物院](https://www.dpm.org.cn/announce_detail/379634.html)
 
@@ -160,20 +160,20 @@ The National Museum of China announced it is temporarily closed on September 30 
 > 2026年中秋与国庆假期即将来临，为保障广大市民和来京游客玩得舒心、购得放心、行得安心，北京市文化和旅游局特此温馨提示： 一、错峰出行，灵活调整行程 合理规划出游行程，实时关注景区客流动态，旅途中根据实际情况灵活调整，建议您提前准备备选方案，让假期更从容、游览更顺畅。 二、查验证照，细看官方“攻略” 出行前通过“京通”小程序“景区购票”购买天坛、颐和园、八达岭长城等北京市景区门票；搜索“漫游京郊”小程序解锁乡村旅游数字新体验。
 
 **🇬🇧 Actionable Travel Intel**:  
-The Beijing Municipal Bureau of Culture and Tourism advised holiday travelers to purchase tickets for major attractions including the Temple of Heaven, the Summer Palace, and the Badaling Great Wall via the official Jingtong digital portal. Visitors booking packaged tours should verify agency credentials on the Beijing Cultural and Tourism Industry Credit Information platform, avoiding substandard D-rated operators.
+Ahead of the 2026 Mid-Autumn and National Day holidays, the Beijing Municipal Bureau of Culture and Tourism advised residents and visitors to plan staggered itineraries, monitor real-time scenic area passenger flows, and prepare backup travel options for flexible adjustments. Before departure, travelers can purchase admission tickets for Beijing scenic spots including the Temple of Heaven, the Summer Palace, and the Badaling Great Wall via the "Scenic Area Ticketing" section of the "Jingtong" mini-program, and search the "Manyou Jingjiao" mini-program for digital rural tourism experiences.
 
 > **Verified Source**: [北京市文化和旅游局](https://whlyj.beijing.gov.cn/zwgk/tzgg/202609/t20260922_4875417.html)
 
 ---
 
 ### September 15, 2026 &bull; 17:00 CST `[Museum Hours & Holiday Operations]`
-#### Prince Kung Mansion Museum Sets Holiday Operating Hours and Ticket Cut-Off
+#### Prince Kung Mansion Museum Announces Normal Opening for Mid-Autumn and National Day Holidays
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 恭王府博物馆关于2026年中秋节、国庆节假期开放时间的公告-文化和旅游部恭王府博物馆 首页 导览 参观指南 在线购票 讲解服务 参观路线 全景恭王府 数字展厅 廉政参观 资讯 公告 恭博动态 党建园地 恭博视频 媒体关注 高清壁纸 展览 正在展出 常设展览 展览回顾 收藏 馆藏精品 旧藏文物 收藏捐赠 研究 历史 文化 影像 学术 公教 公教活动 恭博志愿者 古建单词卡 文创 资讯 产品 --> 关于 现任领导 机构设置 馆史 馆属企业 留言板 搜索 邮箱 --> EN 首页 / 资讯 / 公告 公告 恭王府博物馆关于2026年中秋节、国庆节假期开放时间的公告 2026年09月15日 发布者：王义 --> 2026 年中秋节假期（ 9 月 25 日至 9 月 27 日）、国庆节假期（ 10 月 1 日至 10 月 7 日）恭王府博物馆正常开放。
 
 **🇬🇧 Actionable Travel Intel**:  
-Prince Kung Mansion Museum operates normally across the Mid-Autumn Festival holiday from September 25 to 27 and National Day holiday from October 1 to 7, 2026. The museum opens at 8:30 daily. Ticket inspections cease promptly at 16:10, and the complex closes at 17:00.
+Prince Kung Mansion Museum announced on September 15, 2026, that it remains open as normal throughout the 2026 Mid-Autumn Festival holiday (September 25 to September 27) and the National Day holiday (October 1 to October 7).
 
 > **Verified Source**: [文化和旅游部恭王府博物馆](https://www.pgm.org.cn/pgm/zxgg/202609/f97ac731a4254470bd45d1fd5c5b5f58.shtml)
 
