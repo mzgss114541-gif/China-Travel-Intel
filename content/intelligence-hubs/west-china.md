@@ -5,6 +5,19 @@
 
 ---
 
+### October 11, 2026 &bull; 14:48 CST `[Seasonal Highway Closures & Traffic Control]`
+#### Xinjiang Highways Announce Winter Closures and Phased Traffic Controls
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 📣新疆这些公路，即将实施冬季封闭或阶段性施工管制。👇冬季封闭📅10月12日8时起📍省道249线K0-K26段👇阶段性管制📍S237线K35+000—K72+000段📅9月30日至10月20日📍国道315线K1513+000-K1565+000段📅10月9日至11月30日 ...全文
+
+**🇬🇧 Actionable Travel Intel**:  
+Official Xinjiang transport advisories announce upcoming winter road closures and phased traffic controls across specific highway sections. Winter closure takes effect on Provincial Road S249 (sections K0 to K26) starting October 12. Phased construction traffic controls apply to Provincial Road S237 (sections K35 to K72) from September 30 to October 20, and to National Highway 315 (sections K1513 to K1565) from October 9 to November 30. Travelers planning overland transit should take note of these highway restrictions.
+
+> **Verified Source**: [新疆是个好地方V (Sina Weibo)](https://weibo.com/2479930984/RmaKS9YNq)
+
+---
+
 ### October 11, 2026 &bull; 14:16 CST `[Station Operations & Transit]`
 #### Suining Station Opens North Terminal and Ceases Passenger Operations at Old Facility
 
