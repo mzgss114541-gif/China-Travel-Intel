@@ -9,7 +9,7 @@
 #### Wuhan Railway Station Opens Underground Passage Linking P3 Parking and Metro Line 5
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 连接武汉站P3地下停车场与地铁5号线的地下通道已经开放，旅客下车后可直接进入通道，经地铁既有地下空间前往武汉站，减少露天绕行。 （文旅+交通） （ 长江日报） 湖北文旅的微博视频
+> 连接武汉站P3地下停车场与地铁5号线的地下通道已经开放，旅客下车后可直接进入通道，经地铁既有地下空间前往武汉站，减少露天绕行。 （文旅+交通） （ 长江日报）
 
 **🇬🇧 Actionable Travel Intel**:  
 An underground corridor connecting the P3 underground parking garage at Wuhan Railway Station with Metro Line 5 is officially open. Arriving passengers can directly enter the passage and access Wuhan Railway Station through existing underground subway facilities, eliminating the need for outdoor detours.
@@ -22,7 +22,32 @@ An underground corridor connecting the P3 underground parking garage at Wuhan Ra
 #### Wuhan Intercity Railway Timetable Adjusted with Early Morning Service from October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据最新列车时刻表，新增的D5876次列车（仙桃-黄冈东）将于早上6:52从仙桃站准时发车。该趟列车沿途经停汉川、武昌、武汉东、黄冈西。这趟早班车的开行，意味着在武汉武昌、光谷（武汉东站）等片区上班的仙桃“早八人”，可以在家门口吃完早餐后从容出发，预计7点半左右即可抵达武汉，完美赶上正常上班时间。与此同时，清晨6:33，由汉口开来的D5871次列车也将抵达仙桃站，极大方便了在汉过夜的仙桃人一早返乡。 除了备受瞩目的清晨首班车，本次调图后，仙桃站的列车线路和时间分布更加科学密集，为武仙同城化提供了全方位的交通支撑： 上午时段：10:50，D5768次（仙桃-阳新）经停武昌、武汉东、葛店南等站；11:05，D5220次前往汉口。
+> 根据最新列车时刻表，新增的D5876次列车（仙桃-黄冈东）将于早上6:52从仙桃站准时发车。该趟列车沿途经停汉川、武昌、武汉东、黄冈西。这趟早班车的开行，意味着在武汉武昌、光谷（武汉东站）等片区上班的仙桃“早八人”，可以在家门口吃完早餐后从容出发，预计7点半左右即可抵达武汉，完美赶上正常上班时间。与此同时，清晨6:33，由汉口开来的D5871次列车也将抵达仙桃站，极大方便了在汉过夜的仙桃人一早返乡。#知音湖北乐享金秋# #湖北的秋天有亿点点好玩# 
+除了备受瞩目的清晨首班车，本次调图后，仙桃站的列车线路和时间分布更加科学密集，为武仙同城化提供了全方位的交通支撑：
+上午时段：10:50，D5768次（仙桃-阳新）经停武昌、武汉东、葛店南等站；11:05，D5220次前往汉口。
+午后至晚间：13:14（D5204）、17:03（D5202）、20:06（D5208）、20:43（D5826）均有前往汉口方向的列车；19:13更有D5240次前往云梦东（经停汉口、孝感东）。
+到达方面：来自麻城北、蕲春南、武穴北、黄冈东、阳新等地的列车也将密集停靠仙桃站，促进两地人员双向高频流动。
+温馨提示：
+全新的列车运行图将于10月11日正式实行。由于调图涉及车次、时刻及停靠站点的变化，请广大旅客出行前密切关注铁路12306官方APP或网站，及时查询最新列车开行信息，合理安排您的行程。武仙同城，说走就走，10月11日清晨6:52，咱们仙桃站见！
+此外
+为有效解决仙桃站旅客出行需求
+实现公交与城铁班次的
+高效、精准衔接
+10月11日起，仙桃站列车运行时间有变化
+仙桃市公交公司特制定专项接驳方案
+对7路、10路公交车
+发车频次进行动态优化
+具体方案如下
+按照“高密、平疏、低减”原则，7路和10路公交车根据最新列车时刻表（含8对客运业务列车），动态调整公交发车频次：
+（一）早间时段：针对首趟到站列车（6:33，D5871汉口—仙桃），提前安排7路、10路首班车到位，确保6:30前在候车区待命，无缝对接早班旅客。
+（二）日间平峰时段：针对9:54（D9299）、10:30（D5763）、12:38（D5887）、16:37（D5201）等平峰到站列车，实行弹性调度，根据实际客流情况灵活调整发车间隔。
+（三）晚高峰时段：针对18:35（D5759）、18:50（D5207）两趟密集到站列车，启动加密发车预案，现场增加7路和10路发车班次，快速疏散集中客流。
+（四）夜间兜底保障：针对末班到站列车（20:25，D5825阳新—仙桃），严格落实夜间兜底发车机制。安排夜间专线等候至20:40左右，确保末班城铁旅客全部疏散完毕。
+此外，仙桃公交还建立了应急延时机制
+公交站与城铁站建立信息互通
+如遇列车轻微晚点
+公交班次将适当延时等候
+确保“车等人”
 
 **🇬🇧 Actionable Travel Intel**:  
 Under the new rail operating schedule effective October 11, additional intercity train D5876 operates from Xiantao at 6:52 to Huanggang East, stopping at Hanchuan, Wuchang, Wuhan East, and Huanggang West. Opposite service D5871 from Hankou arrives at Xiantao at 6:33. Synchronized municipal bus routes 7 and 10 provide early transit connections before 6:30.
@@ -35,7 +60,7 @@ Under the new rail operating schedule effective October 11, additional intercity
 #### Shenzhen Huanggang Port Opens New Clearance Facility with 24-Hour Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据《国务院关于同意启用皇岗口岸港方口岸区及相关延伸区的批复》，皇岗口岸港方口岸区及相关延伸区自2026年7月31日零时起启用并依照香港特别行政区法律实施管辖，正式开通日期由粤港两地政府商定。 皇岗口岸新联检大楼已通过验收，深港双方已完成一系列系统测试、试运行及应急演练，确认皇岗口岸已具备开通条件。经粤港两地政府协商， 皇岗口岸定于2026年10月12日上午6时30分正式开通运行 ，为旅客和客运车辆提供24小时通关服务，同时暂停往来深圳皇岗口岸临时旅检楼和香港落马洲管制站的旅检服务。 深圳市人民政府口岸办公室 香港特别行政区政府保安局 2026年10月9日 附件： 主办单位：深圳市人民政府口岸办公室 备案号： 粤
+> 根据《国务院关于同意启用皇岗口岸港方口岸区及相关延伸区的批复》，皇岗口岸港方口岸区及相关延伸区自2026年7月31日零时起启用并依照香港特别行政区法律实施管辖，正式开通日期由粤港两地政府商定。 皇岗口岸新联检大楼已通过验收，深港双方已完成一系列系统测试、试运行及应急演练，确认皇岗口岸已具备开通条件。经粤港两地政府协商， 皇岗口岸定于2026年10月12日上午6时30分正式开通运行 ，为旅客和客运车辆提供24小时通关服务，同时暂停往来深圳皇岗口岸临时旅检楼和香港落马洲管制站的旅检服务。 深圳市人民政府口岸办公室 香港特别行政区政府保安局 2026年10月9日
 
 **🇬🇧 Actionable Travel Intel**:  
 The Shenzhen Port Office and Hong Kong Security Bureau announced that the reconstructed Huanggang Port officially opens operations at 6:30 on October 12, 2026. The new inspection complex provides 24-hour border clearance services for passengers and vehicles between Shenzhen and Hong Kong. Temporary passenger inspection building services are simultaneously discontinued.
@@ -48,7 +73,18 @@ The Shenzhen Port Office and Hong Kong Security Bureau announced that the recons
 #### Mount Heng Nanyue Scenic Area: Road Traffic Controls Imposed on Routes X016 and X024 from October 8 to 16
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 南岳中心景区进行公路提质改造，今起，部分路段将进行交通管制，官方公告如下： 南岳中心景区公路提质改造工程部分路段交通管制公告 为保障南岳中心景区公路提质改造工程的路面防滑层施工顺利进行，确保道路交通安全有序，依据相关法律法规，现将施工期间交通管制事项公告如下： 一、管制时间10月8日至10月16日 二、管制路线X016线（电力宾馆至西岭路口）、X024线（西岭路口至南天门） 三、管制措施1. 施工区域管制：上述管制路段实行全封闭施工、分段推进，严禁无关车辆、行人进入施工区域。2. 景区运营车辆通行：康家垅——半山亭——财富山庄——祖师殿往返。3. 景区内居民及工作人员通行：除上述施工路段外均可正常通行。 四、温馨提示1. 施工期间，相关路段关键路口将设置公告牌提示绕行路线，过往车辆及行人请严格遵守交通标志指引和现场工作人员指挥，谨慎慢行。
+> 南岳中心景区进行公路提质改造，今起，部分路段将进行交通管制，官方公告如下：
+南岳中心景区公路提质改造工程部分路段交通管制公告
+为保障南岳中心景区公路提质改造工程的路面防滑层施工顺利进行，确保道路交通安全有序，依据相关法律法规，现将施工期间交通管制事项公告如下：
+一、管制时间10月8日至10月16日
+二、管制路线X016线（电力宾馆至西岭路口）、X024线（西岭路口至南天门）
+三、管制措施1. 施工区域管制：上述管制路段实行全封闭施工、分段推进，严禁无关车辆、行人进入施工区域。2. 景区运营车辆通行：康家垅——半山亭——财富山庄——祖师殿往返。3. 景区内居民及工作人员通行：除上述施工路段外均可正常通行。
+四、温馨提示1. 施工期间，相关路段关键路口将设置公告牌提示绕行路线，过往车辆及行人请严格遵守交通标志指引和现场工作人员指挥，谨慎慢行。
+2.施工期间请密切关注“南岳交管”微信公众号、景区官网或现场公告，及时了解交通动态。因施工带来的不便，敬请谅解与支持！
+特此公告。
+南岳区公路建设养护中心
+南岳公安分局交通管理大队
+2026年10月7日
 
 **🇬🇧 Actionable Travel Intel**:  
 Nanyue District highway authorities announced traffic controls in Mount Heng Nanyue central scenic area from October 8 to October 16 for road anti-skid surfacing work. Route X016 (Power Hotel to Xiling intersection) and Route X024 (Xiling intersection to Nantianmen) are under full closure. Non-authorized vehicles and pedestrians are prohibited from entering construction sections. Scenic area shuttle operations are rerouted between Kangjialong, Banshanting, Caifushanzhuang, and Zushidian.
@@ -74,7 +110,9 @@ Haikou General Station of Exit and Entry Frontier Inspection reported that Haina
 #### China Railway Guangzhou Group: 765 Extra Trains Deployed as GBA Return Influx Surges 20.8%
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月7日广铁迎来返程客流最高峰 预计发送旅客315.5万人次 计划加开旅客列车765列】10月7日，国庆假期最后一天，国铁广州局迎来返程客流最高峰，预计发送旅客315.5万人次，较去年同期增加54.3万人次、增长20.8%。当天计划开行旅客列车3893列，加开旅客列车765列（包括普速列车100列、动车组列车665列），加开线路主要是京广、广深港、杭深、江湛等线路，主要开往广深往返潮汕、广深往返长沙及怀化、广州往返湛江等方向。此外，广铁于10月8日凌晨计划加开夜间高铁435列，全力保障旅客顺畅返程。
+> 【国铁广州局迎返程高峰】10月7日，国庆假期最后一天，随着返程客流高峰的到来，国铁广州局预计发送旅客315.5万人次，较2025年同期增加54.3万人次、增长20.8%。当天计划开行旅客列车3893列，加开旅客列车765列，其中普速列车100列、动车组列车665列，加开线路主要是京广、广深港、杭深、江湛等线路，开行方向主要为广深往返潮汕，广深往返长沙、怀化，广州往返湛江等。
+10月8日凌晨计划加开夜间高铁435列，主要开往潮汕、长沙、张家界等方向。数据预测，国庆期间广深港高铁跨境旅客发送量达90.5万人次，同比增长6.6%。为满足香港与内地两地旅客往来，10月7日，国铁广州局开行广深港高铁214列。
+国铁广州局客运中心介绍，从6日开始客流逐步增长，7日为返程客流高峰日。短途客流主要集中在广州南、潮汕、普宁、汕尾、陆丰至深圳北，茂名、阳江、怀集、潮汕、韶关至广州南等方向。长途客流集中在长沙南至深圳北、广州南，长沙南至上海虹桥，北京西、武汉至广州南等方向。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Guangzhou Group handled its peak return travel day on October 7, dispatching an estimated 3,155,000 passengers (+20.8% YoY). A total of 3,893 trains were operated, including 765 additional passenger services (100 conventional, 665 EMUs) along routes including Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, Hangzhou–Shenzhen, and Jiangmen–Zhanjiang lines, with 435 overnight bullet trains scheduled for early morning on October 8.
@@ -87,8 +125,21 @@ China Railway Guangzhou Group handled its peak return travel day on October 7, d
 #### Zhangjiajie Tianmen Mountain: Tianmen Cave Express Cableway Suspended for Maintenance from October 8 to 12
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月8日至12日，张家界天门山景区天门洞快线索道进行检修维护，停止载客运行，请广大游客提前规划好行程。 【检修维护时间】 10月8日至12日 天门洞快线索道停止运行 【景区运营时间】 10月8日至12日景区仅开放 双程索道游览A线 售票时间 6：30-16：00 载客运营时间 7：00 双程索道游览B线、C线套票 单程索道游览1线、2线套票停售 【游览线路调整】 此期间，天门山索道下段（下站至中站）正常运行，上段（中站至山顶上站）因改造施工继续停运，双程索道游览A线套票临时线路调整如下： 自「天门山索道下站」乘索道上山——「索道中站」下索道——换乘「景区游览车」至天门洞——自天门洞后方乘「7级穿山自动扶梯」（上段扶梯）上山顶——游览山顶景点——再乘「7级穿山自动扶梯」（上段扶梯）返回至天门洞——自天门洞广场乘「景区游览车」下山至索道中站——换乘「天门山索道」下山至索道下站 备注：A线票包…
-
+> 10月8日至12日，张家界天门山景区天门洞快线索道进行检修维护，停止载客运行，请广大游客提前规划好行程。
+【检修维护时间】
+10月8日至12日
+天门洞快线索道停止运行
+【景区运营时间】
+10月8日至12日景区仅开放
+双程索道游览A线
+售票时间 6：30-16：00
+载客运营时间 7：00
+双程索道游览B线、C线套票
+单程索道游览1线、2线套票停售
+【游览线路调整】
+此期间，天门山索道下段（下站至中站）正常运行，上段（中站至山顶上站）因改造施工继续停运，双程索道游览A线套票临时线路调整如下：
+自「天门山索道下站」乘索道上山——「索道中站」下索道——换乘「景区游览车」至天门洞——自天门洞后方乘「7级穿山自动扶梯」（上段扶梯）上山顶——游览山顶景点——再乘「7级穿山自动扶梯」（上段扶梯）返回至天门洞——自天门洞广场乘「景区游览车」下山至索道中站——换乘「天门山索道」下山至索道下站
+备注：A线票包含上述游览路线所列交通项目，不包含登天门扶梯（下段扶梯）上行单程。
 **🇬🇧 Actionable Travel Intel**:  
 Hunan cultural and tourism authorities announced that the Tianmen Cave express cableway in Zhangjiajie Tianmen Mountain Scenic Area is closed for maintenance from October 8 to 12. During this period, the scenic area operates only Line A round-trip cableway tickets with ticketing from 6:30 to 16:00 and operational departure starting at 7:00, while Line B, Line C, and one-way package tickets are suspended. Visitors on temporary Line A take the lower cableway section to the middle station, transfer by shuttle to Tianmen Cave, and take the 7-level trans-mountain escalator to the mountain summit.
 
@@ -100,7 +151,10 @@ Hunan cultural and tourism authorities announced that the Tianmen Cave express c
 #### China Railway Guangzhou Group: Return Travel Dispatched Across GBA with 401 Overnight Bullet Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【10月6日广铁迎来客流返程高峰 预计发送旅客283.5万人次 加开夜间高铁401列】10月6日，国铁广州局迎来客流返程小高峰，当天预计发送旅客283.5万人次，较2025年同期增加61.7万人次、增长27.8%。计划开行列车3835列，其中加开列车702列（包括动车组列车595列），加开线路主要是京广、杭深、深湛、广深港等高铁线路，开行方向主要为广州、深圳、长沙、武汉等地。10月7日凌晨计划加开夜间高铁401列，主要开往长沙、潮汕、湛江等方向。广州南站、深圳北站、长沙南站等客流集中大站开启全部出站通道，协同市内地铁和地面公交延长运营时间，确保返程客流顺畅疏散。
+> 【国铁广州局迎来客流返程小高峰】10月6日，国铁广州局迎来客流返程小高峰，当天预计发送旅客283.5万人次，较2025年同期增加61.7万人次、增长27.8%。国铁广州局客运中心相关负责人介绍，当前客流以返程流为主，管内客流呈现由周边中小城市、旅游城市向广州、深圳、长沙等主要城市流动的特点。
+10月6日，国铁广州局计划开行列车3835列，其中加开列车702列，包括普速列车107列、动车组列车595列，加开线路主要是京广、杭深、深湛、广深港等高铁线路，开行方向主要为广州、深圳、长沙、武汉等地。10月7日凌晨计划加开夜间高铁401列，主要开往长沙、潮汕、湛江等方向。
+国庆假期，海南推出全国首个铁路“票根+”线上优惠活动。活动持续至10月15日，旅客乘火车抵达海南后，可通过云闪付APP上传火车票电子客票参与抽奖，中奖率100%：最高可获得票面金额20%的银联通用红包（单笔最高100元），未中现金红包的旅客可获得酒店专属券、消费优惠券等多重福利，同步可享铁路轮渡八折优惠。
+为进一步提升旅客出行体验，国铁广州局依托智慧调度平台和AI客流预测动态调配资源。广州南站、深圳北站、长沙南站等客流集中大站开启全部出站通道，安排广铁青年志愿者在出站通道、中转换乘、出站口等处所开展咨询引导，组织到达旅客快速出站；广州白云站、长沙站等站加大“老幼病残孕”重点旅客服务力度，畅通车站窗口售票、人工检票等传统服务渠道，满足老年人和脱网人群出行需要。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Guangzhou Group dispatched an estimated 2,835,000 passengers on October 6 (+27.8% YoY). Transport authorities scheduled 3,835 trains, including 702 additional services (595 EMUs) along Beijing–Guangzhou, Hangzhou–Shenzhen, Shenzhen–Zhanjiang, and Guangzhou–Shenzhen–Hong Kong high-speed lines toward Guangzhou, Shenzhen, Changsha, and Wuhan. Early on October 7, 401 overnight high-speed trains were added, and major stations opened all exit channels in coordination with local municipal subways and buses.
