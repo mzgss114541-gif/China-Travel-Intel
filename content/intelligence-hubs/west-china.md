@@ -9,7 +9,7 @@
 #### Xinjiang Highways Announce Winter Closures and Phased Traffic Controls
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 📣新疆这些公路，即将实施冬季封闭或阶段性施工管制。👇冬季封闭📅10月12日8时起📍省道249线K0-K26段👇阶段性管制📍S237线K35+000—K72+000段📅9月30日至10月20日📍国道315线K1513+000-K1565+000段📅10月9日至11月30日 ...全文
+> 📣新疆这些公路，即将实施冬季封闭或阶段性施工管制。👇冬季封闭📅10月12日8时起📍省道249线K0-K26段👇阶段性管制📍S237线K35+000—K72+000段📅9月30日至10月20日📍国道315线K1513+000-K1565+000段📅10月9日至11月30日
 
 **🇬🇧 Actionable Travel Intel**:  
 Official Xinjiang transport advisories announce upcoming winter road closures and phased traffic controls across specific highway sections. Winter closure takes effect on Provincial Road S249 (sections K0 to K26) starting October 12. Phased construction traffic controls apply to Provincial Road S237 (sections K35 to K72) from September 30 to October 20, and to National Highway 315 (sections K1513 to K1565) from October 9 to November 30. Travelers planning overland transit should take note of these highway restrictions.
@@ -48,7 +48,14 @@ On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou
 #### Xi'an Bell and Drum Towers Museum Switches to Off-Season Hours Starting October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【西安市钟鼓楼博物馆开放时间调整 明起执行淡季开放时间】为进一步优化参观环境，西安市钟鼓楼博物馆将于国庆节后对钟楼、鼓楼楼内展厅基本陈列进行提升改造。现将参观事项公告如下：一、开放时间自2026年10月11日起，我馆执行淡季开放时间：每日8:30—18:00，17:30停止检票。 ...全文
+> 【西安市钟鼓楼博物馆开放时间调整 明起执行淡季开放时间】为进一步优化参观环境，西安市钟鼓楼博物馆将于国庆节后对钟楼、鼓楼楼内展厅基本陈列进行提升改造。现将参观事项公告如下：
+一、开放时间
+自2026年10月11日起，我馆执行淡季开放时间：每日8:30—18:00，17:30停止检票。
+二、施工时间及开放范围
+1. 钟楼：施工时间为2026年10月11日—11月15日。施工期间，钟楼楼内展厅临时关闭，钟楼二层海墁观景平台正常开放，游客可登上平台观景游览。
+2. 鼓楼：施工时间为2026年11月1日—11月30日。施工期间，鼓楼楼内展厅临时关闭，鼓楼二层海墁观景平台正常开放，游客可登上平台观景游览。
+三、施工期间票价
+施工期间，钟楼、鼓楼单楼票价由原价30元/人调整为15元/人，原有各类门票优惠政策不变；待展厅全面开放后，恢复原票价。（西安市钟鼓楼博物馆）@西安发布
 
 **🇬🇧 Actionable Travel Intel**:  
 Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum will implement off-season opening hours from 8:30 to 18:00 daily, with ticket inspection stopping at 17:30. Following the National Day holiday, the permanent exhibitions inside the Bell Tower and Drum Tower exhibition halls will undergo upgrading and renovation to improve the visiting environment. The source announcement does not specify further details.
@@ -61,7 +68,7 @@ Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum will implement 
 #### Hailuogou Scenic Area Transitions to Winter-Spring Operating Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 甘孜旅游【10月10日起海螺沟景区执行冬春运营时段】自2026年10月10日起，海螺沟景区启用冬春运营时段。冬春时段（10月10日—次年4月30日）售票、入园：08:00—14:00，14:00停止入园，闭园17:00。温馨提示：冬春高海拔区域天气多变，易降雪、结冰、起雾，请游客提前查看天气路况，合理规划行程 ...全文
+> 【10月10日起海螺沟景区执行冬春运营时段】自2026年10月10日起，海螺沟景区启用冬春运营时段。冬春时段（10月10日—次年4月30日）售票、入园：08:00—14:00，14:00停止入园，闭园17:00。温馨提示：冬春高海拔区域天气多变，易降雪、结冰、起雾，请游客提前查看天气路况，合理规划行程。
 
 **🇬🇧 Actionable Travel Intel**:  
 Effective October 10, 2026 through April 30 of the following year, Hailuogou Scenic Area operates under its winter-spring schedule. Ticket sales and visitor entry are available from 08:00 to 14:00, with park entry closing at 14:00 and final park closure at 17:00. High-altitude weather is volatile with snow, ice, and fog; travelers should check road and weather conditions in advance to plan itineraries.
@@ -74,7 +81,8 @@ Effective October 10, 2026 through April 30 of the following year, Hailuogou Sce
 #### Mount Kailash Scenic Area: Closed from October 20, 2026 Due to Severe Blizzard and Icing
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受暴雪天气影响，巴嘎镇城区和环山沿线气温骤降，大部分路段特别是卓玛拉垭口两侧积雪结冰严重。气象预报显示后续仍有持续降雪降温，存在一定安全风险。经综合研判，冈仁波齐景区自2026年10月20日起闭园，2027年开园时间另行通知。闭园期间严禁进入封闭区域，感谢大家理解 ...全文
+> 【#西藏一景区发布闭园公告#】受暴雪天气影响，巴嘎镇城区和环山沿线气温骤降，大部分路段特别是卓玛拉垭口两侧积雪结冰严重。气象预报显示后续仍有持续降雪降温，存在一定安全风险。经综合研判，冈仁波齐景区自2026年10月20日起闭园，2027年开园时间另行通知。闭园期间严禁进入封闭区域，感谢大家理解配合。#西藏文旅资讯#
+> 来源：普兰文旅微信公众号
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to severe blizzard conditions and sharp temperature drops, road sections across Baga Township and surrounding mountain routes—particularly both sides of Drolma La Pass—are experiencing heavy snow accumulation and icing. With continued snowfall and freezing temperatures forecast, Mount Kailash Scenic Area will be closed starting October 20, 2026. Reopening in 2027 will be announced separately. Entering the closed zone during this period is strictly prohibited.
