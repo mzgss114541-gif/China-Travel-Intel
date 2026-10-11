@@ -5,6 +5,19 @@
 
 ---
 
+### October 11, 2026 &bull; 19:00 CST
+#### Shenlufeng Tourism Resort Closes for Seasonal Maintenance Starting October 13, 2026
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 神鹿峰旅游度假区2026年10月13日起闭园休整，2027年春日再会！ 编辑：王华琳 初审：柳絮 复审：师锁伟 终审：曹昊
+
+**🇬🇧 Actionable Travel Intel**:  
+Shenlufeng Tourism Resort announced that the resort will be closed for seasonal maintenance starting October 13, 2026, and is scheduled to reopen in spring 2027.
+
+> **Verified Source**: [长春文旅 (Sina Weibo)](https://weibo.com/2798034700/RmcoXhtMu)
+
+---
+
 ### October 10, 2026 &bull; 14:56 CST
 #### Gaopingdong Railway Station: Free Tourist Bus Transfers and Free Admission to 18 Scenic Sites Through October 20
 
