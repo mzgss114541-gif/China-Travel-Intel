@@ -5,7 +5,7 @@
 
 ---
 
-### October 10, 2026 &bull; 14:56 CST `[High-Speed Rail Transit & Heritage Admission]`
+### October 10, 2026 &bull; 14:56 CST
 #### Gaopingdong Railway Station: Free Tourist Bus Transfers and Free Admission to 18 Scenic Sites Through October 20
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -23,7 +23,7 @@ From September 20 to October 20, visitors arriving by high-speed rail at Gaoping
 
 ---
 
-### October 9, 2026 &bull; 17:16 CST `[Imperial Heritage Opening & Hours Adjustment]`
+### October 9, 2026 &bull; 17:16 CST
 #### Beihai Park Glazed Pavilion Courtyard Opens to Public with Seasonal Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -36,7 +36,7 @@ The historic Glazed Pavilion courtyard at Beihai Park is officially open to the 
 
 ---
 
-### October 9, 2026 &bull; 15:27 CST `[Cultural Relic Conservation & Facility Closure]`
+### October 9, 2026 &bull; 15:27 CST
 #### Changbaishan Folk Museum: Temporary Closure for Cultural Relic Protection from October 9 to 18
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -49,7 +49,7 @@ Changbaishan Folk Museum announced a temporary closure from October 9 to October
 
 ---
 
-### October 8, 2026 &bull; 09:00 CST `[Museum Exhibition Schedule]`
+### October 8, 2026 &bull; 09:00 CST
 #### Palace Museum: Donated Cultural Relics Exhibition Extended Through October 15, 2028
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -62,7 +62,7 @@ The Palace Museum announced that the "Donated Cultural Relics in the Collection 
 
 ---
 
-### October 7, 2026 &bull; 10:00 CST `[Capital Transit Corridors & Return Influx]`
+### October 7, 2026 &bull; 10:00 CST
 #### China Railway Beijing Bureau: Beijing South Station Opens All Exit Channels During Peak Arrival Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -75,7 +75,7 @@ With return passenger flows continuing to climb, China Railway Beijing Bureau an
 
 ---
 
-### October 5, 2026 &bull; 09:42 CST `[Extreme Weather & Alpine Closure]`
+### October 5, 2026 &bull; 09:42 CST
 #### Changbai Mountain: North & South Scenic Zones Suspended All Day Following Blizzard Warning
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -88,7 +88,7 @@ Changbaishan Meteorological Observatory issued a blue blizzard warning with cont
 
 ---
 
-### October 4, 2026 &bull; 14:00 CST `[Railway Hub Transit]`
+### October 4, 2026 &bull; 14:00 CST
 #### Beijing West Railway Station Expands Platform 18 Exit Channels for Disembarking Passengers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -101,7 +101,7 @@ China Railway Beijing Bureau expanded exit channels at Platform 18 of Beijing We
 
 ---
 
-### October 3, 2026 &bull; 16:24 CST `[Heritage & Museum Reservation Saturation Notice]`
+### October 3, 2026 &bull; 16:24 CST
 #### Henan Tourism Authority: Capacity Alerts and Ticket Saturation for Longmen Grottoes and Luoyang Museums
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -114,7 +114,7 @@ Henan cultural and tourism authorities announced that Longmen Grottoes in Luoyan
 
 ---
 
-### September 30, 2026 &bull; 16:10 CST `[Imperial Monument Quotas]`
+### September 30, 2026 &bull; 16:10 CST
 #### Forbidden City: Tang and Song Calligraphy & Painting Exhibition (Phase Two) Opens with Reservation Required
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -127,7 +127,7 @@ The Palace Museum opened the second phase of the "Dianze: Tang and Song Calligra
 
 ---
 
-### September 30, 2026 &bull; 00:00 CST `[Imperial Heritage Exhibition & Museum]`
+### September 30, 2026 &bull; 00:00 CST
 #### Shenyang Imperial Palace Launches Centennial Calligraphy Exhibition at Shishan Zhai
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -140,7 +140,7 @@ The Shenyang Palace Museum opened a special exhibition at Shishan Zhai and Xiezh
 
 ---
 
-### September 22, 2026 &bull; 09:20 CST `[National Museum Schedule & Real-Name Reservation]`
+### September 22, 2026 &bull; 09:20 CST
 #### National Museum of China: Temporary Closure on September 30 and Real-Name Bookings Open for October 1 to 7
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -153,7 +153,7 @@ The National Museum of China announced it is temporarily closed on September 30 
 
 ---
 
-### September 22, 2026 &bull; 00:00 CST `[Ticketing Channels & Consumer Protection]`
+### September 22, 2026 &bull; 00:00 CST
 #### Beijing Tourism Bureau Issues Booking Guidance for Badaling, Summer Palace, and Temple of Heaven
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -166,7 +166,7 @@ Ahead of the 2026 Mid-Autumn and National Day holidays, the Beijing Municipal Bu
 
 ---
 
-### September 15, 2026 &bull; 17:00 CST `[Museum Hours & Holiday Operations]`
+### September 15, 2026 &bull; 17:00 CST
 #### Prince Kung Mansion Museum Announces Normal Opening for Mid-Autumn and National Day Holidays
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -179,7 +179,7 @@ Prince Kung Mansion Museum announced on September 15, 2026, that it remains open
 
 ---
 
-### August 27, 2026 &bull; 16:57 CST `[Imperial Heritage Conservation & Closure]`
+### August 27, 2026 &bull; 16:57 CST
 #### Palace Museum Closes Yanxi Palace for Conservation from September 1 to October 31
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  

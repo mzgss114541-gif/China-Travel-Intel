@@ -5,7 +5,7 @@
 
 ---
 
-### October 11, 2026 &bull; 15:00 CST `[Scenic Area Access & Free Admission]`
+### October 11, 2026 &bull; 15:00 CST
 #### Quzhou Announces Free Admission to 14 Key Scenic Areas with Global Access Starting November
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -18,7 +18,7 @@ The Hang-Qu Tourism Season has launched in Zhejiang: from October 8 to October 3
 
 ---
 
-### October 9, 2026 &bull; 14:00 CST `[Museum Renovation & Temporary Closure]`
+### October 9, 2026 &bull; 14:00 CST
 #### Zhangjiagang Museum: Temporary Closure for Exhibition Hall Upgrades Starting October 10
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -31,7 +31,7 @@ Zhangjiagang Museum announced a temporary closure beginning October 10 for hall 
 
 ---
 
-### October 9, 2026 &bull; 07:55 CST `[Railway Ticketing & Hub Capacity]`
+### October 9, 2026 &bull; 07:55 CST
 #### Shanghai Railway Hub Opens Ticket Sales Window Through October 23 Across 10 Stations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -44,7 +44,7 @@ China Railway Shanghai Station announced that passenger train tickets through Oc
 
 ---
 
-### October 8, 2026 &bull; 16:49 CST `[Holiday Travel Consumption Trends & Experiential Tourism]`
+### October 8, 2026 &bull; 16:49 CST
 #### Holiday Travel Consumption Review: County Destinations and In-Depth Cultural Tourism Experience Surge
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -57,7 +57,7 @@ Shanghai Municipal Administration of Culture & Tourism shared the Golden Week tr
 
 ---
 
-### October 8, 2026 &bull; 10:52 CST `[Cultural Heritage & Museum Special Exhibition]`
+### October 8, 2026 &bull; 10:52 CST
 #### Suzhou Museum Launches Seasonal Aesthetic Exhibition Through November 1
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -70,7 +70,7 @@ Suzhou Museum opened the special exhibition Autumn Appreciation, running from Se
 
 ---
 
-### October 7, 2026 &bull; 18:04 CST `[Megacity Rail Corridor & Night Transit]`
+### October 7, 2026 &bull; 18:04 CST
 #### Yangtze River Delta Railway: Historic Peak Dispatched with 557 Relief Trains & 210 Overnight Services
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -83,7 +83,7 @@ China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an
 
 ---
 
-### October 6, 2026 &bull; 17:09 CST `[High-Speed Rail Mobility & Transit Hub]`
+### October 6, 2026 &bull; 17:09 CST
 #### Yangtze River Delta Railway: Passenger Flow Mobilized with 553 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -96,7 +96,7 @@ China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on Oc
 
 ---
 
-### October 6, 2026 &bull; 14:57 CST `[Scenic Area Admission & Senior Exemption Policy]`
+### October 6, 2026 &bull; 14:57 CST
 #### Mount Huangshan: Free Admission for Visitors Aged 60 and Above from October 8 to 18
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -109,7 +109,7 @@ Anhui and Zhejiang cultural and tourism authorities announced a free admission p
 
 ---
 
-### October 4, 2026 &bull; 14:11 CST `[Cultural Exhibition Notice]`
+### October 4, 2026 &bull; 14:11 CST
 #### Shanghai Forbidden City Treasures Exhibition: Final Days Ahead of October 7 Conclusion
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -122,7 +122,7 @@ The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Mus
 
 ---
 
-### October 1, 2026 &bull; 10:01 CST `[Urban Rail Transit & Station Closures]`
+### October 1, 2026 &bull; 10:01 CST
 #### Shanghai Metro Imposes Holiday Station Closures at East Nanjing Road and Yu Garden
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -135,7 +135,7 @@ Shanghai Metro enacted special holiday operations across its rail network for th
 
 ---
 
-### September 30, 2026 &bull; 08:50 CST `[Heritage Exhibition & Garden Culture]`
+### September 30, 2026 &bull; 08:50 CST
 #### Suzhou Lion Grove Garden Hosts National Scholar Stone Exhibition Through October 15
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -148,7 +148,7 @@ Suzhou Gardens administration announced that Lion Grove Garden is hosting the 20
 
 ---
 
-### September 30, 2026 &bull; 00:00 CST `[Cultural Landmark & Park Reopening]`
+### September 30, 2026 &bull; 00:00 CST
 #### Shanghai Changfeng Park North Zone Reopens with Nobel Literature Bookstore
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -161,7 +161,7 @@ Following renovation closures, the north zone of Changfeng Park in Shanghai reop
 
 ---
 
-### September 29, 2026 &bull; 15:43 CST `[Museum Renovation & Facility Closure]`
+### September 29, 2026 &bull; 15:43 CST
 #### Suzhou Lin Zexu Memorial Hall: Temporary Closure for Exhibition Upgrades from September 30 to October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -174,7 +174,7 @@ Suzhou cultural and tourism authorities announced that Suzhou Lin Zexu Memorial 
 
 ---
 
-### September 29, 2026 &bull; 15:00 CST `[Scenic Route & Night Tour Booking]`
+### September 29, 2026 &bull; 15:00 CST
 #### Suzhou Night Route: Suzhou Museum Advance Booking & Humble Administrator's Garden Night Tour
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -187,7 +187,7 @@ Suzhou Municipal Bureau of Culture recommended an evening cultural route linking
 
 ---
 
-### September 22, 2026 &bull; 08:58 CST `[Scenic Mountain Quota]`
+### September 22, 2026 &bull; 08:58 CST
 #### Mount Huangshan: Autumn Youth Admission Waivers & Mandatory Time-Slot Quotas
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  

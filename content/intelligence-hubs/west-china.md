@@ -5,7 +5,7 @@
 
 ---
 
-### October 11, 2026 &bull; 14:48 CST `[Seasonal Highway Closures & Traffic Control]`
+### October 11, 2026 &bull; 14:48 CST
 #### Xinjiang Highways Announce Winter Closures and Phased Traffic Controls
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -18,7 +18,7 @@ Official Xinjiang transport advisories announce upcoming winter road closures an
 
 ---
 
-### October 11, 2026 &bull; 14:16 CST `[Station Operations & Transit]`
+### October 11, 2026 &bull; 14:16 CST
 #### Suining Station Opens North Terminal and Ceases Passenger Operations at Old Facility
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -31,7 +31,7 @@ On October 11, the North Station Building of Suining Railway Station entered ope
 
 ---
 
-### October 11, 2026 &bull; 12:07 CST `[High-Speed Rail & Transit]`
+### October 11, 2026 &bull; 12:07 CST
 #### Fastest High-Speed Train Linking Sichuan-Chongqing to Wuhan Commences Service via Yichang-Xingshan HSR
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -44,7 +44,7 @@ On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou
 
 ---
 
-### October 10, 2026 &bull; 21:19 CST `[Operating Hours Adjustment]`
+### October 10, 2026 &bull; 21:19 CST
 #### Xi'an Bell and Drum Towers Museum Switches to Off-Season Hours Starting October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -64,7 +64,7 @@ Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum switches to off
 
 ---
 
-### October 10, 2026 &bull; 18:40 CST `[Seasonal Operating Hours]`
+### October 10, 2026 &bull; 18:40 CST
 #### Hailuogou Scenic Area Transitions to Winter-Spring Operating Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -77,7 +77,7 @@ Effective October 10, 2026 through April 30 of the following year, Hailuogou Sce
 
 ---
 
-### October 10, 2026 &bull; 15:47 CST `[Alpine Closure & Seasonal Scheduling]`
+### October 10, 2026 &bull; 15:47 CST
 #### Mount Kailash Scenic Area: Closed from October 20, 2026 Due to Severe Blizzard and Icing
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -91,7 +91,7 @@ Due to severe blizzard conditions and sharp temperature drops, road sections acr
 
 ---
 
-### October 9, 2026 &bull; 15:27 CST `[National Forest Park & Infrastructure Closure]`
+### October 9, 2026 &bull; 15:27 CST
 #### Taiping National Forest Park: Temporary One-Day Closure for Bridge Maintenance on October 9
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -104,7 +104,7 @@ Shaanxi authorities announced that Taiping National Forest Park implemented a te
 
 ---
 
-### October 9, 2026 &bull; 15:26 CST `[Scenic Transit & Shuttle Advisory]`
+### October 9, 2026 &bull; 15:26 CST
 #### Wulong Karst: Tian Sheng San Qiao Exit Sightseeing Shuttle Suspended for Construction from October 9
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -117,7 +117,7 @@ Chongqing Wulong Tourism Industry Group announced that road construction at the 
 
 ---
 
-### October 9, 2026 &bull; 10:59 CST `[Alpine Closure & Seasonal Scheduling]`
+### October 9, 2026 &bull; 10:59 CST
 #### Xinjiang Tourism Authority: Seasonal Closures and Operating Hours Adjusted for Multiple Scenic Areas
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -130,7 +130,7 @@ Xinjiang cultural and tourism authorities announced seasonal suspensions and sch
 
 ---
 
-### October 8, 2026 &bull; 18:12 CST `[Tibet Alpine Trekking & Extreme Weather Advisory]`
+### October 8, 2026 &bull; 18:12 CST
 #### Tibet Tourism Bureau & Medog Scenic Security: Backcountry Areas and Galongla Tianchi Route Prohibited
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -143,7 +143,7 @@ Medog County cultural and tourism authorities in Tibet issued a notice prohibiti
 
 ---
 
-### October 8, 2026 &bull; 12:43 CST `[Cableway Maintenance & Capacity Alert]`
+### October 8, 2026 &bull; 12:43 CST
 #### Mount Emei Jinding No. 1 Cableway Closed for Maintenance on October 9–10
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -156,7 +156,7 @@ The Mount Emei Scenic Area Management Committee announced that the Jinding No. 1
 
 ---
 
-### October 7, 2026 &bull; 08:43 CST `[Southwestern Trunk Hub & Highland Mobility]`
+### October 7, 2026 &bull; 08:43 CST
 #### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -169,7 +169,7 @@ China Railway Kunming Bureau handled its Golden Week return peak on October 7, d
 
 ---
 
-### October 6, 2026 &bull; 16:59 CST `[Highland Rail Corridor Weather Alert]`
+### October 6, 2026 &bull; 16:59 CST
 #### Chengdu Railway Bureau: Heavy Rain Safety Controls Imposed Across Chengdu-Kunming Rail Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -182,7 +182,7 @@ China Railway Chengdu Bureau issued an operational advisory regarding strong rai
 
 ---
 
-### October 5, 2026 &bull; 15:39 CST `[Silk Road Railway Mobility]`
+### October 5, 2026 &bull; 15:39 CST
 #### Xinjiang High-Speed Rail: 16 Additional "Hexie" Bullet Trains Deployed on Urumqi-Turpan Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -195,7 +195,7 @@ China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train service
 
 ---
 
-### October 5, 2026 &bull; 12:40 CST `[Overland Passage Advisory]`
+### October 5, 2026 &bull; 12:40 CST
 #### Tibet Highway: Road Controls Imposed on Nyima-Gerze Sector from Oct 4 to Oct 14
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -208,7 +208,20 @@ Highway authorities implemented traffic control along National Highway 317 betwe
 
 ---
 
-### October 5, 2026 &bull; 10:05 CST `[Heritage Quota Alert]`
+### October 5, 2026 &bull; 11:03 CST
+#### Huangguoshu Waterfall: Shuiliandong Real-Name Timed Reservations Capped at 6,000 Daily Visitors
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友： 您好！ 黄果树水帘洞游道狭窄、地貌特殊，为满足游客需求、保障游览安全、提升游玩体验，景区对水帘洞实行实名制分时预约管控，每日限流6000人。 截至2026年10月4日11:19，黄果树水帘洞在10月7日的预约名额已约满。 黄果树景区门票十天有效，水帘洞预约当日有效，已成功预约景区门票但未预约到水帘洞的游客，仍可正常游览大瀑布、天星桥、陡坡塘等区域，建议您合理安排行程，错峰出行或选择其他日期游览水帘洞。 水帘洞预约的唯一官方渠道为“安旅通”平台，且预约服务全程免费。景区从未授权任何第三方机构或个人开展有偿代预约服务，亦不提供任何形式的加急、加价或代办补票通道。所有非官方渠道提供的预约服务均属未经授权的行为，存在欺诈风险，请广大游客务必提高警惕，切勿轻信，以免造成个人信息泄露或经济损失。
+
+**🇬🇧 Actionable Travel Intel**:  
+Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforces real-name timed reservation controls with a daily capacity limit of 6,000 visitors. Main scenic area entrance tickets maintain multi-day validity, while Shuiliandong reservations are valid only on the designated date. Visitors holding general tickets without a cave reservation can still access the Grand Waterfall, Tianxingqiao, and Doupotang areas. Reservations are available exclusively through the official Anlv Tong platform free of charge.
+
+> **Verified Source**: [黄果树景区 (Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
+
+---
+
+### October 5, 2026 &bull; 10:05 CST
 #### Terracotta Warriors Museum: Admission Quotas Fully Exhausted for October 5
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -221,7 +234,7 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission ti
 
 ---
 
-### October 4, 2026 &bull; 21:15 CST `[Ticketing Quota & Crowd Control]`
+### October 4, 2026 &bull; 21:15 CST
 #### Zhongnan Mountain Nanwutai Halts Same-Day Ticket Sales and Enforces Flow Controls
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -234,7 +247,7 @@ The Zhongnan Mountain Nanwutai Scenic Area announced an immediate halt to on-sit
 
 ---
 
-### October 4, 2026 &bull; 17:30 CST `[Heritage Quota Alert]`
+### October 4, 2026 &bull; 17:30 CST
 #### Mount Emei: October 5 Admission Tickets & Golden Summit Buses Completely Sold Out
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -247,7 +260,7 @@ Mount Emei Scenic Area Management Committee confirmed that as of 17:30 on Octobe
 
 ---
 
-### October 4, 2026 &bull; 12:34 CST `[Railway Capacity Deployment]`
+### October 4, 2026 &bull; 12:34 CST
 #### Xinjiang Railway Deploys 340+ Additional Trains for Return Peak (Ili, Kashgar, Turpan)
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -260,7 +273,7 @@ China Railway Urumqi Bureau scheduled more than 340 additional passenger trains 
 
 ---
 
-### October 4, 2026 &bull; 12:11 CST `[Crowd & Transit Advisory]`
+### October 4, 2026 &bull; 12:11 CST
 #### Mount Hua: Sante Cableway Uphill Queue 80 Mins & Taihua Cableway Uphill Queue 60 Mins
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -273,7 +286,7 @@ Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center 
 
 ---
 
-### October 4, 2026 &bull; 11:35 CST `[Heritage Quota & Ticket Sellout]`
+### October 4, 2026 &bull; 11:35 CST
 #### Leshan Giant Buddha Daytime Admission Tickets Sold Out for October 4
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -286,7 +299,7 @@ The Leshan Giant Buddha Cultural Heritage Management Committee announced that al
 
 ---
 
-### October 3, 2026 &bull; 22:27 CST `[Heritage Quota & Peak Alert]`
+### October 3, 2026 &bull; 22:27 CST
 #### Xi'an Terracotta Warriors: October 4 Admission Sold Out & October 5 Approaching Capacity
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -299,7 +312,7 @@ Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets
 
 ---
 
-### October 3, 2026 &bull; 21:00 CST `[Overland Corridor Advisory]`
+### October 3, 2026 &bull; 21:00 CST
 #### Duku Highway: Final 4-Day Window Before Winter Closure
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -312,7 +325,7 @@ Highway authorities issued a 4-day countdown for the seasonal winter closure of 
 
 ---
 
-### October 1, 2026 &bull; 12:31 CST `[Archaeology & Museum Relaunch]`
+### October 1, 2026 &bull; 12:31 CST
 #### Terracotta Warriors Pit Two Reopens with Dual North/South Viewing Circuits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -325,7 +338,7 @@ Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements fo
 
 ---
 
-### September 30, 2026 &bull; 16:58 CST `[National Park Entry & Shuttles]`
+### September 30, 2026 &bull; 16:58 CST
 #### Jiuzhaigou National Park Peak Season Entry Pricing & Bus Fares Through Nov 15
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -338,7 +351,7 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 
 ---
 
-### September 30, 2026 &bull; 09:16 CST `[Scenic Area Ticketing & Peak Capacity Alert]`
+### September 30, 2026 &bull; 09:16 CST
 #### Jiuzhaigou Scenic Area: Tickets Sold Out for October 1–5 with Daily 41,000 Capacity Reached
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -351,7 +364,7 @@ As of 9:00 on September 30, 2026, Jiuzhaigou Scenic Area announced that ticket r
 
 ---
 
-### September 28, 2026 &bull; 21:49 CST `[Mountain Rail & Hiking]`
+### September 28, 2026 &bull; 21:49 CST
 #### Xi'an–Ankang High-Speed Line Operational: Train G9997 Commences Commercial Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -364,7 +377,7 @@ Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the com
 
 ---
 
-### September 25, 2026 &bull; 11:44 CST `[High-Speed Rail & Regional Transit]`
+### September 25, 2026 &bull; 11:44 CST
 #### Lhasa Railway Station Adds Temporary Passenger Trains to Nyingchi and Shigatse
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -377,7 +390,7 @@ During the 16-day Mid-Autumn and National Day holiday transport period from Sept
 
 ---
 
-### September 1, 2026 &bull; 18:33 CST `[Trail Closure & Safety]`
+### September 1, 2026 &bull; 18:33 CST
 #### Daocheng Yading Enforces Strict Ban on Unauthorized Trekking in Core Reserve
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
