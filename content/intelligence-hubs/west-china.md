@@ -104,7 +104,7 @@ Shaanxi authorities announced that Taiping National Forest Park implemented a te
 
 ---
 
-### October 9, 2026 &bull; 15:26 CST `[UNESCO Heritage Transit & Shuttle Advisory]`
+### October 9, 2026 &bull; 15:26 CST `[Scenic Transit & Shuttle Advisory]`
 #### Wulong Karst: Tian Sheng San Qiao Exit Sightseeing Shuttle Suspended for Construction from October 9
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -205,19 +205,6 @@ China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train service
 Highway authorities implemented traffic control along National Highway 317 between Nyima and Gerze (K2627+000 to K2628+000) from October 4 to October 14, 2026, due to roadbed subsidence and void repair construction. The main roadway is fully closed during construction, with all passing vehicles diverted via a temporary detour.
 
 > **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
-
----
-
-### October 5, 2026 &bull; 11:03 CST `[UNESCO Heritage Booking & Real-Name Quotas]`
-#### Huangguoshu Waterfall: Shuiliandong Real-Name Timed Reservations Capped at 6,000 Daily Visitors
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 尊敬的游客朋友： 您好！ 黄果树水帘洞游道狭窄、地貌特殊，为满足游客需求、保障游览安全、提升游玩体验，景区对水帘洞实行实名制分时预约管控，每日限流6000人。 截至2026年10月4日11:19，黄果树水帘洞在10月7日的预约名额已约满。 黄果树景区门票十天有效，水帘洞预约当日有效，已成功预约景区门票但未预约到水帘洞的游客，仍可正常游览大瀑布、天星桥、陡坡塘等区域，建议您合理安排行程，错峰出行或选择其他日期游览水帘洞。 水帘洞预约的唯一官方渠道为“安旅通”平台，且预约服务全程免费。景区从未授权任何第三方机构或个人开展有偿代预约服务，亦不提供任何形式的加急、加价或代办补票通道。所有非官方渠道提供的预约服务均属未经授权的行为，存在欺诈风险，请广大游客务必提高警惕，切勿轻信，以免造成个人信息泄露或经济损失。
-
-**🇬🇧 Actionable Travel Intel**:  
-Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforces real-name timed reservation controls with a daily capacity limit of 6,000 visitors. Main scenic area entrance tickets maintain multi-day validity, while Shuiliandong reservations are valid only on the designated date. Visitors holding general tickets without a cave reservation can still access the Grand Waterfall, Tianxingqiao, and Doupotang areas. Reservations are available exclusively through the official Anlv Tong platform free of charge.
-
-> **Verified Source**: [黄果树景区 (Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
 
 ---
 
@@ -351,7 +338,7 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 
 ---
 
-### September 30, 2026 &bull; 09:16 CST `[UNESCO Heritage Ticketing & Peak Capacity Alert]`
+### September 30, 2026 &bull; 09:16 CST `[Scenic Area Ticketing & Peak Capacity Alert]`
 #### Jiuzhaigou Scenic Area: Tickets Sold Out for October 1–5 with Daily 41,000 Capacity Reached
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
