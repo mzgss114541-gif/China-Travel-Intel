@@ -5,7 +5,7 @@
 
 ---
 
-### October 10, 2026 &bull; 12:30 CST `[Urban Transit & High-Speed Rail Transfer]`
+### October 10, 2026 &bull; 12:30 CST
 #### Wuhan Railway Station Opens Underground Passage Linking P3 Parking and Metro Line 5
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -18,7 +18,7 @@ An underground corridor connecting the P3 underground parking garage at Wuhan Ra
 
 ---
 
-### October 9, 2026 &bull; 13:30 CST `[Regional Rail & Urban Interconnection]`
+### October 9, 2026 &bull; 13:30 CST
 #### Wuhan Intercity Railway Timetable Adjusted with Early Morning Service from October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -56,7 +56,7 @@ Under the new train operating schedule effective October 11, Xiantao Station exp
 
 ---
 
-### October 9, 2026 &bull; 00:00 CST `[Port Clearance & Border Mobility]`
+### October 9, 2026 &bull; 00:00 CST
 #### Shenzhen Huanggang Port Opens New Clearance Facility with 24-Hour Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -69,7 +69,7 @@ The Shenzhen Port Office and Hong Kong Security Bureau announced that the recons
 
 ---
 
-### October 8, 2026 &bull; 12:01 CST `[Mountain Transit Controls & Road Surface Construction]`
+### October 8, 2026 &bull; 12:01 CST
 #### Mount Heng Nanyue Scenic Area: Road Traffic Controls Imposed on Routes X016 and X024 from October 8 to 16
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -93,7 +93,7 @@ Nanyue District highway authorities announced traffic controls in Mount Heng Nan
 
 ---
 
-### October 8, 2026 &bull; 08:58 CST `[Free Trade Port Inbound & Visa-Free Entry Corridor]`
+### October 8, 2026 &bull; 08:58 CST
 #### Hainan Port Entry Terminals: Inbound Travel Surges 13.4% with 54,000 Crossings at Haikou & Sanya Airports
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -106,7 +106,7 @@ Haikou General Station of Exit and Entry Frontier Inspection reported that Haina
 
 ---
 
-### October 8, 2026 &bull; 08:39 CST `[Greater Bay Area Transit Corridor]`
+### October 8, 2026 &bull; 08:39 CST
 #### China Railway Guangzhou Group: 765 Extra Trains Deployed as GBA Return Influx Surges 20.8%
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -121,7 +121,7 @@ On October 7, the final day of the National Day holiday, China Railway Guangzhou
 
 ---
 
-### October 7, 2026 &bull; 20:02 CST `[Alpine Cableway Maintenance & Route Adjustment]`
+### October 7, 2026 &bull; 20:02 CST
 #### Zhangjiajie Tianmen Mountain: Tianmen Cave Express Cableway Suspended for Maintenance from October 8 to 12
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -147,7 +147,7 @@ From October 8 to 12, the Tianmen Cave Express Cableway at Zhangjiajie Tianmen M
 
 ---
 
-### October 7, 2026 &bull; 10:08 CST `[Greater Bay Area Transit Corridor]`
+### October 7, 2026 &bull; 10:08 CST
 #### China Railway Guangzhou Group: Return Travel Dispatched Across GBA with 401 Overnight Bullet Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -163,7 +163,7 @@ On October 6, China Railway Guangzhou Group projected 2,835,000 passenger depart
 
 ---
 
-### October 6, 2026 &bull; 07:59 CST `[Duty-Free & Tax Refund Policy]`
+### October 6, 2026 &bull; 07:59 CST
 #### Guangxi Implements Cross-Regional Buy-Now Refund-Now Departure Tax Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -184,7 +184,7 @@ Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service acros
 
 ---
 
-### October 4, 2026 &bull; 09:13 CST `[Waterway & Weather Alert]`
+### October 4, 2026 &bull; 09:13 CST
 #### Guangxi Weather Alert: Moderate to Heavy Rain and Gale Warnings Across Coastal & Eastern Cities
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -197,7 +197,7 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 
 ---
 
-### October 4, 2026 &bull; 08:00 CST `[Railway Terminal Logistics & Drop-off Rule]`
+### October 4, 2026 &bull; 08:00 CST
 #### Wuhan Hankou Railway Station Imposes 7-Minute Limit on South Square Drop-off Zone
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -210,7 +210,7 @@ China Railway Wuhan Bureau announced that starting September 29, 2026, the forme
 
 ---
 
-### October 3, 2026 &bull; 16:21 CST `[Tropical Rail Mobility]`
+### October 3, 2026 &bull; 16:21 CST
 #### Hainan High-Speed Loop: Pilot "Bike-on-Train" Service Available via 12306 App
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -223,7 +223,7 @@ The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel"
 
 ---
 
-### October 3, 2026 &bull; 10:53 CST `[Heritage Quota & Flow Control]`
+### October 3, 2026 &bull; 10:53 CST
 #### Mount Heng Central Scenic Area Suspends Same-Day Online Bookings on October 3
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -236,7 +236,7 @@ The Nanyue Mount Heng Scenic Area Administration suspended same-day online reser
 
 ---
 
-### October 1, 2026 &bull; 13:53 CST `[Transnational Waterfall Quota & Border Transit Advisory]`
+### October 1, 2026 &bull; 13:53 CST
 #### Detian Transnational Waterfall: Online Ticket Reservations Near Saturation from October 1 to 4
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -249,7 +249,7 @@ Guangxi cultural and tourism authorities announced that online reservations for 
 
 ---
 
-### September 30, 2026 &bull; 10:43 CST `[Maritime Safety & Karst Cruises]`
+### September 30, 2026 &bull; 10:43 CST
 #### Li River & Yulong River: Luxury Cruises vs Bamboo Raft Age Restrictions
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  

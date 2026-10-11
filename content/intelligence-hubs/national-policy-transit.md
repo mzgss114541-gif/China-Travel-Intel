@@ -5,7 +5,7 @@
 
 ---
 
-### October 8, 2026 &bull; 12:00 CST `[National Trunk Expansion & High-Speed Rail Corridor]`
+### October 8, 2026 &bull; 12:00 CST
 #### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -18,7 +18,7 @@ China State Railway Group announced the start of track-laying operations for the
 
 ---
 
-### October 8, 2026 &bull; 08:31 CST `[National Transit Record & Golden Week Surge]`
+### October 8, 2026 &bull; 08:31 CST
 #### China State Railway Group: Peak Return Passengers Handled with 2,449 Extra Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -31,7 +31,7 @@ China State Railway Group reported that national railways handled their return p
 
 ---
 
-### October 7, 2026 &bull; 13:03 CST `[Customs Compliance & Biosecurity]`
+### October 7, 2026 &bull; 13:03 CST
 #### China Customs Issues Inbound Quarantine Reminder: Prohibitions on Meat, Bird's Nest, and Fresh Fruits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -44,7 +44,7 @@ The General Administration of Customs reminded inbound travelers that bringing m
 
 ---
 
-### October 5, 2026 &bull; 20:52 CST `[National Transport Network & Transit Surge]`
+### October 5, 2026 &bull; 20:52 CST
 #### Ministry of Transport: Golden Week Return Surge Mobilizes 300,000,000+ Inter-Regional Passenger Journeys
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -57,7 +57,7 @@ The Ministry of Transport reported that inter-regional passenger movements surpa
 
 ---
 
-### October 5, 2026 &bull; 14:37 CST `[Customs & Currency Compliance]`
+### October 5, 2026 &bull; 14:37 CST
 #### General Administration of Customs: Mandatory Declaration Limits for Inbound & Outbound Cash
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -70,7 +70,7 @@ China Customs issued a reminder regarding currency restrictions for inbound and 
 
 ---
 
-### October 5, 2026 &bull; 07:30 CST `[Aviation Transit & Cross-Border Flights]`
+### October 5, 2026 &bull; 07:30 CST
 #### Direct Passenger Flight Resumes: Qingdao to Vancouver Weekly Route
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -83,7 +83,7 @@ The direct passenger air route between Qingdao and Vancouver officially resumed 
 
 ---
 
-### October 3, 2026 &bull; 18:00 CST `[App Services & Emergency Support]`
+### October 3, 2026 &bull; 18:00 CST
 #### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -96,7 +96,7 @@ China Railway highlighted the lost property tracking service available on the Ra
 
 ---
 
-### October 3, 2026 &bull; 16:57 CST `[Golden Week Peak Advisory]`
+### October 3, 2026 &bull; 16:57 CST
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -109,7 +109,7 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 
 ---
 
-### October 3, 2026 &bull; 11:18 CST `[National Rail Fares & Senior Concessions]`
+### October 3, 2026 &bull; 11:18 CST
 #### China State Railway Group Introduces Fare Discount on Designated Trains for Senior Travelers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -122,7 +122,7 @@ Following its May–June off-peak midweek promotion that offered a 10% discount 
 
 ---
 
-### September 29, 2026 &bull; 18:00 CST `[Travel Weather & Regional Climate Advisory]`
+### September 29, 2026 &bull; 18:00 CST
 #### Ministry of Culture and Tourism Issues National Holiday Travel Weather Advisory
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -139,7 +139,7 @@ The Ministry of Culture and Tourism and the China Meteorological Administration 
 
 ---
 
-### September 28, 2026 &bull; 21:48 CST `[High-Speed Rail Expansion]`
+### September 28, 2026 &bull; 21:48 CST
 #### Harbin–Yichun High-Speed Rail Opens: Northeast Boreal Corridor Linked in 1h 46m
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -152,7 +152,7 @@ The Harbin–Yichun High-Speed Railway has entered official passenger operation,
 
 ---
 
-### September 28, 2026 &bull; 18:04 CST `[High-Speed Rail Expansion & Corridor Transit]`
+### September 28, 2026 &bull; 18:04 CST
 #### Yichang–Xingshan High-Speed Railway Enters Service Connecting Yangtze Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -165,7 +165,7 @@ The Yichang–Xingshan High-Speed Railway officially entered commercial passenge
 
 ---
 
-### September 28, 2026 &bull; 15:29 CST `[Corridor Expansion]`
+### September 28, 2026 &bull; 15:29 CST
 #### Beijing–Hong Kong Corridor: Xiong'an–Shangqiu High-Speed Line Opens in 2h 27m
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
@@ -178,7 +178,7 @@ The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway en
 
 ---
 
-### September 27, 2026 &bull; 18:00 CST `[Bohai-Rim Regional Transit]`
+### September 27, 2026 &bull; 18:00 CST
 #### Bohai-Rim Transit Expansion: Tianjin–Weifang HSR Connector Begins Trial Runs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
