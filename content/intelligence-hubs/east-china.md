@@ -9,7 +9,7 @@
 #### Quzhou Announces Free Admission to 14 Key Scenic Areas with Global Access Starting November
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 杭衢旅游季如约开启！10月8日—10月31日，衢州14个重点景区对杭州市户籍市民免首道大门票，景区交通、二次消费等费用自理。11月起免票政策面向全球游客。可通过“衢州文旅”公众号、游浙里等小程序线上预约，也能持杭州户籍身份证现场预约。14个景区分为登高赏秋、古建人文、山水洗肺、轻量周末四大类，涵盖江郎山、廿八都、根宫佛国、钱江源等。杭州前往衢州高铁最快50多分钟，也可选直通车或自驾，秋游赏景、品尝衢州美食正合适
+> 杭衢旅游季如约开启！10月8日—10月31日，衢州14个重点景区对杭州市户籍市民免首道大门票，景区交通、二次消费等费用自理。11月起免票政策面向全球游客。可通过“衢州文旅”公众号、游浙里等小程序线上预约，也能持杭州户籍身份证现场预约。14个景区分为登高赏秋、古建人文、山水洗肺、轻量周末四大类，涵盖江郎山、廿八都、根宫佛国、钱江源等。杭州前往衢州高铁最快50多分钟，也可选直通车或自驾，秋游赏景、品尝衢州美食正合适。
 
 **🇬🇧 Actionable Travel Intel**:  
 The Hang-Qu Tourism Season has launched in Zhejiang. From October 8 to October 31, 14 key scenic areas across Quzhou offer free first-gate admission to registered Hangzhou residents. Starting November, the free admission policy expands to global visitors. Transportation within scenic areas and secondary expenditures must be paid separately. Advance online reservations can be made via the official Quzhou Culture and Tourism WeChat account or the Youzheli mini-program.
@@ -22,7 +22,7 @@ The Hang-Qu Tourism Season has launched in Zhejiang. From October 8 to October 3
 #### Zhangjiagang Museum: Temporary Closure for Exhibition Hall Upgrades Starting October 10
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 张家港博物馆自10月10日起临时闭馆 各位市民、观众朋友： 因博物馆大厅改造、通史厅等多个展厅提升维护工作需要，本馆将于10月10日（周六）起临时闭馆，开馆时间另行通知。由此给您带来的不便，敬请谅解，感谢您的理解、支持与配合！ 张家港博物馆 2026年10月8日
+> 张家港博物馆自10月10日起临时闭馆 各位市民、观众朋友： 因博物馆大厅改造、通史厅等多个展厅提升维护工作需要，本馆将于10月10日（周六）起临时闭馆，开馆时间另行通知。由此给您带来的不便，敬请谅解，感谢您的理解、支持与配合！
 
 **🇬🇧 Actionable Travel Intel**:  
 Zhangjiagang Museum announced a temporary closure beginning October 10 for hall renovations and exhibition space maintenance. Reopening dates will be announced separately.
@@ -126,7 +126,7 @@ The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Mus
 #### Shanghai Metro Imposes Holiday Station Closures at East Nanjing Road and Yu Garden
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 2026年国庆假期为10月1日至7日，共7天。为保障市民乘客平安便捷出行，上海地铁特制定国庆专项运营服务方案，全面提升网络运营保驾等级和服务供应。其中，9月30日至10月3日，上海地铁1、7、8、9、10、13号线将实施延时运营方案，提升夜间运力；9月30日自20时起至运营结束、10月1日至7日每日自16时起至运营结束，2、10号线南京东路站及14号线豫园站将临时封站，期间10号线豫园站正常运营；长假尾程的10月6日及10月7日， 1、2、10、17号线将加开夜间定点加班车，延时加开的末班车发车时间延至次日0点，全力疏解返程大客流。（ ）
+> 2026年国庆假期为10月1日至7日，共7天。为保障市民乘客平安便捷出行，上海地铁特制定国庆专项运营服务方案，全面提升网络运营保驾等级和服务供应。其中，9月30日至10月3日，上海地铁1、7、8、9、10、13号线将实施延时运营方案，提升夜间运力；9月30日自20时起至运营结束、10月1日至7日每日自16时起至运营结束，2、10号线南京东路站及14号线豫园站将临时封站，期间10号线豫园站正常运营；长假尾程的10月6日及10月7日， 1、2、10、17号线将加开夜间定点加班车，延时加开的末班车发车时间延至次日0点，全力疏解返程大客流。
 
 **🇬🇧 Actionable Travel Intel**:  
 Shanghai Metro enacted special holiday operations across its rail network for the 7 days holiday period. East Nanjing Road Station on Lines 2 and 10, alongside Yu Garden Station on Line 14, undergo temporary station closures daily from late afternoon at hour 16 until end of service between October 1 and 7 (Line 10 at Yu Garden remains operational). On September 30, closures take effect from hour 20 until end of service. Extended evening train services operate on Lines 1, 7, 8, 9, 10, 13, and 17.
