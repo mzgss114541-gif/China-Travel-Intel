@@ -5,6 +5,32 @@
 
 ---
 
+### October 11, 2026 &bull; 14:16 CST `[Station Operations & Transit]`
+#### Suining Station Opens North Terminal and Ceases Passenger Operations at Old Facility
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日，遂宁站北站房正式投入运营，老站房同步停止客运服务。本次启用北站房面积为2.1万平方米，候车大厅启用面积0.6万平方米，共设置近2000个座椅，候车容纳能力大幅提升。自今日起， 将加开6趟列车，覆盖重庆、成都、齐齐哈尔等地。（文图：胡志强 唐竞 杨菁 肖燚）
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11, the North Station Building of Suining Railway Station entered operation, while the old station building simultaneously ceased passenger services. The new facility includes a waiting hall with nearly 2000 seats. In addition, 6 train services have been added, connecting Chongqing, Chengdu, and Qiqihar.
+
+> **Verified Source**: [西南铁路 (Sina Weibo)](https://weibo.com/1919955065/RmaxGcqGD)
+
+---
+
+### October 11, 2026 &bull; 12:07 CST `[High-Speed Rail & Transit]`
+#### Fastest High-Speed Train Linking Sichuan-Chongqing to Wuhan Commences Service via Yichang-Xingshan HSR
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日8时30分，G3979/3982次列车从成都东站驶出，开往汉口。这趟列车依托刚刚开通运营的宜兴高铁，成为川渝地区往返武汉的最快列车，全程仅需5小时15分，较原有线路压缩1小时44分钟。（文图：胡志强 费思童 韩旭刚）
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou. Operating via the newly opened Yichang-Xingshan High-Speed Railway, it becomes the fastest service connecting the Sichuan-Chongqing region and Wuhan, reducing previous travel time by 1 hour and 44 minutes.
+
+> **Verified Source**: [西南铁路 (Sina Weibo)](https://weibo.com/1919955065/Rm9HuwTq6)
+
+---
+
 ### October 10, 2026 &bull; 21:19 CST `[Operating Hours Adjustment]`
 #### Xi'an Bell and Drum Towers Museum Switches to Off-Season Hours Starting October 11
 
