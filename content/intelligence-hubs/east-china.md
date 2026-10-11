@@ -5,6 +5,19 @@
 
 ---
 
+### October 11, 2026 &bull; 15:00 CST `[Scenic Area Access & Free Admission]`
+#### Quzhou Announces Free Admission to 14 Key Scenic Areas with Global Access Starting November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 杭衢旅游季如约开启！10月8日—10月31日，衢州14个重点景区对杭州市户籍市民免首道大门票，景区交通、二次消费等费用自理。11月起免票政策面向全球游客。可通过“衢州文旅”公众号、游浙里等小程序线上预约，也能持杭州户籍身份证现场预约。14个景区分为登高赏秋、古 ...全文
+
+**🇬🇧 Actionable Travel Intel**:  
+The Hang-Qu Tourism Season has launched in Zhejiang. From October 8 to October 31, 14 key scenic areas across Quzhou offer free first-gate admission to registered Hangzhou residents. Starting November, the free admission policy expands to global visitors. Transportation within scenic areas and secondary expenditures must be paid separately. Advance online reservations can be made via the official Quzhou Culture and Tourism WeChat account or the Youzheli mini-program.
+
+> **Verified Source**: [浙江文旅 (Sina Weibo)](https://weibo.com/2273048547/RmaPxnL1L)
+
+---
+
 ### October 9, 2026 &bull; 14:00 CST `[Museum Renovation & Temporary Closure]`
 #### Zhangjiagang Museum: Temporary Closure for Exhibition Hall Upgrades Starting October 10
 
