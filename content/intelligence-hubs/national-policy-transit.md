@@ -61,7 +61,7 @@ The Ministry of Transport reported that inter-regional passenger movements surpa
 #### General Administration of Customs: Mandatory Declaration Limits for Inbound & Outbound Cash
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【国庆长假提醒：现钞通关小贴士】海关提醒：根据相关规定，货币现钞属于限制进出境物品。进出境旅客携带的人民币现钞超过20000元或外币现钞超过等值5000美元，应当如实向海关申报，按规定办理相关手续。出境人员携出金额在等值5000美元以上至10000美元（含10000美元）的，应向银行申领《携带外汇出境许可证》（以下简称《携带证》）并向海关申报；出境人员携出金额在等值10000美元以上的，应向外汇管理局申领《携带证》并向海关申报。祝您节日快乐，旅途平安！ 海关发布的微博视频
+> 【国庆长假提醒：现钞通关小贴士】海关提醒：根据相关规定，货币现钞属于限制进出境物品。进出境旅客携带的人民币现钞超过20000元或外币现钞超过等值5000美元，应当如实向海关申报，按规定办理相关手续。出境人员携出金额在等值5000美元以上至10000美元（含10000美元）的，应向银行申领《携带外汇出境许可证》（以下简称《携带证》）并向海关申报；出境人员携出金额在等值10000美元以上的，应向外汇管理局申领《携带证》并向海关申报。祝您节日快乐，旅途平安！
 
 **🇬🇧 Actionable Travel Intel**:  
 China Customs issued a reminder regarding currency restrictions for inbound and outbound travelers. Passengers carrying more than CNY 20,000 in cash or foreign currency exceeding the equivalent of USD 5,000 must declare to customs. Outbound travelers carrying USD 5,000 to USD 10,000 must obtain a permit from an authorized bank, while amounts exceeding USD 10,000 require a permit from the State Administration of Foreign Exchange.
@@ -87,7 +87,7 @@ The direct passenger air route between Qingdao and Vancouver officially resumed 
 #### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【 #假期出行物品遗失应对指南# 】 #12306可在线找回遗失物品# 假期出行物品遗失时有发生，万一行李错拿漏拿，请第一时间向民警或工作人员求助。在火车站或列车上，还可用铁路12306APP里的遗失物品查找功能在线找回：打开12306，首页找到温馨服务，选择遗失物品查找，按提示填写信息，提交后等待反馈，工作人员找到会尽快送回。 央视网的微博视频
+> 【 #假期出行物品遗失应对指南# 】 #12306可在线找回遗失物品# 假期出行物品遗失时有发生，万一行李错拿漏拿，请第一时间向民警或工作人员求助。在火车站或列车上，还可用铁路12306APP里的遗失物品查找功能在线找回：打开12306，首页找到温馨服务，选择遗失物品查找，按提示填写信息，提交后等待反馈，工作人员找到会尽快送回。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway highlighted the lost property tracking service available on the Railway 12306 app. Passengers who misplace belongings on trains or at railway stations can navigate to "Warm Service" on the app home screen, select "Lost Property Search", fill in trip details, and submit for staff assistance.
