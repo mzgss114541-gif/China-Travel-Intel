@@ -174,7 +174,7 @@ Suzhou cultural and tourism authorities announced that Suzhou Lin Zexu Memorial 
 
 ---
 
-### September 29, 2026 &bull; 15:00 CST `[UNESCO Heritage Quotas]`
+### September 29, 2026 &bull; 15:00 CST `[Scenic Route & Night Tour Booking]`
 #### Suzhou Night Route: Suzhou Museum Advance Booking & Humble Administrator's Garden Night Tour
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
