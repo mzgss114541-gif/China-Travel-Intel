@@ -183,8 +183,7 @@ Prince Kung Mansion Museum operates normally across the Mid-Autumn Festival holi
 #### Palace Museum Closes Yanxi Palace for Conservation from September 1 to October 31
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据古建保护工作计划，我院将于2026年9月1日至10月31日对延禧宫进行保护性勘察，11月1日重新开放。给您参观带来不便，敬请谅解！ 故宫博物院 2026年8月27日 问题反馈 分享到： 返回列表 图书馆 视听馆 故宫旗舰店 全景故宫 v故宫 微博 微信 小程序 学习强国号 视频号 抖音号
-
+> 根据古建保护工作计划，我院将于2026年9月1日至10月31日对延禧宫进行保护性勘察，11月1日重新开放。给您参观带来不便，敬请谅解！ 故宫博物院 2026年8月27日
 **🇬🇧 Actionable Travel Intel**:  
 The Palace Museum announced that Yanxi Palace is temporarily closed to the public from September 1 to October 31, 2026, for protective architectural survey. The courtyard is scheduled to reopen to visitors on November 1.
 
