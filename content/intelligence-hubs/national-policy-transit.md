@@ -126,7 +126,11 @@ China State Railway Group announced off-peak fare discounts for passengers aged 
 #### Ministry of Culture and Tourism Issues National Holiday Travel Weather Advisory
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 国庆节假期即将来临，文化和旅游部与中国气象局提醒广大游客，关注天气变化，快乐平安出游。 一、全国大部地区气象条件较好，总体有利于出行 预计国庆节假日期间（10月1日至7日），北方大部地区多数时间以晴到多云天气为主。除华南地区外，全国大部地区、多数时间气候舒适度为“较舒适”及以上等级，其中华北到江南北部以及西南地区东部、西北地区大部气候舒适度可以达到“舒适”或“最舒适”等级，总体有利于旅游出行。华北到黄淮、东北地区南部、西北地区大部适合游玩。10月1日至4日，南方地区多阴雨天气；10月5日后，南方大部地区将转为晴好天气，而且随着气温和湿度降低，气候舒适度将达到“较舒适”及以上等级，可规划旅游出行。 二、重点关注假日期间阶段性降温和阴雨天气 假日期间全国大部地区气温较适宜。
+> 国庆节假期即将来临，文化和旅游部与中国气象局提醒广大游客，关注天气变化，快乐平安出游。
+一、全国大部地区气象条件较好，总体有利于出行
+预计国庆节假日期间（10月1日至7日），北方大部地区多数时间以晴到多云天气为主。除华南地区外，全国大部地区、多数时间气候舒适度为“较舒适”及以上等级，其中华北到江南北部以及西南地区东部、西北地区大部气候舒适度可以达到“舒适”或“最舒适”等级，总体有利于旅游出行。华北到黄淮、东北地区南部、西北地区大部适合游玩。10月1日至4日，南方地区多阴雨天气；10月5日后，南方大部地区将转为晴好天气，而且随着气温和湿度降低，气候舒适度将达到“较舒适”及以上等级，可规划旅游出行。
+二、重点关注假日期间阶段性降温和阴雨天气
+假日期间全国大部地区气温较适宜。北方地区早晚体感寒凉，特别是内蒙古东部、河北北部、黑龙江等地的部分地区最低气温可达0℃左右，准备到上述地区旅游的公众要备好保暖衣物。受冷空气影响，10月3日至4日，中东部地区气温将先后下降4-6℃；10月6日至7日，受新一股冷空气影响，新疆北部将有明显大风降温天气。旅游出行需关注冷空气活动，注意及时添减衣物。10月2日至3日，内蒙古中部、华北北部、东北地区南部有小到中雨或雷阵雨、局部大雨；10月1日至4日，南方地区多阴雨天气，部分地区有大雨，贵州等地局部有暴雨，青藏高原东部局部有大雪。降雨集中时段对旅游出行有一定影响，建议游客密切关注临近天气预报，提前做好行程安排，特别注意避免前往涉山涉水高风险区域和未开发开放区域。
 
 **🇬🇧 Actionable Travel Intel**:  
 The Ministry of Culture and Tourism and the China Meteorological Administration jointly issued a nationwide holiday travel weather advisory. While northern and central regions experienced favorable conditions for tourism, incoming cold air fronts brought temperature drops of 4 to 6 degrees across central and eastern regions from October 3 to 4, with minimum temperatures near 0 degrees in northern areas. Authorities advised travelers to monitor local forecasts and avoid high-risk water and mountain zones.
@@ -165,7 +169,7 @@ The Yichang–Xingshan High-Speed Railway officially entered commercial passenge
 #### Beijing–Hong Kong Corridor: Xiong'an–Shangqiu High-Speed Line Opens in 2h 27m
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #京港高铁雄安至商丘段开通运营# 9月28日8时52分，G3935次列车从雄安站驶出，京港高铁雄安至商丘段正式开通运营。线路全长552公里，连接起华北平原、冀中南平原、鲁西南腹地和豫东地区。雄安至商丘高铁最快2小时27分钟可达。（视频：小金工作室） 中国铁路的微博视频
+> #京港高铁雄安至商丘段开通运营# 9月28日8时52分，G3935次列车从雄安站驶出，京港高铁雄安至商丘段正式开通运营。线路全长552公里，连接起华北平原、冀中南平原、鲁西南腹地和豫东地区。雄安至商丘高铁最快2小时27分钟可达。（视频：小金工作室） 
 
 **🇬🇧 Actionable Travel Intel**:  
 The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway entered operation on September 28 as train G3935 departed Xiong'an Station. The 552-kilometer line links the North China Plain with eastern Henan and southwestern Shandong, achieving a travel time of 2 hours 27 minutes between Xiong'an and Shangqiu.
@@ -178,7 +182,7 @@ The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway en
 #### Bohai-Rim Transit Expansion: Tianjin–Weifang HSR Connector Begins Trial Runs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #2026铁路建设进展# 9月24日13时，55101次检测列车从济南东站稳稳驶出，天津至潍坊高铁济南联络线全面启动联调联试工作，为全线开通运营奠定坚实基础。济滨高铁从济南东站引出，向北经山东省济南市历城区、遥墙机场、章丘区，上跨黄河经济南市济阳区、商河县，向东经滨州市惠民县、滨城区，接入滨州站津潍场。正线全长约145公里，设计时速350公里。 @国铁济南局 中国铁路的微博视频
+> #2026铁路建设进展# 9月24日13时，55101次检测列车从济南东站稳稳驶出，天津至潍坊高铁济南联络线全面启动联调联试工作，为全线开通运营奠定坚实基础。济滨高铁从济南东站引出，向北经山东省济南市历城区、遥墙机场、章丘区，上跨黄河经济南市济阳区、商河县，向东经滨州市惠民县、滨城区，接入滨州站津潍场。正线全长约145公里，设计时速350公里。 @国铁济南局
 
 **🇬🇧 Actionable Travel Intel**:  
 Inspection train 55101 departed Jinan East Station on September 24, launching full commissioning for the Jinan Connector of the Tianjin–Weifang High-Speed Railway. Extending approximately 145 kilometers with a design speed of 350 km/h, the line connects Jinan East Station with Yaoqiang Airport and Binzhou Station.
