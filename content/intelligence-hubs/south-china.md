@@ -167,7 +167,15 @@ China Railway Guangzhou Group dispatched an estimated 2,835,000 passengers on Oc
 #### Guangxi Implements Cross-Regional Buy-Now Refund-Now Departure Tax Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 广西壮族自治区人民政府门户网站 - www.gxzf.gov.cn 个人中心 无障碍 老年人模式 集 EN | 繁 | 简 | 广西壮族自治区人民政府门户网站 热搜词： 营商环境 学籍 社保 企业开办 身份证 桂惠贷 公积金 养老保险 网站首页 政府信息公开 政策 政府信息公开指南 政府信息公开制度 主动公开事项目录 法定主动公开内容 政府信息公开年报 政府公报 依申请公开 政府网站年度报表 国家、各设区市和自治区部门链接 政务服务 综合服务 政务资讯 个人服务 法人服务 服务清单 特色创新 好差评 政民互动 @自治区人民政府 12345接诉即办 新闻发布 回应关切 调查征集 在线访谈 “桂在问”知识库 广西数据 数据开放 分类数据 广西统计数据发布 主要经济指标 分项数据 商品价格 数据分析 易达东盟 要闻 相关政策 便民信息 东盟成员国概况 经贸往来 文化交流 东盟旅游 东盟投资开放天…
+>【“即买即退”全国异地互认9月落地 入境消费升温 退税服务提速】国庆假期，入境消费持续升温。为做好退税服务保障，广西加速推动离境退税“即买即退”向重点商圈、旅游景区延伸，优化多语种服务，延长集中退付点服务时长，推动“即买即退”全国异地互认政策落地，不断提升退税服务便利度。
+今年2月，南宁率先与北京、天津等16个省区市实现“即买即退”跨口岸互认；7月，广西与湖南、福建、广东、海南等6个省区市实现口岸互认；9月1日起，“即买即退”全国异地互认正式落地。
+“异地互认落地后，境外旅客在南宁退税商店购物，办理‘即买即退’并当场领取退税预付金后，可自由选择任一离境口岸完成海关核验，无需返回购物地，真正实现‘一地购物、多地离境’。”南宁市税务局第二税务分局副局长罗燕娜说，结合今年7月1日起实施的无纸化退税、小额抽检制度等措施，退税办理流程和时长进一步压缩。
+前不久来南宁参加第23届东博会的林女士对此感受颇深：“之前来中国购物，离境只能从南宁返程。有了互认政策，东博会结束后，我会先到桂林游玩，再去上海，直接从上海离境。”
+“全国异地互认举措真正补上了我们商场跨境消费服务的短板。”南宁杉杉奥特莱斯商业广场有限公司总经理夏飞说，过去，境外旅客购物退税需攒齐单据，离境时到口岸排队，环节多、耗时长，不少人因行程不匹配或嫌麻烦而放弃；如今，境外旅客可在商场开具申请单后到集中退付点办理退税，全国任一具备资质的离境口岸均可核验，不必再返回购物城市。
+政策叠加效应进一步显现。今年9月，广西开启2026“惠购广西”离境退税消费季活动，面向境外来桂商旅人士发放5万份“入境有礼”消费立减补贴，让境外旅客在退税商店消费时可同时享受“退税+立减”双重优惠。
+“退税服务便利度提升，叠加消费政策升级，在一定程度上提升了境外旅客的消费意愿，也为我们做好今年国庆假期入境消费服务增添了信心。”夏飞告诉记者，为提升境外旅客假期入境消费体验，商场在总服务台和核心品牌区加派专人值守，现场解答境外旅客退税咨询，协助其办理手续；同时，与符合条件的门店沟通，引导导购主动提醒境外旅客办理退税，避免因不了解退税政策错过优惠。
+不仅杉杉奥特莱斯如此，记者走访发现，南宁万象城、南宁百货大楼、南宁梦之岛水晶城等离境退税特色商圈均在核心区域设置退税服务台，为境外旅客提供退税政策引导、咨询和办理服务。
+“目前，南宁市备案的离境退税商店已有168家、313个经营网点，覆盖特色文创、农副特产、智能科技、日用百货等多个品类。”罗燕娜表示，将持续扩大“即买即退”覆盖范围，优化办理流程，丰富退税商品供给，助推“入境流量”转化为“消费留量”。
 
 **🇬🇧 Actionable Travel Intel**:  
 Under the nationwide mutual recognition policy effective September 1, foreign travelers utilizing the Buy-Now Refund-Now departure tax scheme in Nanning can collect refund advances directly on-site and complete Customs verification at any departure port across China. Travelers are no longer required to depart from the purchase city. The program is supported by 168 certified tax-refund stores across 313 retail locations in Nanning.
@@ -180,7 +188,7 @@ Under the nationwide mutual recognition policy effective September 1, foreign tr
 #### Guangxi Weather Alert: Moderate to Heavy Rain and Gale Warnings Across Coastal & Eastern Cities
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #广西天气# 【近期广西有雨 假期出行多留意】10月4日白天，崇左、南宁、贵港、梧州、玉林、北海、钦州、防城港等市有中雨、局地大雨或暴雨并伴有短时雷暴大风等强对流天气，其他地区多云到阴天有阵雨或雷雨、局地大雨。 森林火险气象等级：全区1-2级，低到较低火险。 5日晚上到6日白天，全区多云到晴天。 3日晚上到5日，受冷空气影响，各地日平均气温下降4～6℃、局地8℃以上，桂东部分地区和沿海有5～6级、阵风7～8级偏北风。 4日起，桂北大部有3-5天日平均气温≤22℃的寒露风天气。（来源：广西气象） 广西气象的微博视频
+> #广西天气# 【近期广西有雨 假期出行多留意】10月4日白天，崇左、南宁、贵港、梧州、玉林、北海、钦州、防城港等市有中雨、局地大雨或暴雨并伴有短时雷暴大风等强对流天气，其他地区多云到阴天有阵雨或雷雨、局地大雨。 森林火险气象等级：全区1-2级，低到较低火险。 5日晚上到6日白天，全区多云到晴天。 3日晚上到5日，受冷空气影响，各地日平均气温下降4～6℃、局地8℃以上，桂东部分地区和沿海有5～6级、阵风7～8级偏北风。 4日起，桂北大部有3-5天日平均气温≤22℃的寒露风天气。（来源：广西气象）
 
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi Meteorological Bureau issued weather advisories for moderate rain and localized downpours accompanied by short-term convective gales on October 4 across Chongzuo, Nanning, Guigang, Wuzhou, Yulin, Beihai, Qinzhou, and Fangchenggang. Cold air is forecast to reduce daily average temperatures by 4–6°C (locally exceeding 8°C), with coastal and eastern areas experiencing northerly winds of force 5–6 and gusts of force 7–8.
@@ -193,7 +201,7 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 #### Wuhan Hankou Railway Station Imposes 7-Minute Limit on South Square Drop-off Zone
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【由汉口站出行别误车！临时落客区：“即停即走、7分钟限时通行”】国庆假期，汉口火车站及周边道路将迎来客流与车流高峰。9月28日，有关部门发布交通组织调整信息：自2026年9月29日起，原汉口火车站南广场二号停车场改造为南广场临时落客区，该片区实行“即停即走、7分钟限时通行”的管理办法。 网页链接
+> 【由汉口站出行别误车！临时落客区：“即停即走、7分钟限时通行”】国庆假期，汉口火车站及周边道路将迎来客流与车流高峰。9月28日，有关部门发布交通组织调整信息：自2026年9月29日起，原汉口火车站南广场二号停车场改造为南广场临时落客区，该片区实行“即停即走、7分钟限时通行”的管理办法。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Wuhan Bureau announced that starting September 29, 2026, the former south parking facility at Hankou Railway Station was converted into a temporary passenger drop-off zone. The facility enforces a strict stop-and-go policy with a maximum 7 minutes transit window. Drivers dropping off rail passengers must depart immediately and avoid stopping along surrounding roads.
@@ -206,7 +214,7 @@ China Railway Wuhan Bureau announced that starting September 29, 2026, the forme
 #### Hainan High-Speed Loop: Pilot "Bike-on-Train" Service Available via 12306 App
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 自2026年9月20日起，海南环岛高铁试点“自行车随身行”服务。旅客通过铁路12306App线上完成预约付费后，可按规定携带自行车同车出行，实现“高铁＋骑行”无缝衔接，开启说走就走的户外旅行。 @广州铁路 中国铁路的微博视频
+> 自2026年9月20日起，海南环岛高铁试点“自行车随身行”服务。旅客通过铁路12306App线上完成预约付费后，可按规定携带自行车同车出行，实现“高铁＋骑行”无缝衔接，开启说走就走的户外旅行。 @广州铁路
 
 **🇬🇧 Actionable Travel Intel**:  
 The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel" service starting September 20, 2026. Passengers can complete reservations and payments via the Railway 12306 app to travel with their bicycles on the same train according to regulations, facilitating direct integration of high-speed rail and outdoor cycling travel.
@@ -219,7 +227,7 @@ The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel"
 #### Mount Heng Central Scenic Area Suspends Same-Day Online Bookings on October 3
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 关于南岳衡山中心景区10月3日限流的温馨提示 尊敬的游客朋友们： 南岳衡山中心景区10月3日预约入园人数已接近最大承载量，为保障游客安全，上午11时起暂停当日线上预约，无预约不入园。 已成功预约的游客请携带身份证在预约时段内有序入园；在规定时间内未入园的游客请通过“南岳一码游”申请退款或改签。 尚未购票的游客建议预约10月4日及后续日期的门票和景区交通票，也可选择前往南岳大庙、万寿大鼎、水濂洞、祝融探火太空体验馆、南岳里、时光之城·1944以及东洲岛、衡山渡等周边景区游览。 给您造成的不便，敬请谅解，如需帮助，请拨打景区咨询电话0734-12345。 南岳区文化旅游广电体育局 湖南南岳文化旅游集团有限公司 2026年10月3日 三湘都市报的微博视频 视频无法显示，请前往 微博视频 观看。
+> 关于南岳衡山中心景区10月3日限流的温馨提示 尊敬的游客朋友们： 南岳衡山中心景区10月3日预约入园人数已接近最大承载量，为保障游客安全，上午11时起暂停当日线上预约，无预约不入园。 已成功预约的游客请携带身份证在预约时段内有序入园；在规定时间内未入园的游客请通过“南岳一码游”申请退款或改签。 尚未购票的游客建议预约10月4日及后续日期的门票和景区交通票，也可选择前往南岳大庙、万寿大鼎、水濂洞、祝融探火太空体验馆、南岳里、时光之城·1944以及东洲岛、衡山渡等周边景区游览。 给您造成的不便，敬请谅解，如需帮助，请拨打景区咨询电话0734-12345。 南岳区文化旅游广电体育局 湖南南岳文化旅游集团有限公司 2026年10月3日
 
 **🇬🇧 Actionable Travel Intel**:  
 The Nanyue Mount Heng Scenic Area Administration suspended same-day online reservations starting at 11 am on October 3, 2026, as bookings neared maximum capacity. Entry is strictly barred without an advance reservation. Reserved visitors must enter during their assigned time slot with official identification. Unreserved travelers should book for October 4 or later dates. Inquiries can be directed to 0734-12345.
