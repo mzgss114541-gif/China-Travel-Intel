@@ -5,6 +5,19 @@
 
 ---
 
+### October 11, 2026 &bull; 20:00 CST
+#### Wuhan Metro Sets Up Free Self-Service Luggage Storage at Key Stations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为方便八方来客轻松游玩武汉，武汉地铁在司门口黄鹤楼站、梨园站、武昌火车站等站点设大件行李临时存放点。游客可在站内免费自助寄存大件行李，卸下负担轻装玩武汉。 湖北文旅的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Wuhan Metro has set up temporary oversized luggage storage points at stations including Simenkou Yellow Crane Tower Station, Liyuan Station, and Wuchang Railway Station. Travelers can store their large baggage inside these stations using free self-service facilities.
+
+> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/RmcNj8Loq)
+
+---
+
 ### October 10, 2026 &bull; 12:30 CST
 #### Wuhan Railway Station Opens Underground Passage Linking P3 Parking and Metro Line 5
 
