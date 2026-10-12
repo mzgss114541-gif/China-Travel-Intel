@@ -5,6 +5,19 @@
 
 ---
 
+### October 12, 2026 &bull; 14:16 CST
+#### Qiqihar Zhalong Eco-Tourism Area Announces Winter Operating Hours and Crane Training Schedule
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 齐齐哈尔扎龙生态旅游区，2026年10月16日-2027年4月15日运营时间及丹顶鹤野化训练时间：开放时间：每日 8:30-16:00；停止售票：每日 15:00。丹顶鹤野化训练时间：10:00、12:30、14:30。欢迎您来扎龙生态旅游区观光游览，共赏“世界大湿地 中国鹤家乡”的独特魅力。
+
+**🇬🇧 Actionable Travel Intel**:  
+Qiqihar Zhalong Eco-Tourism Area announced its operating schedule from October 16, 2026 to April 15, 2027. Daily opening hours are 8:30 to 16:00, with ticket sales concluding daily at 15:00. Red-crowned crane wild training sessions are scheduled daily at 10:00, 12:30, and 14:30.
+
+> **Verified Source**: [畅赏黑龙江 (Sina Weibo)](https://weibo.com/5607433524/RmjYgzFgR)
+
+---
+
 ### October 12, 2026 &bull; 08:43 CST
 #### China Railway Zhengzhou Group: Booking Guidelines for Priority Passenger Travel Assistance via 12306 and Station Counters
 

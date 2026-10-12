@@ -5,6 +5,19 @@
 
 ---
 
+### October 12, 2026 &bull; 15:25 CST
+#### Lhamo La-tso Scenic Area in Shannan Suspends Operations from October 19, 2026 Due to Snow and Ice
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于拉姆拉错景区暂停开放的公告 尊敬的广大游客朋友们，当前，拉姆拉错景区受高海拔地区持续降温、降雪频繁等不利天气因素影响，景区道路、游步道出现积雪结冰情况，通行条件较差，存在较大安全隐患。为切实保障广大游客人身安全，拉姆拉错景区将于2026年10月19日起暂停开放，恢复开放时间视天气变化动态调整，届时将另行通知，具体以正式公告为准。 山南·拉姆拉错 来源：
+
+**🇬🇧 Actionable Travel Intel**:  
+Lhamo La-tso Scenic Area in Shannan announced a temporary suspension of operations starting October 19, 2026. The closure is due to adverse high-altitude weather conditions, including continuous temperature drops and frequent snowfall, which have caused snow and ice accumulation on scenic roads and walking trails. Reopening will be dynamically adjusted based on changing weather conditions and announced in a future official notice.
+
+> **Verified Source**: [西藏文旅 (Sina Weibo)](https://weibo.com/2061860827/RmkqhtQ6x)
+
+---
+
 ### October 12, 2026 &bull; 10:13 CST
 #### Chongqing Yuzhong Police: Traffic Organization Adjustments at Liziba Monorail Viewing Platform Starting October 13, 2026
 
