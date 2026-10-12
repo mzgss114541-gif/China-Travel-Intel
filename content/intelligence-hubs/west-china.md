@@ -5,6 +5,32 @@
 
 ---
 
+### October 12, 2026 &bull; 10:13 CST
+#### Chongqing Yuzhong Police: Traffic Organization Adjustments at Liziba Monorail Viewing Platform Starting October 13, 2026
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为进一步规范李子坝正街单轨穿楼观景平台路段人车行停秩序，提升旅游出行品质，打造安全、畅通、文明、和谐、有序的城市交通环境，保障群众出行安全，根据《中华人民共和国道路交通安全法》第三十九条规定，重庆市公安局渝中区分局决定自2026年10月13日起对该路段实施交通组织调整。（via.渝中文旅）
+
+**🇬🇧 Actionable Travel Intel**:  
+In accordance with the Road Traffic Safety Law of the People's Republic of China, the Yuzhong District Branch of Chongqing Municipal Public Security Bureau has announced traffic organization adjustments along the road section of the Liziba Main Street Monorail-Through-Building Viewing Platform, taking effect from October 13, 2026. The measures aim to regulate pedestrian and vehicular traffic and parking order around the popular viewing area. Travelers visiting the site should follow on-site police guidance and traffic signage. The source announcement does not specify further details.
+
+> **Verified Source**: [重庆文旅 (Sina Weibo)](https://weibo.com/2128914281/RminxvWwd)
+
+---
+
+### October 12, 2026 &bull; 08:05 CST
+#### China Railway Kunming Group: Mohan Railway Port No-Visa-on-Arrival Notice and Kunming South High-Speed Rail Ticket Update
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 余票充足； 昆明南—北京方向 余票充足； 昆明南—上海方向 余票充足； 昆明南—广州方向 余票充足； 昆明南—深圳方向 余票充足； 昆明南—武汉方向 余票充足； 昆明南—成都方向 余票充足； 昆明南—重庆方向 余票充足； 昆明南—贵阳方向 余票充足； 昆明南—南宁方向 余票充足； 小提示：磨憨铁路口岸不办理落地签，国内昆明、昆明南、普洱、西双版纳、磨憨车站可换纸质车票。铁路12306是唯一官方售票平台，请勿通过第三方平台提供账号和身份证信息。出门前请再确认一次日期、车站和时间，祝您旅途愉快。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Kunming Group reminds passengers that Mohan Railway Port does not process visas on arrival, and paper tickets can be exchanged at domestic railway stations including Kunming, Kunming South, Pu'er, Xishuangbanna, and Mohan. High-speed rail tickets departing Kunming South toward Beijing, Shanghai, Guangzhou, Shenzhen, Wuhan, Chengdu, Chongqing, Guiyang, and Nanning currently have sufficient availability. Railway 12306 is the sole official ticketing platform; travelers are advised not to share account or identity information with third-party platforms and to reconfirm travel date, station, and departure time before boarding.
+
+> **Verified Source**: [昆明铁路 (Sina Weibo)](https://weibo.com/1920078035/RmhxNEbdc)
+
+---
+
 ### October 11, 2026 &bull; 14:48 CST
 #### Xinjiang Highways Announce Winter Closures and Phased Traffic Controls
 

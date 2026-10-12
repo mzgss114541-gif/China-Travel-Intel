@@ -5,6 +5,19 @@
 
 ---
 
+### October 12, 2026 &bull; 08:43 CST
+#### China Railway Zhengzhou Group: Booking Guidelines for Priority Passenger Travel Assistance via 12306 and Station Counters
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 铁路重点旅客服务可受理无陪伴年长旅客服务、无陪伴孕妇旅客服务、视觉/听觉障碍旅客服务、轮椅/担架（车）行动障碍旅客服务、携带导盲犬旅客服务等。上述涉及各类旅客均可申请铁路重点旅客预约服务，享受优先进出站、优先乘车、站车交接帮扶等一站式便民服务。 →线上预约：打开铁路12306App，从首页进入“温馨服务”，选择“重点旅客预约”，填写乘车信息与帮扶需求，预售期至乘车前6小时均可提交申请。也可拨打12306客服热线，人工登记预约帮扶； →线下申请：来不及线上预约的旅客，可前往车站爱心服务台、综合服务中心现场办理，原则上不晚于开车前60分钟申请。乘车途中如有突发需求，可直接联系列车长、车厢乘务员，或扫描座椅上铁路畅行码提交服务诉求。 温馨提示：预约时请如实填写出行信息与帮扶需求，便于车站、列车提前做好对应保障准备。（图片：常炎露）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway priority passenger services assist unaccompanied elderly travelers, unaccompanied pregnant travelers, travelers with visual or auditory impairments, passengers requiring wheelchair or stretcher assistance, and travelers accompanied by guide dogs. Eligible passengers receive priority station entry and exit, priority boarding, and station-to-train staff handoff assistance. Online booking is available through the Railway 12306 app under "Warm Service" > "Priority Passenger Booking" or via the 12306 customer service hotline from the presale period up to 6 hours before departure. Offline requests can be made at station assistance desks or integrated service counters, in principle no later than 60 minutes before train departure. During transit, passengers may directly contact train conductors and crew or scan the Railway Changxing QR code on train seats for assistance.
+
+> **Verified Source**: [郑州铁路 (Sina Weibo)](https://weibo.com/1904469113/RmhN2Fp9a)
+
+---
+
 ### October 11, 2026 &bull; 19:00 CST
 #### Shenlufeng Tourism Resort Closes for Seasonal Maintenance Starting October 13, 2026
 
