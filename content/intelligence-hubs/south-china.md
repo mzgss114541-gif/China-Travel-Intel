@@ -5,6 +5,19 @@
 
 ---
 
+### October 12, 2026 &bull; 14:01 CST
+#### Zhangjiajie Tianmenshan Resumes Tianmen Cave Fast Cableway and Announces Route Adjustments
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，张家界天门山景区发布通告，天门洞快线索道检修已完成。今起，天门洞快线索道恢复运行，天门山景区开放【双程索道游览A、B、C线】（仅10月12日）。恢复后的双程索道游览A、B线，仍按天门山索道上半段（中站至山顶上站）停运期间调整后的运营路线运行。单程索道游览1、2线继续停运。 自2026年10月13日起，天门山索道城区下站至中站段停止载客运行；届时，天门山索道全线停运，景区仅开放【双程索道游览C线】。10月12日当天景区售票运营时间为：售票时间 6:30—16:00、载客运营时间 7:00。 调整后的景区游览路线如下： 天门洞快线索道上山—天门洞快线索道下山 自“山门”检票进山——乘“天门洞快线索道”上行至天门洞游览——自天门洞后方乘“7级穿山自动扶梯”上山顶——游览山顶各景点——再乘“7级穿山自动扶梯”返回天门洞——乘“天门洞快线索道”下山至山门出景区
+
+**🇬🇧 Actionable Travel Intel**:  
+Tianmenshan Scenic Area announced that maintenance on the Tianmen Cave Fast Cableway is complete and operations have resumed. On October 12 only, the scenic area opens round-trip cableway tour lines A, B, and C, while one-way lines 1 and 2 remain suspended. Ticket sales on October 12 run from 6:30 to 16:00, with passenger operations starting at 7:00. Starting October 13, 2026, passenger operations from the urban lower station to the middle station will halt, resulting in full suspension of the main Tianmenshan Cableway, leaving only round-trip Line C open. The adjusted Line C route requires entering at the mountain gate, taking the Tianmen Cave Fast Cableway up to Tianmen Cave, taking the 7-stage trans-mountain escalators up to the mountain top, and returning via the 7-stage escalators and Tianmen Cave Fast Cableway down to the mountain gate.
+
+> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RmjS5q5h4)
+
+---
+
 ### October 11, 2026 &bull; 20:00 CST
 #### Wuhan Metro Sets Up Free Self-Service Luggage Storage at Key Stations
 
