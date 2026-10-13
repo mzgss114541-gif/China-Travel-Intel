@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 15:51 CST
+#### Heavy Rain in Chongqing Prompts Rail Safety Warnings and Possible Delays from October 14 to 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象部门预报，10月14日至15日，重庆市内南部及东南部有一轮强降雨过程。在此轮降水过程中，渝厦高铁、渝怀铁路、川黔铁路、渝贵铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据实际情况封锁线路开展安全巡查，途经旅客列车可能不同程度晚点或停运。在此，铁路部门提醒旅客朋友们出行前关注天气变化，合理安排行程，具体情况详见站车公告、“成都铁路12306”微博或拨打（028）12306成都铁路客服中心电话咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Group issued a travel advisory regarding a heavy rainfall system forecast across southern and southeastern Chongqing from October 14 to 15. Sections along the Chongqing-Xiamen High-Speed Railway, Chongqing-Huaihua Railway, Sichuan-Guizhou Railway, and Chongqing-Guiyang Railway may exceed safety rainfall thresholds. Railway authorities may implement temporary line lockdowns for safety inspections, and passing passenger trains may experience delays or cancellations. Travelers are advised to monitor official updates through station announcements or Railway 12306 before departure.
+
+> **Verified Source**: [西南铁路 (Sina Weibo)](https://weibo.com/1919955065/Rmu1gh1ce)
+
+---
+
 ### October 13, 2026 &bull; 10:02 CST
 #### Mount Emei Scenic Area: Golden Summit Cableway 1 Suspended on October 15, 2026 for Power Line Maintenance
 

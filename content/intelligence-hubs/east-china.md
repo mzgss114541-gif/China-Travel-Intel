@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 15:00 CST
+#### China Railway Bohai Ferry Adjusts Free Shuttle Bus Stops at Yantai North Station
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为进一步方便旅客进港乘车，中铁渤海铁路轮渡烟台北站免费进港大巴车站点调整如下： 站点1：火车站北广场（中铁快运烟台站营业部门前）； 站点2：烟台汽车总站（青年路鑫荟金行站）； 发车时间：开航前1.5小时。 请大家留意乘车位置变化，合理规划出行路线，避免耽误行程。中铁渤海铁路轮渡祝您旅途顺利！（刘嘉 戴少毅 段丽静）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Bohai Railway Ferry announced adjustments to the free port-entry shuttle bus pick-up locations for Yantai North Station. Shuttle bus service departs 1.5 hours prior to sailing. Stop 1 is located at the Railway Station North Square in front of the China Railway Express Yantai business department, and Stop 2 is located at the Yantai Central Bus Station near the Qingnian Road Xinhui Gold Store stop. Passengers should note the pick-up location changes to avoid travel delays.
+
+> **Verified Source**: [国铁济南局 (Sina Weibo)](https://weibo.com/2531624267/RmtGxqL8a)
+
+---
+
 ### October 13, 2026 &bull; 12:00 CST
 #### China Railway Nanchang Group: Newly Built Yiwu Station Building Opens for Interconnected High-Speed Rail Operations
 
