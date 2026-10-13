@@ -5,6 +5,32 @@
 
 ---
 
+### October 13, 2026 &bull; 09:27 CST
+#### Guangdong Qingyuan: Multiple Scenic Areas Suspend Seasonal Rafting and Adjust Operating Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年10月8日起，玄真漂流项目暂停开放；溪降项目营业至2026年10月25日。 2️⃣ 笔架山旅游区 2026年10月8日起，笔架山峡谷漂流、玥泉谷山水乐园暂停开放。 停业期间，景区将对漂流河道水上游乐设备及配套设施开展全面检修维护与升级改造，恢复开放时间将另行发布通知。 3️⃣清泉湾生态旅游区 2026年10月8日起，停止漂流、水城、别墅泳池项目运营。 4️⃣太和古洞旅游风景区 2026年10月8日起，太和古洞旅游风景区售票时间调整为06:30-17:30。 天然山水游泳场暂停售卖泳票，只对泳卡游客开放，开放时间为06:30-18:00。 ⏰️重阳节期间营业时间： -10月17日（星期六）早上7时起，通宵营业至10月18日（星期日）16时止。期间，登山卡、市民卡和清远旅游年卡不可使用。 -10月17日12:00-10月18日16:00，泳池暂停开放。 -10月19日，景区恢复正常营业。 5️⃣广东峡天下景区 2026年9月1日起，广东峡天下景区内大峡谷漂流暂停营业。 停漂期间将开展河道、设备全面检修升级维护工作，对漂流设施进行保养优化，2027年夏季再对外开放。 6️⃣神峰关地心漂流 2026年10月12日起，神峰关地心漂流停止接待。 7️⃣老虎谷溶洞漂流 2026年10月7日起，老虎谷溶洞漂流正式停止漂流接待，明年具体开放时间将另行通知。 🔔温馨提示： 部分景区仅漂流项目暂停营业，其余项目正常对外开放接待。如计划前往其他漂流景区体验漂流，建议出行前先行电话咨询确认。景区调整情况以现场实际为准，出行前可致电景区了解详情。 明年夏天，继续清凉相见！👋💦 📷| 清远文旅 清远
+
+**🇬🇧 Actionable Travel Intel**:  
+Multiple scenic areas in Qingyuan have suspended seasonal rafting operations and adjusted operating hours: (1) Xuanzhen Gorge Water Kingdom: rafting suspended from October 8, 2026; canyoning remains open until October 25, 2026. (2) Bijiashan Tourist Area: canyon rafting and Yuequangu water park suspended from October 8, 2026 for maintenance. (3) Qingquanwan Eco-Tourism Zone: rafting, water park, and villa pool operations stopped from October 8, 2026. (4) Taihe Ancient Cave Scenic Area: ticket sales hours adjusted to 06:30–17:30 from October 8, 2026, with natural swimming pool ticket sales suspended (open 06:30–18:00 for pass holders only); during the Chongyang Festival, the park operates overnight from 7 a.m. on October 17 to 16:00 on October 18 (swimming pool closed 12:00 on October 17 to 16:00 on October 18, normal operations resume October 19). (5) Guangdong Xiatianxia Scenic Area: Grand Canyon rafting suspended from September 1, 2026 until summer 2027. (6) Shenfengguan Underground Rafting: closed from October 12, 2026. (7) Laohugu Karst Cave Rafting: closed from October 7, 2026. Visitors are advised to call scenic areas in advance to confirm operating status before traveling.
+
+> **Verified Source**: [活力广东 (Sina Weibo)](https://weibo.com/2880086884/RmrvtELYG)
+
+---
+
+### October 12, 2026 &bull; 18:03 CST
+#### Haikou Meilan International Airport: Direct Passenger Flights Launched to Penang and Kota Kinabalu, Malaysia
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日，海口美兰国际机场（以下简称“美兰机场”）正式开通海口⇌槟城、海口⇌亚庇两条马来西亚直飞客运航线。两条航线开通后，旅客从海口出发无需中转，即可直抵槟城南洋老城与亚庇落日海岸。 海口美兰机场新开两条马来西亚客运航线 via.南海网
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11, Haikou Meilan International Airport officially launched two direct passenger air routes to Malaysia: Haikou to Penang and Haikou to Kota Kinabalu, allowing travelers to fly nonstop between Haikou and both Malaysian destinations without transit.
+
+> **Verified Source**: [海南省旅游和文化广电体育厅 (Sina Weibo)](https://weibo.com/2959194963/RmlsBhDrk)
+
+---
+
 ### October 12, 2026 &bull; 14:01 CST
 #### Zhangjiajie Tianmenshan Resumes Tianmen Cave Fast Cableway and Announces Route Adjustments
 

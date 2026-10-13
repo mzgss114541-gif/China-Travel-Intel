@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 08:47 CST
+#### Anhui Xuancheng Station: Updated Railway Timetable Operates 94 Pairs of High-Speed Trains From October 11
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日零时起，全国铁路实行新的列车运行图，从宣城站获悉，调图后，宣城站安排开行图定旅客列车116.，5对其中高速列车94对，普速列车22.5对。戳图了解↓↓
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the national railway timetable adjustment effective at midnight on October 11, Xuancheng Station operates 94 pairs of high-speed trains and 22.5 pairs of conventional-speed trains.
+
+> **Verified Source**: [宣城文旅 (Sina Weibo)](https://weibo.com/2146627190/RmrfacPg8)
+
+---
+
 ### October 11, 2026 &bull; 15:00 CST
 #### Quzhou Announces Free Admission to 14 Key Scenic Areas with Global Access Starting November
 
