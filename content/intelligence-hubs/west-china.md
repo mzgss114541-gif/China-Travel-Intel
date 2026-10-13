@@ -373,7 +373,7 @@ China Railway Urumqi Bureau scheduled more than 340 additional passenger trains 
 **🇬🇧 Actionable Travel Intel**:  
 Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center and Yuquan Courtyard was full, with backup parking opened at Huashan Ice & Snow World, Gubaixing, and the East Visitor Center plot. Uphill queues reached 80 minutes on the Sante Cableway and 60 minutes on the Taihua Cableway, while downhill cableways had no waiting queues. Surrounding road traffic remained smooth.
 
-> **Verified Source**: [Mount Hua Tourism Group (Huashan Scenic Area) (华山景区, Sina Weibo)](https://weibo.com/1885449832/Rl6OqfaI7)
+> **Verified Source**: [Mount Huashan Scenic Area Administration (华山景区, Sina Weibo)](https://weibo.com/1786987090/Rl5JxFzx6)
 
 ---
 
@@ -438,7 +438,7 @@ Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements fo
 **🇬🇧 Actionable Travel Intel**:  
 Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through November 15, with admission tickets at 190 RMB and sightseeing bus tickets at 90 RMB (both valid for a single day). Off-season rates apply from November 16 to March 31, with admission tickets at 80 RMB and sightseeing bus tickets at 80 RMB.
 
-> **Verified Source**: [Mount Hua Tourism Group (Huashan Scenic Area) (华山景区, Sina Weibo)](https://weibo.com/1885449832/RkvLd0GhE)
+> **Verified Source**: [Jiuzhaigou National Park Administration (九寨沟管理局, Sina Weibo)](https://weibo.com/1803921393/RkvTYmoTW)
 
 ---
 
