@@ -14,7 +14,7 @@
 **🇬🇧 Actionable Travel Intel**:  
 Qiqihar Zhalong Eco-Tourism Area announced its operating schedule from October 16, 2026 to April 15, 2027. Daily opening hours are 8:30 to 16:00, with ticket sales concluding daily at 15:00. Red-crowned crane wild training sessions are scheduled daily at 10:00, 12:30, and 14:30.
 
-> **Verified Source**: [畅赏黑龙江 (Sina Weibo)](https://weibo.com/5607433524/RmjYgzFgR)
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/RmjYgzFgR)
 
 ---
 
@@ -27,7 +27,7 @@ Qiqihar Zhalong Eco-Tourism Area announced its operating schedule from October 1
 **🇬🇧 Actionable Travel Intel**:  
 China Railway priority passenger services assist unaccompanied elderly travelers, unaccompanied pregnant travelers, travelers with visual or auditory impairments, passengers requiring wheelchair or stretcher assistance, and travelers accompanied by guide dogs. Eligible passengers receive priority station entry and exit, priority boarding, and station-to-train staff handoff assistance. Online booking is available through the Railway 12306 app under "Warm Service" > "Priority Passenger Booking" or via the 12306 customer service hotline from the presale period up to 6 hours before departure. Offline requests can be made at station assistance desks or integrated service counters, in principle no later than 60 minutes before train departure. During transit, passengers may directly contact train conductors and crew or scan the Railway Changxing QR code on train seats for assistance.
 
-> **Verified Source**: [郑州铁路 (Sina Weibo)](https://weibo.com/1904469113/RmhN2Fp9a)
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/RmhN2Fp9a)
 
 ---
 
@@ -40,7 +40,7 @@ China Railway priority passenger services assist unaccompanied elderly travelers
 **🇬🇧 Actionable Travel Intel**:  
 Shenlufeng Tourism Resort announced that the resort will be closed for seasonal maintenance starting October 13, 2026, and is scheduled to reopen in spring 2027.
 
-> **Verified Source**: [长春文旅 (Sina Weibo)](https://weibo.com/2798034700/RmcoXhtMu)
+> **Verified Source**: [Changchun Municipal Bureau of Culture and Tourism (长春文旅, Sina Weibo)](https://weibo.com/2798034700/RmcoXhtMu)
 
 ---
 
@@ -58,7 +58,7 @@ Shenlufeng Tourism Resort announced that the resort will be closed for seasonal 
 **🇬🇧 Actionable Travel Intel**:  
 From September 20 to October 20, visitors arriving by high-speed rail at Gaopingdong Station can enjoy three coordinated travel benefits: (1) free admission for visitors nationwide across 18 scenic attractions and 22 national cultural relic protection units in the city; (2) free transfers to dedicated tourist bus routes directly outside the high-speed rail station exit, connecting ancient architectural heritage, countryside landscapes, and cultural landmarks; and (3) tiered cultural tourism gift packs redeemed based on check-in progress, including hand-drawn maps, intangible cultural heritage samples, custom bookmarks, and Shennong-themed cultural items.
 
-> **Verified Source**: [郑州铁路 (Sina Weibo)](https://weibo.com/1904469113/Rm1nGfvfM)
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/Rm1nGfvfM)
 
 ---
 
@@ -71,7 +71,7 @@ From September 20 to October 20, visitors arriving by high-speed rail at Gaoping
 **🇬🇧 Actionable Travel Intel**:  
 The historic Glazed Pavilion courtyard at Beihai Park is officially open to the public, completing the historic architectural complex. During peak season, the venue opens daily from 8:00 to 17:30 (closed Mondays except statutory holidays). Off-peak hours beginning in November run from 8:30 to 16:30 (closed Mondays except statutory holidays).
 
-> **Verified Source**: [文旅北京 (Sina Weibo)](https://weibo.com/1936009361/RlSS5zZhk)
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RlSS5zZhk)
 
 ---
 
@@ -84,7 +84,7 @@ The historic Glazed Pavilion courtyard at Beihai Park is officially open to the 
 **🇬🇧 Actionable Travel Intel**:  
 Changbaishan Folk Museum announced a temporary closure from October 9 to October 18, 2026, to conduct preventive conservation work on movable cultural relics. The museum will resume public visits on October 19. During the closure period, the Songhua Stone Art Museum on the first floor remains open as normal.
 
-> **Verified Source**: [吉林文旅 (Sina Weibo)](https://weibo.com/2061847537/RlS9DFxEw)
+> **Verified Source**: [Jilin Provincial Department of Culture and Tourism (吉林文旅, Sina Weibo)](https://weibo.com/2061847537/RlS9DFxEw)
 
 ---
 
@@ -97,7 +97,7 @@ Changbaishan Folk Museum announced a temporary closure from October 9 to October
 **🇬🇧 Actionable Travel Intel**:  
 The Palace Museum announced that the "Donated Cultural Relics in the Collection of the Palace Museum" exhibition, originally scheduled to run through October 18, 2026, has been extended to October 15, 2028. Visitors are welcome to attend.
 
-> **Verified Source**: [故宫博物院](https://www.dpm.org.cn/announce_detail/379634.html)
+> **Verified Source**: [The Palace Museum (故宫博物院, Official Portal)](https://www.dpm.org.cn/announce_detail/379634.html)
 
 ---
 
@@ -110,7 +110,7 @@ The Palace Museum announced that the "Donated Cultural Relics in the Collection 
 **🇬🇧 Actionable Travel Intel**:  
 With return passenger flows continuing to climb, China Railway Beijing Bureau announced that Beijing South Station has opened all exit channels during peak arrival periods, while enhancing safety notices and passenger guidance to support return journeys.
 
-> **Verified Source**: [China Railway Beijing Bureau (Sina Weibo)](https://weibo.com/1916657595/Rlx9MsepS)
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/Rlx9MsepS)
 
 ---
 
@@ -123,7 +123,7 @@ With return passenger flows continuing to climb, China Railway Beijing Bureau an
 **🇬🇧 Actionable Travel Intel**:  
 Changbaishan Meteorological Observatory issued a blue blizzard warning with continuous snowfall, temperatures between -7°C and -1°C, and snow and ice accumulation on roads and boardwalks. For visitor safety, the North and South Scenic Zones of Changbaishan are closed all day on October 5, and all vehicle transport is suspended. Unchecked admission and vehicle tickets are automatically refunded to the original purchasing account on the same day.
 
-> **Verified Source**: [Jilin Provincial Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061847537/RlebHaqs0)
+> **Verified Source**: [Jilin Provincial Department of Culture and Tourism (吉林文旅, Sina Weibo)](https://weibo.com/2061847537/RlebHaqs0)
 
 ---
 
@@ -136,7 +136,7 @@ Changbaishan Meteorological Observatory issued a blue blizzard warning with cont
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Beijing Bureau expanded exit channels at Platform 18 of Beijing West Station to relieve egress pressure for arriving passengers, responding to increased high-speed train services following the opening of new rail routes.
 
-> **Verified Source**: [China Railway Beijing Bureau Official Release (Sina Weibo)](https://weibo.com/1916657595/Rl6rI4Eth)
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/Rl6rI4Eth)
 
 ---
 
@@ -149,7 +149,7 @@ China Railway Beijing Bureau expanded exit channels at Platform 18 of Beijing We
 **🇬🇧 Actionable Travel Intel**:  
 Henan cultural and tourism authorities announced that Longmen Grottoes in Luoyang reached full booking capacity for online and offline tickets on October 3, with offline tickets available for October 4 and 5, and tickets remaining for October 6 and 7. Luoyang Museum reported full capacity for October 3, 4, and 5, while Luoyang Ancient Tombs Museum reached full capacity for October 3 and 4. Travelers are advised to complete advance reservations via official channels.
 
-> **Verified Source**: [河南省文化和旅游厅](http://hct.henan.gov.cn/2026/10-03/3434531.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://hct.henan.gov.cn/2026/10-03/3434531.html)
 
 ---
 
@@ -162,7 +162,7 @@ Henan cultural and tourism authorities announced that Longmen Grottoes in Luoyan
 **🇬🇧 Actionable Travel Intel**:  
 The Palace Museum opened the second phase of the "Dianze: Tang and Song Calligraphy and Painting Exhibition" at the Hall of Literary Brilliance (Wenhua Dian) from September 30 to November 1. The exhibition does not require separate ticketing, but admission requires advance reservation via the Palace Museum WeChat mini-program. Visitors may contact the visitor service hotline at 400-950-1925 for inquiries.
 
-> **Verified Source**: [The Palace Museum Administration Inbound Regulations (Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
+> **Verified Source**: [The Palace Museum (故宫博物院, Sina Weibo)](https://weibo.com/1655363172/RkvAupd9B)
 
 ---
 
@@ -175,7 +175,7 @@ The Palace Museum opened the second phase of the "Dianze: Tang and Song Calligra
 **🇬🇧 Actionable Travel Intel**:  
 The Shenyang Palace Museum opened a special exhibition at Shishan Zhai and Xiezhong Zhai, featuring over 20 selected calligraphy and poetry works created by honorary museum director Li Zhongyuan in celebration of the centennial of the Shenyang Imperial Palace institution.
 
-> **Verified Source**: [辽宁省文化和旅游厅](http://whly.ln.gov.cn/whly/mtjj/2026093010300011692/index.shtml)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://whly.ln.gov.cn/whly/mtjj/2026093010300011692/index.shtml)
 
 ---
 
@@ -188,7 +188,7 @@ The Shenyang Palace Museum opened a special exhibition at Shishan Zhai and Xiezh
 **🇬🇧 Actionable Travel Intel**:  
 The National Museum of China announced it is temporarily closed on September 30 to accommodate Tiananmen area events, operating under normal hours from October 1 to 7. All visitors must complete advance real-name ticket reservations via the official website or WeChat channels. Visitors must enter during their booked time slots and undergo identity document verification upon entry.
 
-> **Verified Source**: [中国国家博物馆](https://www.chnmuseum.cn/gbgg/202609/t20260922_282648.shtml)
+> **Verified Source**: [National Museum of China (中国国家博物馆, Official Portal)](https://www.chnmuseum.cn/gbgg/202609/t20260922_282648.shtml)
 
 ---
 
@@ -201,7 +201,7 @@ The National Museum of China announced it is temporarily closed on September 30 
 **🇬🇧 Actionable Travel Intel**:  
 Ahead of the 2026 Mid-Autumn and National Day holidays, the Beijing Municipal Bureau of Culture and Tourism advised residents and visitors to plan staggered itineraries, monitor real-time scenic area passenger flows, and prepare backup travel options for flexible adjustments. Before departure, travelers can purchase admission tickets for Beijing scenic spots including the Temple of Heaven, the Summer Palace, and the Badaling Great Wall via the "Scenic Area Ticketing" section of the "Jingtong" mini-program, and search the "Manyou Jingjiao" mini-program for digital rural tourism experiences.
 
-> **Verified Source**: [北京市文化和旅游局](https://whlyj.beijing.gov.cn/zwgk/tzgg/202609/t20260922_4875417.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://whlyj.beijing.gov.cn/zwgk/tzgg/202609/t20260922_4875417.html)
 
 ---
 
@@ -214,7 +214,7 @@ Ahead of the 2026 Mid-Autumn and National Day holidays, the Beijing Municipal Bu
 **🇬🇧 Actionable Travel Intel**:  
 Prince Kung Mansion Museum announced on September 15, 2026, that it remains open as normal throughout the 2026 Mid-Autumn Festival holiday (September 25 to September 27) and the National Day holiday (October 1 to October 7).
 
-> **Verified Source**: [文化和旅游部恭王府博物馆](https://www.pgm.org.cn/pgm/zxgg/202609/f97ac731a4254470bd45d1fd5c5b5f58.shtml)
+> **Verified Source**: [Prince Kung's Palace Museum (文化和旅游部恭王府博物馆, Official Portal)](https://www.pgm.org.cn/pgm/zxgg/202609/f97ac731a4254470bd45d1fd5c5b5f58.shtml)
 
 ---
 
@@ -226,4 +226,4 @@ Prince Kung Mansion Museum announced on September 15, 2026, that it remains open
 **🇬🇧 Actionable Travel Intel**:  
 The Palace Museum announced that Yanxi Palace is temporarily closed to the public from September 1 to October 31, 2026, for protective architectural survey. The courtyard is scheduled to reopen to visitors on November 1.
 
-> **Verified Source**: [故宫博物院](https://www.dpm.org.cn/announce_detail/379516.html)
+> **Verified Source**: [The Palace Museum (故宫博物院, Official Portal)](https://www.dpm.org.cn/announce_detail/379516.html)

@@ -14,7 +14,7 @@
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Bohai Railway Ferry announced adjustments to the free port-entry shuttle bus pick-up locations for Yantai North Station. Shuttle bus service departs 1.5 hours prior to sailing. Stop 1 is located at the Railway Station North Square in front of the China Railway Express Yantai business department, and Stop 2 is located at the Yantai Central Bus Station near the Qingnian Road Xinhui Gold Store stop. Passengers should note the pick-up location changes to avoid travel delays.
 
-> **Verified Source**: [国铁济南局 (Sina Weibo)](https://weibo.com/2531624267/RmtGxqL8a)
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RmtGxqL8a)
 
 ---
 
@@ -27,7 +27,7 @@ China Railway Bohai Railway Ferry announced adjustments to the free port-entry s
 **🇬🇧 Actionable Travel Intel**:  
 The newly constructed Yiwu Railway Station building officially entered operation on October 9, interconnecting the Shanghai-Kunming High-Speed Railway, Hangzhou-Wenzhou High-Speed Railway, Shanghai-Kunming Railway, Ningbo-Jinhua Railway, and the under-construction Jinhua-Yiwu third and fourth lines. The upgraded hub implements a dual north-south station entrance and upper-level entry, lower-level exit passenger flow system with direct transfers to urban rail transit, public buses, and private vehicles.
 
-> **Verified Source**: [南昌铁路 (Sina Weibo)](https://weibo.com/1882716230/RmsvtcecA)
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RmsvtcecA)
 
 ---
 
@@ -40,7 +40,7 @@ The newly constructed Yiwu Railway Station building officially entered operation
 **🇬🇧 Actionable Travel Intel**:  
 Following the national railway timetable adjustment effective at midnight on October 11, Xuancheng Station operates 94 pairs of high-speed trains and 22.5 pairs of conventional-speed trains.
 
-> **Verified Source**: [宣城文旅 (Sina Weibo)](https://weibo.com/2146627190/RmrfacPg8)
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmrfacPg8)
 
 ---
 
@@ -53,7 +53,7 @@ Following the national railway timetable adjustment effective at midnight on Oct
 **🇬🇧 Actionable Travel Intel**:  
 The Hang-Qu Tourism Season has launched in Zhejiang: from October 8 to October 31, 14 key scenic areas across Quzhou offer free first-gate admission to registered Hangzhou residents, and starting in November the free admission policy expands to global visitors (internal scenic transport and secondary consumption fees are self-paid). Reservations can be made online via the "Quzhou Culture and Tourism" WeChat official account or the "Youzheli" mini-program, or on-site with a Hangzhou household registration ID card. The 14 participating scenic areas span four categories—autumn mountain climbing, ancient architecture and culture, nature and forest retreats, and light weekend trips—covering Jianglang Mountain, Nianbadu, Root Palace Buddhist Cultural Zone, and Qianjiangyuan, with high-speed rail from Hangzhou to Quzhou taking just over 50 minutes alongside direct tourist bus and self-driving options.
 
-> **Verified Source**: [浙江文旅 (Sina Weibo)](https://weibo.com/2273048547/RmaPxnL1L)
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RmaPxnL1L)
 
 ---
 
@@ -66,7 +66,7 @@ The Hang-Qu Tourism Season has launched in Zhejiang: from October 8 to October 3
 **🇬🇧 Actionable Travel Intel**:  
 Zhangjiagang Museum announced a temporary closure beginning October 10 for hall renovations and exhibition space maintenance. Reopening dates will be announced separately.
 
-> **Verified Source**: [苏州文化旅游资讯 (Sina Weibo)](https://weibo.com/2571243254/RlRAx53nz)
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RlRAx53nz)
 
 ---
 
@@ -79,7 +79,7 @@ Zhangjiagang Museum announced a temporary closure beginning October 10 for hall 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Shanghai Station announced that passenger train tickets through October 23, 2026, are available for purchase across official 12306 channels, station ticket windows, and self-service kiosks. The administrative hub coordinates passenger operations across 10 railway stations, including Shanghai Station, Shanghai South, Shanghai Hongqiao, and Shanghai Songjiang.
 
-> **Verified Source**: [铁路上海站 (Sina Weibo)](https://weibo.com/1917205532/RlPc7iILy)
+> **Verified Source**: [Shanghai Railway Station (China Railway Shanghai Group) (铁路上海站, Sina Weibo)](https://weibo.com/1917205532/RlPc7iILy)
 
 ---
 
@@ -92,7 +92,7 @@ China Railway Shanghai Station announced that passenger train tickets through Oc
 **🇬🇧 Actionable Travel Intel**:  
 Shanghai Municipal Administration of Culture & Tourism shared the Golden Week travel consumption review, highlighting an evolving preference for extended, segmented travel and immersive regional tourism. While traditional destination cities maintained strong interest, county-level destinations, autumn tours, and evening cultural activities experienced rapid expansion, with slow-paced, in-depth cultural itineraries becoming mainstream choices.
 
-> **Verified Source**: [Shanghai Municipal Administration of Culture & Tourism (Sina Weibo)](https://weibo.com/2014034660/RlJgmomaP)
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RlJgmomaP)
 
 ---
 
@@ -105,7 +105,7 @@ Shanghai Municipal Administration of Culture & Tourism shared the Golden Week tr
 **🇬🇧 Actionable Travel Intel**:  
 Suzhou Museum opened the special exhibition Autumn Appreciation, running from September 29 through November 1 across the main museum hall and the courtyards of the historic Prince Zhong Mansion. The exhibition features immersive seasonal art installations and intangible heritage craftsmanship celebrating traditional regional living aesthetics.
 
-> **Verified Source**: [苏州市文广旅局](http://wglj.suzhou.gov.cn/szwhgdhlyj/hdxx/202610/4d2a7a43f547415688e4478ec8deae12.shtml)
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州市文广旅局, Gov.cn)](http://wglj.suzhou.gov.cn/szwhgdhlyj/hdxx/202610/4d2a7a43f547415688e4478ec8deae12.shtml)
 
 ---
 
@@ -118,7 +118,7 @@ Suzhou Museum opened the special exhibition Autumn Appreciation, running from Se
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an estimated 4,150,000 passenger dispatches (+17.7% YoY) across the Yangtze River Delta network. Authorities scheduled 557 additional passenger trains (216 direct, 341 regional) toward destinations including Nanchang, Wuhan, Guangzhou, Zhengzhou, and Linyi, coupled 427 EMU trainsets, and operated 210 overnight high-speed trains between the evening of October 7 and the early morning of October 8.
 
-> **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
+> **Verified Source**: [China Railway Shanghai Group (中国铁路上海局, Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
 
 ---
 
@@ -131,7 +131,7 @@ China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on October 6 across the Yangtze River Delta corridor. Rail stations in Shanghai, Nanjing, Hangzhou, Hefei, Ningbo, Nantong, Yancheng, and Yangzhou handled concentrated return passenger flows from the afternoon onward, supported by 553 scheduled additional passenger trains.
 
-> **Verified Source**: [China Railway Shanghai Bureau Group Official Release (Sina Weibo)](https://weibo.com/1919688583/RlqxDx2Bw)
+> **Verified Source**: [China Railway Shanghai Group (中国铁路上海局, Sina Weibo)](https://weibo.com/1919688583/RlqxDx2Bw)
 
 ---
 
@@ -144,7 +144,7 @@ China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on Oc
 **🇬🇧 Actionable Travel Intel**:  
 Anhui and Zhejiang cultural and tourism authorities announced a free admission promotion for visitors aged 60 and above across Mount Huangshan Scenic Area, Huashan Mystery Grottoes, and Taiping Lake from October 8 to 18. Eligible visitors must complete advance reservations for designated event tickets via the official Huangshan Tourism mini-program.
 
-> **Verified Source**: [安徽文旅 (Sina Weibo)](https://weibo.com/2062557711/RlpFZkKyp)
+> **Verified Source**: [Anhui Provincial Department of Culture and Tourism (安徽文旅, Sina Weibo)](https://weibo.com/2062557711/RlpFZkKyp)
 
 ---
 
@@ -157,7 +157,7 @@ Anhui and Zhejiang cultural and tourism authorities announced a free admission p
 **🇬🇧 Actionable Travel Intel**:  
 The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Museum" in Shanghai enters its final days, with the last day of exhibition on October 7. The exhibition features 101 rare textile and embroidery artifacts from the Palace Museum before they conclude their display in Shanghai and return to Beijing.
 
-> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (Sina Weibo)](https://weibo.com/2014034660/Rl6waDekB)
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/Rl6waDekB)
 
 ---
 
@@ -170,7 +170,7 @@ The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Mus
 **🇬🇧 Actionable Travel Intel**:  
 Shanghai Metro enacted special holiday operations across its rail network for the 7 days holiday period. East Nanjing Road Station on Lines 2 and 10, alongside Yu Garden Station on Line 14, undergo temporary station closures daily from late afternoon at hour 16 until end of service between October 1 and 7 (Line 10 at Yu Garden remains operational). On September 30, closures take effect from hour 20 until end of service. Extended evening train services operate on Lines 1, 7, 8, 9, 10, 13, and 17.
 
-> **Verified Source**: [乐游上海 (Sina Weibo)](https://weibo.com/2014034660/RkCBdoNFM)
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RkCBdoNFM)
 
 ---
 
@@ -183,7 +183,7 @@ Shanghai Metro enacted special holiday operations across its rail network for th
 **🇬🇧 Actionable Travel Intel**:  
 Suzhou Gardens administration announced that Lion Grove Garden is hosting the 2026 national scholar stone and garden calligraphy exhibition running through October 15. The exhibition features 155 curated stone pieces and rare specimens displayed alongside classical rockery courtyards and across three main heritage halls.
 
-> **Verified Source**: [苏州园林 (Sina Weibo)](https://weibo.com/3178246983/RksHZdHIw)
+> **Verified Source**: [Suzhou Classical Gardens Administration (苏州园林, Sina Weibo)](https://weibo.com/3178246983/RksHZdHIw)
 
 ---
 
@@ -196,7 +196,7 @@ Suzhou Gardens administration announced that Lion Grove Garden is hosting the 20
 **🇬🇧 Actionable Travel Intel**:  
 Following renovation closures, the north zone of Changfeng Park in Shanghai reopened on October 1, featuring the debut of China's first Nobel Prize in Literature-themed bookstore, the "Nobel Literature Bookstore," at the Gate 2 entrance. Built with warm wood and dark gray stone integrated into the urban garden beside Yinchu Lake and Tiebi Hill, the venue embeds reading seats and coffee seating directly into double-sided bookshelves displaying award-winning works, classic translations, biographies, and literary criticism, connected to an outdoor garden seating area via curved floor-to-ceiling windows. The bookstore brings together over 400 titles in Chinese translations and foreign-language original editions from 122 Nobel laureates, with new works related to the 2026 Nobel Prize in Literature to be added after the October announcement.
 
-> **Verified Source**: [上海市文化和旅游局](https://whlyj.sh.gov.cn/gqfc/20260930/300fa7a2c23d407192b9e4612e9f31e0.html)
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (上海市文化和旅游局, Gov.cn)](https://whlyj.sh.gov.cn/gqfc/20260930/300fa7a2c23d407192b9e4612e9f31e0.html)
 
 ---
 
@@ -209,7 +209,7 @@ Following renovation closures, the north zone of Changfeng Park in Shanghai reop
 **🇬🇧 Actionable Travel Intel**:  
 Suzhou cultural and tourism authorities announced that Suzhou Lin Zexu Memorial Hall is temporarily closed for exhibition upgrades from September 30 to October 25, 2026. The venue is scheduled to reopen on October 26.
 
-> **Verified Source**: [苏州文化旅游资讯 (Sina Weibo)](https://weibo.com/2571243254/RklZadWdL)
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RklZadWdL)
 
 ---
 
@@ -222,7 +222,7 @@ Suzhou cultural and tourism authorities announced that Suzhou Lin Zexu Memorial 
 **🇬🇧 Actionable Travel Intel**:  
 Suzhou Municipal Bureau of Culture recommended an evening cultural route linking the Suzhou Museum, the Humble Administrator's Garden ("Zhuozheng Wenya" night tour), and Pingjiang Road. Suzhou Museum (main branch) requires advance reservations; its Northern Song Pearl Sarira Stupa relic is exhibited in the "Ta Fang Rui Guang" gallery through October 18. Pricing and operational details for the "Zhuozheng Wenya" night tour are available on its official WeChat mini-program.
 
-> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, Television and Tourism (Sina Weibo)](https://weibo.com/2571243254/RklHA7yQI)
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RklHA7yQI)
 
 ---
 
@@ -235,4 +235,4 @@ Suzhou Municipal Bureau of Culture recommended an evening cultural route linking
 **🇬🇧 Actionable Travel Intel**:  
 From September 21 to December 31, 2026 (excluding the Mid-Autumn and National Day holidays), Mount Huangshan, Huashan Mystery Grottoes, and Taiping Lake scenic areas offer free admission waivers for visitors aged 18 and under. Free admission applies only to the first entrance ticket and excludes secondary fees such as cableways, transit buses, and boats. Mount Huangshan requires real-name, time-slot reservations; eligible visitors must book the free ticket in advance via the official Huangshan Tourism mini-program.
 
-> **Verified Source**: [Mount Huangshan Scenic Area Administration (Sina Weibo)](https://weibo.com/2092477712/Rjflh0GhE)
+> **Verified Source**: [Mount Huangshan Scenic Area Administration (黄山景区, Sina Weibo)](https://weibo.com/2092477712/Rjflh0GhE)

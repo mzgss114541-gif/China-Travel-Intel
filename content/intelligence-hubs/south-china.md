@@ -14,7 +14,7 @@
 **🇬🇧 Actionable Travel Intel**:  
 The 101-km Yichang-Xingshan High-Speed Railway has officially opened for passenger operation in western Hubei, with bridges and tunnels accounting for 94.4% of the route. The new line establishes a regional high-speed rail loop linking Xingshan, Yichang, Jingmen, Xiangyang, and Shennongjia, enabling fastest travel times of 100 minutes between Xingshan and Wuhan and 3 hours 54 minutes on select Wuhan-Chongqing high-speed trains routing via the Yichang-Xingshan corridor.
 
-> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/RmsBz4ZVu)
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmsBz4ZVu)
 
 ---
 
@@ -27,7 +27,7 @@ The 101-km Yichang-Xingshan High-Speed Railway has officially opened for passeng
 **🇬🇧 Actionable Travel Intel**:  
 Multiple scenic areas in Qingyuan have suspended seasonal rafting operations and adjusted operating hours: (1) Xuanzhen Gorge Water Kingdom: rafting suspended from October 8, 2026; canyoning remains open until October 25, 2026. (2) Bijiashan Tourist Area: canyon rafting and Yuequangu water park suspended from October 8, 2026 for maintenance. (3) Qingquanwan Eco-Tourism Zone: rafting, water park, and villa pool operations stopped from October 8, 2026. (4) Taihe Ancient Cave Scenic Area: ticket sales hours adjusted to 06:30–17:30 from October 8, 2026, with natural swimming pool ticket sales suspended (open 06:30–18:00 for pass holders only); during the Chongyang Festival, the park operates overnight from 7 a.m. on October 17 to 16:00 on October 18 (swimming pool closed 12:00 on October 17 to 16:00 on October 18, normal operations resume October 19). (5) Guangdong Xiatianxia Scenic Area: Grand Canyon rafting suspended from September 1, 2026 until summer 2027. (6) Shenfengguan Underground Rafting: closed from October 12, 2026. (7) Laohugu Karst Cave Rafting: closed from October 7, 2026. Visitors are advised to call scenic areas in advance to confirm operating status before traveling.
 
-> **Verified Source**: [活力广东 (Sina Weibo)](https://weibo.com/2880086884/RmrvtELYG)
+> **Verified Source**: [Guangdong Provincial Department of Culture and Tourism (活力广东, Sina Weibo)](https://weibo.com/2880086884/RmrvtELYG)
 
 ---
 
@@ -40,7 +40,7 @@ Multiple scenic areas in Qingyuan have suspended seasonal rafting operations and
 **🇬🇧 Actionable Travel Intel**:  
 On October 11, Haikou Meilan International Airport officially launched two direct passenger air routes to Malaysia: Haikou to Penang and Haikou to Kota Kinabalu, allowing travelers to fly nonstop between Haikou and both Malaysian destinations without transit.
 
-> **Verified Source**: [海南省旅游和文化广电体育厅 (Sina Weibo)](https://weibo.com/2959194963/RmlsBhDrk)
+> **Verified Source**: [Hainan Department of Tourism, Culture, Radio, TV and Sports (海南省旅游和文化广电体育厅, Sina Weibo)](https://weibo.com/2959194963/RmlsBhDrk)
 
 ---
 
@@ -53,7 +53,7 @@ On October 11, Haikou Meilan International Airport officially launched two direc
 **🇬🇧 Actionable Travel Intel**:  
 Tianmenshan Scenic Area announced that maintenance on the Tianmen Cave Fast Cableway is complete and operations have resumed. On October 12 only, the scenic area opens round-trip cableway tour lines A, B, and C, while one-way lines 1 and 2 remain suspended. Ticket sales on October 12 run from 6:30 to 16:00, with passenger operations starting at 7:00. Starting October 13, 2026, passenger operations from the urban lower station to the middle station will halt, resulting in full suspension of the main Tianmenshan Cableway, leaving only round-trip Line C open. The adjusted Line C route requires entering at the mountain gate, taking the Tianmen Cave Fast Cableway up to Tianmen Cave, taking the 7-stage trans-mountain escalators up to the mountain top, and returning via the 7-stage escalators and Tianmen Cave Fast Cableway down to the mountain gate.
 
-> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RmjS5q5h4)
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RmjS5q5h4)
 
 ---
 
@@ -66,7 +66,7 @@ Tianmenshan Scenic Area announced that maintenance on the Tianmen Cave Fast Cabl
 **🇬🇧 Actionable Travel Intel**:  
 Wuhan Metro has set up temporary oversized luggage storage points at stations including Simenkou Yellow Crane Tower Station, Liyuan Station, and Wuchang Railway Station. Travelers can store their large baggage inside these stations using free self-service facilities.
 
-> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/RmcNj8Loq)
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmcNj8Loq)
 
 ---
 
@@ -79,7 +79,7 @@ Wuhan Metro has set up temporary oversized luggage storage points at stations in
 **🇬🇧 Actionable Travel Intel**:  
 An underground corridor connecting the P3 underground parking garage at Wuhan Railway Station with Metro Line 5 is officially open. Arriving passengers can directly enter the passage and access Wuhan Railway Station through existing underground subway facilities, eliminating the need for outdoor detours.
 
-> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/Rm0q9Ee8J)
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/Rm0q9Ee8J)
 
 ---
 
@@ -117,7 +117,7 @@ An underground corridor connecting the P3 underground parking garage at Wuhan Ra
 **🇬🇧 Actionable Travel Intel**:  
 Under the new train operating schedule effective October 11, Xiantao Station expands its intercity rail services and municipal bus connections: newly added morning train D5876 (Xiantao–Huanggang East) departs Xiantao at 6:52 via Hanchuan, Wuchang, Wuhan East, and Huanggang West (arriving in Wuhan around 7:30), while train D5871 from Hankou arrives at Xiantao at 6:33. Additional departures include morning services at 10:50 (D5768 Xiantao–Yangxin via Wuchang, Wuhan East, and Gedian South) and 11:05 (D5220 to Hankou), afternoon and evening services to Hankou at 13:14 (D5204), 17:03 (D5202), 20:06 (D5208), and 20:43 (D5826), plus 19:13 (D5240 to Yunmeng East via Hankou and Xiaogan East), alongside arrivals from Macheng North, Qichun South, Wuxue North, Huanggang East, and Yangxin. Synchronized across 8 passenger train pairs, Xiantao Bus Routes 7 and 10 implement a four-tier connection scheme: early standby before 6:30 for the 6:33 D5871 arrival; flexible daytime dispatch for arrivals at 9:54 (D9299), 10:30 (D5763), 12:38 (D5887), and 16:37 (D5201); increased evening peak frequencies for 18:35 (D5759) and 18:50 (D5207); and night service waiting until around 20:40 for the last train at 20:25 (D5825 Yangxin–Xiantao), with delayed-train hold coordination.
 
-> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/RlRo1lAAX)
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RlRo1lAAX)
 
 ---
 
@@ -130,7 +130,7 @@ Under the new train operating schedule effective October 11, Xiantao Station exp
 **🇬🇧 Actionable Travel Intel**:  
 The Shenzhen Port Office and Hong Kong Security Bureau announced that the reconstructed Huanggang Port officially opens operations at 6:30 on October 12, 2026. The new inspection complex provides 24-hour border clearance services for passengers and vehicles between Shenzhen and Hong Kong. Temporary passenger inspection building services are simultaneously discontinued.
 
-> **Verified Source**: [深圳市口岸办](https://ka.sz.gov.cn/xxgk/qt/tzgg/content/post_13011201.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://ka.sz.gov.cn/xxgk/qt/tzgg/content/post_13011201.html)
 
 ---
 
@@ -154,7 +154,7 @@ The Shenzhen Port Office and Hong Kong Security Bureau announced that the recons
 **🇬🇧 Actionable Travel Intel**:  
 Nanyue District highway authorities announced traffic controls in Mount Heng Nanyue central scenic area from October 8 to October 16 for road anti-skid surfacing work. Route X016 (Power Hotel to Xiling intersection) and Route X024 (Xiling intersection to Nantianmen) are under full closure. Non-authorized vehicles and pedestrians are prohibited from entering construction sections. Scenic area shuttle operations are rerouted between Kangjialong, Banshanting, Caifushanzhuang, and Zushidian.
 
-> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RlHnApy6k)
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RlHnApy6k)
 
 ---
 
@@ -167,7 +167,7 @@ Nanyue District highway authorities announced traffic controls in Mount Heng Nan
 **🇬🇧 Actionable Travel Intel**:  
 Haikou General Station of Exit and Entry Frontier Inspection reported that Hainan air and maritime ports handled 54,000 cross-border passenger crossings during the National Day holiday (+13.4% YoY). Sanya Phoenix International Airport recorded a 28.7% rise in cross-border traffic (22,000 passengers), while Haikou Meilan handled 30,000 arrivals and departures. Leading source markets included Russia, Kazakhstan, Indonesia, Malaysia, Singapore, and Belarus. Border inspection authorities opened maximum verification channels with updated signage to ensure efficient processing.
 
-> **Verified Source**: [Hainan Provincial Department of Tourism, Culture, Radio, Television and Sports](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
 
 ---
 
@@ -182,7 +182,7 @@ Haikou General Station of Exit and Entry Frontier Inspection reported that Haina
 **🇬🇧 Actionable Travel Intel**:  
 On October 7, the final day of the National Day holiday, China Railway Guangzhou Group hit its peak return travel day with an estimated 3,155,000 passenger departures (+543,000 or +20.8% YoY over 2025), scheduling 3,893 passenger trains including 765 additional trains (100 conventional and 665 EMUs) mainly on the Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, Hangzhou–Shenzhen, and Jiangmen–Zhanjiang lines serving corridors between Guangzhou/Shenzhen and Chaoshan, Changsha, Huaihua, and Zhanjiang. For the early morning of October 8, 435 overnight high-speed trains were scheduled mainly toward Chaoshan, Changsha, and Zhangjiajie; meanwhile, cross-border passenger volume on the Guangzhou–Shenzhen–Hong Kong High-Speed Railway during the National Day period reached an estimated 905,000 (+6.6% YoY), with 214 trains operated on the line on October 7. Short-haul flows concentrated toward Shenzhen North (from Guangzhou South, Chaoshan, Puning, Shanwei, and Lufeng) and Guangzhou South (from Maoming, Yangjiang, Huaiji, Chaoshan, and Shaoguan), while long-haul flows concentrated from Changsha South to Shenzhen North, Guangzhou South, and Shanghai Hongqiao, and from Beijing West and Wuhan to Guangzhou South.
 
-> **Verified Source**: [China Railway Guangzhou Group Official Release (China National Radio / CNR)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Official Release)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
 
 ---
 
@@ -208,7 +208,7 @@ On October 7, the final day of the National Day holiday, China Railway Guangzhou
 **🇬🇧 Actionable Travel Intel**:  
 From October 8 to 12, the Tianmen Cave Express Cableway at Zhangjiajie Tianmen Mountain Scenic Area is suspended for maintenance. During this period, the scenic area opens only the round-trip cableway Line A tour (ticket sales from 6:30 to 16:00, passenger operations starting at 7:00), while round-trip Line B and Line C packages and one-way Line 1 and Line 2 packages are suspended. Because the lower section of the Tianmen Mountain Cableway (lower station to middle station) operates normally while the upper section (middle station to summit upper station) remains closed for renovation, the temporary Line A route runs from the Cableway Lower Station up to the Middle Station, transfers by scenic shuttle bus to Tianmen Cave, takes the 7-level trans-mountain escalator (upper escalator) behind Tianmen Cave to the summit and back down to Tianmen Cave, returns by scenic shuttle bus from Tianmen Cave Square to the Cableway Middle Station, and descends via the Tianmen Mountain Cableway to the Lower Station. Note: the Line A ticket covers the transport segments listed along this route, but excludes the one-way uphill ride on the lower escalator to Tianmen Cave.
 
-> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RlB68m3n2)
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RlB68m3n2)
 
 ---
 
@@ -224,7 +224,7 @@ From October 8 to 12, the Tianmen Cave Express Cableway at Zhangjiajie Tianmen M
 **🇬🇧 Actionable Travel Intel**:  
 On October 6, China Railway Guangzhou Group projected 2,835,000 passenger departures (+617,000 or +27.8% YoY over 2025) as return flows concentrated from surrounding small-to-medium and tourist cities toward Guangzhou, Shenzhen, and Changsha. A total of 3,835 trains were scheduled, including 702 extra services (107 conventional and 595 EMUs) mainly along the Beijing–Guangzhou, Hangzhou–Shenzhen, Shenzhen–Zhanjiang, and Guangzhou–Shenzhen–Hong Kong high-speed lines toward Guangzhou, Shenzhen, Changsha, and Wuhan, plus 401 overnight high-speed trains early on October 7 toward Changsha, Chaoshan, and Zhanjiang. Through October 15, Hainan is running the country's first railway "Ticket Stub+" online promotion: passengers arriving in Hainan by train can upload electronic train tickets via the UnionPay Cloud QuickPass (Yunshanfu) app for a 100%-winning draw—offering UnionPay red packets up to 20% of the ticket fare (capped at 100 RMB per transaction) or hotel and consumption vouchers—alongside a 20% discount on rail ferry tickets. Major hubs including Guangzhou South, Shenzhen North, and Changsha South opened all exit channels with youth volunteers guiding transfers, while Guangzhou Baiyun and Changsha stations strengthened assistance for key passenger groups and maintained ticket window and manual check channels.
 
-> **Verified Source**: [Guangzhou Municipal People's Government & China Railway Guangzhou Group (Official Transport Release)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
 
 ---
 
@@ -245,7 +245,7 @@ On October 6, China Railway Guangzhou Group projected 2,835,000 passenger depart
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service across key commercial districts and scenic areas: following cross-port recognition between Nanning and 16 provinces/municipalities in February and 6 provinces (including Hunan, Fujian, Guangdong, and Hainan) in July, nationwide cross-regional mutual recognition took effect on September 1. Combined with paperless tax refunds and small-amount sampling implemented on July 1, overseas travelers shopping at tax-refund stores in Nanning can receive tax refund advances on-site and complete Customs verification at any qualified departure port nationwide without returning to the purchase city ("single-location shopping, multi-port departure"). In September, Guangxi also launched the 2026 "Huigou Guangxi" departure tax refund consumption season, issuing 50,000 instant-discount subsidies so inbound travelers enjoy dual "tax refund + instant discount" benefits. Major commercial complexes—including Shanshan Outlets, Nanning MixC, Nanning Department Store, and Mengzhidao Crystal City—have set up dedicated tax refund service desks, supported by 168 registered departure tax-refund stores across 313 retail outlets in Nanning.
 
-> **Verified Source**: [广西壮族自治区文化和旅游厅](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
 
 ---
 
@@ -258,7 +258,7 @@ Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service acros
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi Meteorological Bureau issued weather advisories for moderate rain and localized downpours accompanied by short-term convective gales on October 4 across Chongzuo, Nanning, Guigang, Wuzhou, Yulin, Beihai, Qinzhou, and Fangchenggang. Cold air is forecast to reduce daily average temperatures by 4–6°C (locally exceeding 8°C), with coastal and eastern areas experiencing northerly winds of force 5–6 and gusts of force 7–8.
 
-> **Verified Source**: [Guangxi Department of Culture and Tourism (Sina Weibo)](https://weibo.com/1780560607/Rl4zmeQjC)
+> **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/Rl4zmeQjC)
 
 ---
 
@@ -271,7 +271,7 @@ Guangxi Meteorological Bureau issued weather advisories for moderate rain and lo
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Wuhan Bureau announced that starting September 29, 2026, the former south parking facility at Hankou Railway Station was converted into a temporary passenger drop-off zone. The facility enforces a strict stop-and-go policy with a maximum 7 minutes transit window. Drivers dropping off rail passengers must depart immediately and avoid stopping along surrounding roads.
 
-> **Verified Source**: [武汉铁路 (Sina Weibo)](https://weibo.com/1919291765/Rl45Z2lrt)
+> **Verified Source**: [China Railway Wuhan Group (武汉铁路, Sina Weibo)](https://weibo.com/1919291765/Rl45Z2lrt)
 
 ---
 
@@ -284,7 +284,7 @@ China Railway Wuhan Bureau announced that starting September 29, 2026, the forme
 **🇬🇧 Actionable Travel Intel**:  
 The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel" service starting September 20, 2026. Passengers can complete reservations and payments via the Railway 12306 app to travel with their bicycles on the same train according to regulations, facilitating direct integration of high-speed rail and outdoor cycling travel.
 
-> **Verified Source**: [China State Railway Group Special Passenger Services (Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkXWHcIjk)
 
 ---
 
@@ -297,7 +297,7 @@ The Hainan Ring High-Speed Railway launched a pilot "Bicycle Accompanied Travel"
 **🇬🇧 Actionable Travel Intel**:  
 The Nanyue Mount Heng Scenic Area Administration suspended same-day online reservations starting at 11 am on October 3, 2026, as bookings neared maximum capacity. Entry is strictly barred without an advance reservation. Reserved visitors must enter during their assigned time slot with official identification. Unreserved travelers should book for October 4 or later dates. Inquiries can be directed to 0734-12345.
 
-> **Verified Source**: [文旅湖南 (Sina Weibo)](https://weibo.com/2061840907/RkVNwrD4N)
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RkVNwrD4N)
 
 ---
 
@@ -310,7 +310,7 @@ The Nanyue Mount Heng Scenic Area Administration suspended same-day online reser
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi cultural and tourism authorities announced that online reservations for Detian Transnational Waterfall in Chongzuo near full capacity from October 1 to 4 under real-name ticketing rules. Visitors holding tickets must enter during their reserved time slots. Due to regional road maintenance and limited parking near the border scenic core, travelers are advised to park at the visitor center parking facilities.
 
-> **Verified Source**: [广西文化和旅游厅 (Sina Weibo)](https://weibo.com/1780560607/RkE7vrSRl)
+> **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RkE7vrSRl)
 
 ---
 
@@ -323,4 +323,4 @@ Guangxi cultural and tourism authorities announced that online reservations for 
 **🇬🇧 Actionable Travel Intel**:  
 Guilin Maritime Safety Administration and Li River scenic authorities outlined vessel safety regulations: Three-star and four-star luxury cruises on the Li River operate under real-name ticketing with no upper age limit. Conversely, bamboo rafts along the Li River and Yulong River enforce strict real-name bookings and prohibit children under 1.2 meters in height, adults aged 70 and above, and individuals with cardiovascular conditions. Raft operations suspend dynamically during heavy rainfall or strong convective weather.
 
-> **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (Official Safety Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
+> **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (桂林海事局与漓江景区, Official Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
