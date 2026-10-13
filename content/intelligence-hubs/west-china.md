@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 19:00 CST
+#### Xi'an Imposes Traffic Controls for 2026 Marathon Across City Center on October 18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026西安马拉松赛定于10月18日（星期日）7时30分在西安主城区举行。届时，将有3万6千名选手参赛。比赛起点设在永宁门，终点设在西安奥体中心。 全程马拉松路线：永宁门东侧盘道（起点）→南大街→钟楼盘道（逆行）→东大街→长乐门盘道→环城东路北段→太华南路→太华北路→永顺路→御井路（逆行）→永隆路→浐灞三路→广运潭大道→欧亚大道→灞河东路→东三环北侧辅路（逆行）→会展一路（逆行）→欧亚大道→灞河东路（逆行）→上善巷→上善巷折返处（折返）→上善巷→灞河东路（逆行）→灞河东路与河堤路南侧折返处（折返）→灞河东路（逆行）→西安奥体中心西广场南侧道路→西安奥体中心体育场（终点） 半程马拉松路线：永宁门东侧盘道（起点）→南大街→钟楼盘道（逆行）→东大街→长乐门盘道→环城东路北段→太华南路→太华北路→永顺路→御井路（逆行）→永隆路→浐灞三路→广运潭大道→欧亚大道→灞河东路→东三环北侧辅路（逆行）→会展一路（西安国际会展中心终点） https://mp.weixin.qq.com/s/BhJ4T9YLPrM9QveM0IawdA
+
+**🇬🇧 Actionable Travel Intel**:  
+The 2026 Xi'an Marathon will be held in the main urban area of Xi'an on Sunday, October 18, starting at 7:30. Traffic controls will be implemented along the race course. The starting line is at Yongning Gate, with the route traversing central urban corridors including South Avenue, the Bell Tower roundabout, East Avenue, Changle Gate, and Taihua Road toward the Xi'an Olympic Sports Center finish line. Travelers in central Xi'an near the Bell Tower and City Wall should expect road closures and transit adjustments during the race.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RmvfWDkH3)
+
+---
+
 ### October 13, 2026 &bull; 15:51 CST
 #### Heavy Rain in Chongqing Prompts Rail Safety Warnings and Possible Delays from October 14 to 15
 
