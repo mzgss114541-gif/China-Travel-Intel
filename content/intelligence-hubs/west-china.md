@@ -412,7 +412,7 @@ Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets
 **🇬🇧 Actionable Travel Intel**:  
 Highway authorities issued a 4-day countdown for the seasonal winter closure of the Duku Highway. As of October 3, traffic along the highway operated smoothly with cumulative volume of 22,400 vehicles, and traffic controls were lifted on select sections.
 
-> **Verified Source**: [Duku Highway Traffic Command (独库公路, Sina Weibo)](https://weibo.com/6403274291/RkZX4E5fV)
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/Rl461tvSs)
 
 ---
 
