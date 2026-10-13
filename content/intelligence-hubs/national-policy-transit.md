@@ -14,7 +14,7 @@
 **🇬🇧 Actionable Travel Intel**:  
 China State Railway Group announced the start of track-laying operations for the Chengdu–Dazhou–Wanzhou High-Speed Railway at Nanchong North Station on October 1. The line forms a key component of the Yangtze River corridor in the national high-speed railway grid, running 477 kilometers from Chengdu Tianfu Station to Wanzhou North Station with a design speed of 350 km/h.
 
-> **Verified Source**: [China State Railway Group (Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
 
 ---
 
@@ -27,7 +27,7 @@ China State Railway Group announced the start of track-laying operations for the
 **🇬🇧 Actionable Travel Intel**:  
 China State Railway Group reported that national railways handled their return passenger peak on October 7, with an estimated 24,150,000 passenger journeys and 2,449 additional passenger trains scheduled. On October 6, 21,605,000 passengers were dispatched. Top departure cities identified through Railway 12306 included Beijing, Guangzhou, Chengdu, Xi'an, Wuhan, Hangzhou, and Chongqing.
 
-> **Verified Source**: [China State Railway Group Official Release (China Railway Lanzhou Bureau Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
+> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
 
 ---
 
@@ -40,7 +40,7 @@ China State Railway Group reported that national railways handled their return p
 **🇬🇧 Actionable Travel Intel**:  
 The General Administration of Customs reminded inbound travelers that bringing meat products, bird's nest, and fresh fruits into China is strictly prohibited without prior official approval under border quarantine regulations. Arriving passengers carrying any restricted biological items must declare them to Customs for official quarantine inspection, and failure to comply carries legal liability under border health and biosecurity laws.
 
-> **Verified Source**: [海关发布 (Sina Weibo)](https://weibo.com/5832321505/RlymrysSL)
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RlymrysSL)
 
 ---
 
@@ -53,7 +53,7 @@ The General Administration of Customs reminded inbound travelers that bringing m
 **🇬🇧 Actionable Travel Intel**:  
 The Ministry of Transport reported that inter-regional passenger movements surpassed 300,000,000 journeys on October 5 as return travel commenced. Railway bureaus operated additional passenger trains on popular routes, and major transport hubs coordinated with urban subways and buses to extend operating hours to facilitate passenger transfers.
 
-> **Verified Source**: [Ministry of Transport of the PRC Official Release (Gov.cn)](https://www.gov.cn/yaowen/liebiao/202610/content_7082652.htm)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://www.gov.cn/yaowen/liebiao/202610/content_7082652.htm)
 
 ---
 
@@ -66,7 +66,7 @@ The Ministry of Transport reported that inter-regional passenger movements surpa
 **🇬🇧 Actionable Travel Intel**:  
 China Customs issued a reminder regarding currency restrictions for inbound and outbound travelers. Passengers carrying more than CNY 20,000 in cash or foreign currency exceeding the equivalent of USD 5,000 must declare to customs. Outbound travelers carrying USD 5,000 to USD 10,000 must obtain a permit from an authorized bank, while amounts exceeding USD 10,000 require a permit from the State Administration of Foreign Exchange.
 
-> **Verified Source**: [General Administration of Customs of China (Sina Weibo)](https://weibo.com/5832321505/Rlg7zni9N)
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/Rlg7zni9N)
 
 ---
 
@@ -79,7 +79,7 @@ China Customs issued a reminder regarding currency restrictions for inbound and 
 **🇬🇧 Actionable Travel Intel**:  
 The direct passenger air route between Qingdao and Vancouver officially resumed on October 2, with international flights operating weekly on Fridays. Qingdao Airport border inspection deployed optimized duty arrangements to maintain passenger clearance for incoming and departing travelers.
 
-> **Verified Source**: [国家移民管理局 (Sina Weibo)](https://weibo.com/6929716472/RldjUcMIZ)
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RldjUcMIZ)
 
 ---
 
@@ -92,7 +92,7 @@ The direct passenger air route between Qingdao and Vancouver officially resumed 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway highlighted the lost property tracking service available on the Railway 12306 app. Passengers who misplace belongings on trains or at railway stations can navigate to "Warm Service" on the app home screen, select "Lost Property Search", fill in trip details, and submit for staff assistance.
 
-> **Verified Source**: [Sina Weibo China State Railway Group & Xi'an Bureau of Culture & Tourism (Verified Transport Safety Bulletin)](https://weibo.com/2061858797/RkYAD8qqA)
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RkYAD8qqA)
 
 ---
 
@@ -105,7 +105,7 @@ China Railway highlighted the lost property tracking service available on the Ra
 **🇬🇧 Actionable Travel Intel**:  
 China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
 
-> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
 
 ---
 
@@ -118,7 +118,7 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 **🇬🇧 Actionable Travel Intel**:  
 Following its May–June off-peak midweek promotion that offered a 10% discount on executed fares for senior travelers, China State Railway Group has further optimized its senior fare concession policy: passengers aged 60 and above purchasing tickets for trains marked with the character "Jing" ("敬") on Railway 12306 for travel between October 18 and December 30, 2026 (inclusive) will receive compound "discount-on-discount" fare reductions. The updated policy expands the eligible timeframe and removes the midweek-only restriction, with discounted tickets going on sale starting October 4.
 
-> **Verified Source**: [中国铁路 (Sina Weibo)](https://weibo.com/2549511007/RkVXxhrbw)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkVXxhrbw)
 
 ---
 
@@ -135,7 +135,7 @@ Following its May–June off-peak midweek promotion that offered a 10% discount 
 **🇬🇧 Actionable Travel Intel**:  
 The Ministry of Culture and Tourism and the China Meteorological Administration jointly issued a National Day holiday (October 1–7) travel weather advisory: (1) Most northern regions see sunny-to-cloudy skies and favorable comfort levels across North China, northern Jiangnan, eastern Southwest China, southern Northeast China, and most of Northwest China, while southern China experiences rainy weather from October 1 to 4 before turning clear and comfortable after October 5; (2) Travelers should prepare warm clothing for chilly mornings and evenings in the north—where minimum temperatures in parts of eastern Inner Mongolia, northern Hebei, and Heilongjiang drop to around 0°C—alongside 4–6°C cooling across central and eastern China on October 3–4 and strong winds with cooling in northern Xinjiang on October 6–7. Rain is forecast for central Inner Mongolia, northern North China, and southern Northeast China on October 2–3 (light-to-moderate rain or thunderstorms, localized heavy rain) and across southern China on October 1–4 (heavy rain in parts, localized torrential rain in Guizhou, and localized heavy snow in the eastern Qinghai-Tibet Plateau); visitors are advised to monitor forecasts closely and avoid high-risk mountain/water zones and undeveloped or unopened areas.
 
-> **Verified Source**: [文旅之声 (Sina Weibo)](https://weibo.com/5713450386/RkmT0bVyx)
+> **Verified Source**: [Ministry of Culture and Tourism of the PRC (文旅之声, Sina Weibo)](https://weibo.com/5713450386/RkmT0bVyx)
 
 ---
 
@@ -148,7 +148,7 @@ The Ministry of Culture and Tourism and the China Meteorological Administration 
 **🇬🇧 Actionable Travel Intel**:  
 The Harbin–Yichun High-Speed Railway has entered official passenger operation, marking China's first high-speed line built across high-latitude discontinuous permafrost. The 318 km line (speed 250 km/h) connects Harbin with Yichun in 1 hour 46 minutes. Yichun West Station now operates as the country's northernmost high-speed terminus across 9 newly operational stations.
 
-> **Verified Source**: [China Railway Official Operational Filing (Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
 
 ---
 
@@ -161,7 +161,7 @@ The Harbin–Yichun High-Speed Railway has entered official passenger operation,
 **🇬🇧 Actionable Travel Intel**:  
 The Yichang–Xingshan High-Speed Railway officially entered commercial passenger service on September 28 as train G6888 departed Xingshan Station towards Yichang North Station at 9:58. The line connects the Yangtze River corridor with the Zhengzhou–Chongqing High-Speed Railway, cutting rail travel time between Xingshan and Yichang to half an hour and reducing Wuhan–Chongqing travel time to 3 hours 54 minutes.
 
-> **Verified Source**: [中国铁路 (Sina Weibo)](https://weibo.com/2549511007/Rkdu7u1Qm)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rkdu7u1Qm)
 
 ---
 
@@ -174,7 +174,7 @@ The Yichang–Xingshan High-Speed Railway officially entered commercial passenge
 **🇬🇧 Actionable Travel Intel**:  
 The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway entered operation on September 28 as train G3935 departed Xiong'an Station. The 552-kilometer line links the North China Plain with eastern Henan and southwestern Shandong, achieving a travel time of 2 hours 27 minutes between Xiong'an and Shangqiu.
 
-> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rkct8a8Zx)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rkct8a8Zx)
 
 ---
 
@@ -187,4 +187,4 @@ The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway en
 **🇬🇧 Actionable Travel Intel**:  
 Inspection train 55101 departed Jinan East Station on September 24, launching full commissioning for the Jinan Connector of the Tianjin–Weifang High-Speed Railway. Extending approximately 145 kilometers with a design speed of 350 km/h, the line connects Jinan East Station with Yaoqiang Airport and Binzhou Station.
 
-> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/Rk41ECTRB)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rk41ECTRB)

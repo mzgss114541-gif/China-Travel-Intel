@@ -14,7 +14,7 @@
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Chengdu Group issued a travel advisory regarding a heavy rainfall system forecast across southern and southeastern Chongqing from October 14 to 15. Sections along the Chongqing-Xiamen High-Speed Railway, Chongqing-Huaihua Railway, Sichuan-Guizhou Railway, and Chongqing-Guiyang Railway may exceed safety rainfall thresholds. Railway authorities may implement temporary line lockdowns for safety inspections, and passing passenger trains may experience delays or cancellations. Travelers are advised to monitor official updates through station announcements or Railway 12306 before departure.
 
-> **Verified Source**: [西南铁路 (Sina Weibo)](https://weibo.com/1919955065/Rmu1gh1ce)
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Rmu1gh1ce)
 
 ---
 
@@ -27,7 +27,7 @@ China Railway Chengdu Group issued a travel advisory regarding a heavy rainfall 
 **🇬🇧 Actionable Travel Intel**:  
 The Mount Emei Scenic Area Management Committee announced that power supply line maintenance in the Golden Summit area is scheduled for October 15, 2026. During the maintenance, Golden Summit Cableway 1 (reversible cableway) will suspend operations, and only Golden Summit Cableway 2 (circulating cableway) will operate with a one-way capacity of 1,000 passengers per hour. Longer queue times may occur during peak periods (ascending 10:00-14:00 and descending 13:00-17:00), and visitors are advised to plan their itineraries for off-peak travel.
 
-> **Verified Source**: [峨眉山 (Sina Weibo)](https://weibo.com/1975395992/RmrJSDr0m)
+> **Verified Source**: [Mount Emei Scenic Area Administration (峨眉山, Sina Weibo)](https://weibo.com/1975395992/RmrJSDr0m)
 
 ---
 
@@ -40,7 +40,7 @@ The Mount Emei Scenic Area Management Committee announced that power supply line
 **🇬🇧 Actionable Travel Intel**:  
 From October 14 to December 15, 2026, Chengdu Museum will carry out escalator replacement construction between basement level one and the second floor. Visitors are advised to use the indoor elevators during their visit.
 
-> **Verified Source**: [文旅成都 (Sina Weibo)](https://weibo.com/2164623652/RmnfOiixf)
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RmnfOiixf)
 
 ---
 
@@ -53,7 +53,7 @@ From October 14 to December 15, 2026, Chengdu Museum will carry out escalator re
 **🇬🇧 Actionable Travel Intel**:  
 Effective October 12, 2026 (Monday), the Chongqing Two Rivers Ferry loop route (Danzishi to Jiangbeizui) has adjusted its operating schedule. Evening departures are now scheduled at 18:30 daily, departing from Danzishi Ferry Terminal and terminating at Jiangbeizui Terminal. Passengers planning evening river views should verify the boarding terminal and departure time before traveling.
 
-> **Verified Source**: [重庆文旅 (Sina Weibo)](https://weibo.com/2128914281/RmlDGgxaH)
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RmlDGgxaH)
 
 ---
 
@@ -66,7 +66,7 @@ Effective October 12, 2026 (Monday), the Chongqing Two Rivers Ferry loop route (
 **🇬🇧 Actionable Travel Intel**:  
 Lhamo La-tso Scenic Area in Shannan announced a temporary suspension of operations starting October 19, 2026. The closure is due to adverse high-altitude weather conditions, including continuous temperature drops and frequent snowfall, which have caused snow and ice accumulation on scenic roads and walking trails. Reopening will be dynamically adjusted based on changing weather conditions and announced in a future official notice.
 
-> **Verified Source**: [西藏文旅 (Sina Weibo)](https://weibo.com/2061860827/RmkqhtQ6x)
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmkqhtQ6x)
 
 ---
 
@@ -79,7 +79,7 @@ Lhamo La-tso Scenic Area in Shannan announced a temporary suspension of operatio
 **🇬🇧 Actionable Travel Intel**:  
 In accordance with the Road Traffic Safety Law of the People's Republic of China, the Yuzhong District Branch of Chongqing Municipal Public Security Bureau has announced traffic organization adjustments along the road section of the Liziba Main Street Monorail-Through-Building Viewing Platform, taking effect from October 13, 2026. The measures aim to regulate pedestrian and vehicular traffic and parking order around the popular viewing area. Travelers visiting the site should follow on-site police guidance and traffic signage. The source announcement does not specify further details.
 
-> **Verified Source**: [重庆文旅 (Sina Weibo)](https://weibo.com/2128914281/RminxvWwd)
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RminxvWwd)
 
 ---
 
@@ -92,7 +92,7 @@ In accordance with the Road Traffic Safety Law of the People's Republic of China
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Kunming Group reminds passengers that Mohan Railway Port does not process visas on arrival, and paper tickets can be exchanged at domestic railway stations including Kunming, Kunming South, Pu'er, Xishuangbanna, and Mohan. High-speed rail tickets departing Kunming South toward Beijing, Shanghai, Guangzhou, Shenzhen, Wuhan, Chengdu, Chongqing, Guiyang, and Nanning currently have sufficient availability. Railway 12306 is the sole official ticketing platform; travelers are advised not to share account or identity information with third-party platforms and to reconfirm travel date, station, and departure time before boarding.
 
-> **Verified Source**: [昆明铁路 (Sina Weibo)](https://weibo.com/1920078035/RmhxNEbdc)
+> **Verified Source**: [China Railway Kunming Group (昆明铁路, Sina Weibo)](https://weibo.com/1920078035/RmhxNEbdc)
 
 ---
 
@@ -105,7 +105,7 @@ China Railway Kunming Group reminds passengers that Mohan Railway Port does not 
 **🇬🇧 Actionable Travel Intel**:  
 Official Xinjiang transport advisories announce upcoming winter road closures and phased traffic controls across specific highway sections. Winter closure takes effect on Provincial Road S249 (sections K0 to K26) starting October 12. Phased construction traffic controls apply to Provincial Road S237 (sections K35 to K72) from September 30 to October 20, and to National Highway 315 (sections K1513 to K1565) from October 9 to November 30. Travelers planning overland transit should take note of these highway restrictions.
 
-> **Verified Source**: [新疆是个好地方V (Sina Weibo)](https://weibo.com/2479930984/RmaKS9YNq)
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方, Sina Weibo)](https://weibo.com/2479930984/RmaKS9YNq)
 
 ---
 
@@ -118,7 +118,7 @@ Official Xinjiang transport advisories announce upcoming winter road closures an
 **🇬🇧 Actionable Travel Intel**:  
 On October 11, the North Station Building of Suining Railway Station entered operation, while the old station building simultaneously ceased passenger services. The new facility includes a waiting hall with nearly 2000 seats. In addition, 6 train services have been added, connecting Chongqing, Chengdu, and Qiqihar.
 
-> **Verified Source**: [西南铁路 (Sina Weibo)](https://weibo.com/1919955065/RmaxGcqGD)
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/RmaxGcqGD)
 
 ---
 
@@ -131,7 +131,7 @@ On October 11, the North Station Building of Suining Railway Station entered ope
 **🇬🇧 Actionable Travel Intel**:  
 On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou. Operating via the newly opened Yichang-Xingshan High-Speed Railway, it becomes the fastest service connecting the Sichuan-Chongqing region and Wuhan, reducing previous travel time by 1 hour and 44 minutes.
 
-> **Verified Source**: [西南铁路 (Sina Weibo)](https://weibo.com/1919955065/Rm9HuwTq6)
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Rm9HuwTq6)
 
 ---
 
@@ -151,7 +151,7 @@ On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou
 **🇬🇧 Actionable Travel Intel**:  
 Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum switches to off-season operating hours from 8:30 to 18:00 daily (ticket inspection stops at 17:30) and upgrades its interior permanent exhibitions in phases: (1) Bell Tower construction runs from October 11 to November 15, 2026, during which the interior exhibition hall is temporarily closed while the second-floor viewing platform remains open as normal; (2) Drum Tower construction runs from November 1 to November 30, 2026, during which the interior exhibition hall is temporarily closed while the second-floor viewing platform remains open as normal; and (3) during construction, single-tower admission for the Bell Tower and Drum Tower is reduced from the original price of 30 RMB per person to 15 RMB per person with existing discount policies unchanged, returning to the original price once the exhibition halls fully reopen.
 
-> **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/Rm3T4fzUw)
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/Rm3T4fzUw)
 
 ---
 
@@ -164,7 +164,7 @@ Starting October 11, 2026, the Xi'an Bell and Drum Towers Museum switches to off
 **🇬🇧 Actionable Travel Intel**:  
 Effective October 10, 2026 through April 30 of the following year, Hailuogou Scenic Area operates under its winter-spring schedule. Ticket sales and visitor entry are available from 08:00 to 14:00, with park entry closing at 14:00 and final park closure at 17:00. High-altitude weather is volatile with snow, ice, and fog; travelers should check road and weather conditions in advance to plan itineraries.
 
-> **Verified Source**: [甘孜文旅 (Sina Weibo)](https://weibo.com/2014827750/Rm2QskQ55)
+> **Verified Source**: [Garze Prefecture Bureau of Culture and Tourism (甘孜文旅, Sina Weibo)](https://weibo.com/2014827750/Rm2QskQ55)
 
 ---
 
@@ -178,7 +178,7 @@ Effective October 10, 2026 through April 30 of the following year, Hailuogou Sce
 **🇬🇧 Actionable Travel Intel**:  
 Due to severe blizzard conditions and sharp temperature drops, road sections across Baga Township and surrounding mountain routes—particularly both sides of Drolma La Pass—are experiencing heavy snow accumulation and icing. With continued snowfall and freezing temperatures forecast, Mount Kailash Scenic Area will be closed starting October 20, 2026. Reopening in 2027 will be announced separately. Entering the closed zone during this period is strictly prohibited.
 
-> **Verified Source**: [西藏文旅 (Sina Weibo)](https://weibo.com/2061860827/Rm1IqENge)
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Rm1IqENge)
 
 ---
 
@@ -191,7 +191,7 @@ Due to severe blizzard conditions and sharp temperature drops, road sections acr
 **🇬🇧 Actionable Travel Intel**:  
 Shaanxi authorities announced that Taiping National Forest Park implemented a temporary closure on October 9, 2026, due to bridge surface maintenance preventing vehicular access at Bamuchang in Taipingyu. Normal operations resume on October 10.
 
-> **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/RlS9vkQuq)
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/RlS9vkQuq)
 
 ---
 
@@ -204,7 +204,7 @@ Shaanxi authorities announced that Taiping National Forest Park implemented a te
 **🇬🇧 Actionable Travel Intel**:  
 Chongqing Wulong Tourism Industry Group announced that road construction at the exit of Tian Sheng San Qiao scenic area begins October 9, 2026. Sightseeing shuttle services are temporarily suspended during construction. Visitors must follow on-site staff directions and signage to walk approximately 800 meters along the pedestrian trail to reach the scenic area exit transfer bus point. Normal shuttle operations will resume once roadwork is complete.
 
-> **Verified Source**: [重庆文旅 (Sina Weibo)](https://weibo.com/2128914281/RlS96g4X1)
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RlS96g4X1)
 
 ---
 
@@ -217,7 +217,7 @@ Chongqing Wulong Tourism Industry Group announced that road construction at the 
 **🇬🇧 Actionable Travel Intel**:  
 Xinjiang cultural and tourism authorities announced seasonal suspensions and schedule changes across multiple destinations. Suspended operations: Bayinbuluke scenic area closes starting October 12; Tacheng Wild Fruit Forest closed starting October 8; Gongnaisi and Altay Kokusuli closed starting October 9. In Urumqi, Tianshan Grand Canyon operates from 10:00 to 18:30 (ticket sales end at 17:30) from October 8 to April 30, 2027. At Nalati, the Tianshentai (Snow Lotus Valley) route entered seasonal closure on September 24 with shuttle buses halted and cableway operating 09:00 to 18:30 (ticket sales stop at 17:30, entry ends at 18:00). Habahe County Birch Forest operates 09:30 to 20:00.
 
-> **Verified Source**: [新疆是个好地方V (Sina Weibo)](https://weibo.com/2479930984/RlQoVdBss)
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方, Sina Weibo)](https://weibo.com/2479930984/RlQoVdBss)
 
 ---
 
@@ -230,7 +230,7 @@ Xinjiang cultural and tourism authorities announced seasonal suspensions and sch
 **🇬🇧 Actionable Travel Intel**:  
 Medog County cultural and tourism authorities in Tibet issued a notice prohibiting any organization or individual from guiding tourists into undeveloped backcountry areas, citing complex terrain, volatile weather, poor communication, and lack of safety facilities. The Galongla Tianchi hiking route has an open window only from July to September, and is closed for the entire season ahead of schedule this year due to weather conditions. Tour guides, drivers, and travelers are advised to choose officially developed scenic areas and avoid unvetted routes.
 
-> **Verified Source**: [Tibet Autonomous Region Department of Culture & Tourism](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
 
 ---
 
@@ -243,7 +243,7 @@ Medog County cultural and tourism authorities in Tibet issued a notice prohibiti
 **🇬🇧 Actionable Travel Intel**:  
 The Mount Emei Scenic Area Management Committee announced that the Jinding No. 1 Cableway is suspended for scheduled maintenance on October 9 and 10, 2026. Only the Jinding No. 2 Cableway remains in service with a one-way capacity of 1000 visitors per hour. Travelers should expect longer queues during peak operating hours (uphill 11:00-15:00, downhill 13:00-17:00) and are advised to plan off-peak transit.
 
-> **Verified Source**: [峨眉山 (Sina Weibo)](https://weibo.com/1975395992/RlHEPhJAH)
+> **Verified Source**: [Mount Emei Scenic Area Administration (峨眉山, Sina Weibo)](https://weibo.com/1975395992/RlHEPhJAH)
 
 ---
 
@@ -256,7 +256,7 @@ The Mount Emei Scenic Area Management Committee announced that the Jinding No. 1
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Kunming Bureau handled its Golden Week return peak on October 7, dispatching an estimated 590,000 passengers across Yunnan. Operations deployed 65.5 additional train pairs (14.5 inter-provincial, 51 regional), including 20.5 overnight EMU pairs. Along the international China-Laos Railway, customs and station authorities coordinated passenger clearance and transit connections to ensure smooth travel.
 
-> **Verified Source**: [China Railway Kunming Bureau (Sina Weibo)](https://weibo.com/1920078035/RlwEVbUwp)
+> **Verified Source**: [China Railway Kunming Group (昆明铁路, Sina Weibo)](https://weibo.com/1920078035/RlwEVbUwp)
 
 ---
 
@@ -269,7 +269,7 @@ China Railway Kunming Bureau handled its Golden Week return peak on October 7, d
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Chengdu Bureau issued an operational advisory regarding strong rainfall forecast across the Panxi region on October 7 and 8. Speed limits and train cancellations are planned on affected sections of the Chengdu-Kunming and New Chengdu-Kunming railways if rainfall exceeds safety limits. Passengers are advised to monitor station announcements and 12306 updates.
 
-> **Verified Source**: [China Railway Chengdu Bureau (Southwest Railway Weibo)](https://weibo.com/1919955065/RlqtzhGav)
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/RlqtzhGav)
 
 ---
 
@@ -282,7 +282,7 @@ China Railway Chengdu Bureau issued an operational advisory regarding strong rai
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train services between Urumqi and Turpan North Station in eastern Xinjiang to support holiday passenger travel.
 
-> **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/RlgwofnZO)
+> **Verified Source**: [China Railway Urumqi Group (乌鲁木齐铁路, Sina Weibo)](https://weibo.com/1919857493/RlgwofnZO)
 
 ---
 
@@ -295,7 +295,7 @@ China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train service
 **🇬🇧 Actionable Travel Intel**:  
 Highway authorities implemented traffic control along National Highway 317 between Nyima and Gerze (K2627+000 to K2628+000) from October 4 to October 14, 2026, due to roadbed subsidence and void repair construction. The main roadway is fully closed during construction, with all passing vehicles diverted via a temporary detour.
 
-> **Verified Source**: [Tibet Department of Culture & Tourism (Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RlflPDPOt)
 
 ---
 
@@ -308,7 +308,7 @@ Highway authorities implemented traffic control along National Highway 317 betwe
 **🇬🇧 Actionable Travel Intel**:  
 Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforces real-name timed reservation controls with a daily capacity limit of 6,000 visitors. Main scenic area entrance tickets maintain multi-day validity, while Shuiliandong reservations are valid only on the designated date. Visitors holding general tickets without a cave reservation can still access the Grand Waterfall, Tianxingqiao, and Doupotang areas. Reservations are available exclusively through the official Anlv Tong platform free of charge.
 
-> **Verified Source**: [黄果树景区 (Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
+> **Verified Source**: [Huangguoshu Waterfall Scenic Area (黄果树景区, Sina Weibo)](https://weibo.com/7824840740/RleImsrLb)
 
 ---
 
@@ -321,7 +321,7 @@ Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforce
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission tickets for October 5 were completely sold out, advising visitors to plan their travel arrangements in advance and travel during off-peak periods.
 
-> **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
+> **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (秦始皇帝陵博物院, Sina Weibo)](https://weibo.com/7409196757/Rlel6sn4E)
 
 ---
 
@@ -334,7 +334,7 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission ti
 **🇬🇧 Actionable Travel Intel**:  
 The Zhongnan Mountain Nanwutai Scenic Area announced an immediate halt to on-site ticket sales and implemented visitor flow controls starting at 13:00 on October 4, 2026. Only visitors with advance bookings are permitted to enter during their reserved time slots. Unreserved travelers must reschedule for alternate dates. Official inquiry line is 4009949234.
 
-> **Verified Source**: [陕西省文化和旅游厅 (Sina Weibo)](https://weibo.com/2197723802/Rl9iD3pP6)
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/Rl9iD3pP6)
 
 ---
 
@@ -347,7 +347,7 @@ The Zhongnan Mountain Nanwutai Scenic Area announced an immediate halt to on-sit
 **🇬🇧 Actionable Travel Intel**:  
 Mount Emei Scenic Area Management Committee confirmed that as of 17:30 on October 4, all admission tickets for October 5 were completely sold out. Self-driving visitors without confirmed bookings for admission and highland sightseeing buses are advised not to travel to Linggongli Station, and may consider visiting surrounding attractions or booking tickets for other dates.
 
-> **Verified Source**: [Mount Emei Scenic Area Official Notice (Sina Weibo)](https://weibo.com/1975395992/Rl7PcCO1j)
+> **Verified Source**: [Mount Emei Scenic Area Administration (峨眉山, Sina Weibo)](https://weibo.com/1975395992/Rl7PcCO1j)
 
 ---
 
@@ -360,7 +360,7 @@ Mount Emei Scenic Area Management Committee confirmed that as of 17:30 on Octobe
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Urumqi Bureau scheduled more than 340 additional passenger trains for the Golden Week return rush, including 138 conventional trains in Northern Xinjiang, 171 in Southern Xinjiang, and 34 outbound trains, serving travel peaks toward Ili, Kashgar, and Turpan.
 
-> **Verified Source**: [China Railway Urumqi Bureau (Sina Weibo)](https://weibo.com/1919857493/Rl76q2W0O)
+> **Verified Source**: [China Railway Urumqi Group (乌鲁木齐铁路, Sina Weibo)](https://weibo.com/1919857493/Rl76q2W0O)
 
 ---
 
@@ -373,7 +373,7 @@ China Railway Urumqi Bureau scheduled more than 340 additional passenger trains 
 **🇬🇧 Actionable Travel Intel**:  
 Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center and Yuquan Courtyard was full, with backup parking opened at Huashan Ice & Snow World, Gubaixing, and the East Visitor Center plot. Uphill queues reached 80 minutes on the Sante Cableway and 60 minutes on the Taihua Cableway, while downhill cableways had no waiting queues. Surrounding road traffic remained smooth.
 
-> **Verified Source**: [Mount Hua Tourism Group Official Weibo (Mount Hua Scenic Area)](https://weibo.com/1885449832/Rl6OqfaI7)
+> **Verified Source**: [Mount Hua Tourism Group (Huashan Scenic Area) (华山景区, Sina Weibo)](https://weibo.com/1885449832/Rl6OqfaI7)
 
 ---
 
@@ -386,7 +386,7 @@ Mount Hua reported that as of 12:00 on October 4, parking at the Visitor Center 
 **🇬🇧 Actionable Travel Intel**:  
 The Leshan Giant Buddha Cultural Heritage Management Committee announced that all daytime mountain admission tickets for October 4, 2026, are completely sold out. Visitors are advised not to purchase tickets from unauthorized scalpers. Alternative options include night tours of Lingyun Mountain, the digital cinema, or free surrounding areas including Wuyou Temple and Mahao Cliff Tombs. Official ticketing inquiry is 0833-2355557.
 
-> **Verified Source**: [乐山大佛 (Sina Weibo)](https://weibo.com/3502986442/Rl5v9ro1K)
+> **Verified Source**: [Leshan Giant Buddha Scenic Area Administration (乐山大佛, Sina Weibo)](https://weibo.com/3502986442/Rl5v9ro1K)
 
 ---
 
@@ -399,7 +399,7 @@ The Leshan Giant Buddha Cultural Heritage Management Committee announced that al
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets for October 4 are sold out and tickets for October 5 are nearly sold out, advising visitors to plan their schedules in advance and travel during off-peak periods.
 
-> **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (Sina Weibo)](https://weibo.com/7409196757/RkZXe5Z9z)
+> **Verified Source**: [Emperor Qinshihuang's Mausoleum Site Museum (秦始皇帝陵博物院, Sina Weibo)](https://weibo.com/7409196757/RkZXe5Z9z)
 
 ---
 
@@ -412,7 +412,7 @@ Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets
 **🇬🇧 Actionable Travel Intel**:  
 Highway authorities issued a 4-day countdown for the seasonal winter closure of the Duku Highway. As of October 3, traffic along the highway operated smoothly with cumulative volume of 22,400 vehicles, and traffic controls were lifted on select sections.
 
-> **Verified Source**: [Sina Weibo Duku Highway Official Traffic Authority (Xinjiang Duku Highway Weather & Traffic Command)](https://weibo.com/6403274291/RkZX4E5fV)
+> **Verified Source**: [Duku Highway Traffic Command (独库公路, Sina Weibo)](https://weibo.com/6403274291/RkZX4E5fV)
 
 ---
 
@@ -425,7 +425,7 @@ Highway authorities issued a 4-day countdown for the seasonal winter closure of 
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements for Pit Two, opening fully to the public on October 1, 2026. The upgraded hall introduces scientific North/South viewing circuits: a North Route dedicated to in-depth archaeological and artifact research, and a South Route featuring rapid viewing with multimedia displays and XR reconstructions.
 
-> **Verified Source**: [Sina Weibo Shaanxi Cultural Heritage Bureau & Xi'an Bureau of Culture & Tourism (Shaanxi Cultural Heritage / Xi'an Tourism)](https://weibo.com/2061858797/RkDA6303z)
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RkDA6303z)
 
 ---
 
@@ -438,7 +438,7 @@ Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements fo
 **🇬🇧 Actionable Travel Intel**:  
 Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through November 15, with admission tickets at 190 RMB and sightseeing bus tickets at 90 RMB (both valid for a single day). Off-season rates apply from November 16 to March 31, with admission tickets at 80 RMB and sightseeing bus tickets at 80 RMB.
 
-> **Verified Source**: [Jiuzhaigou National Park Administration (Sina Weibo)](https://weibo.com/1885449832/RkvLd0GhE)
+> **Verified Source**: [Mount Hua Tourism Group (Huashan Scenic Area) (华山景区, Sina Weibo)](https://weibo.com/1885449832/RkvLd0GhE)
 
 ---
 
@@ -451,7 +451,7 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 **🇬🇧 Actionable Travel Intel**:  
 As of 9:00 on September 30, 2026, Jiuzhaigou Scenic Area announced that ticket reservations for October 1 reached the peak-season maximum daily capacity of 41,000 visitors, and tickets for October 2 through 5 are also sold out. Visitors without reservations may book alternative dates or visit nearby attractions in Jiuzhaigou County such as Shenxianchi and Jiawuhai Panda Park. Advance real-name reservation is mandatory for all visitors, including those eligible for free or discounted admission, via the "Jiuzhaigou Tourism Official Platform" WeChat official account or mini-program (ticketing inquiry: 0837-7769999) or the Aba Tourism mini-program (ticketing inquiry: 400-088-6969 ext. 1).
 
-> **Verified Source**: [九寨沟风景名胜区](https://www.jiuzhai.com/news/notice/11430-2026-09-30-09-16-53)
+> **Verified Source**: [Jiuzhaigou National Park Administration (九寨沟风景名胜区, Official Portal)](https://www.jiuzhai.com/news/notice/11430-2026-09-30-09-16-53)
 
 ---
 
@@ -464,7 +464,7 @@ As of 9:00 on September 30, 2026, Jiuzhaigou Scenic Area announced that ticket r
 **🇬🇧 Actionable Travel Intel**:  
 Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the commercial opening of the Xi'an–Ankang section of the Xi'an–Chongqing High-Speed Railway. The line connects Zhashui, Zhen'an, and Ankang into the high-speed rail framework radiating from Xi'an.
 
-> **Verified Source**: [China State Railway Group Notice (Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkeXqu2q1)
 
 ---
 
@@ -477,7 +477,7 @@ Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the com
 **🇬🇧 Actionable Travel Intel**:  
 During the 16-day Mid-Autumn and National Day holiday transport period from September 23 to October 8, 2026, Lhasa Railway Station projects 170,000 passenger departures (averaging 10,600 daily, with a peak of 15,000 on October 1). To meet surging regional travel demand within Tibet, the station added temporary passenger trains between Lhasa and Nyingchi—operating K6833/4 on September 24 and 30 and October 1, 6, 7, 9, 16, 23, and 30, plus C4389/90 on September 27—as well as C4393/4 between Lhasa and Shigatse on September 24, 25, and 30 and October 1, 4, 6, and 7.
 
-> **Verified Source**: [西藏自治区文化和旅游厅](https://wlt.xizang.gov.cn/xwzx_69/xydt/202609/t20260928_560851.html)
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://wlt.xizang.gov.cn/xwzx_69/xydt/202609/t20260928_560851.html)
 
 ---
 
@@ -490,4 +490,4 @@ During the 16-day Mid-Autumn and National Day holiday transport period from Sept
 **🇬🇧 Actionable Travel Intel**:  
 On September 1, 2026, Daocheng Yading issued an official notice strictly prohibiting illegal crossing and unauthorized outdoor activities to protect its fragile plateau ecosystem and prevent casualties, noting that unopened areas feature high altitude, complex terrain, volatile weather, thin oxygen, extreme day-night temperature swings, hazards including avalanches, rockfalls, marshes, dense fog, and acute altitude sickness, and no communication signals or emergency rescue conditions. Within the core protection zone of Yading National Nature Reserve, all human activities are prohibited except statutory scientific monitoring, conservation patrols, and emergency rescue; within the general control zone, crossing, hiking, exploration, and camping without competent authority approval are strictly forbidden.
 
-> **Verified Source**: [稻城亚丁景区](https://cn.yadingtour.com/e-news/notice/1009-2026-09-01-10-33-47)
+> **Verified Source**: [Daocheng Yading Scenic Area Administration (稻城亚丁景区, Official Portal)](https://cn.yadingtour.com/e-news/notice/1009-2026-09-01-10-33-47)
