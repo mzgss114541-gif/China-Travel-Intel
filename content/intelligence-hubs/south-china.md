@@ -182,7 +182,7 @@ Haikou General Station of Exit and Entry Frontier Inspection reported that Haina
 **🇬🇧 Actionable Travel Intel**:  
 On October 7, the final day of the National Day holiday, China Railway Guangzhou Group hit its peak return travel day with an estimated 3,155,000 passenger departures (+543,000 or +20.8% YoY over 2025), scheduling 3,893 passenger trains including 765 additional trains (100 conventional and 665 EMUs) mainly on the Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, Hangzhou–Shenzhen, and Jiangmen–Zhanjiang lines serving corridors between Guangzhou/Shenzhen and Chaoshan, Changsha, Huaihua, and Zhanjiang. For the early morning of October 8, 435 overnight high-speed trains were scheduled mainly toward Chaoshan, Changsha, and Zhangjiajie; meanwhile, cross-border passenger volume on the Guangzhou–Shenzhen–Hong Kong High-Speed Railway during the National Day period reached an estimated 905,000 (+6.6% YoY), with 214 trains operated on the line on October 7. Short-haul flows concentrated toward Shenzhen North (from Guangzhou South, Chaoshan, Puning, Shanwei, and Lufeng) and Guangzhou South (from Maoming, Yangjiang, Huaiji, Chaoshan, and Shaoguan), while long-haul flows concentrated from Changsha South to Shenzhen North, Guangzhou South, and Shanghai Hongqiao, and from Beijing West and Wuhan to Guangzhou South.
 
-> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Official Release)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Official Portal)](https://www.cnr.cn/gd/guangdongyaowen/20261008/t20261008_527835900.shtml)
 
 ---
 
@@ -323,4 +323,4 @@ Guangxi cultural and tourism authorities announced that online reservations for 
 **🇬🇧 Actionable Travel Intel**:  
 Guilin Maritime Safety Administration and Li River scenic authorities outlined vessel safety regulations: Three-star and four-star luxury cruises on the Li River operate under real-name ticketing with no upper age limit. Conversely, bamboo rafts along the Li River and Yulong River enforce strict real-name bookings and prohibit children under 1.2 meters in height, adults aged 70 and above, and individuals with cardiovascular conditions. Raft operations suspend dynamically during heavy rainfall or strong convective weather.
 
-> **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (桂林海事局与漓江景区, Official Notice)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
+> **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (桂林海事局与漓江景区, Official Portal)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
