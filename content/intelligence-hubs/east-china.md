@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 12:00 CST
+#### China Railway Nanchang Group: Newly Built Yiwu Station Building Opens for Interconnected High-Speed Rail Operations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月9日，新建义乌站站房正式启用，“世界超市”义乌迎来一座联通八方的现代化新门户。新站房投用后，沪昆高铁、杭温高铁、沪昆铁路、甬金铁路，以及在建金义三四线在此互联互通，实现“南北双进站、上进下出”的立体化组织体系，并与城市轨道交通、公交、社会车辆等无缝衔接，成为服务全城、辐射浙中的“城市客厅”。 中国铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The newly constructed Yiwu Railway Station building officially entered operation on October 9, interconnecting the Shanghai-Kunming High-Speed Railway, Hangzhou-Wenzhou High-Speed Railway, Shanghai-Kunming Railway, Ningbo-Jinhua Railway, and the under-construction Jinhua-Yiwu third and fourth lines. The upgraded hub implements a dual north-south station entrance and upper-level entry, lower-level exit passenger flow system with direct transfers to urban rail transit, public buses, and private vehicles.
+
+> **Verified Source**: [南昌铁路 (Sina Weibo)](https://weibo.com/1882716230/RmsvtcecA)
+
+---
+
 ### October 13, 2026 &bull; 08:47 CST
 #### Anhui Xuancheng Station: Updated Railway Timetable Operates 94 Pairs of High-Speed Trains From October 11
 
