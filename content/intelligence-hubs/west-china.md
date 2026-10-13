@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 10:02 CST
+#### Mount Emei Scenic Area: Golden Summit Cableway 1 Suspended on October 15, 2026 for Power Line Maintenance
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 供电线路进行停电检修，届时金顶1号索道（往复式索道）停运，仅运行金顶2号索道（循环式索道）。 金顶2号索道（循环式索道）单边运力为1000人/小时，在高峰时段（上行10:00-14:00，下行13:00-17:00）乘坐索道排队时间可能较长，建议您合理安排行程，错峰出行。由此给您带来不便，敬请谅解。 峨眉山风景名胜区管理委员会 2026年10月13日
+
+**🇬🇧 Actionable Travel Intel**:  
+The Mount Emei Scenic Area Management Committee announced that power supply line maintenance in the Golden Summit area is scheduled for October 15, 2026. During the maintenance, Golden Summit Cableway 1 (reversible cableway) will suspend operations, and only Golden Summit Cableway 2 (circulating cableway) will operate with a one-way capacity of 1,000 passengers per hour. Longer queue times may occur during peak periods (ascending 10:00-14:00 and descending 13:00-17:00), and visitors are advised to plan their itineraries for off-peak travel.
+
+> **Verified Source**: [峨眉山 (Sina Weibo)](https://weibo.com/1975395992/RmrJSDr0m)
+
+---
+
 ### October 12, 2026 &bull; 22:37 CST
 #### Chengdu Museum: Escalator Replacement Construction From October 14 to December 15, 2026
 

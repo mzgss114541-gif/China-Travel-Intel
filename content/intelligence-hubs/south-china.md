@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 12:15 CST
+#### Hubei Yichang-Xingshan High-Speed Railway Opens, Cutting Xingshan-Wuhan Travel Time to 100 Minutes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 湖北宜昌至兴山高铁开通运营，兴山至武汉最快100分钟可达。全长101公里的宜兴高铁穿行鄂西山区，全线桥隧比高达94.4%。宜兴高铁形成了“兴山—宜昌—荆门—襄阳—神农架—兴山”的鄂西环线高铁路径。武汉至重庆间部分高铁列车经由宜兴高铁运行后，最快3小时54分钟可达。山乡与城市、长江中上游地区的联系更加紧密。 （文旅+交通） （光明日报全媒体记者王建宏、张锐 通讯员杨璨） 湖北文旅的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The 101-km Yichang-Xingshan High-Speed Railway has officially opened for passenger operation in western Hubei, with bridges and tunnels accounting for 94.4% of the route. The new line establishes a regional high-speed rail loop linking Xingshan, Yichang, Jingmen, Xiangyang, and Shennongjia, enabling fastest travel times of 100 minutes between Xingshan and Wuhan and 3 hours 54 minutes on select Wuhan-Chongqing high-speed trains routing via the Yichang-Xingshan corridor.
+
+> **Verified Source**: [湖北文旅 (Sina Weibo)](https://weibo.com/2127403275/RmsBz4ZVu)
+
+---
+
 ### October 13, 2026 &bull; 09:27 CST
 #### Guangdong Qingyuan: Multiple Scenic Areas Suspend Seasonal Rafting and Adjust Operating Hours
 
