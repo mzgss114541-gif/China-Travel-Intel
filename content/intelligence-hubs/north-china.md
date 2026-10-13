@@ -5,6 +5,32 @@
 
 ---
 
+### October 13, 2026 &bull; 19:30 CST
+#### Luoyang Museum Suspends Public Opening for Renovation Starting October 19
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 洛阳博物馆发布公告，自10月19日起，洛阳博物馆暂停对外开放，预计闭馆改造周期一年左右。 河南省文化和旅游厅
+
+**🇬🇧 Actionable Travel Intel**:  
+According to an official announcement by Luoyang Museum released through the Henan Provincial Department of Culture and Tourism, the museum will suspend public admission starting October 19 for renovation. The expected closure and renovation cycle is approximately one year. Travelers planning cultural itineraries in Luoyang should note this facility closure.
+
+> **Verified Source**: [Henan Provincial Department of Culture and Tourism (河南省文化和旅游厅, Sina Weibo)](https://weibo.com/2001424242/RmvsnALUz)
+
+---
+
+### October 13, 2026 &bull; 18:08 CST
+#### Beijing-Shanghai Rail Corridors Adjust 12306 Advance Ticket Booking Window to 30 to 17 Days
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 9月26日起，铁路部门对京沪高铁、京沪铁路试点的火车票预约购票服务的可预约日期范围从开车前第60天至第17天，逐步调整为开车前第30天至第17天。旅客通过铁路12306手机客户端“预约购票”专区填报预约需求，9月27日至10月26日为调整过渡期，最远可预约11月24日的车票；10月27日起，可常态化预约开车前第30天至17天的火车票。
+
+**🇬🇧 Actionable Travel Intel**:  
+Railway authorities have adjusted the advance ticket booking service pilot on the Beijing-Shanghai High-Speed Railway and Beijing-Shanghai Railway from 60 to 17 days before departure to 30 to 17 days before departure. Passengers submit reservation requests via the Railway 12306 mobile client advance booking section. During the transition period from September 27 to October 26, tickets can be reserved up to November 24. Starting October 27, passengers can regularly reserve tickets 30 to 17 days prior to train departure.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RmuUQdbQt)
+
+---
+
 ### October 12, 2026 &bull; 14:16 CST
 #### Qiqihar Zhalong Eco-Tourism Area Announces Winter Operating Hours and Crane Training Schedule
 
