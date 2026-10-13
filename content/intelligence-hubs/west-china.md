@@ -5,6 +5,32 @@
 
 ---
 
+### October 12, 2026 &bull; 22:37 CST
+#### Chengdu Museum: Escalator Replacement Construction From October 14 to December 15, 2026
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026.10.14‑12.15，成都博物馆负一层至二层扶梯更换施工，参观请搭乘馆内直梯，不便之处，敬请各位观众谅解
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 14 to December 15, 2026, Chengdu Museum will carry out escalator replacement construction between basement level one and the second floor. Visitors are advised to use the indoor elevators during their visit.
+
+> **Verified Source**: [文旅成都 (Sina Weibo)](https://weibo.com/2164623652/RmnfOiixf)
+
+---
+
+### October 12, 2026 &bull; 18:31 CST
+#### Chongqing Two Rivers Ferry: Loop Line Schedule Adjusted to 18:30 Daily Starting October 12, 2026
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ✨打卡两江夜景的朋友注意啦！两江小渡环线（弹子石↔江北嘴）航线从2026年10月12日（周一）起做出调整 ⏰发班时间：调整为每晚18:30 🚢始发码头：弹子石轮渡码头 📍终点码头：江北嘴码头 出行前记得看好登船码头和时间，别跑空，安心打卡两江绝美夜景🌃 （via.重庆发布）
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective October 12, 2026 (Monday), the Chongqing Two Rivers Ferry loop route (Danzishi to Jiangbeizui) has adjusted its operating schedule. Evening departures are now scheduled at 18:30 daily, departing from Danzishi Ferry Terminal and terminating at Jiangbeizui Terminal. Passengers planning evening river views should verify the boarding terminal and departure time before traveling.
+
+> **Verified Source**: [重庆文旅 (Sina Weibo)](https://weibo.com/2128914281/RmlDGgxaH)
+
+---
+
 ### October 12, 2026 &bull; 15:25 CST
 #### Lhamo La-tso Scenic Area in Shannan Suspends Operations from October 19, 2026 Due to Snow and Ice
 
