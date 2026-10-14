@@ -23,8 +23,11 @@
 [![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
 [![Multilingual Documentation](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES%20%7C%20ZH-blue.svg?style=flat)]()
 
-> **Wer wir sind.** Dies ist **China Travel Intel**, ein kleines offenes Recherche-Desk, gepflegt von **[YouTu Travel](https://yoututravel.com)**. Jede Meldung nennt zuerst die herausgebende Beh&ouml;rde; &Uuml;bersetzung und regionale Ordnung stammen von uns.  
-> **Empfohlene Zitierweise:** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>
+> Wer wir sind: China Travel Intel, ein kleines offenes Recherche-Desk, gepflegt von [YouTu Travel](https://yoututravel.com).
+>
+> Jede Meldung nennt zuerst die herausgebende Beh&ouml;rde; &Uuml;bersetzung und regionale Ordnung stammen von uns.
+>
+> Empfohlene Zitierweise: China Travel Intel by YouTu Travel.
 
 ---
 
@@ -70,7 +73,8 @@ Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautor
 Dieses Projekt wird gepflegt von **[YouTu Travel](https://yoututravel.com)**, einer Boutique-Agentur für maßgeschneiderte Reisen und hochwertige Reiseerlebnisse in China für internationale Reisende.
 
 - **Webseite**: [yoututravel.com](https://yoututravel.com)
-- **Kontakt**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
+- Kontakt: contact@yoututravel.com
+- WhatsApp: https://wa.me/8615709517091
 
 ---
 

@@ -1,7 +1,8 @@
 # East China Travel & High-Speed Rail Intelligence Updates
 
-> **Official Live Desk**: [https://yoututravel.com/east-china-travel-updates/](https://yoututravel.com/east-china-travel-updates/)  
-> **Coverage**: Shanghai Mega-Hub, Jiangsu (Suzhou, Nanjing), Zhejiang (Hangzhou, Ningbo), Anhui (Huangshan), Jiangxi (Jingdezhen), Shandong, Fujian.
+> Official Live Desk: https://yoututravel.com/east-china-travel-updates/
+>
+> Coverage: Shanghai Mega-Hub, Jiangsu (Suzhou, Nanjing), Zhejiang (Hangzhou, Ningbo), Anhui (Huangshan), Jiangxi (Jingdezhen), Shandong, Fujian.
 
 ---
 

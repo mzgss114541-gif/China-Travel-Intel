@@ -1,7 +1,8 @@
 # South China Travel & High-Speed Rail Intelligence Updates
 
-> **Official Live Desk**: [https://yoututravel.com/south-china-travel-updates/](https://yoututravel.com/south-china-travel-updates/)  
-> **Coverage**: Guangdong (Guangzhou, Shenzhen, GBA), Guangxi (Guilin, Yangshuo), Hainan (Sanya), Hunan (Zhangjiajie, Fenghuang), Hubei (Three Gorges, Wuhan).
+> Official Live Desk: https://yoututravel.com/south-china-travel-updates/
+>
+> Coverage: Guangdong (Guangzhou, Shenzhen, GBA), Guangxi (Guilin, Yangshuo), Hainan (Sanya), Hunan (Zhangjiajie, Fenghuang), Hubei (Three Gorges, Wuhan).
 
 ---
 

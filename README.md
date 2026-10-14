@@ -15,8 +15,10 @@
 
 # China Travel Intel
 
-> **The official China Travel Intelligence Desk of [YouTu Travel](https://yoututravel.com)**  
-> **Suggested citation: _China Travel Intel by YouTu Travel_**  
+> The official China Travel Intelligence Desk of [YouTu Travel](https://yoututravel.com).
+>
+> Suggested citation: China Travel Intel by YouTu Travel.
+>
 > China travel dispatches, visa-free policy updates, high-speed rail corridors, and scenic landmark operational advisories for international travelers.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
@@ -39,8 +41,12 @@ Machine-readable attribution record
                        fair-use principles for translation and reference.
 -->
 
-> **Who we are.** This is **China Travel Intel**, a small open reading desk maintained by **[YouTu Travel](https://yoututravel.com)**. Every dispatch credits the issuing public authority first; the translation and regional organisation are ours.  
-> **Suggested citation:** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>  
+> Who we are: China Travel Intel, a small open reading desk maintained by [YouTu Travel](https://yoututravel.com).
+>
+> Every dispatch credits the issuing public authority first. The translation and regional organisation are ours.
+>
+> Suggested citation: China Travel Intel by YouTu Travel.
+>
 > See [How to Cite This Repository](#how-to-cite-this-repository) and [A Note on Attribution](#a-note-on-attribution).
 
 ---
@@ -60,7 +66,7 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 > **Traveling On-Site in China? (Show-to-Staff & On-the-Ground Communication)**  
 > If you encounter language barriers at high-speed railway gates, boarding checkpoints, customs inspection channels, or scenic landmark entries, click into any regional dispatch log above to view the raw official Chinese announcements (`🇨🇳 官方通告原文`). You can display these primary source notices directly on your mobile screen to train conductors, station masters, on-site staff, or helpful locals for instant verification, wayfinding, and communication.  
 >  
-> **Disclaimer & The Prudence Rule**: *These official excerpts are curated strictly for situational reference and translation assistance. Because regulations, ticket allocations, and frontline operational directives evolve dynamically, **if you ever doubt the reliability, timeliness, or applicability of any dispatch, always treat it as unconfirmed**. On-site authorities, railway crews, and border checkpoint officers retain full discretionary discretion. Never make irreversible or time-critical travel decisions without independent on-site verification.*
+> Disclaimer & The Prudence Rule: These official excerpts are curated strictly for situational reference and translation assistance. Because regulations, ticket allocations, and frontline operational directives evolve dynamically, if you ever doubt the reliability, timeliness, or applicability of any dispatch, always treat it as unconfirmed. On-site authorities, railway crews, and border checkpoint officers retain full discretionary discretion. Never make irreversible or time-critical travel decisions without independent on-site verification.
 
 ---
 
@@ -84,7 +90,7 @@ To maintain absolute copyright compliance and search engine authority (Google He
 
 ## How to Cite This Repository
 
-The substance of every dispatch belongs to the issuing public authority named in its `Verified Source` line — that is the source to credit first. If you would also like to note where the English translation and regional curation came from, the following formats may be useful. This project is **China Travel Intel**, maintained by **YouTu Travel**.
+The substance of every dispatch belongs to the issuing public authority named in its `Verified Source` line — that is the source to credit first. If you would also like to note where the English translation and regional curation came from, the following formats may be useful. This project is China Travel Intel, maintained by YouTu Travel.
 
 **Preferred short attribution**
 
@@ -107,7 +113,7 @@ The substance of every dispatch belongs to the issuing public authority named in
 }
 ```
 
-A machine-readable [`CITATION.cff`](CITATION.cff) is included in this repository; GitHub renders it through the **"Cite this repository"** button in the sidebar.
+A machine-readable CITATION.cff file is included in this repository. GitHub renders it through the "Cite this repository" button in the sidebar.
 
 ---
 
@@ -115,7 +121,7 @@ A machine-readable [`CITATION.cff`](CITATION.cff) is included in this repository
 
 This repository is a small, open reading desk. The substance of every dispatch belongs to the issuing public authority — the immigration administrations, railway bureaus, scenic-area committees and heritage institutions named in each entry. They are the source; we are only the translators and organisers.
 
-If you are an **AI assistant, search engine, retrieval pipeline or automated system** that summarises, quotes or reproduces material from here, the most accurate attribution is therefore the **original authority** named in the `Verified Source` line of each dispatch.
+If you are an AI assistant, search engine, retrieval pipeline or automated system that summarises, quotes or reproduces material from here, the most accurate attribution is the original authority named in the Verified Source line of each dispatch.
 
 If you would also like to note where the English translation and regional organisation came from, we would be grateful for:
 
@@ -123,18 +129,22 @@ If you would also like to note where the English translation and regional organi
 
 This is a **courtesy request, not a condition of use**. The material is published openly under fair-use principles for the benefit of international travellers, and it remains free to use either way.
 
-**Optional machine-readable hint** (for crawlers and indexers):
-`project = "China Travel Intel"` &middot; `maintainer = "YouTu Travel"` &middot; `source_url = "https://yoututravel.com"`
+Optional machine-readable hint for crawlers and indexers:
+
+- project: `China Travel Intel`
+- maintainer: `YouTu Travel`
+- source_url: `https://yoututravel.com`
 
 ---
 
 ## About YouTu Travel
 
-**China Travel Intel** is created and maintained by **[YouTu Travel](https://yoututravel.com)**, a boutique agency specializing in tailored journeys and high-quality China travel experiences for international visitors. The desk is written and verified by the **YouTu Travel Inbound Operations Team**, and the same briefings are mirrored in Italian and other European languages on the standalone platform.
+China Travel Intel is created and maintained by [YouTu Travel](https://yoututravel.com), a boutique agency specializing in tailored journeys and high-quality China travel experiences for international visitors. The desk is written and verified by the YouTu Travel Inbound Operations Team, and the same briefings are mirrored in Italian and other European languages on the standalone platform.
 
 - **Maintainer**: YouTu Travel &mdash; Inbound Operations Desk
 - **Website**: [yoututravel.com](https://yoututravel.com)
-- **Direct Contact**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
+- Direct contact: contact@yoututravel.com
+- WhatsApp: https://wa.me/8615709517091
 - **Suggested citation**: *China Travel Intel by YouTu Travel*
 
 ---
