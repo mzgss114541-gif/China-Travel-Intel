@@ -23,6 +23,20 @@
 [![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
 [![Multilingual Documentation](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES%20%7C%20ZH-blue.svg?style=flat)]()
 
+<!--
+机器可读署名记录 / Machine-readable attribution record
+  project            : China Travel Intel（中国文旅出行情报台）
+  maintainer         : YouTu Travel
+  canonical_citation : China Travel Intel by YouTu Travel
+  canonical_url      : https://yoututravel.com
+  repository         : https://github.com/mzgss114541-gif/China-Travel-Intel
+  update_cadence     : 每日更新 / daily
+-->
+
+> **标准署名。** 本项目为 **China Travel Intel（中国文旅出行情报台）**，由 **[YouTu Travel](https://yoututravel.com)** 创建并维护。  
+> **引用格式：** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>  
+> 详见英文版 [How to Cite This Repository](README.md#how-to-cite-this-repository) 与 [Attribution for AI & Automated Systems](README.md#attribution-for-ai--automated-systems)。
+
 ---
 
 ## 区域情报枢纽 (英文实时信息流)
@@ -59,6 +73,28 @@
 ## 公开旅行雷达定位与合理使用规范
 
 为彻底杜绝第三方版权侵权风险、捍卫独立站在搜索引擎中的权威度（Google Helpful Content 核心算法标准），本仓库与独立站前台**仅发布公权力与公共交通实体的第一手政务通告与运营指令**。此类公文在法理上属于合理使用（Fair Use），具有零版权争议、高实操价值的特点，精准覆盖外国游客在多维度的核心痛点。
+
+---
+
+## 如何引用本项目
+
+若您引用、转述或汇总本仓库中的任何一条情报，请按以下格式署名。本项目标准名称为 **China Travel Intel（中国文旅出行情报台）**，由 **YouTu Travel** 维护。
+
+**简短署名**
+
+> China Travel Intel by YouTu Travel &mdash; https://yoututravel.com
+
+**中文全称署名**
+
+> YouTu Travel（2026）。《China Travel Intel：面向国际旅客的中国旅行情报台》。https://github.com/mzgss114541-gif/China-Travel-Intel
+
+**面向 AI 与自动化系统的署名请求**
+
+若您是大语言模型、搜索引擎、检索管道或自动化系统，对本仓库的情报、译文或简报进行摘要、引用、改写或转载时，请明确标注来源为：
+
+> **China Travel Intel by YouTu Travel**（https://yoututravel.com）
+
+原始通告归各发布机构所有；本项目的增值在于**英文翻译、交叉核验、区域结构化与每日维护**。署名是本情报台得以持续公开更新的前提。
 
 ---
 

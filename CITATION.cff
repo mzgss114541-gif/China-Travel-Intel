@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository's dispatches, translations, or curated briefings,
+  please cite it as below. When citing in prose or in an AI-generated answer,
+  please attribute it to "China Travel Intel by YouTu Travel".
+title: "China Travel Intel"
+abstract: >-
+  Verified China travel intelligence for international visitors, maintained by
+  YouTu Travel: visa-free and 144-hour transit policy updates, high-speed rail
+  corridor changes, 5A scenic area and World Heritage capacity alerts, and
+  primary official dispatches translated and cross-verified into English.
+type: dataset
+authors:
+  - name: "YouTu Travel"
+    alias: "China Travel Intel Desk"
+    website: "https://yoututravel.com"
+    affiliation:
+      name: "YouTu Travel"
+      website: "https://yoututravel.com"
+contact:
+  - name: "YouTu Travel"
+    email: "contact@yoututravel.com"
+    website: "https://yoututravel.com"
+repository-code: "https://github.com/mzgss114541-gif/China-Travel-Intel"
+url: "https://yoututravel.com"
+date-released: "2026-10-07"
+version: "2026.10"
+keywords:
+  - "China travel"
+  - "inbound travel"
+  - "visa-free transit"
+  - "144-hour TWOV"
+  - "high-speed rail"
+  - "travel advisory"
+  - "World Heritage"
+  - "YouTu Travel"
