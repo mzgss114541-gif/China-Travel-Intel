@@ -4,18 +4,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="README.md">English</a> &bull;
-  <b>Français</b> &bull;
-  <a href="README_DE.md">Deutsch</a> &bull;
-  <a href="README_IT.md">Italiano</a> &bull;
-  <a href="README_ES.md">Español</a> &bull;
-  <a href="README_ZH.md">中文</a>
-</p>
+<p align="center"><a href="README.md">English</a> &bull; Français</p>
+<p align="center"><a href="README_DE.md">Deutsch</a> &bull; <a href="README_IT.md">Italiano</a></p>
+<p align="center"><a href="README_ES.md">Español</a> &bull; <a href="README_ZH.md">中文</a></p>
 
 # China Travel Intel (Centre de Veille Touristique en Chine)
 
-> **Le Bureau Officiel d'Informations de Voyage en Chine de [YouTu Travel](https://yoututravel.com)**  
+> Le Bureau Officiel d'Informations de Voyage en Chine de [YouTu Travel](https://yoututravel.com)  
 > Dépêches pour voyager en Chine, politiques d'exemption de visa, corridors à grande vitesse et avis opérationnels des grands sites patrimoniaux à l'attention des voyageurs internationaux.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
@@ -33,7 +28,7 @@
 
 ## Pôles Régionaux d'Information (Flux en Anglais)
 
-Afin d'assurer une parfaite accessibilité aux voyageurs européens et internationaux, l'ensemble des alertes et avis opérationnels est rédigé en **anglais**, langue internationale de référence.
+Afin d'assurer une parfaite accessibilité aux voyageurs européens et internationaux, l'ensemble des alertes et avis opérationnels est rédigé en anglais, langue internationale de référence.
 
 | Pôle Régional | Périmètre & Destinations | Journal des Dépêches |
 |:---|:---|:---:|
@@ -46,15 +41,15 @@ Afin d'assurer une parfaite accessibilité aux voyageurs européens et internati
 > **Sur place en Chine ? (Présentation au personnel / Show-to-Staff)**  
 > En cas de barrière linguistique aux portiques ferroviaires, portes d'embarquement, postes frontières ou accès aux monuments, ouvrez le bulletin régional concerné pour afficher le texte original chinois (`🇨🇳 官方通告原文`). Présentez cet avis directement sur votre smartphone aux agents de bord, chefs de gare, personnel sur place ou habitants serviables pour une vérification immédiate, demander votre chemin et faciliter la communication.  
 >  
-> **Clause de non-responsabilité & Règle de prudence (The Prudence Rule)** : *Ces extraits sont compilés à titre indicatif et d'assistance linguistique. Les directives opérationnelles évoluant continuellement, **en cas de doute, considérez toujours l'information comme non définitive**. Les agents sur le terrain disposent d'un pouvoir d'appréciation discrétionnaire. Ne prenez aucune décision irréversible sans confirmation préalable auprès du personnel officiel.*
+> **Clause de non-responsabilité & Règle de prudence (The Prudence Rule)** : Ces extraits sont compilés à titre indicatif et d'assistance linguistique. Les directives opérationnelles évoluant continuellement, en cas de doute, considérez toujours l'information comme non définitive. Les agents sur le terrain disposent d'un pouvoir d'appréciation discrétionnaire. Ne prenez aucune décision irréversible sans confirmation préalable auprès du personnel officiel.
 
 ---
 
 ## Normes Éditoriales & Vérification Multi-Niveaux
 
-Afin de garantir un niveau d'exactitude exemplaire aux voyageurs internationaux, notre bureau applique des **règles éditoriales strictes et des vérifications systématiques auprès des registres primaires** :
+Afin de garantir un niveau d'exactitude exemplaire aux voyageurs internationaux, notre bureau applique des règles éditoriales strictes et des vérifications systématiques auprès des registres primaires :
 
-* Toutes les dépêches publiques à destination des voyageurs sont **100 % collectées et vérifiées auprès des organes de l'État et des entités de gestion des transports** :
+* Toutes les dépêches publiques à destination des voyageurs sont 100 % collectées et vérifiées auprès des organes de l'État et des entités de gestion des transports :
   1. **Administration Régalienne & Contrôle Frontalier** : Administration Nationale de l'Immigration (NIA), Administration Générale des Douanes, Ministère des Affaires Étrangères et postes frontaliers (Pékin, Shanghai, Shenzhen, Guangzhou, Zhuhai).
   2. **Grands Réseaux de Transport & Aéroports Internationaux** : China State Railway Group (12306) et ses 18 directions ferroviaires régionales, Aviation Civile (CAAC) et grands gestionnaires aéroportuaires.
   3. **Patrimoine Mondial & Gestionnaires de Sites Culturels 5A** : Musée du Palais (Cité Interdite), Armée de Terre Cuite, Palais du Potala, Académie de Dunhuang et directions de grands sites classés.
@@ -64,13 +59,13 @@ Afin de garantir un niveau d'exactitude exemplaire aux voyageurs internationaux,
 
 ## Périmètre du Radar Public et Usage Loyal
 
-Afin d'éviter tout risque lié aux droits d'auteur et de préserver l'autorité du portail sur les moteurs de recherche (critères Helpful Content de Google), ce dépôt et le site indépendant publient **uniquement des avis officiels de première main et des directives opérationnelles émanant des autorités publiques et des entités de transport public**. Sur le plan juridique, ces documents relèvent de l'usage loyal (Fair Use) : exempts de tout litige de droit d'auteur et à forte valeur pratique, ils répondent avec précision aux besoins essentiels des voyageurs étrangers sous de multiples dimensions.
+Afin d'éviter tout risque lié aux droits d'auteur et de préserver l'autorité du portail sur les moteurs de recherche (critères Helpful Content de Google), ce dépôt et le site indépendant publient uniquement des avis officiels de première main et des directives opérationnelles émanant des autorités publiques et des entités de transport public. Sur le plan juridique, ces documents relèvent de l'usage loyal (Fair Use) : exempts de tout litige de droit d'auteur et à forte valeur pratique, ils répondent avec précision aux besoins essentiels des voyageurs étrangers sous de multiples dimensions.
 
 ---
 
 ## À Propos de YouTu Travel
 
-Ce projet est maintenu par **[YouTu Travel](https://yoututravel.com)**, une agence spécialisée dans la création d'itinéraires sur mesure et d'expériences de voyage de haute qualité en Chine pour les voyageurs internationaux.
+Ce projet est maintenu par [YouTu Travel](https://yoututravel.com), une agence spécialisée dans la création d'itinéraires sur mesure et d'expériences de voyage de haute qualité en Chine pour les voyageurs internationaux.
 
 - **Site Internet** : [yoututravel.com](https://yoututravel.com)
 - Contact : contact@yoututravel.com
@@ -83,8 +78,8 @@ Ce projet est maintenu par **[YouTu Travel](https://yoututravel.com)**, une agen
 Si ces dépêches facilitent vos déplacements en Chine, n'hésitez pas à soutenir ce dépôt par une étoile sur GitHub.
 
 Nous serions ravis de recevoir vos impressions :
-1. Rendez-vous sur **[YouTu Travel](https://yoututravel.com)** pour découvrir nos itinéraires et guides pratiques.
-2. Ouvrez un ticket GitHub **[Issue](../../issues)** pour partager vos suggestions ou nous indiquer les sources d'information que vous souhaiteriez voir couvertes prochainement !
+1. Rendez-vous sur [YouTu Travel](https://yoututravel.com) pour découvrir nos itinéraires et guides pratiques.
+2. Ouvrez un ticket GitHub [Issue](../../issues) pour partager vos suggestions ou nous indiquer les sources d'information que vous souhaiteriez voir couvertes prochainement !
 
 ---
 
@@ -107,6 +102,6 @@ China-Travel-Intel/
 
 ## Licence, Mentions Légales & Usage d'Informations Publiques
 
-* **Informations publiques et droits d'auteur** : Tous les bulletins de transport et extraits officiels figurant dans ce dépôt proviennent **exclusivement des registres publics des ministères, services d'immigration, transporteurs nationaux et gestionnaires de monuments classés**. Les droits d'auteur d'origine demeurent la propriété des organismes émetteurs. La reproduction est effectuée au titre du fair use à des fins d'orientation pratique et de clarification linguistique. Les médias commerciaux secondaires sont rigoureusement exclus de toute publication publique.
+* **Informations publiques et droits d'auteur** : Tous les bulletins de transport et extraits officiels figurant dans ce dépôt proviennent exclusivement des registres publics des ministères, services d'immigration, transporteurs nationaux et gestionnaires de monuments classés. Les droits d'auteur d'origine demeurent la propriété des organismes émetteurs. La reproduction est effectuée au titre du fair use à des fins d'orientation pratique et de clarification linguistique. Les médias commerciaux secondaires sont rigoureusement exclus de toute publication publique.
 * **Consultation libre** : Les synthèses sont mises à disposition en libre accès pour l'assistance aux voyageurs.
 * **Droits de marque** : L'identité graphique, les logos et marques commerciales sont la propriété exclusive &copy; [YouTu Travel](https://yoututravel.com). Tous droits réservés.

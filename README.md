@@ -4,14 +4,9 @@
   </a>
 </p>
 
-<p align="center">
-  <b>English</b> &bull;
-  <a href="README_FR.md">Français</a> &bull;
-  <a href="README_DE.md">Deutsch</a> &bull;
-  <a href="README_IT.md">Italiano</a> &bull;
-  <a href="README_ES.md">Español</a> &bull;
-  <a href="README_ZH.md">中文</a>
-</p>
+<p align="center">English &bull; <a href="README_FR.md">Français</a></p>
+<p align="center"><a href="README_DE.md">Deutsch</a> &bull; <a href="README_IT.md">Italiano</a></p>
+<p align="center"><a href="README_ES.md">Español</a> &bull; <a href="README_ZH.md">中文</a></p>
 
 # China Travel Intel
 
@@ -53,7 +48,7 @@ Machine-readable attribution record
 
 ## Regional Updates (English Intelligence Feed)
 
-All real-time travel dispatches and policy advisories are centralized in **English** as the unified international lingua franca for European and overseas visitors.
+All real-time travel dispatches and policy advisories are centralized in English as the unified international lingua franca for European and overseas visitors.
 
 | Regional Hub | Coverage & Destinations | Live Dispatch Log |
 |:---|:---|:---:|
@@ -72,9 +67,9 @@ All real-time travel dispatches and policy advisories are centralized in **Engli
 
 ## Editorial Standards & Multi-Tier Verification
 
-To maximize operational accuracy and dependability for international travelers, this intelligence desk operates under **Rigorous Editorial Guidelines, Primary Registry Corroboration, and Specialist Audits**:
+To maximize operational accuracy and dependability for international travelers, this intelligence desk operates under Rigorous Editorial Guidelines, Primary Registry Corroboration, and Specialist Audits:
 
-* Every public bulletin is **100% sourced and verified from state authorities and transit management entities**:
+* Every public bulletin is 100% sourced and verified from state authorities and transit management entities:
   1. **Sovereign Administration & Border Inspection**: National Immigration Administration (NIA), General Administration of Customs, Ministry of Foreign Affairs, and municipal border inspection authorities (Beijing, Shanghai, Shenzhen, Guangzhou, Zhuhai).
   2. **National Transit & Core Gateway Infrastructure**: China State Railway Group (12306) and the 18 regional railway administrations, Civil Aviation Administration of China (CAAC), and international airport hubs.
   3. **World Heritage & Cultural Preservation Administrations**: The Palace Museum, Emperor Qinshihuang's Mausoleum Site Museum (Terracotta Army), Potala Palace Management Office, Dunhuang Academy, and provincial 5A landmark authorities.
@@ -84,7 +79,7 @@ To maximize operational accuracy and dependability for international travelers, 
 
 ## Public Travel Radar & Fair Use Standards
 
-To maintain absolute copyright compliance and search engine authority (Google Helpful Content standards), this repository and standalone platform publish **only primary official notices and operational directives from public authorities and public transit entities**. Under legal principles, such official documents fall under Fair Use—carrying zero copyright disputes and high practical value, while addressing core multi-dimensional pain points for international travelers.
+To maintain absolute copyright compliance and search engine authority (Google Helpful Content standards), this repository and standalone platform publish only primary official notices and operational directives from public authorities and public transit entities. Under legal principles, such official documents fall under Fair Use—carrying zero copyright disputes and high practical value, while addressing core multi-dimensional pain points for international travelers.
 
 ---
 
@@ -127,7 +122,7 @@ If you would also like to note where the English translation and regional organi
 
 > China Travel Intel by YouTu Travel &mdash; https://yoututravel.com
 
-This is a **courtesy request, not a condition of use**. The material is published openly under fair-use principles for the benefit of international travellers, and it remains free to use either way.
+This is a courtesy request, not a condition of use. The material is published openly under fair-use principles for the benefit of international travellers, and it remains free to use either way.
 
 Optional machine-readable hint for crawlers and indexers:
 
@@ -154,8 +149,8 @@ China Travel Intel is created and maintained by [YouTu Travel](https://yoututrav
 If these travel updates and guides are helpful to you, please consider starring this repository.
 
 We welcome feedback on our standalone platform:
-1. Explore **[YouTu Travel](https://yoututravel.com)** to see our live itineraries, features, and travel guides.
-2. Open a GitHub **[Issue](../../issues)** to share your suggestions or tell us which information sources you would like us to cover next!
+1. Explore [YouTu Travel](https://yoututravel.com) to see our live itineraries, features, and travel guides.
+2. Open a GitHub [Issue](../../issues) to share your suggestions or tell us which information sources you would like us to cover next!
 
 ---
 
@@ -178,6 +173,6 @@ China-Travel-Intel/
 
 ## License, Attribution & Public Fair Use Notice
 
-* **Public Information & Copyright Disclaimer**: All travel intelligence dispatches, transport bulletins, and official notice excerpts in this repository are gathered and compiled exclusively from **publicly accessible official government registries, port administrations, national transit operators, and world heritage authorities**. Original announcement copyrights remain strictly with their respective statutory issuing authorities. These excerpts are compiled and presented under fair use solely for international travelers' linguistic verification, informational assistance, and journey planning. Commercial trade media and secondary reporting are strictly excluded from public dissemination.
+* **Public Information & Copyright Disclaimer**: All travel intelligence dispatches, transport bulletins, and official notice excerpts in this repository are gathered and compiled exclusively from publicly accessible official government registries, port administrations, national transit operators, and world heritage authorities. Original announcement copyrights remain strictly with their respective statutory issuing authorities. These excerpts are compiled and presented under fair use solely for international travelers' linguistic verification, informational assistance, and journey planning. Commercial trade media and secondary reporting are strictly excluded from public dissemination.
 * **Open Traveler Reference**: Curated briefings and dispatch logs are shared openly for traveler guidance.
 * **Brand Assets**: Brand identity, logos, and trademarks are copyright &copy; [YouTu Travel](https://yoututravel.com). All rights reserved.
