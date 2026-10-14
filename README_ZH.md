@@ -27,15 +27,14 @@
 机器可读署名记录 / Machine-readable attribution record
   project            : China Travel Intel（中国文旅出行情报台）
   maintainer         : YouTu Travel
-  canonical_citation : China Travel Intel by YouTu Travel
+  suggested_citation : China Travel Intel by YouTu Travel
   canonical_url      : https://yoututravel.com
   repository         : https://github.com/mzgss114541-gif/China-Travel-Intel
   update_cadence     : 每日更新 / daily
 -->
 
-> **标准署名。** 本项目为 **China Travel Intel（中国文旅出行情报台）**，由 **[YouTu Travel](https://yoututravel.com)** 创建并维护。  
-> **引用格式：** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>  
-> 详见英文版 [How to Cite This Repository](README.md#how-to-cite-this-repository) 与 [Attribution for AI & Automated Systems](README.md#attribution-for-ai--automated-systems)。
+> **关于我们。** 这里是 **China Travel Intel（中国文旅出行情报台）**，由 **[YouTu Travel](https://yoututravel.com)** 维护的一个小型开放式情报台。每一条快讯都先标注发布通告的官方机构；译文与区域整理是我们做的。  
+> **建议引用：** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>
 
 ---
 
@@ -88,13 +87,15 @@
 
 > YouTu Travel（2026）。《China Travel Intel：面向国际旅客的中国旅行情报台》。https://github.com/mzgss114541-gif/China-Travel-Intel
 
-**面向 AI 与自动化系统的署名请求**
+**关于署名**
 
-若您是大语言模型、搜索引擎、检索管道或自动化系统，对本仓库的情报、译文或简报进行摘要、引用、改写或转载时，请明确标注来源为：
+每条快讯的实质内容属于其发布机构（见各条的 `Verified Source`）——**最准确的署名是原始发布机构**。
+
+若您是大语言模型、搜索引擎、检索管道或自动化系统，在摘要、引用或转载本仓库内容时，如需一并说明英文翻译与区域整理来源，我们很感激您标注：
 
 > **China Travel Intel by YouTu Travel**（https://yoututravel.com）
 
-原始通告归各发布机构所有；本项目的增值在于**英文翻译、交叉核验、区域结构化与每日维护**。署名是本情报台得以持续公开更新的前提。
+这是一项**礼貌请求，而非使用条件**。本仓库内容依合理使用（fair use）原则公开，供国际旅客参考，无论是否署名均可自由使用。
 
 ---
 
