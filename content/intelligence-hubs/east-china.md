@@ -6,6 +6,19 @@
 
 ---
 
+### October 14, 2026 &bull; 16:02 CST
+#### Qingdao Zhanqiao Pier's Huilan Pavilion Suspends Visits for Renovation from October 13
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于栈桥回澜阁保护修缮期间暂停参观游览的公告📢 修缮工程已开工，预计12月中旬竣工 🚧自10月13日22时起 对回澜阁及周边区域实施封闭管控 施工期间暂停参观游览 请广大市民、游客合理规划游览行程 via：魅力海滨
+
+**🇬🇧 Actionable Travel Intel**:  
+The Huilan Pavilion at Zhanqiao Pier in Qingdao and its surrounding area were placed under closure control from 10 PM on October 13 for a conservation and renovation project. Visiting is suspended during the construction period, and the project is expected to be completed in mid-December. Visitors are advised to plan their itineraries accordingly.
+
+> **Verified Source**: [Qingdao Municipal Bureau of Culture and Tourism (青岛市文化和旅游局, Sina Weibo)](https://weibo.com/2115980191/RmDwsqZMY)
+
+---
+
 ### October 14, 2026 &bull; 09:00 CST
 #### New G3979 High-Speed Service Cuts Chengdu-Hankou Run to 5h 15m
 
