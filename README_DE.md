@@ -4,18 +4,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="README.md">English</a> &bull;
-  <a href="README_FR.md">Français</a> &bull;
-  <b>Deutsch</b> &bull;
-  <a href="README_IT.md">Italiano</a> &bull;
-  <a href="README_ES.md">Español</a> &bull;
-  <a href="README_ZH.md">中文</a>
-</p>
+<p align="center"><a href="README.md">English</a> &bull; <a href="README_FR.md">Français</a></p>
+<p align="center">Deutsch &bull; <a href="README_IT.md">Italiano</a></p>
+<p align="center"><a href="README_ES.md">Español</a> &bull; <a href="README_ZH.md">中文</a></p>
 
 # China Travel Intel (Reise- und Lagezentrum China)
 
-> **Das offizielle Informationszentrum für Chinareisen von [YouTu Travel](https://yoututravel.com)**  
+> Das offizielle Informationszentrum für Chinareisen von [YouTu Travel](https://yoututravel.com)  
 > Reisehinweise für China, Visabefreiungen, Transitkorridore des Hochgeschwindigkeitsnetzes und operative Mitteilungen bedeutender Kulturstätten für internationale Reisende.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
@@ -33,7 +28,7 @@
 
 ## Regionale Lagezentren (Englischer Informations-Feed)
 
-Um Reisenden aus Europa und Übersee verlässliche Orientierung zu bieten, werden sämtliche operativen Mitteilungen auf **Englisch** als internationaler Verkehrssprache geführt.
+Um Reisenden aus Europa und Übersee verlässliche Orientierung zu bieten, werden sämtliche operativen Mitteilungen auf Englisch als internationaler Verkehrssprache geführt.
 
 | Region | Abdeckung & Reiseziele | Lagebericht |
 |:---|:---|:---:|
@@ -46,15 +41,15 @@ Um Reisenden aus Europa und Übersee verlässliche Orientierung zu bieten, werde
 > **Vor Ort in China? (Vorlage beim Bahn- und Kontrollpersonal / Show-to-Staff)**  
 > Sollten Sie an Bahnsteigsperren, Flugsteigen, Grenzkontrollstellen oder Museumseingängen auf Sprachbarrieren stoßen, öffnen Sie das jeweilige regionale Bulletin, um den chinesischen Originaltext der behördlichen Bekanntmachung aufzurufen (`🇨🇳 官方通告原文`). Zeigen Sie diesen Text direkt auf Ihrem Smartphone Zugbegleitern, Bahnhofsvorstehern, Mitarbeitern vor Ort oder hilfsbereiten Passanten zur sofortigen Überprüfung, Wegbeschreibung und Verständigung vor.  
 >  
-> **Haftungsausschluss & Vorsichtsprinzip (The Prudence Rule)**: *Die Auszüge dienen ausschließlich der Orientierung und Verständigungshilfe. Da behördliche Weisungen und operative Bedingungen kurzfristigen Änderungen unterliegen, **sollten Mitteilungen im Zweifelsfall stets als vorläufig betrachtet werden**. Das Personal vor Ort verfügt über uneingeschränkte Ermessensbefugnis. Treffen Sie zeitkritische oder unumkehrbare Reiseentscheidungen erst nach Rücksprache mit dem Servicepersonal vor Ort.*
+> **Haftungsausschluss & Vorsichtsprinzip (The Prudence Rule)**: Die Auszüge dienen ausschließlich der Orientierung und Verständigungshilfe. Da behördliche Weisungen und operative Bedingungen kurzfristigen Änderungen unterliegen, sollten Mitteilungen im Zweifelsfall stets als vorläufig betrachtet werden. Das Personal vor Ort verfügt über uneingeschränkte Ermessensbefugnis. Treffen Sie zeitkritische oder unumkehrbare Reiseentscheidungen erst nach Rücksprache mit dem Servicepersonal vor Ort.
 
 ---
 
 ## Redaktionelle Standards & Mehrstufige Verifikation
 
-Um ein Höchstmaß an Genauigkeit für internationale Gäste zu gewährleisten, folgt unser Lagezentrum **strengen redaktionellen Leitlinien und primären Quellenabgleichen**:
+Um ein Höchstmaß an Genauigkeit für internationale Gäste zu gewährleisten, folgt unser Lagezentrum strengen redaktionellen Leitlinien und primären Quellenabgleichen:
 
-* Sämtliche an Reisende gerichteten öffentlichen Meldungen werden **zu 100 % aus staatlichen Organen und Verkehrsverwaltungseinheiten bezogen und verifiziert**:
+* Sämtliche an Reisende gerichteten öffentlichen Meldungen werden zu 100 % aus staatlichen Organen und Verkehrsverwaltungseinheiten bezogen und verifiziert:
   1. **Hoheitsverwaltung & Grenzkontrolle**: Nationale Einwanderungsbehörde (NIA), Generalzolldirektion, Außenministerium sowie Grenzstationen (Peking, Shanghai, Shenzhen, Guangzhou, Zhuhai).
   2. **Nationaler Fernverkehr & Luftfahrt**: China State Railway Group (12306) nebst 18 regionalen Eisenbahndirektionen, Zivilluftfahrtbehörde (CAAC) und internationale Flughafenbetreiber.
   3. **Weltkulturerbe- & Denkmalverwaltungen**: Palastmuseum (Verbotene Stadt), Terrakotta-Armee, Potala-Palast, Dunhuang-Akademie und staatliche 5A-Denkmalverwaltungen.
@@ -64,13 +59,13 @@ Um ein Höchstmaß an Genauigkeit für internationale Gäste zu gewährleisten, 
 
 ## Öffentliches Reise-Lagezentrum und Fair-Use-Prinzip
 
-Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautorität (Google Helpful Content Richtlinien) veröffentlichen dieses Repository und die Website **ausschließlich amtliche Bekanntmachungen aus erster Hand sowie betriebliche Weisungen öffentlicher Behörden und Verkehrsunternehmen**. Rechtlich fallen solche amtlichen Dokumente unter das Fair-Use-Prinzip – sie sind frei von Urheberrechtsstreitigkeiten, bieten hohen praktischen Nutzen und decken die zentralen Bedürfnisse ausländischer Reisender in vielfältigen Dimensionen ab.
+Zum Schutz vor Urheberrechtsrisiken und zur Wahrung maximaler Suchmaschinenautorität (Google Helpful Content Richtlinien) veröffentlichen dieses Repository und die Website ausschließlich amtliche Bekanntmachungen aus erster Hand sowie betriebliche Weisungen öffentlicher Behörden und Verkehrsunternehmen. Rechtlich fallen solche amtlichen Dokumente unter das Fair-Use-Prinzip – sie sind frei von Urheberrechtsstreitigkeiten, bieten hohen praktischen Nutzen und decken die zentralen Bedürfnisse ausländischer Reisender in vielfältigen Dimensionen ab.
 
 ---
 
 ## Über YouTu Travel
 
-Dieses Projekt wird gepflegt von **[YouTu Travel](https://yoututravel.com)**, einer Boutique-Agentur für maßgeschneiderte Reisen und hochwertige Reiseerlebnisse in China für internationale Reisende.
+Dieses Projekt wird gepflegt von [YouTu Travel](https://yoututravel.com), einer Boutique-Agentur für maßgeschneiderte Reisen und hochwertige Reiseerlebnisse in China für internationale Reisende.
 
 - **Webseite**: [yoututravel.com](https://yoututravel.com)
 - Kontakt: contact@yoututravel.com
@@ -83,8 +78,8 @@ Dieses Projekt wird gepflegt von **[YouTu Travel](https://yoututravel.com)**, ei
 Wenn Ihnen diese Reisehinweise helfen, freuen wir uns über einen Star auf GitHub.
 
 Besuchen Sie uns gern auf unserer Website:
-1. Erfahren Sie auf **[YouTu Travel](https://yoututravel.com)** mehr über unsere maßgeschneiderten Routen und Reiseführer.
-2. Eröffnen Sie ein GitHub **[Issue](../../issues)** für Ihre Vorschläge oder teilen Sie uns mit, welche Informationsquellen wir als Nächstes abdecken sollen!
+1. Erfahren Sie auf [YouTu Travel](https://yoututravel.com) mehr über unsere maßgeschneiderten Routen und Reiseführer.
+2. Eröffnen Sie ein GitHub [Issue](../../issues) für Ihre Vorschläge oder teilen Sie uns mit, welche Informationsquellen wir als Nächstes abdecken sollen!
 
 ---
 
@@ -107,6 +102,6 @@ China-Travel-Intel/
 
 ## Urheberrecht, Quellenangaben & Informationstransparenz
 
-* **Öffentliche Informationsquellen & Urheberrecht**: Sämtliche Reisehinweise, Verkehrsmeldungen und Auszüge offizieller Verlautbarungen in diesem Projekt werden ausschließlich aus **öffentlich zugänglichen amtlichen Registern staatlicher Stellen, Grenzkontrollbehörden, Eisenbahngesellschaften und Weltkulturerbestätten** zusammengetragen. Das Urheberrecht der Originaltexte verbleibt uneingeschränkt bei den herausgebenden Behörden. Die Bereitstellung erfolgt nach dem Grundsatz des Fair Use zur sprachlichen Unterstützung und Orientierung internationaler Reisender. Kommerzielle Sekundärmedien sind von der Veröffentlichung ausgeschlossen.
+* **Öffentliche Informationsquellen & Urheberrecht**: Sämtliche Reisehinweise, Verkehrsmeldungen und Auszüge offizieller Verlautbarungen in diesem Projekt werden ausschließlich aus öffentlich zugänglichen amtlichen Registern staatlicher Stellen, Grenzkontrollbehörden, Eisenbahngesellschaften und Weltkulturerbestätten zusammengetragen. Das Urheberrecht der Originaltexte verbleibt uneingeschränkt bei den herausgebenden Behörden. Die Bereitstellung erfolgt nach dem Grundsatz des Fair Use zur sprachlichen Unterstützung und Orientierung internationaler Reisender. Kommerzielle Sekundärmedien sind von der Veröffentlichung ausgeschlossen.
 * **Freie Einsichtnahme**: Alle aufbereiteten Berichte stehen Reisenden zur freien Konsultation zur Verfügung.
 * **Markenrechte**: Das visuelle Erscheinungsbild, Logos und Markenzeichen sind urheberrechtlich geschützt &copy; [YouTu Travel](https://yoututravel.com). Alle Rechte vorbehalten.
