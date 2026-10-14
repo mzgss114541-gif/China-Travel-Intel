@@ -6,6 +6,19 @@
 
 ---
 
+### October 14, 2026 &bull; 10:00 CST
+#### Central Meteorological Observatory Continues Blue Alert for Heavy Rain on October 14
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中央气象台10月14日10时继续发布暴雨蓝色预警 http://www.nmc.cn
+
+**🇬🇧 Actionable Travel Intel**:  
+The Central Meteorological Observatory continued to issue a blue-level alert for heavy rain on October 14.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmB9g7vkd)
+
+---
+
 ### October 8, 2026 &bull; 12:00 CST
 #### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
 
