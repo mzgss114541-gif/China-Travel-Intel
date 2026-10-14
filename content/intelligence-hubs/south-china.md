@@ -6,6 +6,19 @@
 
 ---
 
+### October 14, 2026 &bull; 10:00 CST
+#### Huangshi Yangtze River Highway Bridge in Hubei to Close Fully for Reconstruction Starting October 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> （文旅+交通）自10月15日0时起，黄石长江大桥实行全时段、全桥段封闭管控。 黄石长江公路大桥于1995年建成通车，大桥西起迎宾大道跨线桥，上跨长江水道，东至散花互通，设计为双向四车道，是长江中下游兴建的第一座大型公路桥梁。 经多轮专家论证和多部门联合评审，最终确定采取改扩建方式，即拆除现有桥墩，原址新建一座主桥“一跨过江”的750米大跨径组合梁式斜拉桥，按双向六车道一级公路标准建设，设计时速80公里，建设工期约5年。 “现有桥梁因结构安全问题持续劣化且不可逆，无法再通过维修加固保障安全。”黄石市交通运输局党组成员、副局长卢亚军说，基于桥梁安全、通航安全等多重考虑，遂确定大桥改扩建方案。 （湖北日报全媒记者彭磊 通讯员丁元拾、刘季、顾文娟）
+
+**🇬🇧 Actionable Travel Intel**:  
+The Huangshi Yangtze River Highway Bridge will be placed under full closure across the entire bridge section around the clock starting at midnight on October 15. The bridge, opened to traffic in 1995, will be rebuilt on its existing site as a 750-meter single-span composite cable-stayed bridge with six lanes in both directions, a design speed of 80 km/h, and a construction period of about five years.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmB9g9Hgb)
+
+---
+
 ### October 13, 2026 &bull; 22:48 CST
 #### Hunan Warns of Heavy Rain and Mountain Flood Risk on October 14 and 15
 
