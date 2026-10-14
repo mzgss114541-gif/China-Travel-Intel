@@ -6,19 +6,6 @@
 
 ---
 
-### October 14, 2026 &bull; 10:24 CST
-#### Guangzhou Museums Offer Free Admission in Mid-to-Late October, Several Requiring Advance Booking
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 千年历史🤩 🏛️文博场馆惠民活动｜10月14日免费开放 ✨广东民间工艺博物馆（陈家祠） 被誉为岭南建筑艺术明珠 砖雕、陶塑、灰塑等 “三雕两塑一彩一铸” 工艺荟萃一堂 一步一景尽显岭南古建筑之美 馆内正展出多位工艺大师及 非遗传承人的匠心之作 “薪火流彩 共织华章——当代广彩作品展” 展期将持续至12月中旬 💡参观须知：需通过官方线上渠道预约，凭预约信息排队分批入馆。 ✨南越王博物院（王墓展区） 岭南地区等级最高、保存完好的 汉代彩绘石室墓 可以实地探访古墓遗址 一睹南越国文明风采 众多人打卡的“尼罗河的赠礼”古埃及特展 延期至11月1日闭幕 💡参观须知：免费范围不含收费特展及墓室下层；墓室下层参观需另行预约 ✨广州博物馆（镇海楼展区） 1929 年建成，是华南首座公立博物馆 镇海楼雄踞越秀山 馆藏文物串联起广州两千多年城市发展史 馆内正在展出 “肩上风华——传统云肩与马尼拉披肩展" 展期将持续至12月13日 💡参观须知：需通过官方线上渠道预约 ✨荔湾博物馆 采用 “一馆四区” 布局 涵盖蒋光鼐旧居、陈廉仲旧居、陈廉伯旧居与西关民俗馆 漫步其中感受西关大宅风情与广府民俗 馆内“利通四海，义济天下——广州商人风貌展” 陈列着陈李济、王老吉、潘高寿、永安堂等老字号相关展品 💡参观须知：无需预约，可直接前往免费入馆 ✨珠江・英博国际啤酒博物馆 沿着时间线追溯啤酒发展历史 近距离观看现代化啤酒生产流程 还可以品尝新鲜啤酒 💡参观须知：无需预约，可直接前往免费入馆 🌄重阳专属福利｜10月18日免费开放 ✨光孝寺 素有 “未有羊城，先有光孝” 之说的光孝寺 是广州历史最悠久、规模宏大的佛教名刹 💡参观须知：当日对所有游客免费、免预约入园，市民游客可趁重阳佳节访古寻幽 一城秋意，千年文脉🔮 不妨趁着秋日好时光🍁 走进文博场馆读懂广州故事✨ 来源：广州市文化广电旅游局
-
-**🇬🇧 Actionable Travel Intel**:  
-Guangzhou's major museums and memorial halls are offering limited-time free admission in mid-to-late October. Free entry begins on October 14 at the Guangdong Folk Art Museum (Chen Clan Ancestral Hall), the Museum of the Nanyue King (Tomb Gallery), the Guangzhou Museum (Zhenhai Tower Gallery), the Liwan Museum, and the Pearl River InBev International Beer Museum. The Guangdong Folk Art Museum, the Museum of the Nanyue King and the Guangzhou Museum require booking through official online channels; free admission at the Museum of the Nanyue King excludes paid special exhibitions and the lower tomb level, which needs a separate reservation, while the Liwan Museum and the Pearl River InBev International Beer Museum admit visitors free of charge without booking. On October 18, Guangxiao Temple opens free of charge to all visitors, with no booking required on that day.
-
-> **Verified Source**: [Guangzhou Municipal Bureau of Culture, Radio, TV and Tourism (广州市文化广电旅游局, Sina Weibo)](https://weibo.com/2532579261/RmBj65HS6)
-
----
-
 ### October 14, 2026 &bull; 10:00 CST
 #### Huangshi Yangtze River Highway Bridge in Hubei to Close Fully for Reconstruction Starting October 15
 
