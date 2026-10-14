@@ -1,7 +1,8 @@
 # West China Travel & Overland Intelligence Updates
 
-> **Official Live Desk**: [https://yoututravel.com/west-china-travel-updates/](https://yoututravel.com/west-china-travel-updates/)  
-> **Coverage**: Shaanxi (Xi'an), Sichuan (Chengdu, Jiuzhaigou), Yunnan (Lijiang, Shangri-La), Tibet (Lhasa), Xinjiang (Silk Road), Gansu (Dunhuang), Qinghai, Chongqing.
+> Official Live Desk: https://yoututravel.com/west-china-travel-updates/
+>
+> Coverage: Shaanxi (Xi'an), Sichuan (Chengdu, Jiuzhaigou), Yunnan (Lijiang, Shangri-La), Tibet (Lhasa), Xinjiang (Silk Road), Gansu (Dunhuang), Qinghai, Chongqing.
 
 ---
 

@@ -33,8 +33,11 @@
   update_cadence     : 每日更新 / daily
 -->
 
-> **关于我们。** 这里是 **China Travel Intel（中国文旅出行情报台）**，由 **[YouTu Travel](https://yoututravel.com)** 维护的一个小型开放式情报台。每一条快讯都先标注发布通告的官方机构；译文与区域整理是我们做的。  
-> **建议引用：** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>
+> 关于我们：这里是 China Travel Intel（中国文旅出行情报台），由 [YouTu Travel](https://yoututravel.com) 维护的一个小型开放式情报台。
+>
+> 每一条快讯都先标注发布通告的官方机构；译文与区域整理是我们做的。
+>
+> 建议引用：China Travel Intel by YouTu Travel。
 
 ---
 
@@ -104,7 +107,8 @@
 本项目由 **[YouTu Travel](https://yoututravel.com)** 维护。我们是一家专注于为国际来华旅客提供定制旅程与高品质中国旅行体验的精品服务机构。
 
 - **官方网站**：[yoututravel.com](https://yoututravel.com)
-- **直接联络**：[contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
+- 直接联络：contact@yoututravel.com
+- WhatsApp：https://wa.me/8615709517091
 
 ---
 

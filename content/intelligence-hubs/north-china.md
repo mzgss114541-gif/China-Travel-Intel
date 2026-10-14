@@ -1,7 +1,8 @@
 # North China Travel & High-Speed Rail Intelligence Updates
 
-> **Official Live Desk**: [https://yoututravel.com/north-china-travel-updates/](https://yoututravel.com/north-china-travel-updates/)  
-> **Coverage**: Beijing (Forbidden City, Great Wall), Tianjin, Hebei, Shanxi (Datong, Pingyao), Henan (Luoyang), Inner Mongolia, Jilin (Changbaishan), Heilongjiang (Harbin).
+> Official Live Desk: https://yoututravel.com/north-china-travel-updates/
+>
+> Coverage: Beijing (Forbidden City, Great Wall), Tianjin, Hebei, Shanxi (Datong, Pingyao), Henan (Luoyang), Inner Mongolia, Jilin (Changbaishan), Heilongjiang (Harbin).
 
 ---
 

@@ -1,7 +1,8 @@
 # National Policy & High-Speed Rail Transit Updates
 
-> **Official Live Desk**: [https://yoututravel.com/china-visa-free-transit-railway-updates/](https://yoututravel.com/china-visa-free-transit-railway-updates/)  
-> **Coverage**: Visa exemptions (15/30 days, 144-Hour TWOV), customs regulations, 12306 rail booking, and national civil aviation trunk lines.
+> Official Live Desk: https://yoututravel.com/china-visa-free-transit-railway-updates/
+>
+> Coverage: Visa exemptions (15/30 days, 144-Hour TWOV), customs regulations, 12306 rail booking, and national civil aviation trunk lines.
 
 ---
 
