@@ -6,6 +6,19 @@
 
 ---
 
+### October 14, 2026 &bull; 12:45 CST
+#### Mount Emei Scenic Area: Wannian Cableway Suspended on October 16 for Annual Safety Inspection
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友： 您好！为保障索道设备安全运行，按照年度安全检验工作计划，万年索道分公司将于2026年10月16日上午9:00—11:00配合专业检验机构开展索道年度安全检测工作。年检期间索道将暂停运营，建议您可错峰出行，或选择步行前往万年寺游览。由此给您带来不便，敬请见谅。 祝您旅途愉快。 万年索道咨询电话：0833—5090128 峨眉山风景名胜区管理委员会 2026年10月14日
+
+**🇬🇧 Actionable Travel Intel**:  
+The Wannian Cableway at Mount Emei Scenic Area will suspend operations on October 16, 2026, from 9:00 to 11:00 while a professional inspection agency carries out the cableway's annual safety testing. Visitors are advised to travel outside peak hours or to walk to Wannian Temple instead.
+
+> **Verified Source**: [Mount Emei Scenic Area Administration (峨眉山, Sina Weibo)](https://weibo.com/1975395992/RmCeCvXQd)
+
+---
+
 ### October 14, 2026 &bull; 09:44 CST
 #### Xi'an Olympic Sports Center: Temporary Parking and Traffic Controls from October 15 to 17
 
