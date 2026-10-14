@@ -23,7 +23,7 @@ Xi'an Olympic Sports Center will apply temporary parking and traffic controls fr
 #### Chengdu-Chongqing Middle Line High-Speed Rail: Grand Bridge Joined, 2027 Opening Targeted
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月13日，成渝中线高铁动走线跨沙河特大桥顺利合龙，为全线通车奠定坚实基础。成渝中线高铁正线全长292公里，预计2027年建成通车，届时从成都到重庆最快只需要50分钟。 成都发布的微博视频
+> 10月13日，成渝中线高铁动走线跨沙河特大桥顺利合龙，为全线通车奠定坚实基础。成渝中线高铁正线全长292公里，预计2027年建成通车，届时从成都到重庆最快只需要50分钟。
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 13, the grand bridge carrying the access line of the Chengdu-Chongqing Middle Line high-speed rail across the Shahe River was successfully joined, laying a solid foundation for the full line's opening. The main line is 292 kilometres long and is expected to open to traffic in 2027, when the fastest journey from Chengdu to Chongqing will take only 50 minutes.
