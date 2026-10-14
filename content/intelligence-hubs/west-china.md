@@ -6,6 +6,32 @@
 
 ---
 
+### October 14, 2026 &bull; 21:14 CST
+#### Yala Snow Mountain Opens Autumn-Winter Self-Drive Entry with Daily Vehicle Quota
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，亚拉雪山景区发布通知，每年10月中旬至次年4月底，景区开放私家车自驾入园。 自驾入园仅限7座及以下非营运私家车，营运车辆、摩托车不可入园。每日入园车辆限额20台，订满即止，需提前1天预约。入园时段为预约当日10:30-16:30，当日18:00前须驶出景区。5座车自驾票60元/车，7座车自驾票90元/车。 自驾入园后，车辆全程限速30km/h，游客需遵守景区管理规定，保护高原生态，禁止驶入未开放区域。 via：牧师、
+
+**🇬🇧 Actionable Travel Intel**:  
+The Yala Snow Mountain scenic area has announced that from mid-October to the end of April each year, the scenic area opens self-drive entry for private cars. Only non-commercial private cars with 7 seats or fewer are permitted; commercial vehicles and motorcycles may not enter. The daily quota is 20 vehicles on a first-come basis, and bookings must be made at least 1 day in advance. The entry window is 10:30 to 16:30 on the booked day, and vehicles must leave the scenic area before 18:00. The self-drive ticket costs 60 yuan for a 5-seat car and 90 yuan for a 7-seat car. Once inside, vehicles must observe the scenic area speed limit, and visitors must follow management rules, protect the high-altitude ecosystem and stay out of closed areas.
+
+> **Verified Source**: [Garze Prefecture Bureau of Culture and Tourism (甘孜文旅, Sina Weibo)](https://weibo.com/2014827750/RmFz51PPH)
+
+---
+
+### October 14, 2026 &bull; 20:14 CST
+#### Emei Shan Golden Summit Shuttle Tickets Sold Out; Visitors Told to Adjust Plans
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友： 您好！截至20时，峨眉山景区明日发往雷洞坪车站（金顶）的观光车票已售罄。峨眉山景区门票有效时间为48小时，未购买明日发往雷洞坪车站（金顶）观光车票的游客，请您调整行程，不要前往零公里、金顶等高山区域，并及时购买10月16日发往雷洞坪车站（金顶）的观光车票，也可先到万年寺、清音阁、报国寺等中低山景区和峨眉山博物馆、峨秀湖旅游度假区等周边景区错峰游览。由此给您带来的不便，敬请谅解。请您关注峨眉山景区官方网站和微博、微信、抖音等平台账号，了解景区最新情况。 祝您旅途愉悦！ 旅游咨询投诉电话：0833—5533355 应急救援电话：18080664119 峨眉山风景名胜区管理委员会 2026年10月14日
+
+**🇬🇧 Actionable Travel Intel**:  
+The Emei Shan Scenic Area Administration announced that shuttle bus tickets for the next day to Leidongping Station, the access point for the Golden Summit, have sold out. The scenic area admission ticket remains valid for 48 hours. Visitors who have not purchased a shuttle ticket for the next day to Leidongping Station are advised to adjust their plans and avoid high-altitude areas such as Linggongli and the Golden Summit, and instead to buy shuttle tickets for October 16; they may also visit mid- and low-altitude sites such as Wannian Temple, Qingyin Pavilion and Baoguo Temple, or nearby destinations such as the Emei Shan Museum and the Mount Emei Xiuhu Lake Tourist Resort. The administration advises following the official website and its social media accounts for the latest conditions.
+
+> **Verified Source**: [Mount Emei Scenic Area Administration (峨眉山, Sina Weibo)](https://weibo.com/1975395992/RmFavg7r7)
+
+---
+
 ### October 14, 2026 &bull; 17:02 CST
 #### Hefeng Pingshan Scenic Area to Close Temporarily from October 15 Due to Heavy Rain
 

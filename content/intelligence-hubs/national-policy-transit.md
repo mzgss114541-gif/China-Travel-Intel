@@ -6,6 +6,19 @@
 
 ---
 
+### October 14, 2026 &bull; 18:26 CST
+#### Cold Wave and Heavy Rain to Affect Most of China from October 15 to 19
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 新一轮冷空气将自西向东影响我国大部地区 15日至19日新一轮冷空气将自西向东影响我国大部地区。新疆北部、内蒙古、华北、东北地区、黄淮、江淮、江汉、江南西部和北部等地先后有4～6℃，局地8℃以上降温，部分地区并伴有4～5级偏北风，阵风6～8级。西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 另外，14日夜间至15日白天，重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地的部分地区有大到暴雨，湖南北部、湖北东南部等地局地有大暴雨(100～140毫米)。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过60毫米）、雷暴大风等强对流天气。
+
+**🇬🇧 Actionable Travel Intel**:  
+China's national meteorological authority forecasts a new cold wave moving from west to east across most of China from October 15 to 19. Northern Xinjiang, Inner Mongolia, North China, the Northeast, Huanghuai, Jianghuai, Jianghan and western and northern Jiangnan will see temperature drops of 4 to 6 degrees Celsius, with local drops above 8 degrees, accompanied in some areas by level 4 to 5 northerly winds and gusts of level 6 to 8. Moderate to heavy rain, locally torrential, is forecast for eastern Northwest China, North China, the Northeast, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, while rain and snow are expected in high-altitude areas of northern Xinjiang, Gansu and Qinghai and in northeastern Inner Mongolia and northern Heilongjiang. From the night of October 14 to the daytime of October 15, heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe torrential rain in northern Hunan and southeastern Hubei. Short-duration intense rainfall, thunderstorm gales and other severe convective weather are also possible in these areas.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmEsJqZQv)
+
+---
+
 ### October 14, 2026 &bull; 15:30 CST
 #### Hangzhou Launches Dedicated Autumn Osmanthus-Viewing Bus Line
 
