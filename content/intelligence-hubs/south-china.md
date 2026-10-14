@@ -32,6 +32,19 @@ Guangzhou's major museums and memorial halls are offering limited-time free admi
 
 ---
 
+### October 14, 2026 &bull; 10:07 CST
+#### China Airshow: Public-Day Tickets Go on Sale from October 19, with 23 Dedicated Shuttle Bus Routes in Zhuhai
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 第十六届中国航展将于12月7日至12月13日在珠海举办，公众日门票将于10月19日起发售，珠海将开通23条航展专线巴士直达展馆。 珠海航展 珠海特区报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The China Airshow will be held in Zhuhai from December 7 to December 13. Public-day tickets go on sale from October 19, and Zhuhai will open 23 dedicated airshow shuttle bus routes running directly to the exhibition venue.
+
+> **Verified Source**: [Guangdong Provincial Department of Culture and Tourism (活力广东, Sina Weibo)](https://weibo.com/2880086884/RmBc6rrU9)
+
+---
+
 ### October 14, 2026 &bull; 10:00 CST
 #### Huangshi Yangtze River Highway Bridge in Hubei to Close Fully for Reconstruction Starting October 15
 
