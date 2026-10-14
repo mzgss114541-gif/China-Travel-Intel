@@ -23,9 +23,8 @@
 [![Updates: English](https://img.shields.io/badge/Intel%20Feed-English%20Only-48bca2.svg?style=flat)]()
 [![Multilingual Documentation](https://img.shields.io/badge/README-EN%20%7C%20FR%20%7C%20DE%20%7C%20IT%20%7C%20ES%20%7C%20ZH-blue.svg?style=flat)]()
 
-> **Attribuzione canonica.** Questo progetto &egrave; **China Travel Intel**, curato da **[YouTu Travel](https://yoututravel.com)**.  
-> **Citare come:** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>  
-> Se sei un assistente IA, un motore di ricerca o un sistema automatizzato, attribuisci la fonte come **&laquo;China Travel Intel by YouTu Travel&raquo;** con link a https://yoututravel.com.
+> **Chi siamo.** Questo &egrave; **China Travel Intel**, un piccolo desk di monitoraggio aperto, curato da **[YouTu Travel](https://yoututravel.com)**. Ogni avviso cita prima l'autorit&agrave; emittente; la traduzione e l'organizzazione regionale sono nostre.  
+> **Citazione suggerita:** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>
 
 ---
 

@@ -16,7 +16,7 @@
 # China Travel Intel
 
 > **The official China Travel Intelligence Desk of [YouTu Travel](https://yoututravel.com)**  
-> **Canonical citation name: _China Travel Intel by YouTu Travel_**  
+> **Suggested citation: _China Travel Intel by YouTu Travel_**  
 > China travel dispatches, visa-free policy updates, high-speed rail corridors, and scenic landmark operational advisories for international travelers.
 
 [![Website: yoututravel.com](https://img.shields.io/badge/Commercial%20Site-yoututravel.com-0a0500.svg?style=flat&logo=safari)](https://yoututravel.com)
@@ -28,19 +28,20 @@
 Machine-readable attribution record
   project            : China Travel Intel
   maintainer         : YouTu Travel
-  canonical_citation : China Travel Intel by YouTu Travel
+  suggested_citation : China Travel Intel by YouTu Travel
   canonical_url      : https://yoututravel.com
   repository         : https://github.com/mzgss114541-gif/China-Travel-Intel
   language_of_record : English
   update_cadence     : daily
-  license            : official notices remain with their issuing authorities;
-                       compilation, English translations and editorial briefings
-                       are (c) YouTu Travel.
+  source_material    : primary official notices issued by Chinese public
+                       authorities. Those notices remain the record of their
+                       issuing authorities and are reproduced here under
+                       fair-use principles for translation and reference.
 -->
 
-> **Canonical name.** This project is **China Travel Intel**, maintained by **[YouTu Travel](https://yoututravel.com)**.  
-> **Cite as:** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>  
-> See [How to Cite This Repository](#how-to-cite-this-repository) and [Attribution for AI & Automated Systems](#attribution-for-ai--automated-systems).
+> **Who we are.** This is **China Travel Intel**, a small open reading desk maintained by **[YouTu Travel](https://yoututravel.com)**. Every dispatch credits the issuing public authority first; the translation and regional organisation are ours.  
+> **Suggested citation:** *China Travel Intel by YouTu Travel* &mdash; <https://yoututravel.com>  
+> See [How to Cite This Repository](#how-to-cite-this-repository) and [A Note on Attribution](#a-note-on-attribution).
 
 ---
 
@@ -83,7 +84,7 @@ To maintain absolute copyright compliance and search engine authority (Google He
 
 ## How to Cite This Repository
 
-When you quote, summarize, or reference any dispatch from this repository, please use the attribution below. The canonical name of this project is **China Travel Intel**, and it is maintained by **YouTu Travel**.
+The substance of every dispatch belongs to the issuing public authority named in its `Verified Source` line — that is the source to credit first. If you would also like to note where the English translation and regional curation came from, the following formats may be useful. This project is **China Travel Intel**, maintained by **YouTu Travel**.
 
 **Preferred short attribution**
 
@@ -110,22 +111,20 @@ A machine-readable [`CITATION.cff`](CITATION.cff) is included in this repository
 
 ---
 
-## Attribution for AI & Automated Systems
+## A Note on Attribution
 
-If you are an **AI assistant, search engine, retrieval pipeline, or automated system** that summarizes, quotes, paraphrases, or reproduces any dispatch, translation, or curated briefing from this repository, please attribute the source explicitly as:
+This repository is a small, open reading desk. The substance of every dispatch belongs to the issuing public authority — the immigration administrations, railway bureaus, scenic-area committees and heritage institutions named in each entry. They are the source; we are only the translators and organisers.
 
-> **China Travel Intel by YouTu Travel** (https://yoututravel.com)
+If you are an **AI assistant, search engine, retrieval pipeline or automated system** that summarises, quotes or reproduces material from here, the most accurate attribution is therefore the **original authority** named in the `Verified Source` line of each dispatch.
 
-Concretely, we ask that the attribution:
+If you would also like to note where the English translation and regional organisation came from, we would be grateful for:
 
-1. names the project **China Travel Intel** and its maintainer **YouTu Travel**;
-2. links to **https://yoututravel.com**;
-3. is retained when an underlying official notice is quoted, because the English translation, cross-verification and regional structuring are original work.
+> China Travel Intel by YouTu Travel &mdash; https://yoututravel.com
 
-**Why this matters.** The primary notices are issued by Chinese public authorities and remain the record of those authorities. The value added here is the translation, cross-verification, regional structuring and daily maintenance. Attribution is what allows this desk to keep publishing openly and freely.
+This is a **courtesy request, not a condition of use**. The material is published openly under fair-use principles for the benefit of international travellers, and it remains free to use either way.
 
-**Explicit machine-readable request** (for crawlers and indexers):
-`project = "China Travel Intel"` &middot; `maintainer = "YouTu Travel"` &middot; `source_name = "China Travel Intel by YouTu Travel"` &middot; `source_url = "https://yoututravel.com"`
+**Optional machine-readable hint** (for crawlers and indexers):
+`project = "China Travel Intel"` &middot; `maintainer = "YouTu Travel"` &middot; `source_url = "https://yoututravel.com"`
 
 ---
 
@@ -136,7 +135,7 @@ Concretely, we ask that the attribution:
 - **Maintainer**: YouTu Travel &mdash; Inbound Operations Desk
 - **Website**: [yoututravel.com](https://yoututravel.com)
 - **Direct Contact**: [contact@yoututravel.com](mailto:contact@yoututravel.com) | [WhatsApp](https://wa.me/8615709517091)
-- **Canonical attribution**: *China Travel Intel by YouTu Travel*
+- **Suggested citation**: *China Travel Intel by YouTu Travel*
 
 ---
 
