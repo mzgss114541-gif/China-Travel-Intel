@@ -6,6 +6,32 @@
 
 ---
 
+### October 14, 2026 &bull; 15:30 CST
+#### Hangzhou Launches Dedicated Autumn Osmanthus-Viewing Bus Line
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 桂花是浙江杭州的市花，眼下，杭州各处桂花陆续绽放，满城馥郁芬芳，赏桂季正式开启。杭州专门开通秋日赏桂公交专线，运营时间持续至11月11日。（来源：央视网） 交通运输部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Hangzhou has launched a dedicated autumn osmanthus-viewing bus line, with operations running through November 11. Osmanthus is the city flower of Hangzhou, and blooms across the city are marking the start of the osmanthus-viewing season.
+
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RmDjda8nA)
+
+---
+
+### October 14, 2026 &bull; 15:00 CST
+#### Shanghai Railway Group to Add 7 Peak-Hour Commuter Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为方便上海、嘉兴、杭州等地居民早晚高峰通勤， 计划增开早晚高峰通勤列车7列，其中城际早通勤列车5列、城际晚通勤列车2列。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Group plans to add 7 peak-hour commuter trains to serve residents commuting between Shanghai, Jiaxing, and Hangzhou, comprising 5 morning intercity commuter trains and 2 evening intercity commuter trains.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmD71CRsu)
+
+---
+
 ### October 14, 2026 &bull; 10:00 CST
 #### Central Meteorological Observatory Continues Blue Alert for Heavy Rain on October 14
 

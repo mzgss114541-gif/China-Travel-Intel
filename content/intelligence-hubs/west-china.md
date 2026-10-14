@@ -6,6 +6,58 @@
 
 ---
 
+### October 14, 2026 &bull; 17:02 CST
+#### Hefeng Pingshan Scenic Area to Close Temporarily from October 15 Due to Heavy Rain
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据鹤峰县气象部门发布的最新气象预警信息，近日鹤峰县将出现强降雨天气。屏山旅游景区自2026年10月15日起采取临时闭园措施，恢复开园时间将根据天气情况确定。请游客朋友们合理安排行程。（来源：鹤峰屏山旅游景区）
+
+**🇬🇧 Actionable Travel Intel**:  
+Hefeng Pingshan Scenic Area will adopt temporary closure measures starting October 15, 2026, after Hefeng County meteorological authorities issued a weather alert warning of heavy rainfall in the coming days. The reopening date will be determined based on weather conditions. Visitors are advised to arrange their itineraries accordingly.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RmDUyrsBe)
+
+---
+
+### October 14, 2026 &bull; 16:58 CST
+#### Siberia Airlines to Launch Chengdu-Novosibirsk Direct Route on October 26
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西伯利亚航空将于10月26日开通成都直飞新西伯利亚航线，5小时直达俄罗斯第三大城市，比中转省下约8小时。 （成都发布）成都发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Siberia Airlines will open a direct route from Chengdu to Novosibirsk on October 26, offering a 5-hour nonstop flight to Russia's third-largest city and saving about 8 hours compared with connecting flights.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RmDT2sn7C)
+
+---
+
+### October 14, 2026 &bull; 15:44 CST
+#### Gansu Issues Tourism Weather Risk Advisory for Rain, Snow and Temperature Drop from October 15 to 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 旅游气象风险提示（2026年第78号） 甘肃省气象局发布重大气象信息：受冷空气和高原槽共同影响，10月15日至17日，全省将有一次大范围雨雪、降温天气过程。河东大部有小到中雨，其中陇中东部、陇东有大雨，过程最大累计降水量30～50毫米；甘南高原、太子山区、河西高海拔山区有雨夹雪转小到中雪，其中祁连山区有大雪，最大累计降水量8～15毫米，最大积雪深度4～6厘米。10月16日至17日，全省大部自西向东气温明显下降，其中河西西部最低气温降幅可达6～8℃。 请广大游客密切关注天气变化特点，出行前详细了解目的地及沿途天气变化、景区开放状态。若遇极端天气预警，建议推迟或调整行程，避免前往易发生灾害的危险区域。做好雨雪、降温天气防范，及时添加衣物保暖。在景区内遵循指示牌和工作人员引导，不涉足危险或未开放区域，如遇突发情况，保持冷静，服从工作人员指挥，有序疏散。请相关旅游景区落实落细雨雪、降温天气防范应对各项措施，确保广大游客、旅游从业人员及工作人员安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Gansu Provincial Meteorological Bureau announced a major weather notice: affected by cold air and a plateau trough, the province will experience a large-scale rain, snow, and temperature-drop event from October 15 to 17. Most of the Hedong region will see light to moderate rain, with heavy rain in eastern Longzhong and eastern Longdong, and maximum cumulative precipitation of 30-50 mm. The Gannan Plateau, Taizi Mountain area, and high-altitude areas of Hexi will see sleet turning to light to moderate snow, with heavy snow in the Qilian Mountains, maximum cumulative precipitation of 8-15 mm, and maximum snow depth of 4-6 cm. From October 16 to 17, temperatures across most of the province will drop markedly from west to east, with the minimum temperature in western Hexi falling by 6-8 degrees Celsius. Tourists are advised to monitor weather changes closely, check destination and en-route weather and scenic-area opening status before traveling, and to postpone or adjust itineraries if extreme weather warnings are issued, avoiding areas prone to disasters. The advisory also asks scenic areas to implement rain, snow, and temperature-drop precautions.
+
+> **Verified Source**: [Gansu Provincial Department of Culture and Tourism (甘肃文旅, Sina Weibo)](https://weibo.com/3958016507/RmDoUpGcm)
+
+---
+
+### October 14, 2026 &bull; 15:19 CST
+#### Kunming-Daegu Direct Charter Route to Open on October 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 昆明首条直飞韩国大邱国际航线将于10月15日开通，该航线现阶段按每两周三班安排：首周周四执飞，次周周二、周六执飞。据了解，昆明⇌大邱为包机航线，不开放散客公开销售，官网及各票务平台无法购票。有出行需求的旅客，可通过官方或合作方办理团队机票预订。 云南日报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Kunming's first direct international route to Daegu, South Korea, will open on October 15. At this stage the route operates three flights every two weeks: on Thursday in the first week, and on Tuesday and Saturday in the following week. The Kunming-Daegu service is a charter route not open to individual public sales, and tickets cannot be purchased on official websites or ticketing platforms. Travelers with travel needs can arrange group ticket bookings through the operator or its partners, according to Yunnan Daily.
+
+> **Verified Source**: [Kunming Municipal Bureau of Culture and Tourism (文旅昆明, Sina Weibo)](https://weibo.com/2858745682/RmDeM2T80)
+
+---
+
 ### October 14, 2026 &bull; 12:45 CST
 #### Mount Emei Scenic Area: Wannian Cableway Suspended on October 16 for Annual Safety Inspection
 
