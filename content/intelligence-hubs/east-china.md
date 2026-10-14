@@ -6,6 +6,32 @@
 
 ---
 
+### October 14, 2026 &bull; 18:28 CST
+#### Anhui: Free Entry to Huangshan, Jiuhuashan and Hefei Sunac Land with Carnival Ticket Stub
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 黄山风景区、九华山风景区、合肥融创乐园 专属免票福利！ ✅以上三个场所采用现场核验方式 https://mp.weixin.qq.com/s/onP_6AJyKptzwStqI6ThCQ
+
+**🇬🇧 Actionable Travel Intel**:  
+Anhui's provincial culture and tourism authority has announced that from October 15 to December 31, 2026, holders of a Wanmei Performing Arts Carnival ticket stub can obtain free admission to Huangshan Scenic Area, Jiuhuashan Scenic Area and Hefei Sunac Land. Verification for all three venues is carried out on site.
+
+> **Verified Source**: [Anhui Provincial Department of Culture and Tourism (安徽文旅, Sina Weibo)](https://weibo.com/2062557711/RmEtKmiAO)
+
+---
+
+### October 14, 2026 &bull; 18:15 CST
+#### Suzhou Launches 1-Yuan Discount Ticket Stub Linking Hotels, Dining, Cruises and Shows
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 1元钱，能为一趟苏州之旅带来哪些实惠？10月9日，一张串联酒店、餐饮、游船、演出和文创购物的"票根"在虎丘山风景名胜区正式发布——市民游客凭这张优惠凭证，可在参与活动的商户和项目享受相应优惠。 🎟 领取方式：活动期间正常购票进入虎丘山景区的游客，前往虎丘山风景名胜区南门出口处，仅需以1元购入专属联动票根即可参与（后续活动点位将逐步扩大至其他参与单位的旅游景区、景点）。 🧾 票根颜值与功能双在线：票面以苏州古城插画为主体，自带江南氛围感、可收藏；正面印有活动主题标语与专属二维码，扫码可查看完整优惠H5页面；背面清晰罗列吃、住、行、游、购、娱六大类权益，搭配专属打孔核销区。 ✅ 两类核销规则：多次畅享类（无打孔）——酒店住宿、苏式餐饮、文创购物等福利，有效期内可无限次使用，每次出示票根即可享折扣；打孔核销类（单次专属）——盘门景区、运河游船、精品演出等项目，核销后打孔标记，一票可携4人同享优惠、单次核销不可重复使用。 📌 注意事项：所有优惠权益有效期至2026年12月31日；文博场馆常规周一闭馆；酒店、非遗体验需提前预约，节假日部分房型价格微调；票根不能替代园林景区门票，部分项目需提前预约，具体权益及使用条件以活动正式发布为准。 一张小小票根，串联整座江南烟火。这个秋冬，逛景区、泛小舟、品苏味、宿雅院、赏好戏，沉浸式读懂苏式生活的温柔与雅致🌿 原文链接： https://mp.weixin.qq.com/s/masoRZnxlbhOwF1hXEMGUw
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 9, a discount ticket stub linking hotels, dining, boat cruises, performances and cultural-creative shopping was launched at Huqiu Hill Scenic Area in Suzhou. Visitors who buy a standard admission ticket to Huqiu Hill during the campaign can purchase the dedicated stub for 1 yuan at the south gate exit of Huqiu Hill Scenic Area. The stub lists benefits across dining, accommodation, transport, sightseeing, shopping and entertainment. Multi-use benefits such as hotel stays, Suzhou-style dining and cultural-creative shopping can be used repeatedly within the validity period, while single-use items such as Panmen Scenic Area, canal cruises and selected performances are punched once and can cover up to 4 people per stub. All benefits are valid until December 31, 2026. Museums and cultural venues are normally closed on Mondays, hotels and intangible-heritage experiences require advance booking, and the stub does not replace garden admission tickets.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RmEobehjH)
+
+---
+
 ### October 14, 2026 &bull; 16:02 CST
 #### Qingdao Zhanqiao Pier's Huilan Pavilion Suspends Visits for Renovation from October 13
 

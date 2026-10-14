@@ -6,6 +6,32 @@
 
 ---
 
+### October 14, 2026 &bull; 19:50 CST
+#### Northern Hunan Braces for Heavy Rain as Provincial Authorities Issue Flood-Season Reminder
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月14日，湖南省应急委员会办公室发布汛情提醒。14日晚至16日湘北有一次强降雨过程，需做好防范应对。 据省气象部门预报，14日晚至16日湘北有一次强降雨过程。具体预报为：14日晚上至15日白天，湘北阴天有大到暴雨，其中怀化（沅陵）、常德（桃源）、岳阳（市区、临湘）有大暴雨。15日晚上至16日白天，湘北、湘中阴天有小到中等阵雨或雷阵雨，局部大雨，其中怀化（沅陵）、常德（市区）、益阳（安化、桃江）、岳阳（市区、临湘、岳阳县）有暴雨。（来源： ） 三湘都市报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 14, the Office of the Hunan Provincial Emergency Committee issued a flood-season reminder warning of a period of heavy rainfall in northern Hunan from the evening of October 14 to October 16. According to the provincial meteorological department, northern Hunan will see overcast skies with heavy to torrential rain from the evening of October 14 to the daytime of October 15, with severe torrential rain in Yuanling in Huaihua, Taoyuan in Changde, and the urban area of Yueyang and Linxiang. From the evening of October 15 to the daytime of October 16, northern and central Hunan will see light to moderate showers or thunderstorms with local heavy rain, including torrential rain in Yuanling in Huaihua, the urban area of Changde, Anhua and Taojiang in Yiyang, and the urban area, Linxiang and Yueyang County in Yueyang.
+
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RmF177UYU)
+
+---
+
+### October 14, 2026 &bull; 17:49 CST
+#### Dongguan East Station Adjusts 15 Passenger and Freight Trains in National Rail Timetable Update
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【10月11日全国铁路调图｜东莞东站15趟客货列车优化】10月11日零时起，全国铁路实施2026年第四季度列车运行图。本次调图，东莞东站共15趟客货列车优化。客运方面，重庆东开往惠州K686次调整停靠时刻，12时24分抵达、12时30分发车；另有13趟长途普速列车优化停站与运行时刻，覆盖川渝、西北、赣鲁、华东方向，更好满足务工、返乡旅客出行需求。货运上，80042/1/2次升级为快速城际班列X232/3/2次，蓝村西至东莞东货运通道提质增效。 温馨提示：列车时刻以12306及车站现场公告为准，请预留充足安检检票时间，合理规划行程。（罗肆安，陈东明，李德民）
+
+**🇬🇧 Actionable Travel Intel**:  
+With the national railway timetable for the fourth quarter of 2026 taking effect at midnight on October 11, Dongguan East Station has adjusted 15 passenger and freight trains. On the passenger side, the Chongqing East to Huizhou K686 train has changed its stopping times, arriving at 12:24 and departing at 12:30; another 13 long-distance conventional trains have had stops and running times optimized, covering the Sichuan-Chongqing, Northwest, Jiangxi-Shandong and East China directions. On the freight side, train 80042/1/2 has been upgraded to the express intercity service X232/3/2, improving the freight corridor from Lancun West to Dongguan East. Railway authorities advise passengers to confirm times via the 12306 platform and station notices, and to allow enough time for security checks and boarding.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RmEdCEYoT)
+
+---
+
 ### October 14, 2026 &bull; 12:30 CST
 #### China Railway Guangzhou Group Opens First Taishan-Hong Kong West Kowloon High-Speed Rail Service from October 11
 
