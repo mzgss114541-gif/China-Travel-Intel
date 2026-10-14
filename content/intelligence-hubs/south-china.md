@@ -5,6 +5,19 @@
 
 ---
 
+### October 13, 2026 &bull; 22:48 CST
+#### Hunan Warns of Heavy Rain and Mountain Flood Risk on October 14 and 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月13日，湖南省气象台预计，14日至15日受弱冷空气和中低层切变共同影响，湘北有一次较强降雨过程，其中14日湘西北有暴雨，15日湘北有暴雨，局地大暴雨，局地阵风7～9级。 未来三天湖南气象灾害风险以暴雨为主：湘西州、张家界、常德西部、怀化北部、益阳东北部和西部、岳阳中北部有暴雨中风险，其中岳阳（市区、临湘、岳阳县）有暴雨较高风险。 气象专家提醒，需防范14日至15日湘西北、湘北局地较强降雨可能造成山洪、地质灾害、城市内涝等次生灾害风险。防范局地大风对水陆交通、户外作业及农业生产等的影响，做好简易设施、户外广告牌等的防风加固。早晚气温偏低，公众需及时增添衣物，做好健康防护。关注湘南近期连晴天气森林火险等级升高风险，加强户外火源管控等工作；建议抢抓有利天气开展一季稻收晒工作。三湘都市报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Hunan Provincial Meteorological Observatory forecasts a stronger period of rainfall in northern Hunan on October 14 and 15, driven by weak cold air and a mid-to-low level shear line. Torrential rain is expected in northwestern Hunan on October 14 and in northern Hunan on October 15, with locally severe downpours and gusts of force 7 to 9 in places. Over the next three days the main meteorological hazard in Hunan is rainstorm risk: moderate risk is forecast for Xiangxi Prefecture, Zhangjiajie, western Changde, northern Huaihua, northeastern and western Yiyang, and north-central Yueyang, with higher risk in Yueyang (urban area, Linxiang and Yueyang County). Authorities advise guarding against secondary hazards such as mountain floods, geological disasters and urban waterlogging from the intense rain in northwestern and northern Hunan on October 14 and 15, and against the impact of strong winds on water and land transport, outdoor work and agriculture. Mornings and evenings will be cool, so travelers should add clothing.
+
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RmwKAav6y)
+
+---
+
 ### October 13, 2026 &bull; 12:15 CST
 #### Hubei Yichang-Xingshan High-Speed Railway Opens, Cutting Xingshan-Wuhan Travel Time to 100 Minutes
 
