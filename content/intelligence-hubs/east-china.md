@@ -5,6 +5,32 @@
 
 ---
 
+### October 14, 2026 &bull; 09:00 CST
+#### New G3979 High-Speed Service Cuts Chengdu-Hankou Run to 5h 15m
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日，由中国铁路成都局集团有限公司成都客运段担当的G3979次动车组从成都东站驶出开往汉口站，此次开行的G3979次列车经由宜兴高铁运行，串联沪渝蓉沿江高铁与郑渝高铁两大干线，途经重庆北、万州北、宜昌北，共设5个停车站，全程运行时间5小时15分，较此前成都东至汉口间最快列车压缩1小时44分。成都客运段“芙蓉花班组”不断提升服务品质，为旅客营造温馨舒适的旅途出行环境。
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11, the G3979 high-speed train, operated by the Chengdu Passenger Transport Section of China Railway Chengdu Group, departed Chengdu East Station bound for Hankou Station. The service runs via the Yichang-Xingshan high-speed line, linking the Shanghai-Chongqing-Chengdu and Zhengzhou-Chongqing corridors. It calls at Chongqing North, Wanzhou North and Yichang North among five stops in total, with a total journey time of 5h 15m, 1h 44m faster than the previous fastest Chengdu East-Hankou service.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RmAKU9DzH)
+
+---
+
+### October 14, 2026 &bull; 07:54 CST
+#### Heavy Rain Warning Across Southwest and Central-South China Through October 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
+
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmAka5Y3E)
+
+---
+
 ### October 13, 2026 &bull; 15:00 CST
 #### China Railway Bohai Ferry Adjusts Free Shuttle Bus Stops at Yantai North Station
 

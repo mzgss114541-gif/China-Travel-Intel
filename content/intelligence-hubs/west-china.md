@@ -5,6 +5,32 @@
 
 ---
 
+### October 14, 2026 &bull; 09:44 CST
+#### Xi'an Olympic Sports Center: Temporary Parking and Traffic Controls from October 15 to 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为保障园区大型赛事顺利举办，维护场内交通秩序，提升车辆通行效率，避免出入口拥堵，现就园区机动车停车、通行及收费事宜临时调整，具体通告如下： 一、实施时间 2026年10月15日6:00 至 2026年10月17日24:00。10月19日起，停车、通行全面恢复常态管理。本次管控仅针对机动车，行人进出不受影响。 二、通行动线调整 1. 南四门设置为单向通行，只进不出。车辆驶入后，请遵照现场标识及工作人员指引，有序停放。 2. 西门临时开放为只出不进，北四门双向通行。车流高峰将根据现场泊位情况动态疏导。停放于体育场周边的车辆，离场须从北三门、北四门、西门驶出。 3. 因游泳馆赛事保障需要，北一门划定为游泳馆赛事专用通道，不对社会车辆开放；北二门保持日常通行，正常对外开放。 4. 西安马拉松赛事当日道路封控及交通管制，以赛事官方发布信息为准。（via ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Xi'an Olympic Sports Center will apply temporary parking and traffic controls from 6:00 on October 15 to 24:00 on October 17, 2026, to support a major sporting event, with normal management resuming from October 19. The controls apply to motor vehicles only; pedestrian access is unaffected. Under the adjusted traffic flow, South Gate Four becomes one-way entry-only; the West Gate opens temporarily as exit-only; and North Gate Four operates two-way. Vehicles parked around the stadium must leave via North Gate Three, North Gate Four or the West Gate. North Gate One is designated as a dedicated channel for the swimming venue and is not open to public vehicles, while North Gate Two remains open for normal use. Road closures and traffic controls on the day of the Xi'an Marathon follow the event organizer's official announcements.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RmB2Lpmph)
+
+---
+
+### October 14, 2026 &bull; 09:38 CST
+#### Chengdu-Chongqing Middle Line High-Speed Rail: Grand Bridge Joined, 2027 Opening Targeted
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月13日，成渝中线高铁动走线跨沙河特大桥顺利合龙，为全线通车奠定坚实基础。成渝中线高铁正线全长292公里，预计2027年建成通车，届时从成都到重庆最快只需要50分钟。 成都发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 13, the grand bridge carrying the access line of the Chengdu-Chongqing Middle Line high-speed rail across the Shahe River was successfully joined, laying a solid foundation for the full line's opening. The main line is 292 kilometres long and is expected to open to traffic in 2027, when the fastest journey from Chengdu to Chongqing will take only 50 minutes.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RmB0x1sLy)
+
+---
+
 ### October 13, 2026 &bull; 19:00 CST
 #### Xi'an Imposes Traffic Controls for 2026 Marathon Across City Center on October 18
 
