@@ -6,6 +6,32 @@
 
 ---
 
+### October 15, 2026 &bull; 07:00 CST
+#### Cold Wave and Mountain-Flood Warning Issued for Mid-October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
+
+---
+
+### October 15, 2026 &bull; 06:00 CST
+#### China's Central Meteorological Observatory Continues Blue Alert for Heavy Rain on October 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中央气象台10月15日06时继续发布暴雨蓝色预警 http://www.nmc.cn
+
+**🇬🇧 Actionable Travel Intel**:  
+The Central Meteorological Observatory continued to issue a blue-level alert for heavy rain on October 15.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmJ0lakAd)
+
+---
+
 ### October 14, 2026 &bull; 18:26 CST
 #### Cold Wave and Heavy Rain to Affect Most of China from October 15 to 19
 
