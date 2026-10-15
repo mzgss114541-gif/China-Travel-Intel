@@ -6,6 +6,32 @@
 
 ---
 
+### October 15, 2026 &bull; 11:00 CST
+#### Heixiazi Island Tourism Area Switches to Winter Operation from October 16
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月16日起，黑瞎子岛旅游区冬季运营模式正式启动。免除景区中转车交通费，仅收取景点门票。黑瞎子岛旅游区湿地公园、东极宝塔院内、探秘野熊园正常对游客开放，东极宝塔塔内、野熊园观熊台冬季不对外开放。游客自驾登岛游览。售票时间：早8:30-14:00。开放时间：早8:30-15:00。快来赏秋景、盼初雪、看黑熊，秋冬的黑瞎子岛同样精彩！（图源：黑瞎子岛）
+
+**🇬🇧 Actionable Travel Intel**:  
+Heixiazi Island Tourism Area will switch to its winter operating mode from October 16. The scenic-area shuttle bus fee is waived and only attraction tickets are charged. The Wetland Park, the grounds of the Dongji Pagoda and the Wild Bear Park remain open to visitors, while the interior of the Dongji Pagoda and the bear-viewing platform at the Wild Bear Park will be closed for the winter. Visitors drive onto the island themselves. Ticket sales run from 8:30 to 14:00 and opening hours are 8:30 to 15:00.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/RmKY6EAuV)
+
+---
+
+### October 15, 2026 &bull; 10:46 CST
+#### Baiyangdian Main Scenic Area in Anxin Closes for Maintenance from October 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 安新白洋淀主景区自10月15日起实施闭园维护，开园时间另行通知。 在景区闭园维护期间，景区内各运营主体、旅行社及所有旅游从业人员严禁从事景区内旅游经营活动，违者一经发现，从严惩处。
+
+**🇬🇧 Actionable Travel Intel**:  
+The main scenic area of Baiyangdian in Anxin will be closed for maintenance starting October 15, with the reopening date to be announced separately. During the closure, operating entities, travel agencies and all tourism staff inside the scenic area are prohibited from carrying out tourism business there.
+
+> **Verified Source**: [Shijiazhuang Municipal Bureau of Culture and Tourism (石家庄文旅之声, Sina Weibo)](https://weibo.com/2516150701/RmKSLFiUg)
+
+---
+
 ### October 13, 2026 &bull; 19:30 CST
 #### Luoyang Museum Suspends Public Opening for Renovation Starting October 19
 

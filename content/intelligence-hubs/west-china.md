@@ -6,6 +6,49 @@
 
 ---
 
+### October 15, 2026 &bull; 13:30 CST
+#### Xiling Snow Mountain: Back-Mountain Ski Area Offers Free Admission Through November 30
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 倘若我告诉你，西岭雪山后山滑雪场免！票！你还能忍得住不去吗？🥰🥰🥰这次西岭雪山免票时间持续至11月30日，快抓紧时间去耍！去日月坪看日出，去映雪广场赏彩林，去索道俯瞰万物，去把秋雪、云海、彩林一次耍够！ （图源：西岭雪山景区） ⏰免票时间：免票时间执行至11月30日 📍免票区域：西岭雪山后山滑雪场，包含日月坪、映雪广场、阴阳界、鸳鸯池、云懒懒牧场、鸽子花广场等（鸳鸯池索道、日月坪索道及体验项目另购） 🚡索道费用：鸳鸯池索道往返66元、单程35元；日月坪索道往返77元；双索道套票118元（索道特惠至10月30日） ❗️注意： 1、前山大飞水景区不参与免票，成人30元。 2、免票信息来自景区官方，具体政策以景区公示为准，最终解释权归景区官方所有。
+
+**🇬🇧 Actionable Travel Intel**:  
+Xiling Snow Mountain's back-mountain ski area is waiving admission through November 30. The free-admission zone covers Riyueping, Yingxue Square, Yinyangjie, Yuanyangchi, Yunlanlan Pasture and Gezihua Square, among others. Cableways and experience activities are charged separately: the Yuanyangchi cableway costs 66 yuan round trip or 35 yuan one way, the Riyueping cableway costs 77 yuan round trip, and a combined two-cableway package costs 118 yuan (the cableway discount runs through October 30). The front-mountain Dafeishui scenic area is not included in the free-admission offer and charges 30 yuan for adults.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RmLWZAni6)
+
+---
+
+### October 15, 2026 &bull; 13:06 CST
+#### Tibet Airlines Winter Sun Multi-Trip Pass: One-Way Economy Fares from 209 Yuan
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西藏航空“冬日暖阳”次卡温暖上线！单程经济舱209元起，往返398元起（均不含机建燃油费），次卡覆盖多条热门航线。销售日期即日起至11月27日，适用旅行日期为10月25日至11月30日的朋友，需要在旅行日期前3天（含3天）兑换，名额有限，先兑先得！ 趁冬游西藏之际，赴一场高原之约，让冬日的阳光与沿途的风景温暖旅程！详情及适用航线请以西藏航空官方信息为准。（西藏航空原文链接： https://mp.weixin.qq.com/s/vuzTNKj9Tz25sTrCI902Zw ） 来源：西藏航空
+
+**🇬🇧 Actionable Travel Intel**:  
+Tibet Airlines has launched a Winter Sun multi-trip pass, with one-way economy fares starting at 209 yuan and round-trip fares starting at 398 yuan, both excluding airport construction and fuel surcharges. The pass covers several popular routes. Sales run from now through November 27, valid travel dates are October 25 to November 30, and bookings must be redeemed at least three days before the travel date. Availability is limited and allocated on a first-come, first-served basis; details and applicable routes follow Tibet Airlines' official information. Per current official policy for foreign visitors, arrangements are subject to change.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmLNg9zTG)
+
+---
+
+### October 15, 2026 &bull; 10:20 CST
+#### Ninth Winter Tibet Campaign Opens October 15 with Five Months of Free Scenic-Area Admission
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 来了来了！第九轮「冬游西藏」今日开启（10月15日）🎉 景区免票，畅玩整整 5 个月！ 你打算冬天去西藏吗？可以开始规划行程，共赴西藏冬日之约。
+
+**🇬🇧 Actionable Travel Intel**:  
+The ninth Winter Tibet campaign opens on October 15 and offers free admission at scenic areas for five full months. Per current official policy for foreign visitors, arrangements are subject to change.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmKIce6Rk)
+
+---
+
 ### October 14, 2026 &bull; 21:14 CST
 #### Yala Snow Mountain Opens Autumn-Winter Self-Drive Entry with Daily Vehicle Quota
 
