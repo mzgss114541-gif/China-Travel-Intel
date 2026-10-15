@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 19:00 CST
+#### Shenzhen Station Upgrades Real-Name Gates with Facial Verification in as Fast as 5 Seconds
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 从连接香港特别行政区与广东省深圳市的罗湖口岸入境，步行10分钟便可抵达深圳站进站口。在这里，旅客进站最快5秒就能完成刷脸核验。为迎接11月即将举行的2026年深圳APEC峰会，深圳站于近期完成进出站通道及实名制核验闸机改造。最快5秒核验进站！铁路从这里与香港相连
+
+**🇬🇧 Actionable Travel Intel**:  
+Entering from the Luohu port that connects the Hong Kong Special Administrative Region with Shenzhen in Guangdong Province, travellers can reach the entrance of Shenzhen Station on foot in 10 minutes. At Shenzhen Station, passengers can complete facial-recognition verification to enter in as fast as 5 seconds. To prepare for the 2026 APEC summit to be held in Shenzhen in November, the station recently completed upgrades to its entrance and exit channels and its real-name verification gates.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RmO6WFcLb)
+
+---
+
 ### October 15, 2026 &bull; 14:45 CST
 #### Hubei to Fully Close Jingzhou and Huangshi Yangtze River Highway Bridges in October
 

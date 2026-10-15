@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 18:07 CST
+#### Stronger Cold Wave to Sweep Most of China from October 16 to 19
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 较强冷空气将自西向东影响我国大部地区 16日至19日较强冷空气将自西向东影响我国大部地区。新疆北部、内蒙古、华北、东北地区、黄淮、江淮、江汉、江南西部和北部等地先后有4～6℃，局地8℃以上降温，部分地区伴有4～5级偏北风，阵风6～8级。西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。
+
+**🇬🇧 Actionable Travel Intel**:  
+China's national meteorological authority forecasts a stronger cold wave moving from west to east across most of China from October 16 to 19. Northern Xinjiang, Inner Mongolia, North China, the Northeast, Huanghuai, Jianghuai, Jianghan, and western and northern Jiangnan will successively see temperature drops of 4 to 6 degrees Celsius, with local drops above 8 degrees, and some areas will have level 4 to 5 northerly winds with gusts of level 6 to 8. Moderate to heavy rain, locally torrential or severe torrential, is forecast for eastern Northwest China, North China, the Northeast, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, while rain and snow are expected in high-altitude areas of northern Xinjiang, Gansu and Qinghai, and in northeastern Inner Mongolia and northern Heilongjiang.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmNLM98Fz)
+
+---
+
 ### October 15, 2026 &bull; 16:47 CST
 #### China Meteorological Administration: Typhoon CHAMPI Forms and May Strengthen into a Super Typhoon
 
