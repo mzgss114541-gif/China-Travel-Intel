@@ -6,6 +6,34 @@
 
 ---
 
+### October 15, 2026 &bull; 13:00 CST
+#### China Railway Qinghai-Tibet Group Adds Temporary Trains on Xining-Golmud, Xining-Menyuan and Lhasa-Nyingchi Routes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据近期旅客出行需求，中国铁路青藏集团有限公司决定加开临时旅客列车： 10月16、23、30日，11月6、13、20日，西宁至格尔木间加开C4381/2次临时动车组旅客列车。 10月18、25日，11月1、8、15、22日，西宁至格尔木间加开C4383次临时动车组旅客列车。 10月19、26日，11月2、9、16、23日，格尔木至西宁间加开C4384次临时动车组旅客列车。 11月1日至11月23日，西宁至门源间加开D9911/2次、D9913/4次动车组旅客列车。 11月6、13、20日，拉萨至林芝间加开K6833/4次临时旅客列车。 10月17日、19—22日、24日、26—29日、31日，11月2—5日、7日、9—12日、14日、16—19日、21日，西宁至格尔木间加开7585次临时旅客列车。 10月18日、20—23日、25日、27—30日，11月1日、3—6日、8日、10—13日、15日、17—20日、22日，格尔木至西宁间加开7586次临时旅客列车。 10月18日、25日，11月1、8、15、22日(逢周日)，拉萨至林芝间加开C4389/90次临时动车组旅客列车。 铁路部门提醒广大旅客，相关列车车票的发售及列车时刻等详细信息，可以通过登录中国铁路12306网站（含12306手机APP）、车站自动售票机查询，或者拨打中国铁路12306客服电话进行查询。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Qinghai-Tibet Group will add temporary passenger trains to meet recent travel demand. Additional Xining-Golmud services run on October 16, 23 and 30 and on November 6, 13 and 20, with further Xining-Golmud trains added on other dates in October and November. Extra Lhasa-Nyingchi trains run on November 6, 13 and 20, and additional Lhasa-Nyingchi services run on Sundays. Xining-Menyuan shuttle trains are added from November 1 to November 23. Passengers can check ticket sales and timetables through the official railway channels. Per current official policy for foreign visitors, arrangements are subject to change.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmLKOy9yg)
+
+---
+
+### October 15, 2026 &bull; 11:00 CST
+#### Chongqing Airport Opens Transit Service Hall Offering Free Meals, Rest and Showers Within 48 Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 免费吃饭、休息、沐浴！重庆机场中转服务厅正式启用，48小时内中转旅客均可申请。（来源：重庆发布） 交通运输部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Chongqing Airport has officially opened a transit service hall. Transit passengers within 48 hours can apply for free meals, rest and shower facilities.
+
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RmKY7hkqJ)
+
+---
+
 ### October 15, 2026 &bull; 07:00 CST
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 

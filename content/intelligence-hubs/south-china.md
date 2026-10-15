@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 13:00 CST
+#### China Railway Guangzhou Group Adds Morning Trains at Yangjiang and Zhaoqing East After Fourth-Quarter Timetable Adjustment
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 四季度调图后，阳江、肇庆东增开早班列车，便利群众出行（段凌云，张晓笑，田震，罗劲，刘涵） 广州铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the fourth-quarter timetable adjustment, additional early-morning trains have been added at Yangjiang and Zhaoqing East.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RmLKPaTwC)
+
+---
+
 ### October 14, 2026 &bull; 19:50 CST
 #### Northern Hunan Braces for Heavy Rain as Provincial Authorities Issue Flood-Season Reminder
 
