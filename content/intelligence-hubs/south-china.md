@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 14:45 CST
+#### Hubei to Fully Close Jingzhou and Huangshi Yangtze River Highway Bridges in October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> （文旅+交通）这个10月，荆州长江公路大桥、黄石长江公路大桥都将实施全时段、全桥段封闭管控，湖北公安交管部门日前发布交通保障方案。 限制通行期间，过往车辆请严格按照现场交通标志、标牌指示行驶，遵守限时、限速规定，安全有序通行。因施工带来的不便，敬请广大驾乘人员理解与配合。施工结束后，将通过交通公众号、广播等方式告知来往车辆。
+
+**🇬🇧 Actionable Travel Intel**:  
+According to a traffic support plan issued by Hubei public security traffic authorities, the Jingzhou Yangtze River Highway Bridge and the Huangshi Yangtze River Highway Bridge will both implement full-time, full-span closure control in October. During restricted passage, vehicles must drive strictly according to on-site traffic signs and markings and observe time and speed restrictions. After construction ends, authorities will notify passing vehicles through traffic information channels.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmMrr9rPt)
+
+---
+
 ### October 15, 2026 &bull; 13:00 CST
 #### China Railway Guangzhou Group Adds Morning Trains at Yangjiang and Zhaoqing East After Fourth-Quarter Timetable Adjustment
 
