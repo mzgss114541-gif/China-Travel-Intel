@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 20:15 CST
+#### Huaian Offers Scenic-Area and Hotel Benefits Around the October 16 Basketball Match with Wuxi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 以球为名，赴一场双城之约。10月16日19:30，"苏BA"无锡VS淮安精彩开赛，淮安备下满满客场赛事礼遇——景区景点免票、门票折扣优惠、专属酒店特惠、旅游年票减免。 🎫 景区免票与折扣（多数集中在10月16日至18日）： 铁山寺、明祖陵、第一山景区——赛事运动员、教练员、工作人员及持票球迷凭有效证件免费游览，每人每证限用1次；在景区自营商店消费满50元可免费乘坐小交通；购买二消项目享折扣，同行人员可享大门票5折。 白马湖向日葵的故事景区——购票观众或无锡市民免票（大型主题活动期间除外）。 涟水今世缘旅游景区——赛事官方票根球迷不限地域免票，无锡市民凭身份证免票，工作人员凭证免费。 黄花塘新四军军部纪念馆（10.17—18）——赛事相关人员免费游览馆内淳安号扫雷艇。 苏皖边区政府旧址纪念馆——比赛期间提供免费讲解，凭票根打卡可获精美文创徽章。 涟水金鸡坨生态景区——所有观赛球迷凭门票免费入园。 西游乐园、龙宫海洋世界（10.17—18）——无锡市民凭有效身份证件享当日成人门票8折（西游乐园优惠价208元），每人限用一次。 淮安方特东方欲晓（10.16—18）——购票观众或无锡市民享199元/人（7折），需提前一天预订。 里运河文化长廊清江浦景区——无锡市民可享游船市区游、夜景游5折。 板闸文化体验中心（10月16日当天）——凭购票凭证与身份证享门票门市价5折。 洪泽湖古堰景区——大堤观光车往返优惠价29.8元；游船、快艇优惠价54元/人、跑车艇90元/人；阅湖公社手作套餐38元、58元。 蒋坝古镇——游客中心文创8.8折；落霞湾水上项目快艇40元/人、摩托艇80元/人。 老子山温泉旅游度假区——观湖温泉儿童29.9元、成人39.9元畅玩水世界与温泉；龟山片区餐饮8.8折、归山居民宿8折、体验类8折、文创8.8折。 🏨 住宿同样省心：鼎立国际大酒店商务房280元/天（含早，可延迟退房至次日16:00等多项礼遇）；淮安开元名都大酒店360元（含双早，免费使用游泳池、健身房等）；淮安曙光国际大酒店高级房260元/间（含双早）；淮安富力万达嘉华酒店豪华房400元（含双早，自助晚餐99元/位）；淮安金陵大酒店标准房309元/间（含早）；洪泽湖国际大酒店豪华双床房309元/晚（含双早）；洪泽天鹅湾温泉酒店339元双早双温、温泉单人票49.9元、亲子票特惠99元；淮安日月洲度假村298元（含双早，限量10间）。 🪪 旅游年票减免：10月13日至16日，无锡市民（身份证以3202开头）在"会游淮安"小程序购买299元淮安旅游年票享优惠100元（限量发放），年票可免门票游玩淮安西游乐园或淮安方特东方欲晓1次，及A级收费景区免门票畅玩，开通后有效期一年。 带上这份礼遇攻略，让你的淮安之旅有球、有礼、有惊喜🌿 原文链接： https://mp.weixin.qq.com/s/BYutLMfI20L10ngZoeaICg
+
+**🇬🇧 Actionable Travel Intel**:  
+The basketball match between Wuxi and Huaian in the provincial league will tip off at 19:30 on October 16, and Huaian has arranged visitor benefits for the occasion, with most scenic-area offers concentrated between October 16 and 18. At Tieshan Temple, Mingzu Ling and Diyishan Scenic Area, match athletes, coaches, staff and ticketholders may visit free of charge with valid credentials, limited to one use per person and credential; spending 50 yuan at the scenic areas' own shops qualifies for a free ride on the internal shuttle, discounted rates apply to secondary paid items, and accompanying visitors receive half-price admission. A further set of Huaian attractions, including the Story of Sunflower Scenic Area at Bai Ma Lake, Lianshui Jinshiyuan Scenic Area, Xiyou Amusement Park and Longgong Ocean World, Fantawild Oriental Heritage and the Li Canal Cultural Corridor Qingjiangpu Scenic Area, offer free entry or ticket and activity discounts to ticketholders and, at several venues, to Wuxi residents with valid identification. Hotels in Huaian also offer discounted packages, and from October 13 to 16 Wuxi residents whose identification number begins with 3202 can buy the Huaian tourism annual pass for 299 yuan with a 100 yuan discount through the designated mini-programme, subject to limited availability.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RmOBnFW43)
+
+---
+
 ### October 15, 2026 &bull; 16:23 CST
 #### Weihai Issues Yellow Gale Warning and Heavy Rain and Temperature Drop Forecast for October 17-18
 

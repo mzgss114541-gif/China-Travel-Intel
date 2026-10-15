@@ -6,6 +6,32 @@
 
 ---
 
+### October 15, 2026 &bull; 21:39 CST
+#### Xi'an Metro Adjusts Services and Closes Yongningmen Station for the October 18 Marathon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年西安马拉松赛将于10月18日(周日)上午7:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。 西马赛事期间，西安地铁多线调整发车时间，2号线永宁门临时关闭
+
+**🇬🇧 Actionable Travel Intel**:  
+The 2026 Xi'an Marathon will start at 7:30 on the morning of Sunday, October 18 at the east side roundabout of Yongningmen South Square. To meet the travel needs of participants, residents and visitors, Xi'an Metro is taking measures that include earlier first-train times, increased capacity on key lines, additional staff guidance and strengthened emergency coordination so that metro operations stay safe and orderly during the race. During the marathon, multiple Xi'an Metro lines will adjust their departure times, and Line 2 Yongningmen Station will be temporarily closed.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/RmP9uzvBQ)
+
+---
+
+### October 15, 2026 &bull; 19:12 CST
+#### Chongqing Olympic Sports Center to Have Temporary Traffic Controls from October 16 to 18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月16日至18日，凤凰传奇重庆演唱会将在重庆奥体中心举行。为保障活动期间奥体中心周边道路通行有序，预防交通事故发生，重庆市公安局九龙坡区分局交通管理支队将依法对奥体中心周边道路实施临时交通管制措施，请观演市民、驾车出行人员和周边居民提前安排行程。 https://wap.cqrb.cn/xcq/NewsDetail?classId=606&newsId=2796870&staticUrl=https%3A%2F%2Ft.cqrb.cn%2F5aQr3 （via.新重庆-重庆日报）
+
+**🇬🇧 Actionable Travel Intel**:  
+The Phoenix Legend concert will be held at the Chongqing Olympic Sports Center from October 16 to 18. To keep roads around the sports center orderly during the event and to prevent traffic accidents, the traffic management detachment of the Jiulongpo District branch of the Chongqing Public Security Bureau will impose temporary traffic control measures on roads around the sports center in accordance with the law. Concert-goers, drivers and nearby residents are advised to plan their trips in advance.
+
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RmObOnbpo)
+
+---
+
 ### October 15, 2026 &bull; 17:00 CST
 #### Shaanxi Publishes First Batch of Designated Qinling Outdoor Hiking Routes
 
