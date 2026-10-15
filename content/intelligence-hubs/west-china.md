@@ -49,7 +49,7 @@ Hefeng Pingshan Scenic Area will adopt temporary closure measures starting Octob
 #### Siberia Airlines to Launch Chengdu-Novosibirsk Direct Route on October 26
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 西伯利亚航空将于10月26日开通成都直飞新西伯利亚航线，5小时直达俄罗斯第三大城市，比中转省下约8小时。 （成都发布）成都发布的微博视频
+> 西伯利亚航空将于10月26日开通成都直飞新西伯利亚航线，5小时直达俄罗斯第三大城市，比中转省下约8小时。
 
 **🇬🇧 Actionable Travel Intel**:  
 Siberia Airlines will open a direct route from Chengdu to Novosibirsk on October 26, offering a 5-hour nonstop flight to Russia's third-largest city and saving about 8 hours compared with connecting flights.
