@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 16:47 CST
+#### China Meteorological Administration: Typhoon CHAMPI Forms and May Strengthen into a Super Typhoon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今年第30号台风“蔷琵”（CHAMPI，名字来源于老挝，一种花）已于今天下午生成，今天14时，“蔷琵”的强度为热带风暴级（8级，18米/秒），其中心位于关岛东偏南方向约1560公里的洋面上。未来几天，“蔷琵”将继续向西行，强度不断增强，有可能在18日加强为超强台风。
+
+**🇬🇧 Actionable Travel Intel**:  
+The 30th typhoon of this year, CHAMPI (a name from Laos meaning a flower), formed this afternoon. Its intensity was at tropical storm level (force 8, 18 meters per second), with its center over the ocean about 1,560 km east-southeast of Guam. Over the coming days, CHAMPI will continue moving westward and steadily intensify, and may strengthen into a super typhoon on the 18th.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmNf98nGq)
+
+---
+
 ### October 15, 2026 &bull; 14:29 CST
 #### China Issues Rain and Snow Advisory with Peak Intensity on October 17
 
