@@ -6,6 +6,32 @@
 
 ---
 
+### October 15, 2026 &bull; 17:00 CST
+#### Shaanxi Publishes First Batch of Designated Qinling Outdoor Hiking Routes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 共白道峪线、小峪线、大峪线三条路线可选择！】9月23日，为整治秦岭违规穿越探险，规范登山徒步活动，陕西省体育局发布《秦岭户外登山徒步开放线路（第一批）》公告。公告明确两条管控规定，一是登山者须提前评估体能，仅限开放线路活动，二是要做好安全防护，保护生态，杜绝违规行为。此外，公告还公布了白道峪线、小峪线、大峪线三条徒步路线的详细情况。（via. ）华商网的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On September 23, the Shaanxi Provincial Sports Bureau published a notice on the first batch of designated open outdoor hiking routes in the Qinling mountains, aimed at regulating mountaineering and hiking and curbing illegal off-route trekking. The notice sets two control rules: hikers must assess their physical fitness in advance and may only use the designated open routes, and must take safety precautions, protect the ecology, and avoid violations. Three routes were published: the Baidaoyu route, the Xiaoyu route, and the Dayu route.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RmNkepFrs)
+
+---
+
+### October 15, 2026 &bull; 14:10 CST
+#### Hailuogou Bans Mountaineering and Hiking in Undeveloped Areas Outside Its 5A Scenic Zone
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【公告丨关于禁止海螺沟辖区未开发开放区域（海螺沟冰川森林公园5A景区范围以外区域）开展登山、徒步等户外活动的公告】 广大游客朋友、各旅行社及各户外俱乐部（运动组织）： 为切实保障广大游客朋友生命财产安全，有效保护自然资源和生态环境，根据《中华人民共和国草原法》《中华人民共和国环境保护法》《中华人民共和国自然保护区条例》《森林防火条例》《中华人民共和国刑法》《四川省关于加强未开发开放区域旅游活动管理的通知》等相关法律法规的规定。现将有关事项公告如下： 一、封闭范围 海螺沟辖区未开发开放区域（即：海螺沟冰川森林公园5A景区范围以外区域）进行全面封闭。 二、封闭时间 自2025年12月7日起实施，恢复开放时间及开放区域将经专业安全评估后另行公告。 三、管理要求 （一）封闭及管控期间，任何组织和个人严禁进入上述区域组织开展或擅自进入进行登山、徒步、穿越、露营等各类户外活动。 （二）因生态保护、资源调查、应急救援等特殊工作需要确需进入的，须提前向海螺沟景区文旅局（海螺沟户外运动管理中心）、海螺沟景区城乡生态局、磨西镇、燕子沟镇及相关属地管理部门提交书面申请，经审核批准后，按规定路线、时限进入，并落实安全防护措施。 （三）因非法开展户外活动造成的财产损失及人身伤亡等事故，由组织活动的单位或个人承担全部责任。 （四）各旅行社、户外俱乐部（运动组织）不得违规组织相关区域户外活动，引导游客遵守本公告规定；对按规定到开放区域开展户外徒步等相关活动，须严格向海螺沟景区文旅局（海螺沟户外运动管理中心）依规定报批报备。 四、责任说明 违反本公告规定擅自进入海螺沟辖区未开发开放区域（即：海螺沟冰川森林公园5A景区范围以外区域），造成人身财产损害的，相关风险与责任由组织活动的单位或当事人自行承担全部责任；对违规组织或个人，将依法依规追究责任，构成犯罪的移送司法机关处理。本公告与《海螺沟景区文化旅游管理局关于禁止非法开展户外活动的公告》同步执行。 海螺沟户外活动手续报备地点：海螺沟景区游客中心一楼（海螺沟户外运动管理中心）。咨询电话：杨先生15884048904。海螺沟户外运动管理中心欢迎广大游客朋友、群众相互监督举报，如有未报备未批准擅自进入未开发开放区域的行为，请及时向景区行政管理部门举报，监督举报电话：0836-6668564。 由此给您带来的不便，敬请谅解。感谢您对海螺沟辖区户外活动安全管理工作的理解与支持！ 特此公告 磨西镇人民政府 燕子沟镇人民政府 海螺沟景区管委会城乡生态局 海螺沟景区管委会文化旅游管理局 海螺沟景区公安分局 2026年10月15日
+
+**🇬🇧 Actionable Travel Intel**:  
+Hailuogou authorities announced a prohibition on mountaineering, hiking, traversing, and camping in undeveloped and unopened areas within the Hailuogou jurisdiction, meaning areas outside the Hailuogou Glacier Forest Park 5A scenic area. The affected areas are fully closed, effective from December 7, 2025; the reopening time and areas will be announced separately after a professional safety assessment. During the closure, organizations and individuals are prohibited from entering those areas for outdoor activities. Tourism operators and outdoor clubs may not organize activities in the closed areas, and entry to designated open areas for hiking requires prior reporting and approval with the Hailuogou outdoor sports management center.
+
+> **Verified Source**: [Garze Prefecture Bureau of Culture and Tourism (甘孜文旅, Sina Weibo)](https://weibo.com/2014827750/RmMdeiM4o)
+
+---
+
 ### October 15, 2026 &bull; 13:30 CST
 #### Xiling Snow Mountain: Back-Mountain Ski Area Offers Free Admission Through November 30
 

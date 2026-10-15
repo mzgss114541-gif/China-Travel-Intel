@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 14:29 CST
+#### China Issues Rain and Snow Advisory with Peak Intensity on October 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 未来三天，影响我国的降水将增多增强，尤其是10月17日进入降水最强时段，内蒙古东北部、黑龙江西北部等地部分地区有中到大雪或雨夹雪，局部地区有暴雪或大暴雪；山东中东部和南部、河南东部、江苏北部、河北东部、辽宁中南部等地部分地区有暴雨或大暴雨（100～130毫米）。辽宁、山东等局地降水强度接近当地月极值，公众要多关注预报、预警信息，注意安全！
+
+**🇬🇧 Actionable Travel Intel**:  
+Over the next three days, precipitation affecting China will increase and intensify, with October 17 marking the strongest period. Parts of northeastern Inner Mongolia and northwestern Heilongjiang will see moderate to heavy snow or sleet, with local blizzards or severe blizzards. Parts of central-eastern and southern Shandong, eastern Henan, northern Jiangsu, eastern Hebei, and central-southern Liaoning will see rainstorms or heavy rainstorms of 100-130 mm. Precipitation intensity in parts of Liaoning and Shandong is close to local monthly extremes. The public is advised to follow forecasts and warnings and take safety precautions.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmMlicJZ0)
+
+---
+
 ### October 15, 2026 &bull; 13:00 CST
 #### China Railway Qinghai-Tibet Group Adds Temporary Trains on Xining-Golmud, Xining-Menyuan and Lhasa-Nyingchi Routes
 

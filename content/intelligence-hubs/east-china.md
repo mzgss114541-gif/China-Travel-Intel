@@ -6,6 +6,19 @@
 
 ---
 
+### October 15, 2026 &bull; 16:23 CST
+#### Weihai Issues Yellow Gale Warning and Heavy Rain and Temperature Drop Forecast for October 17-18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 威海市气象台2026年10月15日16时00分发布大风黄色预警和降雨降温预报：受地面气旋与较强冷空气的先后影响，17日至18日，全市将出现强降雨和大风降温天气。预计17日下午至夜间，全市阴有中到大雨，局部暴雨，过程平均降雨量30～40毫米，局部50～70毫米，最大小时降雨量20毫米左右，较强降雨时段为17日傍晚至夜间；17日下午至18日上午风力较大，最大风力各沿海海区东南风7～8级阵风9～10级转西北风6～7级阵风8级，内陆东南风6～7级阵风8～9级转西北风5～6级阵风7级；冷空气过后，气温将明显下降，过程降温幅度4～6℃，最低气温出现在19日早晨，沿海14℃左右，内陆8℃左右。请注意防范。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Weihai Meteorological Observatory issued a yellow gale warning and a rain and temperature-drop forecast at 16:00 on October 15, 2026. Affected successively by a surface cyclone and strong cold air, the city will see heavy rain and gale-force winds with falling temperatures from October 17 to 18. From the afternoon to night of October 17, the city will be overcast with moderate to heavy rain and local rainstorms, with process average rainfall of 30-40 mm, local rainfall of 50-70 mm, and maximum hourly rainfall of about 20 mm; the heavier rainfall period is the evening to night of October 17. From the afternoon of October 17 to the morning of October 18, winds will be strong: coastal sea areas will see southeast winds of force 7-8 gusting to force 9-10, turning to northwest winds of force 6-7 gusting to force 8; inland areas will see southeast winds of force 6-7 gusting to force 8-9, turning to northwest winds of force 5-6 gusting to force 7. After the cold air passes, temperatures will fall markedly, with a process cooling of 4-6 degrees Celsius and the lowest temperatures on the morning of October 19, around 14 degrees Celsius along the coast and around 8 degrees Celsius inland. The public is advised to take precautions.
+
+> **Verified Source**: [Weihai Municipal Bureau of Culture and Tourism (文旅威海, Sina Weibo)](https://weibo.com/2115352863/RmN5zuJgk)
+
+---
+
 ### October 14, 2026 &bull; 18:28 CST
 #### Anhui: Free Entry to Huangshan, Jiuhuashan and Hefei Sunac Land with Carnival Ticket Stub
 
