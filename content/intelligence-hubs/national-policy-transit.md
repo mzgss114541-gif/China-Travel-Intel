@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 17:30 CST
+#### China Railway to Renumber Trains in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。
+
+**🇬🇧 Actionable Travel Intel**:  
+Train numbering will be changed in two batches to ensure an orderly transition. The first batch, implemented in late November, covers conventional passenger trains, tourist trains and freight trains. The second batch, implemented in late December, covers high-speed passenger trains, power-concentrated EMU trains, intercity trains, suburban (city-region) passenger trains and EMU express freight trains. On the railway 12306 platform, the new train numbers are displayed within the 15-day presale window, counted from the operation date of the new train number. After the first transition, the operating sections and timetables of the renumbered trains follow the current operating plan. Onboard services such as quiet carriages, pet travel, light luggage, bicycle carry-on, the railway pass code and online meal ordering keep their existing labels, content and experience, and passengers can continue to use them. The 95306 platform shows the new freight train numbers within the block-train booking period.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmWWUgJTt)
+
+---
+
 ### October 15, 2026 &bull; 18:07 CST
 #### Stronger Cold Wave to Sweep Most of China from October 16 to 19
 

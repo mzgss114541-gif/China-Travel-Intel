@@ -6,6 +6,32 @@
 
 ---
 
+### October 16, 2026 &bull; 16:52 CST
+#### Chongqing Adds Extra Trains on Multiple Routes for the Weekend
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 本周末将迎来重阳佳节，重庆市内文体活动与家庭旅游、往返通勤等客流叠加，旅客出行需求集中释放。10月16日，重庆火车站发布消息，针对渝昆、兰渝、宁蓉、渝贵、郑渝等线路加开列车，涵盖重庆至兰州、兴义、荔波、贵阳、成都、遂宁、万州、巫山等热门方向，覆盖多个出行时段和热门线路，满足周末旅客出行需求。 本周末文体活动结束后将迎来旅客夜间集中返程高峰，重庆火车站对接活动主办方摸排返程客流信息，同步加开成都方向列车，满足歌迷旅客观演后夜间返程需求。10月19日加开重庆西—成都东G8658次，重庆西0:29开、成都东1:33到，一小时重庆快速直达成都。（via.上游新闻）
+
+**🇬🇧 Actionable Travel Intel**:  
+Chongqing Railway Station announced extra trains on the Yukun, Lanyu, Ningrong, Yugu and Zhengyu lines for this weekend, when the Double Ninth Festival brings together sports and cultural events, family trips and commuting. The added services cover popular directions including Lanzhou, Xingyi, Libo, Guiyang, Chengdu, Suining, Wanzhou and Wushan. As a late-night return peak is expected after the weekend events, extra Chengdu-bound trains are also being added; on October 19, train G8658 runs Chongqing West departing 0:29 and arriving at Chengdu East at 1:33.
+
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RmWHu5bSk)
+
+---
+
+### October 16, 2026 &bull; 14:15 CST
+#### Xiling Snow Mountain Rear Ski Area Waives Scenic Ticket Until November 30
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受冷空气影响，西岭雪山海拔3250米的日月坪观景台日前迎来今秋初雪。西岭雪山后山滑雪场景区，面向所有游客免景区门票（鸳鸯池索道、日月坪索道及体验项目另购），免票时间执行至2026年11月30日。 （成都发布） 成都发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The rear ski-area scenic zone of Xiling Snow Mountain waives the scenic-area ticket for all visitors. The waiver is in effect until November 30, 2026. The Yuanyangchi cableway, the Riyueping cableway and experience activities are paid separately. The Riyueping viewing platform, at an elevation of 3,250 metres, recently received the first snow of this autumn after a cold air mass moved in.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RmVG9bYds)
+
+---
+
 ### October 16, 2026 &bull; 12:12 CST
 #### Tibet Airlines to Add Two Lhasa Round-Trip Routes, Including Hong Kong via Chengdu Shuangliu from November 29
 
