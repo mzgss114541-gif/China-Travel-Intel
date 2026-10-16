@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 14:00 CST
+#### Wudangshan Airport Opens Temporarily for 62 Days with Added International Routes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 武当山机场临时对外开放62天 十堰直飞首尔激活鄂西出境游 10月14日上午11时许，搭载100余名旅客的CZ5011航班从十堰武当山机场起飞，经2个多小时飞行抵达韩国首尔仁川国际机场，标志着武当山机场航空口岸开启第三次临时对外开放。 武当山机场于2024年首次临时对外开放10天（10月8日至10月17日），期间共开通十堰至香港航线10班，出入境旅客达3000人次。2025年，国家口岸办批复武当山机场临时开放32天（10月15日至11月15日），机场开通香港航线、韩国航线共计16班，累计出入境旅客4629人次。 10月14日，武当山机场航空口岸开启第三次临时对外开放，市民乘首发航班飞往韩国首尔旅游。（湖北日报全媒记者 刘天纵 摄） 今年，第九届世界太极拳健康大会、中国旅游产业发展年会、武当太极文化节等系列活动在十堰举办。为保障国内外嘉宾出行便利，国家口岸管理办公室于8月19日同意武当山机场临时开放，期限为10月14日至12月14日，共62天。 与前两年相比，2026年临开工作呈现出批复时间更早、批复时间更长、执飞航点更多、目标更为突出四个特点。其间，武当山机场计划执行国际（地区）航班24班次，在原有中国香港、韩国航线基础上，将于11月中旬新增越南河内航线，填补十堰直飞东盟国家航线的空白。 62天的窗口期，既方便外宾到访“仙山、碧水、汽车城”，也便利鄂西北市民出境游。当日上午9时许，飞猪旅行十堰公司领队吴永玲举着导游旗，协助旅客办理CZ5011航班乘机手续。“家门口就有国际航班，方便多了。”吴永玲说，平时十堰人出境游，一般要先乘国内航班到北上广深、西安、重庆，或乘高铁到武汉再换乘国际航班。现在，十堰直飞韩国的团队游报名踊跃，基本都是十堰及周边城市的市民。 为保障临时开放期间口岸高效顺畅运行，湖北边检总站、十堰海关、十堰武当山机场集团等单位将协同合作，建立航班动态共享、勤务协同联动机制，进一步提高旅客查验和通关效率，为鄂西北地区高水平对外开放提供有力保障。
+
+**🇬🇧 Actionable Travel Intel**:  
+Wudangshan Airport in Shiyan, Hubei, is temporarily open for international and regional flights for 62 days, from October 14 to December 14, 2026. During this window the airport plans 24 international and regional flights. In addition to its existing Hong Kong and South Korea routes, a new Shiyan to Hanoi route will be added in mid-November. The first flight, CZ5011, departed Shiyan for Seoul Incheon on October 14.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmVzFFL2x)
+
+---
+
 ### October 16, 2026 &bull; 11:15 CST
 #### Ezhou Airport Expressway Phase II Opens, Cutting Travel Time to Huahu International Airport
 

@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 17:22 CST
+#### Shenzhen Station Entry Gates Upgraded at the Luohu Border Crossing
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 从连接香港特别行政区与广东省深圳市的罗湖口岸入境，步行10分钟便可抵达深圳站进站口。在这里，旅客进站最快5秒就能完成刷脸核验。为迎接11月即将举行的2026年深圳APEC峰会，深圳站于近期完成进出站通道及实名制核验闸机改造。 最快5秒核验进站！铁路从这里与香港相连
+
+**🇬🇧 Actionable Travel Intel**:  
+Travellers entering through the Luohu Port, which links the Hong Kong SAR with Shenzhen in Guangdong, can reach the Shenzhen Station entrance on foot in about 10 minutes. At Shenzhen Station, passengers can complete face-recognition verification to enter the station in as little as 5 seconds. Shenzhen Station recently completed renovation of its entry and exit passages and its real-name verification gates, ahead of the Shenzhen APEC summit to be held in November 2026.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/RmWTEEADX)
+
+---
+
 ### October 16, 2026 &bull; 13:00 CST
 #### China Railway Launches Nationwide Train-Numbering Reform in Two Batches from Late November
 
