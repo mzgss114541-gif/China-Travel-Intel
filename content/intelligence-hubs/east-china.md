@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 09:03 CST
+#### Suzhou Museum West Hall to Close Temporarily on October 23 for Maintenance
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 苏州博物馆西馆10月23日临时闭馆 尊敬的观众朋友们： 因场馆维护、设备调试，苏州博物馆西馆（高新区长江路399号）将于2026年10月23日（周五）闭馆一天。西馆负一层收费特展“猫猫与狗狗”线上预约通道当天同步关闭。 原例行闭馆日10月19日（周一）将正常开放，请大家合理安排参观行程。 由此给您带来的不便，敬请谅解。咨询电话：0512-67571665。 苏州博物馆 2026年10月15日
+
+**🇬🇧 Actionable Travel Intel**:  
+Suzhou Museum West Hall (located at No. 399 Changjiang Road, New District) will be temporarily closed for one day on Friday, October 23, 2026, due to facility maintenance and equipment testing. The online reservation channel for the basement-level special exhibition 'Cats and Dogs' will also be suspended that day. The museum will open normally on Monday, October 19, which is its routine closing day.
+
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RmTDhtFX1)
+
+---
+
 ### October 15, 2026 &bull; 20:15 CST
 #### Huaian Offers Scenic-Area and Hotel Benefits Around the October 16 Basketball Match with Wuxi
 
