@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 11:15 CST
+#### Ezhou Airport Expressway Phase II Opens, Cutting Travel Time to Huahu International Airport
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 鄂州机场高速公路二期今晨正式通车 10月16日0时0分，鄂州机场（花湖国际机场）高速公路二期正式通车试运营，太和东收费站同步启用，实施全国联网收费。 该项目由湖北交投集团投资建设，主线约36.57公里，双向六车道、设计时速120公里，总投资75.08亿元。作为鄂州花湖国际机场快速集疏运体系的重要一环，项目起于鄂州市泽林镇陈桥村，顺接机场高速一期，与武黄高速交叉，止于梁子湖区太和镇南侧，衔接鄂咸高速和规划中的武汉都市圈环线高速南六环线。全线设桥梁39座、隧道2座、互通式立体交叉7处，路网转换四通八达。 中铁二十一局参建的大王山隧道至太和南枢纽互通段，全长9.68公里，桥隧比高、交叉作业多、汛期干扰大。项目负责人许道连介绍，该标段大王山隧道是湖北首条单洞三车道高速公路隧道，最大开挖断面206.2平方米，穿越Ⅲ、Ⅳ、Ⅴ级复杂围岩，堪称全线“硬骨头”。建设者遵循“短进尺、弱爆破、强支护、早封闭、勤测量”原则，综合超前钻探、地质雷达、TSP预报等技术，在建设高峰期，全线作业人员达千余人，2024年3月进场，今年10月建成。 科技，也铺在路面之下。光栅阵列传感光缆联动雷达、视频设备，实时捕捉车辆轨迹、监测路面状态；雾区诱导、车道级精准调度，为货运车辆高效通行护航。 通车后，大冶至鄂州花湖国际机场车程由约1小时压缩至20分钟，梁子湖区太和镇至花湖机场由1小时缩短至30分钟，武汉光谷至花湖机场通行效率明显提升。这条新动脉，为花湖国际机场连接起武鄂、大广、武阳、武黄和鄂咸等高速公路，完善了“空陆联动”多式联运格局，也让武汉都市圈一体化跑得更快。
+
+**🇬🇧 Actionable Travel Intel**:  
+Phase II of the Ezhou Airport Expressway opened for trial operation at midnight on October 16, with the Taihe East toll station also opening and nationwide networked tolling applied. The roughly 36.57-km main line has six lanes in both directions and a design speed of 120 km/h. After opening, driving time from Daye to Ezhou Huahu International Airport is cut from about one hour to 20 minutes, and from Taihe Town in Liangzi Lake District to Huahu Airport from one hour to 30 minutes.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmUuHbdoq)
+
+---
+
 ### October 15, 2026 &bull; 19:00 CST
 #### Shenzhen Station Upgrades Real-Name Gates with Facial Verification in as Fast as 5 Seconds
 

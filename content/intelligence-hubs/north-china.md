@@ -6,6 +6,32 @@
 
 ---
 
+### October 16, 2026 &bull; 13:00 CST
+#### China Railway Launches Nationwide Train-Numbering Reform in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，为更好地适应铁路运输发展和市场需求，中国国家铁路集团有限公司启动全国铁路列车车次编排改革工作，将在11月下旬、12月下旬分2批对现行列车车次的字头字母、数字号段编排进行全面优化调整，拓展车次编排可使用的号段资源，同步实施新版《列车车次编排规定》，旅客货主可以通过变更后的列车车次直观了解列车速度、品质、功能等特征，有助于进一步优化铁路客货运输产品供给，构建层次清晰、辨识度高、便民友好的现代化铁路运输产品体系。 X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车； G读“高”，表示最高运行时速350公里的复兴号动车组列车，车次编排为G1-G9998； T读“特”，表示最高运行时速300公里的动车组列车，车次编排为T1-T9998； K读“快”，表示最高运行时速200公里及以上、250公里及以下的动车组列车，车次编排为K1-K9998； D读“动”，表示最高运行时速200公里及以下的动力集中动车组列车，车次编排为D1-D9998； C读“城”，表示最高运行时速200公里及以下铁路局集团公司管内城际铁路动车组列车，车次编排为C1-C2998； S读“市郊”，表示城市市域范围内开行的最高运行时速160公里及以下的铁路局集团公司管内旅客列车，车次编排为S1-S2998； Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998； N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次编排为N1-N1998； V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次编排为V6001-V6998、普通旅客慢车车次编排为V7001-V7998； Y读“游”，表示普速旅游列车，其中，普速旅游专线列车车次编排为Y1-Y998、普速旅游专列车次编排为Y1001-Y9998。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group has launched a nationwide reform of train numbering, to be rolled out in two batches in late November and late December. The reform optimizes the prefix letters and number ranges used for train codes and implements a new edition of the train-numbering rules, so that passengers can tell a train's speed, quality and function directly from its number. Under the new system, X-prefixed trains denote Fuxing high-speed sets with a maximum operating speed above 350 km/h and are numbered X1-X9998; G denotes Fuxing sets with a maximum operating speed of 350 km/h, numbered G1-G9998; T denotes high-speed sets with a maximum operating speed of 300 km/h, numbered T1-T9998; and D denotes power-concentrated high-speed sets with a maximum operating speed of 200 km/h or below, numbered D1-D9998.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RmVbk47wm)
+
+---
+
+### October 16, 2026 &bull; 11:21 CST
+#### Xinxiang East Railway Station Opens a Convenience Shuttle Bus Link
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #近日，新乡东站开通便民接驳专线。结合列车到发动态调整发车时刻，采用大站快车模式，实现铁路与公交无缝接驳。（张腾鸣）
+
+**🇬🇧 Actionable Travel Intel**:  
+Xinxiang East Railway Station has opened a convenience shuttle bus link. Departure times are adjusted dynamically according to train arrivals and departures, using an express-stop model to provide a seamless rail-to-bus connection.
+
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/RmUxlquU5)
+
+---
+
 ### October 15, 2026 &bull; 11:00 CST
 #### Heixiazi Island Tourism Area Switches to Winter Operation from October 16
 
