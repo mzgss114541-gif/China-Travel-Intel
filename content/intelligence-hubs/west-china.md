@@ -6,6 +6,45 @@
 
 ---
 
+### October 16, 2026 &bull; 19:50 CST
+#### Sichuan Autumn Foliage Season: Free Admission at Walwu Mountain, Xiling Snow Mountain and Daocheng Yading
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 彩林季开启，多家景区推出免票福利。瓦屋山、西岭雪山免门票至11月30日，稻城亚丁免票持续到10月31日。此外，巴中光雾山、广元、黑水等地红叶彩林陆续进入观赏期，趁着免票窗口期，一起来四川邂逅秋日美景。 （来源： 、各景区综合）四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+With the autumn foliage season under way, several scenic areas in Sichuan are offering free admission. Walwu Mountain and Xiling Snow Mountain are waiving admission tickets until November 30, and Daocheng Yading is waiving admission through October 31. Autumn foliage is also entering its viewing season in Guangwu Mountain in Bazhong, Guangyuan and Heishui.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RmXS76uyC)
+
+---
+
+### October 16, 2026 &bull; 18:19 CST
+#### Shaanxi Issues Joint Tourism Meteorological Risk Warning No. 76 for Heavy Rain
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 时间：2026-10-16 来源：市场管理处 分享： 
+
+**🇬🇧 Actionable Travel Intel**:  
+The Shaanxi Provincial Department of Culture and Tourism and the Shaanxi Meteorological Bureau jointly issued tourism meteorological risk warning No. 76 on October 16. From the afternoon of October 16 to the afternoon of October 17, heavy rain of 25 to 50 mm is expected in southern Xi'an, parts of Baoji, northern Xianyang, western Tongchuan, parts of Weinan, parts of Yan'an, western Yulin, parts of Hanzhong, parts of Ankang and parts of Shangluo. Torrential rain of 50 to 90 mm is expected in local areas including Lantian County in eastern Xi'an, Hancheng and Huazhou in Weinan, Yichuan County in Yan'an, Dingbian County in Yulin, Zhenba County in southeastern Hanzhong, Hanbin District, Ziyang County, Langao County, Pingli County and Zhenping County in southern Ankang, and Shangzhou District, Luonan County, Shangnan County and Zhashui County in Shangluo. Maximum hourly rainfall will be 10 to 30 mm. The warning states that heavy rainfall will mainly affect northern Shaanxi, northern Guanzhong, parts of southern Shaanxi and the Qinba mountain area, and asks local authorities to step up inspection of geological hazard points and take disaster prevention measures. It instructs scenic areas and guesthouses to check high-risk projects and outdoor facilities, to remind visitors about safety and emergency evacuation, to watch flood gullies and road sections next to water, cliffs, slopes and narrow river channels, and to suspend cableways and cruise boats where necessary. The public is advised to reduce unnecessary travel and avoid mountain and valley scenic areas.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Gov.cn)](http://whhlyt.shaanxi.gov.cn/sy/wlyw/202610/t20261016_3704220.html)
+
+---
+
+### October 16, 2026 &bull; 18:02 CST
+#### China Railway to Reform National Train Numbering in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，为更好地适应铁路运输发展和市场需求，中国国家铁路集团有限公司启动全国铁路列车车次编排改革工作，将在11月下旬、12月下旬分2批对现行列车车次的字头字母、数字号段编排进行全面优化调整，拓展车次编排可使用的号段资源，同步实施新版《列车车次编排规定》，旅客货主可以通过变更后的列车车次直观了解列车速度、品质、功能等特征，有助于进一步优化铁路客货运输产品供给，构建层次清晰、辨识度高、便民友好的现代化铁路运输产品体系。 X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车； G读“高”，表示最高运行时速350公里的复兴号动车组列车，车次编排为G1-G9998； T读“特”，表示最高运行时速300公里的动车组列车，车次编排为T1-T9998； K读“快”，表示最高运行时速200公里及以上、250公里及以下的动车组列车，车次编排为K1-K9998； D读“动”，表示最高运行时速200公里及以下的动力集中动车组列车，车次编排为D1-D9998； C读“城”，表示最高运行时速200公里及以下铁路局集团公司管内城际铁路动车组列车，车次编排为C1-C2998； S读“市郊”，表示城市市域范围内开行的最高运行时速160公里及以下的铁路局集团公司管内旅客列车，车次编排为S1-S2998； Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998； N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次编排为N1-N1998； V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次编排为V6001-V6998、普通旅客慢车车次编排为V7001-V7998； Y读“游”，表示普速旅游列车，其中，普速旅游专线列车车次编排为Y1-Y998、普速旅游专列车次编排为Y1001-Y9998。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Group has launched a reform of national train numbering, to be carried out in 2 batches in late November and late December, comprehensively adjusting the letter prefixes and number ranges used for train numbers and implementing a new version of the train numbering rules. The reform is intended to let passengers and freight customers read a train's speed, quality and function directly from its number. Under the new scheme, X denotes Fuxing high-speed trains with a maximum operating speed above 350 km/h, numbered X1 to X9998; G denotes Fuxing high-speed trains with a maximum operating speed of 350 km/h, numbered G1 to G9998; T denotes high-speed trains with a maximum operating speed of 300 km/h, numbered T1 to T9998; K denotes high-speed trains with a maximum operating speed of 200 km/h and above and 250 km/h and below, numbered K1 to K9998; D denotes power-concentrated high-speed trains with a maximum operating speed of 200 km/h and below, numbered D1 to D9998; C denotes intercity high-speed trains running within a railway group's jurisdiction with a maximum operating speed of 200 km/h and below, numbered C1 to C2998; S denotes suburban passenger trains within a city with a maximum operating speed of 160 km/h and below, numbered S1 to S2998; Z denotes express passenger trains with a maximum operating speed of 160 km/h, numbered Z1 to Z1998; N denotes express passenger trains with a maximum operating speed of 140 km/h, numbered N1 to N1998; V denotes conventional-speed passenger trains with a maximum operating speed of 120 km/h, of which express passenger trains are numbered V1 to V5998, ordinary fast passenger trains V6001 to V6998 and ordinary slow passenger trains V7001 to V7998; and Y denotes conventional-speed tourist trains, of which tourist line trains are numbered Y1 to Y998 and tourist special trains Y1001 to Y9998.
+
+> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RmX9TtBnN)
+
+---
+
 ### October 16, 2026 &bull; 16:52 CST
 #### Chongqing Adds Extra Trains on Multiple Routes for the Weekend
 

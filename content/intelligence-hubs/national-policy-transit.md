@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 18:11 CST
+#### Strong Cold Air to Bring High Winds, Temperature Drops and Rain or Snow Across Central and Eastern China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 较强冷空气将影响我国中东部地区，带来大范围大风、降温和雨雪天气。 预计10月16日20时至17日20时，内蒙古中部、宁夏中南部、陕西北部和东南部、山西中北部、河北中北部和东部、北京、天津、山东中西部、辽宁西南部、河南东部和南部、安徽北部、江苏西北部、湖北中西部、四川东北部、重庆北部、湖南北部等地部分地区有大到暴雨，其中，北京西部沿山、河南东南部等地局地有大暴雨(100～140毫米)。内蒙古东北部、青藏高原东部等地局地有大到暴雪（5～15毫米）。新疆东部和南部、青海北部和中东部、内蒙古中西部、宁夏、陕西中北部、山西西部、辽宁南部、河北北部、天津、山东等地部分地区有5～7级风； 10月17日20时至18日20时，内蒙古东北部、黑龙江北部等地部分地区有中到大雪或雨夹雪，其中，黑龙江西北部局地有暴雪（10～15毫米）。东北地区、内蒙古东部、山东半岛、江苏、安徽、湖北、湖南西北部、重庆东部、贵州东北部等地部分地区有中到大雨，其中，辽宁中南部、湖北南部、湖南西北部等地部分地区有暴雨（50～80毫米）。内蒙古东部、东北地区、青藏高原、广西南部的部分地区有5～7级风；黄海北部海域有7～8级风、阵风9级，渤海、渤海海峡、黄海中部和南部海域有6～7级风、阵风8级。
+
+**🇬🇧 Actionable Travel Intel**:  
+China's national meteorological authority forecasts that strong cold air will affect central and eastern China, bringing widespread strong winds, temperature drops and rain or snow. From the evening of October 16 to the evening of October 17, parts of central Inner Mongolia, south-central Ningxia, northern and southeastern Shaanxi, central and northern Shanxi, central-northern and eastern Hebei, Beijing, Tianjin, central-western Shandong, southwestern Liaoning, eastern and southern Henan, northern Anhui, northwestern Jiangsu, central-western Hubei, northeastern Sichuan, northern Chongqing and northern Hunan are expected to see heavy to torrential rain, with locally severe torrential rain of 100 to 140 mm in western Beijing along the mountains and in southeastern Henan. Local heavy to severe snowstorms of 5 to 15 mm are expected in northeastern Inner Mongolia and eastern parts of the Qinghai-Tibet Plateau. Parts of eastern and southern Xinjiang, northern and central-eastern Qinghai, central-western Inner Mongolia, Ningxia, central-northern Shaanxi, western Shanxi, southern Liaoning, northern Hebei, Tianjin and Shandong will see level 5 to 7 winds. From the evening of October 17 to the evening of October 18, parts of northeastern Inner Mongolia and northern Heilongjiang will see moderate to heavy snow or sleet, with local blizzards of 10 to 15 mm in northwestern Heilongjiang. Moderate to heavy rain is expected in parts of the Northeast, eastern Inner Mongolia, the Shandong Peninsula, Jiangsu, Anhui, Hubei, northwestern Hunan, eastern Chongqing and northeastern Guizhou, with torrential rain of 50 to 80 mm in parts of central-southern Liaoning, southern Hubei and northwestern Hunan. Parts of eastern Inner Mongolia, the Northeast, the Qinghai-Tibet Plateau and southern Guangxi will see level 5 to 7 winds; the northern Yellow Sea will see level 7 to 8 winds with gusts of level 9, while the Bohai Sea, the Bohai Strait and the central and southern Yellow Sea will see level 6 to 7 winds with gusts of level 8.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmXdR1V18)
+
+---
+
 ### October 16, 2026 &bull; 17:30 CST
 #### China Railway to Renumber Trains in Two Batches from Late November
 
