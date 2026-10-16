@@ -6,6 +6,73 @@
 
 ---
 
+### October 16, 2026 &bull; 12:12 CST
+#### Tibet Airlines to Add Two Lhasa Round-Trip Routes, Including Hong Kong via Chengdu Shuangliu from November 29
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 来源：西藏航空
+
+**🇬🇧 Actionable Travel Intel**:  
+Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmURPubmY)
+
+---
+
+### October 16, 2026 &bull; 12:00 CST
+#### Sichuan Autumn Foliage Season: Wawu Mountain, Xiling Snow Mountain and Daocheng Yading Waive Admission
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 彩林季开启，多家景区推出免票福利。瓦屋山、西岭雪山免门票至11月30日，稻城亚丁免票持续到10月31日。此外，巴中光雾山、广元、黑水等地红叶彩林陆续进入观赏期，趁着免票窗口期，一起来四川邂逅秋日美景。 （来源： 、各景区综合）四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Sichuan's autumn foliage season has begun, with several scenic areas offering free admission. Wawu Mountain and Xiling Snow Mountain waive admission through November 30, and Daocheng Yading waives admission through October 31. Red-leaf foliage in Bazhong's Guangwu Mountain, Guangyuan and Heishui is also entering its viewing season.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RmUMYlDG2)
+
+---
+
+### October 16, 2026 &bull; 11:24 CST
+#### Heavy Rain May Delay or Suspend Trains on Chongqing-Sichuan Rail Lines from October 16 to 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象部门预报，10月16日至10月17日，四川省盆地东北部、重庆市东北部有一轮强降雨过程。在此轮降水过程中，郑渝高铁、襄渝铁路、达万铁路、达三铁路、万凉铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据实际情况封锁线路开展安全巡查，途经旅客列车可能不同程度晚点或停运。在此，铁路部门提醒旅客朋友们出行前关注天气变化，合理安排行程，具体情况详见站车公告、“成都铁路12306”微博或拨打（028）12306成都铁路客服中心电话咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+According to meteorological forecasts, a period of heavy rain will affect northeastern Sichuan and northeastern Chongqing from October 16 to October 17. Rainfall may exceed limits on sections of the Zhengzhou-Chongqing high-speed railway and the Xiangyang-Chongqing, Dazhou-Wanzhou, Dazhou-Sanhui and Wanzhou-Liangping railways. To ensure passenger train safety, the railway authorities will close lines for safety inspections as conditions require, and trains on affected routes may be delayed or suspended to varying degrees. Passengers are advised to check weather changes and station announcements before travelling.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/RmUywlj0G)
+
+---
+
+### October 16, 2026 &bull; 11:22 CST
+#### Keketuohai International Ski Resort Opens Its 2026-2027 Season on October 20
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 、2号索道 🎿开放雪道：可可托海大道3100-2500段 开板当天，还有超多精彩有趣的活动👇 🎁2200雪具大厅｜签到打卡领好礼 ⏰时间：10月20日10:00 📍地点：2200雪具大厅 ⛷️活动流程：签到墙签名打卡拍照→领取小礼品→领取免费晚宴券 🎿3100雪滩区｜开板仪式 ⏰时间：10月20日10:30-11:00 📍地点：3100雪滩区 ⛷️活动流程：领取抽奖卡→开板仪式活动→惊喜抽奖→合影留念→开滑 🎁开板仪式抽奖奖品：单日雪票、单日住滑（芳华故事里）、头盔、针织护耳帽、线帽、护膝、护腕、护脸、电加热羊毛袜等。 🎁“雪启可可·我在可可已开板”拍照打卡挑战赛 ⏰时间：10月20日10:00-18:00 📍地点：雪场各处打卡点 ⛷️活动规则：雪友在雪场内找到打卡拍照点位，并拍照发布自媒体平台，在芳华故事里自助晚餐现场查看点赞量，点赞量最高的获得单日雪票。 🍽️芳华故事里餐厅｜晚餐盛宴 ⏰时间：10月20日20:00 📍地点：芳华故事里餐厅 🍴参与资格：限量160人先到先得，开板日当天在2200雪具大厅签到处领取免费晚宴券，领取时需出示泰滑卡、可可托海季卡或购买当日雪票凭证，并登记姓名手机号，领取时间截止到12点。 ⛷️活动流程：晚宴开餐→惊喜抽奖→舞蹈表演 🎁晚宴抽奖奖品：季卡、单日雪票、单日住滑（芳华故事里）、嘉享节庆时段雪票、羽绒马甲、羽绒服、雪服、滑雪手套、内胆手套、固定器、雪帽、滑雪背包、头盔帽、护脸、羽绒护甲、护臀、头盔、冷帽、电加热羊毛袜、羽绒服、雪鞋、卫衣等。
+
+**🇬🇧 Actionable Travel Intel**:  
+Keketuohai International Ski Resort opens its 2026-2027 season on October 20, with operating hours from 10:00 to 18:00. Cableway 1 and Cableway 2 will open, along with the Keketuohai Avenue ski run section between 3100 and 2500. Opening-day activities include a check-in gift event at the 2200 ski equipment hall at 10:00, an opening ceremony at the 3100 snow beach area from 10:30 to 11:00, and a dinner at the Fanghua Gushi Li restaurant at 20:00, with a limited 160 places allocated on a first-come, first-served basis.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RmUxFdn0F)
+
+---
+
+### October 16, 2026 &bull; 11:08 CST
+#### China Southern Adds Five New Xinjiang Routes for the Winter-Spring Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！（来源 | 南航新疆分公司） 🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
+
+**🇬🇧 Actionable Travel Intel**:  
+China Southern Airlines' Xinjiang branch has added five new routes for the winter-spring season. Urumqi-Chongqing-Jieyang (CZ8235/6) operates daily; Urumqi-Taiyuan-Lianyungang (CZ8633/4) operates on Mondays, Tuesdays, Thursdays and Saturdays; Urumqi-Taiyuan-Jiaxing (CZ5195/6) operates on Wednesdays, Fridays and Sundays; Urumqi-Chengdu Shuangliu (CZ6945/6) operates daily; and Urumqi-Shanghai Pudong (CZ6993/4) operates daily.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RmUs5x09H)
+
+---
+
 ### October 15, 2026 &bull; 21:39 CST
 #### Xi'an Metro Adjusts Services and Closes Yongningmen Station for the October 18 Marathon
 

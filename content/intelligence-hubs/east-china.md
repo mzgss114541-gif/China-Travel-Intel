@@ -6,6 +6,19 @@
 
 ---
 
+### October 16, 2026 &bull; 12:00 CST
+#### Luzhi Water Town Night Performance Qingdian Luzhi Suspends Shows from October 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 自2026年10月17日起，《青靛甪直》夜间演艺项目将暂停演出，恢复演出时间另行通知。停演期间江南文化园其他游览项目正常开放，已预订《青靛甪直》演艺门票的游客，可通过原渠道全额退款。如有疑问请致电：0512-65653300，官方公众号：锦夜丨青靛甪直。 来源丨
+
+**🇬🇧 Actionable Travel Intel**:  
+The night-time performance Qingdian Luzhi will suspend shows from October 17, 2026, with the resumption date to be announced separately. Other attractions in Jiangnan Culture Park remain open as normal during the suspension, and visitors who have already booked tickets for the Qingdian Luzhi performance can obtain a full refund through their original booking channel.
+
+> **Verified Source**: [Suzhou Wuzhong Taihu Tourism Administration (吴中太湖文旅, Sina Weibo)](https://weibo.com/1852451387/RmUMXrj0f)
+
+---
+
 ### October 16, 2026 &bull; 09:03 CST
 #### Suzhou Museum West Hall to Close Temporarily on October 23 for Maintenance
 
