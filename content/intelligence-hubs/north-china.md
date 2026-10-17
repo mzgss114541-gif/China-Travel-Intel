@@ -6,6 +6,32 @@
 
 ---
 
+### October 17, 2026 &bull; 17:06 CST
+#### Some Down-Direction Trains Delayed on the Tianjin-Qinhuangdao High-Speed Line
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受此影响，途经该区段运行的津秦高铁部分下行列车晚点运行。请广大旅客朋友及时关注中国铁路12306网站（12306手机APP）信息或车站公告，妥善安排出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+Some down-direction trains on the Tianjin-Qinhuangdao high-speed line are running late. Passengers should check the 12306 website or mobile app, or station announcements, and arrange their journeys accordingly.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/Rn6dXevYs)
+
+---
+
+### October 17, 2026 &bull; 15:00 CST
+#### Beijing Marathon Road Controls and Fragrant Hills Autumn Traffic Restrictions This Weekend
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 本周末将迎来一次明显降雨天气，同时2026北京马拉松比赛定于10月18日（周日）举行，比赛期间将对部分道路分时、分段采取临时交通管理措施，加上本周香山红叶节开幕，坡峰岭等景区也将迎来客流高峰。受多重因素叠加影响，本周末部分区域和路段通行压力明显增加。交管部门将启动高等级上勤方案，同时提醒市民规划好外出安排，提前选择出行路线。 周日“北马”开跑请避开比赛路线，10时至12时交通压力大 2026北京马拉松比赛起点设在天安门广场，终点设在奥林匹克公园中心区景观大道。 为保障比赛顺利进行及比赛期间道路交通安全畅通，根据道路交通安全法律法规有关规定，10月17日22时开始至比赛结束，对相关道路分时分段采取临时交通管理措施，除持有2026北京马拉松比赛专用证件的车辆和人员外，禁止其他车辆、行人通行。 行经比赛沿线各交叉路口的车辆和行人，请服从交通民警和工作人员指挥，不随意进入、横穿比赛道路。比赛沿线和周边道路禁止车辆停放及堆放物品，沿线单位和广大市民请提前安排好绕行路线，以免影响出行。 从历年情况看，比赛当天10时—12时，比赛路线周边交通压力较大，预计长安街东向西方向、前三门大街东西双向、西三环南向北方向、北四环西向东方向等较为突出；下午13时左右比赛整体结束后至17时，疏散客流与周边商圈出行交织叠加，将对奥林匹克中心区周边道路车辆通行造成一定影响。 交通管理措施具体实施时间请点击通告链接：网页链接 部分公园景区周边交通压力增加 本市已进入秋季出游高峰期，市民观花赏秋热情高涨。本周末，香山、坡峰岭、八达岭、古北水镇、喇叭沟门、妙峰山、百望山、金海湖等景区景点热度较高，故宫、天坛、颐和园、北海、雍和宫、香山、国家植物园、环球度假区等地标景区以及部分公园举行的秋季主题游园活动将吸引大量客流，周边道路通行和停车压力尤为突出，建议市民选择公共交通前往。 特别提示：香山红叶节将于本周开幕，香山红叶观赏季期间，游客数量将大幅增加，为保证香山地区交通安全顺畅，2026年10月17日、18日、24日、25日、31日及11月1日、7日、8日、14日、15日，每日7时30分至17时30分，将对南辛村街（香山南路至红枫路段）采取禁止机动车由东向西方向行驶的交通管理措施；对香山路与卧佛寺东路交叉口采取禁止机动车由东向西方向行驶（公共电汽车除外）的交通管理措施，届时将禁止游客自驾车沿香山路向上山方向通行。同时，将在红叶观赏季期间，根据周边道路通行和停车场饱和情况，视情况对区域内及周边道路采取单向通行、封闭出入口等临时交通管理措施，全力保障区域交通运行顺畅。 建议乘坐地铁公交绿色出行 据气象部门预报，本周六迎来一次明显降雨天气，且雨量较大，预计对交通运行产生一定影响。交管部门将启动高等级上勤方案，全力保障雨天交通运行安全有序。同时，交管部门将在公园景区周边增派维护警力，码放临时交通指示引导标志，并发挥铁骑交警灵活优势，加强交通秩序疏导，指挥车辆有序通行和停放。 马拉松活动涉及路线、时间跨度均较长，活动时间与2026年国家统一法律职业资格考试（法考）、成人高等学校招生全国统一考试的部分场次重叠，对周日城区出行将产生一定影响，交管部门建议市民及考生提前了解比赛安排，及时规划出行路线，关注交管部门发布的实时路况信息，避开比赛路线和周边交通压力较大的区域，或乘坐地铁出行。 观叶赏景建议错开周末出游高峰，乘坐地铁公交绿色出行。自驾车辆前往请文明驾驶、守法行车，特别是行经流量大的路段，遇车辆排队或临时交通管理措施时，驾驶人要克制急躁情绪，顺序通行并主动配合现场民警的指挥疏导，不盲目超车、不争道抢行。如发生剐蹭、追尾等轻微交通事故，尽量选择远程处理、自行协商等方式快速解决，减少对正常通行的影响。（ 记者 任珊）北京日报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The 2026 Beijing Marathon will be held on Sunday, October 18, starting at Tiananmen Square and finishing at the central landscape avenue of the Olympic Park. From 10 p.m. on October 17 until the race ends, temporary traffic management measures will be applied to the affected roads in stages; except for vehicles and people holding 2026 Beijing Marathon special credentials, other vehicles and pedestrians are prohibited from passing. On race day, traffic pressure is expected to be highest between 10 and 12, especially on Chang'an Avenue in the east-to-west direction, Qiansanmen Street in both directions, the West Third Ring Road in the south-to-north direction and the North Fourth Ring Road in the west-to-east direction. From early afternoon to late afternoon, departing crowds and surrounding commercial traffic are expected to affect roads around the Olympic Center area. Heavy rain is forecast for this Saturday. During the Fragrant Hills red-leaf season, on October 17, 18, 24, 25 and 31 and on November 1, 7, 8, 14 and 15, from 7:30 to 17:30, motor vehicles are prohibited from travelling east-to-west on Nanxincun Street between Xiangshan South Road and Hongfeng Road, and from travelling east-to-west at the intersection of Xiangshan Road and Wolofosi East Road, with public buses excepted; visitors are also barred from driving up Xiangshan Road. Crowds are expected at Xiangshan, Pofengling, Badaling, Gubei Water Town, Labagoumen, Miaofengshan, Baiwangshan and Jinhai Lake, as well as at the Forbidden City, Temple of Heaven, Summer Palace, Beihai, Yonghe Temple, the National Botanical Garden and Universal Resort. The authorities recommend using public transport.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/Rn5owd5Nj)
+
+---
+
 ### October 17, 2026 &bull; 13:23 CST
 #### Fragrant Hills Park Closes Steep Sections After Rain
 
