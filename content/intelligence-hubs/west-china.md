@@ -6,6 +6,19 @@
 
 ---
 
+### October 17, 2026 &bull; 12:02 CST
+#### Xi'an Metro to Start Eight Lines Earlier for Marathon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年西安马拉松赛将于10月18日(周日)上午07:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。 西安地铁的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On 18 October, eight Xi'an Metro lines will begin service half an hour earlier for the Xi'an Marathon. Additional capacity, staff guidance and emergency coordination will be in place during the event.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/Rn4eqvL4q)
+
+---
+
 ### October 17, 2026 &bull; 09:00 CST
 #### Hanzhong Liping Scenic Area Offers Free Admission on October 17–18
 

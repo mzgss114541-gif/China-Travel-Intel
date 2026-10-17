@@ -6,6 +6,19 @@
 
 ---
 
+### October 17, 2026 &bull; 12:00 CST
+#### Panlongcheng Site Core Area to Close for Improvement Work
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为高质量推进盘龙城国家考古遗址公园综合提升项目建设，进一步加强盘龙城遗址的保护、研究、传承与利用，经研究决定，自2026年10月19日起至2027年12月31日，对盘龙城遗址核心区实行封闭管理。封闭管理期间，博物馆及其周边区域正常对外开放。项目完工后，公园将以更加专业、优质的服务迎接社会各界游客。封闭管理期间给您带来的不便，敬请谅解。衷心感谢广大游客和市民朋友长期以来对盘龙城遗址保护工作的关心与支持！特此公告。（盘龙城遗址博物院）
+
+**🇬🇧 Actionable Travel Intel**:  
+The core area of Panlongcheng National Archaeological Site Park will be closed from 19 October 2026 through 31 December 2027 for an improvement project. The museum and surrounding areas will remain open during the closure.
+
+> **Verified Source**: [Huangpi District Culture and Tourism Bureau (黄陂文旅, Sina Weibo)](https://weibo.com/3187255154/Rn4dsjsIW)
+
+---
+
 ### October 16, 2026 &bull; 14:00 CST
 #### Wudangshan Airport Opens Temporarily for 62 Days with Added International Routes
 
