@@ -6,6 +6,45 @@
 
 ---
 
+### October 17, 2026 &bull; 18:00 CST
+#### Blue Alert for Gale Winds Renewed by National Meteorological Centre
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中央气象台10月17日18时继续发布大风蓝色预警 http://www.nmc.cn
+
+**🇬🇧 Actionable Travel Intel**:  
+The National Meteorological Centre continued its blue alert for gale winds on October 17. Travelers should pay attention to local weather advisories and exercise caution when engaging in outdoor activities in windy areas.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/Rn6zArCq2)
+
+---
+
+### October 17, 2026 &bull; 18:00 CST
+#### Blue Alert for Rainstorms Renewed by National Meteorological Centre
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中央气象台10月17日18时继续发布暴雨蓝色预警 http://www.nmc.cn
+
+**🇬🇧 Actionable Travel Intel**:  
+The National Meteorological Centre continued its blue alert for rainstorms on October 17. Travelers in regions facing heavy precipitation should monitor local weather updates and plan transit arrangements with care.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/Rn6zA6J2B)
+
+---
+
+### October 17, 2026 &bull; 17:57 CST
+#### Heavy Rain and Strong Winds Forecast Across 13 Provinces on October 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受较强冷空气影响，我国出现大范围雨雪、大风、降温天气，10月17日迎来最强降雨时段，13个省份有大到暴雨，部分地区有大暴雨。本次天气过程降雨范围广、局地降雨强、北方地区大风降温显著，公众需注意御寒保暖和交通安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+Influenced by a strong cold air mass, widespread rain, snow, gale winds, and temperature drops are affecting parts of China, with the heaviest rainfall arriving on October 17 across 13 provinces. Localized torrential downpours and significant cooling in northern regions may affect travel conditions, and travelers should prepare warm clothing and monitor transport safety.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/Rn6ymsTYX)
+
+---
+
 ### October 17, 2026 &bull; 07:00 CST
 #### Cold Wave and Heavy Rain to Affect Most of China
 
