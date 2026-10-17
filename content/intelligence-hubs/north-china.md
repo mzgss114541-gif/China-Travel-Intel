@@ -6,6 +6,45 @@
 
 ---
 
+### October 17, 2026 &bull; 09:05 CST
+#### China Railway to Change Train Numbers in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。 （中国铁路）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway will change train numbers in two batches. The first batch will be implemented in late November for conventional passenger trains, tourist trains and freight trains. The second batch will be implemented in late December for high-speed passenger trains, power-concentrated EMU passenger trains, intercity passenger trains, suburban and regional passenger trains, and EMU express freight trains. The 12306 platform will display the new train numbers within the 15-day pre-sale period based on the first operating day of the new-numbered passenger trains. After the first transition, the operating sections and timetables of the new-numbered trains will follow the current timetable. Existing onboard services such as quiet carriages, pet transport, light travel, bicycle carry-on, the railway pass code and online meal ordering will remain unchanged.
+
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/Rn34qhxBd)
+
+---
+
+### October 17, 2026 &bull; 08:58 CST
+#### Heilongjiang Forecasts Heavy Snow and Local Blizzards in Greater Khingan on October 17–18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 黑龙江省气象台发布全省天气预报： 17日白天到夜间：大兴安岭阴有大雪，局地暴雪，其中大兴安岭南部部分时段有雨夹雪，黑河西部阴有中雨夹雪，齐齐哈尔、大庆、绥化、哈尔滨西部阴有中雨，其他地区阴有小雨。 18日白天到夜间：大兴安岭阴有大雪，局地暴雪，其中大兴安岭南部部分时段有雨夹雪，黑河西部阴有中雨夹雪，黑河东部、伊春北部、鹤岗、佳木斯东部、双鸭山东部、七台河、鸡西、牡丹江阴有中雨，其他地区阴有小雨。 17日白天最高气温：大兴安岭4～6℃，黑河、伊春北部、齐齐哈尔北部9～11℃，其他地区13～15℃。 17日夜间最低气温：大兴安岭-6～-4℃，佳木斯东部、双鸭山东部-1～1℃，大庆、绥化南部、哈尔滨5～7℃，其他地区2～4℃。 天气预报
+
+**🇬🇧 Actionable Travel Intel**:  
+The Heilongjiang Provincial Meteorological Observatory forecasts heavy snow and local blizzards in Greater Khingan during the daytime and nighttime of October 17 and 18, with mixed rain and snow in parts of southern Greater Khingan. Western Heihe will see moderate mixed rain and snow, while Qiqihar, Daqing, Suihua and western Harbin will see moderate rain; other areas will see light rain. Daytime highs on October 17 will range from 4 to 6 degrees Celsius in Greater Khingan and 13 to 15 degrees Celsius elsewhere, while nighttime lows in Greater Khingan will range from minus 6 to minus 4 degrees Celsius.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/Rn31Nfjek)
+
+---
+
+### October 17, 2026 &bull; 08:30 CST
+#### Beijing Forecasts Heavy Rain and Local Rainstorms on Saturday
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今天周六，机动车尾号不限行。今天白天阴有大雨，局地暴雨，北风二级转东风三级左右（东部阵风五级），最高气温16℃。【 】 第十五届北京西山红叶文化节今天（15日）开幕，本届红叶文化节以“漫山红叶醉西山·国风秋韵悦金秋”为主题，结合山林生态与红叶景观推出多项文化休闲活动。将持续到11月15号，覆盖秋季主要红叶观赏时段。（京津冀之声FM1006）金秋时节别错过京津冀这些赏红好去处
+
+**🇬🇧 Actionable Travel Intel**:  
+Beijing will be overcast with heavy rain and local rainstorms during the daytime on Saturday, with northerly winds turning easterly and stronger gusts in the eastern part of the city. The maximum temperature will be 16 degrees Celsius. No vehicle restriction by license plate number will be in effect on Saturday.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/Rn2QdpM2w)
+
+---
+
 ### October 16, 2026 &bull; 17:22 CST
 #### Shenzhen Station Entry Gates Upgraded at the Luohu Border Crossing
 

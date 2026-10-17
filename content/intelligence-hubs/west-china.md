@@ -6,6 +6,19 @@
 
 ---
 
+### October 17, 2026 &bull; 09:00 CST
+#### Hanzhong Liping Scenic Area Offers Free Admission on October 17–18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🍂一叶知秋，秦巴染丹！2026 汉中黎坪炫彩红叶季 10 月 17 日启幕✨ 红叶 汉中 带着微博去旅行 👉10.17-18 黎坪全民免门票，仅购观光车票，赴 377 平方公里巴山彩林之约。 龙头山云海彩林、留坝晒秋盛宴、略阳羌韵徒步、城固桔园丰收…… 山南山北，各县秋色次第登场。 春赏花、夏纳凉、秋观叶、冬嬉雪。汉中凭绿水青山，做到文旅四季不冷场。赛事、民歌、非遗、票根惠民，风景变好日子，秦巴长卷正翻至色彩最浓一页。（来源：群众新闻）
+
+**🇬🇧 Actionable Travel Intel**:  
+The 2026 Hanzhong Liping Autumn Foliage Season opens on October 17. On October 17 and 18, Liping Scenic Area offers free admission to all visitors, with only the sightseeing bus ticket required. The scenic area covers 377 square kilometres of autumn foliage in the Bashan mountains.
+
+> **Verified Source**: [Hanzhong Municipal Bureau of Culture and Tourism (汉中市文化和旅游局, Sina Weibo)](https://weibo.com/2360269453/Rn32ooIKf)
+
+---
+
 ### October 16, 2026 &bull; 19:50 CST
 #### Sichuan Autumn Foliage Season: Free Admission at Walwu Mountain, Xiling Snow Mountain and Daocheng Yading
 

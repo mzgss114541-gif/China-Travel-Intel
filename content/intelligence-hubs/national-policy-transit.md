@@ -6,6 +6,19 @@
 
 ---
 
+### October 17, 2026 &bull; 07:00 CST
+#### Cold Wave and Heavy Rain to Affect Most of China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 应急管理部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave will move from west to east across most of China, bringing temperature drops of 4 to 8 degrees Celsius, with local drops above 10 degrees, and northerly winds of force 4 to 6 with gusts of force 7 to 9 in some areas. Moderate to heavy rain is forecast along the Yangtze River and areas to its north, including eastern Northwest China, North China, Northeast China, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, with local rainstorms or heavy rainstorms. High-altitude areas of northern Xinjiang, Gansu and Qinghai, as well as northeastern Inner Mongolia and northern Heilongjiang, will see rain and snow.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/Rn2g2ppdR)
+
+---
+
 ### October 16, 2026 &bull; 18:11 CST
 #### Strong Cold Air to Bring High Winds, Temperature Drops and Rain or Snow Across Central and Eastern China
 
