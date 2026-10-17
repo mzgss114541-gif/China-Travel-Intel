@@ -6,6 +6,19 @@
 
 ---
 
+### October 17, 2026 &bull; 19:36 CST
+#### Badaling Great Wall North Cableway Suspends Operations for Maintenance
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 八达岭长城北线索道维修保养暂停运营公告 尊敬的各位游客： 为优化游览服务体验，八达岭长城北线空中索道将于2026年10月20日15：00至2026年12月25日开展设备维修保养，期间暂停运营；南线地面缆车正常运营。 2026年10月17日 延庆区长城管理处
+
+**🇬🇧 Actionable Travel Intel**:  
+To optimize visitor services, the Badaling Great Wall North Line aerial cableway will undergo equipment maintenance and suspend operations from 15:00 on October 20, 2026, to December 25, 2026. The South Line ground cable car continues normal operations.
+
+> **Verified Source**: [Badaling Great Wall Scenic Area Administration (八达岭长城, Sina Weibo)](https://weibo.com/2089190171/Rn7cBdQBd)
+
+---
+
 ### October 17, 2026 &bull; 17:06 CST
 #### Some Down-Direction Trains Delayed on the Tianjin-Qinhuangdao High-Speed Line
 
