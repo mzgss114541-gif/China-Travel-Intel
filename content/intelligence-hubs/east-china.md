@@ -6,6 +6,19 @@
 
 ---
 
+### October 17, 2026 &bull; 10:00 CST
+#### Vehicle-Passenger Boat Offers Day-Trip Access to Changtu Island
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 下一站，长涂！舟山宝藏海岛一日游速速码住 ⬇️登岛指南： 岱山竹屿客运中心乘船，推荐 09:10车客渡奔赴长涂大浦口码头，船程约 20 分钟。 船票可在「舟山交通」小🍊序提前1天购买，凭身份证检票登船，一日游返程推荐 16:20 班次离岛。 行程安排👇👇👇 09:10 竹屿码头乘船登岛，奔赴东海小岛 09:40-11:00 打卡百年西鹤嘴灯塔，漫步礁石海岸，饱览山海风光🌇 11:10-12:00 漫步军港特色街，走进双拥广场，品读厚重军港文化，感受海防底蕴📸 13:30-14:40 探访倭井潭片区，逛老街、瞻仰抗倭碑，踏寻石板路上的抗倭岁月记忆。 14:50-16:00 非遗沉浸式体验，亲手参与倭井潭硬糕制作🥧 这块被誉为 “可以吃的石头”，藏着海岛百年匠心与抗倭往事。 一日登长涂，灯塔美景、军港故事、非遗美味全部打卡！ ⚠️Tips： 1. 海岛航班受风浪影响极大，出行前务必查当日实时船期，大风可能会临时停航； 2. 尽量开船前 30 分钟到码头检票，节假日排队时间更长； 3. 上岛之后，西鹤嘴灯塔、军港特色街、倭井潭片区在小长涂岛内，可在岛内打车 。 4. 票价：普通客舱十几元 / 人（以小程序实时标价为准） 🎁【评论抽奖福利】 ①关注 ②在评论区聊聊你最想去长涂岛打卡哪个点位，抽５位小伙伴送出非遗倭井潭象棋硬糕一份！ 挑一个周末，跳岛出发，解锁长涂山海与人文之美
+
+**🇬🇧 Actionable Travel Intel**:  
+The post recommends the 09:10 vehicle-passenger boat from Daishan Zhuyu Passenger Transport Center to Changtu Dapu Port, with a crossing of about 20 minutes, and the 16:20 return sailing. Tickets can be purchased one day in advance through the Zhoushan Transport mini-program, and the post states that a Chinese identity card is required for ticket inspection. Check the same-day schedule before setting out because strong winds can cause temporary suspension, and arrive about 30 minutes before departure.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/Rn3qKmAMX)
+
+---
+
 ### October 16, 2026 &bull; 12:00 CST
 #### Luzhi Water Town Night Performance Qingdian Luzhi Suspends Shows from October 17
 

@@ -6,6 +6,45 @@
 
 ---
 
+### October 17, 2026 &bull; 13:23 CST
+#### Fragrant Hills Park Closes Steep Sections After Rain
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> :温馨提示：因降雨园内道路湿滑，部分陡峭路段临时封闭，请在园的游客合理规划游园路线，注意安全。计划来园游客，请关注交通部门信息。
+
+**🇬🇧 Actionable Travel Intel**:  
+Fragrant Hills Park has temporarily closed some steep sections because rain has made paths slippery. Visitors already in the park should plan their routes carefully and take care; those planning to visit should check transport information.
+
+> **Verified Source**: [Beijing Municipal Center Parks Administration (畅游公园, Sina Weibo)](https://weibo.com/2611712133/Rn4La2LOJ)
+
+---
+
+### October 17, 2026 &bull; 12:43 CST
+#### Beijing Parks Suspend Boats as Heavy Rain and Strong Winds Hit
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今天白天阴有大雨，北部和西部部分地区暴雨，北风二级转东风三级左右（阵风五级），最高气温16℃；夜间阴有小雨转晴，东转北风三级左右（阵风六级左右），最低气温12℃。今天白天有明显降雨天气，雨后北风较大，请注意防范。受天气影响，市属公园游船均已暂停运营，感谢您的理解。外出游园，请注意防雷避雨防风和交通安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+Beijing's municipal parks have suspended all boat operations due to the weather. The forecast calls for heavy rain during the day, with torrential rain in northern and western areas, followed by stronger winds at night. Visitors should take precautions against lightning, rain and wind and pay attention to traffic safety.
+
+> **Verified Source**: [Beijing Municipal Center Parks Administration (畅游公园, Sina Weibo)](https://weibo.com/2611712133/Rn4uX7XnL)
+
+---
+
+### October 17, 2026 &bull; 11:28 CST
+#### China Railway to Renumber Trains in Late November and December
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway will change train numbers in two stages: conventional passenger and tourist trains in late November, followed by high-speed, EMU, intercity and suburban passenger trains in late December. The 12306 platform will display the new numbers within the 15-day advance-sale window. Routes and timings remain unchanged under the current timetable, and existing onboard services remain available.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/Rn40t7GRx)
+
+---
+
 ### October 17, 2026 &bull; 09:05 CST
 #### China Railway to Change Train Numbers in Two Batches from Late November
 
