@@ -6,6 +6,32 @@
 
 ---
 
+### October 18, 2026 &bull; 12:35 CST
+#### Shanghai Lists Chongyang Free-Admission Offers for Seniors
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 重阳福利来啦~上海重阳节各景点60周岁以上老人免门票盘点！ 📍上海辰山植物园 🎫 60周岁及以上老人凭有效证件免票入园，可携带一名家属同行免票 📍古猗园 🎫 60周岁以上老人免票 📍 松江区佘山国家森林公园/东佘山 🎫 免费 📍 世博文化公园·双子山 🎫 免费 📍醉白池公园 🎫 60周岁以上老人免票 📍复兴公园“秋日忘年会——全龄艺术园游” 🎫 免费，面向全龄公众开放 📍中国航海博物馆 🎫 60周岁及以上老年人10月18日当天免费
+
+**🇬🇧 Actionable Travel Intel**:  
+For the Chongyang Festival, Shanghai lists free admission for visitors aged 60 and above at several attractions, including Guyi Garden and Zuibai Pond Park. At Chenshan Botanical Garden, visitors aged 60 and above with valid identification enter free and may bring one family member free. The China Maritime Museum offers free admission to visitors aged 60 and above on 18 October.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RndSjf71I)
+
+---
+
+### October 18, 2026 &bull; 10:06 CST
+#### Railway 12306 App Supports Lost-Property Reports
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 不少旅客在乘坐火车出行时，由于大包小包赶路忙，很容易将行李物品遗忘在车站里或列车上。若不慎遗失物品，旅客可以向身边的铁路工作人员寻求帮助，或使用铁路12306App进行遗失物品登记，工作人员在接到遗失物品工单后，会第一时间帮您寻找。（视频：李创 薛雅婧 李达伟 李嘉辉）中国铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Passengers who leave belongings at a station or on a train can ask railway staff for help or use the Railway 12306 app to register a lost-property report. Staff will begin searching after receiving the lost-item work order.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RncTJnWIO)
+
+---
+
 ### October 18, 2026 &bull; 09:21 CST
 #### Qingdao First Bathing Beach Closes Temporarily Due to Strong Winds and Waves
 

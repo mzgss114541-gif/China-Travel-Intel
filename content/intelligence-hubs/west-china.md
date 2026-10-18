@@ -6,6 +6,32 @@
 
 ---
 
+### October 18, 2026 &bull; 11:00 CST
+#### China Eastern to Launch Daily Xi'an–Zhanjiang Flight
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 记者获悉，2026年冬航季，中国东方航空（以下简称“东航”）将于10月25日起，新开西安至湛江航线，往返航班号MU2357/8，每日一班。 具体航班时刻为： ・去程MU2357，每日7:30从西安咸阳国际机场起飞，10:20抵达湛江吴川国际机场； ・返程MU2358，每日11:20从湛江吴川国际机场起飞，14:05抵达西安咸阳国际机场。航线时刻兼顾商务与休闲出行需求，实现“早出午达、午间返程”，方便旅客高效安排行程。 详情戳链接➡️ https://mp.weixin.qq.com/s/1imQHvZPHjCr1igzR_bGkA （via. ）
+
+**🇬🇧 Actionable Travel Intel**:  
+From 25 October, China Eastern will operate a daily Xi'an–Zhanjiang service for the 2026 winter season. Flight MU2357 departs Xi'an Xianyang International Airport at 7:30 and arrives at Zhanjiang Wuchuan International Airport at 10:20. Return flight MU2358 departs Zhanjiang at 11:20 and arrives in Xi'an at 14:05.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RndfBeOog)
+
+---
+
+### October 18, 2026 &bull; 10:00 CST
+#### Quiet-Carriage Rules on China's High-Speed Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 购买“静音车厢”（通常为3号车厢）车票，即视为同意遵守静音约定。需将手机调至静音或振动，接打电话需离开车厢。使用电子产品时需佩戴耳机，且音量不外放。同时，需避免喧哗，照顾儿童避免持续哭闹。车厢内会有明显的“静音”标识，乘务员也会进行提示，共同营造安静旅途。
+
+**🇬🇧 Actionable Travel Intel**:  
+Passengers who buy a quiet-carriage ticket, usually in car 3, agree to follow quiet rules. Phones must be set to silent or vibrate, calls must be taken outside the carriage, electronic devices must use headphones without speaker output, and passengers should avoid loud conversation and prevent children from sustained crying. Quiet signs and staff reminders are provided in the carriage.
+
+> **Verified Source**: [China Railway Xi'an Group (西铁资讯, Sina Weibo)](https://weibo.com/2108237403/RncRg94wd)
+
+---
+
 ### October 17, 2026 &bull; 22:12 CST
 #### Xi'an Metro Advances First-Train Times for the Xi'an Marathon
 

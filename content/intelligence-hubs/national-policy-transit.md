@@ -6,6 +6,32 @@
 
 ---
 
+### October 18, 2026 &bull; 12:07 CST
+#### New Cold Front to Bring Sharp Temperature Drops Across China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，北方接连受冷空气影响，遭遇了同期少见的强降雨，大风降温也在同步进行。预计20日至21日（下周二、周三），新一股冷空气将影响我国。西北、华北和东北局地降温10℃到12℃，长江中下游一带的气温将会迅速下滑，秋意明显。此外，西南、长江中下游以及东北局地还将迎来明显降水。关注气温变化，及时增添衣物！
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold front will affect China on 20–21 October. Parts of Northwest, North and Northeast China may see local temperature drops of 10°C to 12°C, while temperatures in the middle and lower Yangtze River region will fall quickly. Parts of Southwest, the middle and lower Yangtze and Northeast China will also see significant rain. Travelers should monitor temperature changes and add clothing promptly.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RndGNjr2W)
+
+---
+
+### October 18, 2026 &bull; 09:56 CST
+#### Super Typhoon Champi Strengthens Near Guam, Heads Toward Taiwan Waters
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据中央气象台今早（10月18日）消息，今年第30号台风“蔷琵”已于昨天（17日）夜间由强台风级加强为超强台风级。 今天（18日）上午8时，其中心位于关岛西偏南方向约135公里的西北太平洋洋面上，中心附近最大风力17级（62米/秒），中心最低气压为915百帕，七级风圈半径250-350公里，十级风圈半径100-120公里，十二级风圈半径40公里。 预计，“蔷琵”将以每小时15-20公里的速度继续向西偏北方向移动，逐渐向台湾以东洋面靠近，强度还将有所加强。
+
+**🇬🇧 Actionable Travel Intel**:  
+Typhoon Champi intensified from a severe typhoon into a super typhoon overnight and was located about 135 kilometers west-southwest of Guam at 8 a.m. on 18 October. Its maximum winds near the center reached 62 meters per second, with a minimum central pressure of 915 hectopascals. It is forecast to move west-northwest at 15–20 kilometers per hour toward waters east of Taiwan and may strengthen further.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RncPQqBnK)
+
+---
+
 ### October 18, 2026 &bull; 08:25 CST
 #### Typhoon Champi Intensifies into Super Typhoon, Approaching Waters East of Taiwan
 

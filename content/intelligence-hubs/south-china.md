@@ -6,6 +6,19 @@
 
 ---
 
+### October 18, 2026 &bull; 09:50 CST
+#### Guangxi Issues Three-Day Weather and Fire-Risk Advisory
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 预计未来三天，广西受副热带高压控制，低层受偏南气流影响，全区以多云天气为主，部分地区可能会有分散阵雨、局地中到大雨，阵雨持续时间短、分布零散，对昼热夜凉的大局影响不大，午后体感闷热，需尽量减少在气温较高时段外出开展长时间的户外活动，外出时不妨随身携带晴雨伞，以备不时之需。另外，近期降水偏少，广西大部地区森林火险气象等级达到较高等级至高等级，日常需要注意用火用电安全，切勿将火种带入林区，避免引发森林火灾。广西气象的微博视频（来源：广西气象）
+
+**🇬🇧 Actionable Travel Intel**:  
+Guangxi is forecast to remain mostly cloudy over the next three days, with scattered showers and local moderate-to-heavy rain. Afternoons will feel hot, so travelers should reduce prolonged outdoor activity during the hottest periods and carry an umbrella. Forest-fire risk is high to very high in much of the region; do not bring fire sources into forest areas.
+
+> **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RncNu9vvi)
+
+---
+
 ### October 17, 2026 &bull; 18:30 CST
 #### China Railway Unveils Standardized Passenger Train Numbering System
 
