@@ -6,6 +6,32 @@
 
 ---
 
+### October 18, 2026 &bull; 09:44 CST
+#### Park Boat Services Suspended Due to Strong Gusts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 各位游客，因阵风较大，公园游船暂时停航。请大家在出行及游园过程中注意游览安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+Boat services at the park have been temporarily suspended due to strong gusts. Visitors are advised to take care when travelling and while in the park.
+
+> **Verified Source**: [Beijing Municipal Center Parks Administration (畅游公园, Sina Weibo)](https://weibo.com/2611712133/RncKV6BSW)
+
+---
+
+### October 18, 2026 &bull; 08:46 CST
+#### Heilongjiang Forecasts Heavy Snow and Local Blizzards, Road Icing and Low Visibility
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 黑龙江省气象台发布全省天气预报： 18日白天到夜间：大兴安岭北部阴有大雪，局地暴雪，大兴安岭南部、黑河北部阴有小到中雨夹雪，黑河南部、伊春、哈尔滨东部、鹤岗、佳木斯、双鸭山、七台河、鸡西、牡丹江阴有中雨，其他地区阴有小雨。 19日白天到夜间：大兴安岭北部阴有小雪，局地中雪，黑河东部、伊春北部、佳木斯东部、双鸭山东部多云有阵雨或雨夹雪，其他地区多云转晴。 18日白天最高气温：大兴安岭2～4℃，黑河、伊春北部、齐齐哈尔北部6～8℃，哈尔滨、佳木斯西部、牡丹江南部13～15℃，其他地区10～12℃。 18日夜间最低气温：大兴安岭-5～-3℃，黑河、伊春、齐齐哈尔、绥化、哈尔滨、佳木斯西部、牡丹江西部-2～0℃，其他地区0～2℃。 另外，雨雪天气导致道路湿滑，北部地区有道路结冰、积雪或风吹雪，能见度低，南部地区道路湿滑。18日大部地区有7～8级阵风，东部局地9级。出行请注意安全。 天气预报
+
+**🇬🇧 Actionable Travel Intel**:  
+Heilongjiang's meteorological observatory forecasts heavy snow and local blizzards in northern Greater Khingan on October 18, with light to moderate mixed rain and snow in southern Greater Khingan and northern Heihe. Central and southern Heihe, Yichun, eastern Harbin, Hegang, Jiamusi, Shuangyashan, Qitaihe, Jixi and Mudanjiang will see moderate rain, while other areas will see light rain. Daytime highs will range from 2 to 4 degrees Celsius in Greater Khingan and 13 to 15 degrees Celsius in Harbin, western Jiamusi and southern Mudanjiang. Rain and snow will make roads slippery, with icing, snow cover or blowing snow and low visibility in northern areas; most areas will see gusts of force 7 to 8, and locally force 9 in the east.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/Rncnzz143)
+
+---
+
 ### October 17, 2026 &bull; 19:36 CST
 #### Badaling Great Wall North Cableway Suspends Operations for Maintenance
 

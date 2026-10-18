@@ -6,6 +6,19 @@
 
 ---
 
+### October 18, 2026 &bull; 08:25 CST
+#### Typhoon Champi Intensifies into Super Typhoon, Approaching Waters East of Taiwan
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今年第30号台风“蔷琵”已于昨天（17日）夜间由强台风级加强为超强台风级（62米/秒）。预计，“蔷琵”将以每小时10-15公里的速度继续向西偏北方向移动，逐渐向台湾以东洋面靠近，强度还将有所加强。
+
+**🇬🇧 Actionable Travel Intel**:  
+Typhoon Champi intensified from a severe typhoon into a super typhoon on the night of October 17, with maximum winds of 62 meters per second. It is expected to continue moving west-northwest at 10 to 15 kilometers per hour, gradually approaching the waters east of Taiwan, and may strengthen further.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RnceKexoV)
+
+---
+
 ### October 17, 2026 &bull; 18:00 CST
 #### Blue Alert for Gale Winds Renewed by National Meteorological Centre
 

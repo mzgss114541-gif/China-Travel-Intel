@@ -6,6 +6,19 @@
 
 ---
 
+### October 18, 2026 &bull; 09:21 CST
+#### Qingdao First Bathing Beach Closes Temporarily Due to Strong Winds and Waves
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受天气影响，今日海上风浪较大， 为保障安全， 青岛第一海水浴场于 2026年10月17日13:00紧急关闭， 开放时间另行通知。 via：青岛汇泉湾第一海水浴场
+
+**🇬🇧 Actionable Travel Intel**:  
+Qingdao First Bathing Beach was closed at 13:00 on October 17, 2026, due to strong winds and waves. The reopening time will be announced separately.
+
+> **Verified Source**: [Qingdao Municipal Bureau of Culture and Tourism (青岛市文化和旅游局, Sina Weibo)](https://weibo.com/2115980191/RncBx1HvM)
+
+---
+
 ### October 17, 2026 &bull; 10:00 CST
 #### Vehicle-Passenger Boat Offers Day-Trip Access to Changtu Island
 
