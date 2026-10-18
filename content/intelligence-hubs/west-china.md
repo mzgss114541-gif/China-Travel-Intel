@@ -6,6 +6,60 @@
 
 ---
 
+### October 18, 2026 &bull; 15:16 CST
+#### Eight Lhasa Bus Routes Temporarily Rerouted for 122-Day Road Works
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 因色拉北路至当热路路口娘热北路进行道路管网施工，相关路段实行全封闭管理，自2026年10月15日起，拉萨市6路、16路、20路、21路、24路、28路、29路、31路公交线路将临时绕行调整，施工工期暂定为122天。 此次调整涉及部分线路的行驶路线、停靠站点，部分原站点将临时取消，并增设相应临时停靠站点。施工期间，各线路将结合现场围挡设置及实际道路通行情况动态调整。请广大市民及时关注线路变化，提前规划出行路线，合理安排乘车时间，以免耽误行程。 待施工结束、道路具备通行条件后，相关公交线路将第一时间恢复原线路运行。 来源：拉萨公交
+
+**🇬🇧 Actionable Travel Intel**:  
+Because of road and pipe-network construction from Sela North Road to the Niangre North Road intersection at Dangre Road, the affected section is under full closure. From October 15, 2026, Lhasa bus routes 6, 16, 20, 21, 24, 28, 29 and 31 are temporarily rerouted. The construction period is provisionally 122 days. Some routes and stops are affected, some original stops are temporarily cancelled and temporary stops are added. Riders should follow route changes and plan their journeys in advance. The routes will return to their original alignment once construction ends and the road is passable.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RneVvxJVi)
+
+---
+
+### October 18, 2026 &bull; 14:40 CST
+#### Heavy Rain Raises Geological Hazard Risk in Parts of Hubei
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 预计今天鄂西北和随州、荆门北部以阴天到到多云为主，局地有阵雨，省内其他地区还会有小到中雨、局地大雨出现，风力减弱。明天随着新一股冷空气的到来，鄂西南、襄阳南部、荆门北部、鄂东北一线降水再度加强，会有中到大雨、局地暴雨，其他地区有阵雨。后天，冷空气继续南下降水减弱、但北风加大阵风可达5到7级。受强降水影响，神农架、十堰、宜昌、恩施、荆州、荆门、随州、孝感等地部分地区地质灾害气象风险等级较高，请注意防范。
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold air mass will strengthen rainfall in Hubei. Tomorrow, precipitation will intensify again along southwestern Hubei, southern Xiangyang, northern Jingmen and northeastern Hubei, with moderate to heavy rain and local rainstorms. The day after, the cold air continues southward; rainfall weakens but north winds strengthen, with gusts reaching force 5 to 7. Affected by the heavy rain, parts of Shennongjia, Shiyan, Yichang, Enshi, Jingzhou, Jingmen, Suizhou and Xiaogan have a relatively high meteorological risk of geological hazards. Travellers should take precautions.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RneHbl6km)
+
+---
+
+### October 18, 2026 &bull; 14:30 CST
+#### Several Sichuan Scenic Areas Waive Tickets for the Double Ninth Festival and Beyond
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月18日重阳恰逢周末，成都熊猫海洋公园、兴文石海、嘉阳桫椤湖等景区对60岁及以上游客免票。稻城雪山、西岭雪山和瓦屋山仍处于限时免门票期间，所有游客均可免票进入观山赏雪看彩林。 （来源： ）四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 18, the Double Ninth Festival, which falls on a weekend this year, scenic areas including Chengdu Panda Ocean Park, Xingwen Stone Sea and Jiayang Suoluo Lake waive tickets for visitors aged 60 and above. Daocheng Snow Mountain, Xiling Snow Mountain and Wawu Mountain remain in a limited-time free-ticket period, and all visitors can enter without a ticket to view the mountains, snow and autumn foliage.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RneCQ5bUt)
+
+---
+
+### October 18, 2026 &bull; 14:09 CST
+#### Heavy Rain May Delay or Suspend Trains on Several Chongqing Rail Lines
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象部门预报，10月18日至10月20日，重庆市东北部、东南部有一轮强降雨过程。在此轮降水过程中，郑渝高铁、渝厦高铁、沪蓉铁路、万凉铁路、渝怀铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据实际情况封锁线路开展安全巡查，途经旅客列车可能不同程度晚点或停运。在此，铁路部门提醒旅客朋友们出行前关注天气变化，合理安排行程，具体情况详见站车公告、“成都铁路12306”微博或拨打（028）12306成都铁路客服中心电话咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+Heavy rain is forecast for northeastern and southeastern Chongqing from October 18 to October 20. During this period, rainfall on some sections of the Zhengzhou-Chongqing high-speed line, the Xiamen-Chongqing high-speed line, the Shanghai-Chengdu railway, the Wanliang railway and the Yuhuai railway may exceed the limit. To ensure passenger train safety, the railway department will close lines for safety inspections as conditions require, and passenger trains on these routes may be delayed or suspended to varying degrees. Passengers are advised to check the weather before travelling, arrange their journeys accordingly, and refer to station announcements or the 12306 service for details.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/RneuFeyE2)
+
+---
+
 ### October 18, 2026 &bull; 11:00 CST
 #### China Eastern to Launch Daily Xi'an–Zhanjiang Flight
 
