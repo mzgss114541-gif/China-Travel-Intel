@@ -6,6 +6,19 @@
 
 ---
 
+### October 18, 2026 &bull; 20:00 CST
+#### China Railway Explains Daily, Weekend, and Peak-Period Train Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 铁路日常线、周末线、高峰线列车指的是什么？日常线列车通常每日开行，个别车次隔日开行；周末线列车每周逢周五、周六、周日及高峰期开行，个别车次因运行时间不同逢周六、日、一（次周）开行；高峰线列车则是在春运、暑运、小长假等运输期限内临时开行的列车。（杨建春 摄）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway distinguishes daily, weekend, and peak-period trains. Daily trains generally operate every day, though some run every other day. Weekend trains generally operate on Fridays, Saturdays, Sundays, and peak periods, while some follow a Saturday, Sunday, and following-Monday pattern. Peak-period trains are added temporarily during periods such as Spring Festival, summer travel, and short public holidays.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RngMMBGRo)
+
+---
+
 ### October 18, 2026 &bull; 13:00 CST
 #### Railway Station Ticket Windows Accept Cash
 
