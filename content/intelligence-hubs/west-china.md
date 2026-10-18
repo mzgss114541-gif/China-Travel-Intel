@@ -6,6 +6,32 @@
 
 ---
 
+### October 18, 2026 &bull; 21:29 CST
+#### Chengdu-Altay Direct Flights to Increase from October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月18日，记者从相关航司获悉，10月25日起，成都直飞阿勒泰航线加密，最多时一天将有三班直飞。在新航季，国内航司还将在成都新开、加密其他航线，成都计划航班量仅次于北京、上海，位居全国第三。 （来源：成都日报）
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting October 25, direct flights from Chengdu to Altay will be increased, with up to three direct flights per day at peak. Other domestic routes from Chengdu will also be newly opened or increased in the new flight season.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RnhnfFKmd)
+
+---
+
+### October 18, 2026 &bull; 19:00 CST
+#### New Cold Air Mass to Bring 10-12°C Temperature Drops on October 20-21
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 最近，北方接连受冷空气影响，遭遇了同期少见的强降雨，大风降温也在同步进行。预计20日至21日（下周二、周三），新一股冷空气将影响我国。西北、华北和东北局地降温10℃到12℃，长江中下游一带的气温将会迅速下滑，秋意明显。此外，西南、长江中下游以及东北局地还将迎来明显降水。关注气温变化，及时增添衣物！央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold air mass is expected to affect China from October 20 to 21. Parts of Northwest, North, and Northeast China may see temperature drops of 10°C to 12°C, while temperatures in the middle and lower Yangtze River region will fall quickly. Parts of Southwest, the middle and lower Yangtze River region, and Northeast China may also see notable precipitation. Travelers should monitor temperature changes and add clothing promptly.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/Rngorc8YG)
+
+---
+
 ### October 18, 2026 &bull; 15:16 CST
 #### Eight Lhasa Bus Routes Temporarily Rerouted for 122-Day Road Works
 
