@@ -6,6 +6,32 @@
 
 ---
 
+### October 17, 2026 &bull; 22:12 CST
+#### Xi'an Metro Advances First-Train Times for the Xi'an Marathon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年西安马拉松赛将于10月18日(周日)上午07:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。（via. ）西安地铁的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The 2026 Xi'an Marathon will start at 07:30 on October 18 at the east side of Yongningmen South Square. To meet the travel needs of participants, residents and visitors, Xi'an Metro will advance first-train times, increase capacity on key lines, deploy additional staff and strengthen emergency coordination.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/Rn8dS00wM)
+
+---
+
+### October 17, 2026 &bull; 22:10 CST
+#### Cold Wave and Three Meteorological Warnings Affect China; Temperature Drops of 4–10°C
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 转发周知！ 央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave is currently affecting China, with the main temperature drops concentrated in the northwest and north, where maximum temperatures may fall by 4 to 10 degrees Celsius. Tomorrow, maximum temperatures will also drop in Inner Mongolia, the northeast and much of the middle and lower Yangtze, with maximum drops of 4 to 10 degrees. Around October 21, the 0°C line will push south to central Shaanxi, southern Shanxi and northern Hebei. The Central Meteorological Observatory continued to issue blue warnings for rainstorms, severe convection and gales, with heavy to torrential rain in parts of 15 provinces and regions, local heavy rainstorms in Shandong and Liaoning, and thunderstorms with winds of force 10 or above in parts of Henan, Hubei and Hunan.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/Rn8d6FSlX)
+
+---
+
 ### October 17, 2026 &bull; 12:02 CST
 #### Xi'an Metro to Start Eight Lines Earlier for Marathon
 
