@@ -6,6 +6,32 @@
 
 ---
 
+### October 18, 2026 &bull; 13:00 CST
+#### Railway Station Ticket Windows Accept Cash
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 不会使用线上购票？不用担心！车站人工售票窗口全部支持现金购票，许多火车站的爱心窗口提供放大镜、老花镜等物品，为银发旅客购票提供便利。
+
+**🇬🇧 Actionable Travel Intel**:  
+All manual ticket windows at railway stations support cash ticket purchases. Many stations also provide magnifying glasses and reading glasses at courtesy windows for older passengers.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/Rne2jazkE)
+
+---
+
+### October 18, 2026 &bull; 12:35 CST
+#### Northeast China Warned of Widespread Heavy Rain and Snow
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 一场范围广、强度大的雨雪正在奔赴东北。天气变化很快，外出记得添衣、减速慢行、减少不必要外出，愿所有人平安度过这轮雨雪过程￼￼￼。 （视频来源：央视一套） 哈尔滨校园的微博视频 编辑：王华琳 初审：柳絮 复审：师锁伟 终审：曹昊
+
+**🇬🇧 Actionable Travel Intel**:  
+A widespread and intense rain-and-snow event is forecast for Northeast China. Travelers should dress warmly, reduce speed when traveling, avoid unnecessary outings and monitor rapid weather changes.
+
+> **Verified Source**: [Changchun Municipal Bureau of Culture and Tourism (长春文旅, Sina Weibo)](https://weibo.com/2798034700/RndShtJap)
+
+---
+
 ### October 18, 2026 &bull; 09:44 CST
 #### Park Boat Services Suspended Due to Strong Gusts
 
