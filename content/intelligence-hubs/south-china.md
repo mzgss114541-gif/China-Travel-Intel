@@ -6,6 +6,19 @@
 
 ---
 
+### October 19, 2026 &bull; 16:23 CST
+#### Heavy Rain and Snow Warning for Chongqing and Hubei
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 你感觉到降温了吗？新一股冷空气来了! 10月19日起，重庆、湖北等地部分地区有暴雨或大暴雨，北方部分地区有降雪，21日早晨最低气温0℃线将向南推进。（via.重庆广电第1眼） 重庆广电第1眼的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+From 19 October, parts of Chongqing and Hubei may experience heavy to torrential rain, while some northern areas may see snow. The 0°C line is forecast to move south by the morning of 21 October.
+
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RnoNcsiIp)
+
+---
+
 ### October 19, 2026 &bull; 13:41 CST
 #### Nanning Warns of Cold Air, Rain and Thunderstorms from 21 October
 
@@ -16,6 +29,58 @@
 A cold air mass will reach Nanning on 21 October, bringing cooler temperatures and rain. Over the next five days, the city will be mostly cloudy with local showers or thunderstorms. Travelers should add clothing and monitor conditions.
 
 > **Verified Source**: [Nanning Municipal Bureau of Culture and Tourism (南宁文旅, Sina Weibo)](https://weibo.com/1971263622/RnnJCwg1Y)
+
+---
+
+### October 19, 2026 &bull; 12:00 CST
+#### New High-Speed Train Links Chengdu and Wuhan in Five and a Quarter Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 随着宜昌至兴山高速铁路开通运营，成都东站开往汉口站的G3979/3982次列车10月11日上线，成为川渝通往武汉的最快列车，全程运行5小时15分，较此前压缩1小时44分钟。宜兴高铁连接沪渝蓉沿江高铁与郑渝高铁两大干线，将巴蜀大地与荆楚江城紧密相连，川鄂时空距离大幅缩短。清晨在成都品味麻辣鲜香，午后便可驻足武汉黄鹤楼俯瞰长江奔涌，成都、武汉实现当日往返。
+
+**🇬🇧 Actionable Travel Intel**:  
+The G3979/3982 train from Chengdu East to Hankou began operating on 11 October after the Yichang–Xingshan high-speed railway opened. It is the fastest train between the Sichuan-Chongqing region and Wuhan, with a total journey of five and a quarter hours, 1 hour 44 minutes faster than before. Chengdu and Wuhan can now be visited as a same-day round trip.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rnn4s2DM3)
+
+---
+
+### October 19, 2026 &bull; 11:00 CST
+#### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。（来源：汉中城固机场）
+
+**🇬🇧 Actionable Travel Intel**:  
+Hanzhong Airport will begin its 2026 winter-spring flight schedule on October 25. Hanzhong-Shenzhen and Hanzhong-Guiyang services will increase to one flight daily; a new Hanzhong-Lanzhou route will operate on Tuesdays, Thursdays and Saturdays; and schedules for Shenzhen, Hangzhou and Shanghai will be adjusted, including a new afternoon departure from Shenzhen. Flight times are for reference, and travelers should confirm details through live booking systems.
+
+> **Verified Source**: [Hanzhong Municipal Bureau of Culture and Tourism (汉中市文化和旅游局, Sina Weibo)](https://weibo.com/2360269453/RnmG63F0e)
+
+---
+
+### October 18, 2026 &bull; 14:40 CST
+#### Heavy Rain Raises Geological Hazard Risk in Parts of Hubei
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 预计今天鄂西北和随州、荆门北部以阴天到到多云为主，局地有阵雨，省内其他地区还会有小到中雨、局地大雨出现，风力减弱。明天随着新一股冷空气的到来，鄂西南、襄阳南部、荆门北部、鄂东北一线降水再度加强，会有中到大雨、局地暴雨，其他地区有阵雨。后天，冷空气继续南下降水减弱、但北风加大阵风可达5到7级。受强降水影响，神农架、十堰、宜昌、恩施、荆州、荆门、随州、孝感等地部分地区地质灾害气象风险等级较高，请注意防范。
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold air mass will strengthen rainfall in Hubei. Tomorrow, precipitation will intensify again along southwestern Hubei, southern Xiangyang, northern Jingmen and northeastern Hubei, with moderate to heavy rain and local rainstorms. The day after, the cold air continues southward; rainfall weakens but north winds strengthen, with gusts reaching force 5 to 7. Affected by the heavy rain, parts of Shennongjia, Shiyan, Yichang, Enshi, Jingzhou, Jingmen, Suizhou and Xiaogan have a relatively high meteorological risk of geological hazards. Travellers should take precautions.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RneHbl6km)
+
+---
+
+### October 18, 2026 &bull; 11:00 CST
+#### China Eastern to Launch Daily Xi'an–Zhanjiang Flight
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 记者获悉，2026年冬航季，中国东方航空（以下简称“东航”）将于10月25日起，新开西安至湛江航线，往返航班号MU2357/8，每日一班。 具体航班时刻为： ・去程MU2357，每日7:30从西安咸阳国际机场起飞，10:20抵达湛江吴川国际机场； ・返程MU2358，每日11:20从湛江吴川国际机场起飞，14:05抵达西安咸阳国际机场。航线时刻兼顾商务与休闲出行需求，实现“早出午达、午间返程”，方便旅客高效安排行程。 详情戳链接➡️ https://mp.weixin.qq.com/s/1imQHvZPHjCr1igzR_bGkA （via. ）
+
+**🇬🇧 Actionable Travel Intel**:  
+From 25 October, China Eastern will operate a daily Xi'an–Zhanjiang service for the 2026 winter season. Flight MU2357 departs Xi'an Xianyang International Airport at 7:30 and arrives at Zhanjiang Wuchuan International Airport at 10:20. Return flight MU2358 departs Zhanjiang at 11:20 and arrives in Xi'an at 14:05.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RndfBeOog)
 
 ---
 
@@ -58,6 +123,32 @@ The core area of Panlongcheng National Archaeological Site Park will be closed f
 
 ---
 
+### October 16, 2026 &bull; 18:11 CST
+#### Strong Cold Air to Bring High Winds, Temperature Drops and Rain or Snow Across Central and Eastern China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 较强冷空气将影响我国中东部地区，带来大范围大风、降温和雨雪天气。 预计10月16日20时至17日20时，内蒙古中部、宁夏中南部、陕西北部和东南部、山西中北部、河北中北部和东部、北京、天津、山东中西部、辽宁西南部、河南东部和南部、安徽北部、江苏西北部、湖北中西部、四川东北部、重庆北部、湖南北部等地部分地区有大到暴雨，其中，北京西部沿山、河南东南部等地局地有大暴雨(100～140毫米)。内蒙古东北部、青藏高原东部等地局地有大到暴雪（5～15毫米）。新疆东部和南部、青海北部和中东部、内蒙古中西部、宁夏、陕西中北部、山西西部、辽宁南部、河北北部、天津、山东等地部分地区有5～7级风； 10月17日20时至18日20时，内蒙古东北部、黑龙江北部等地部分地区有中到大雪或雨夹雪，其中，黑龙江西北部局地有暴雪（10～15毫米）。东北地区、内蒙古东部、山东半岛、江苏、安徽、湖北、湖南西北部、重庆东部、贵州东北部等地部分地区有中到大雨，其中，辽宁中南部、湖北南部、湖南西北部等地部分地区有暴雨（50～80毫米）。内蒙古东部、东北地区、青藏高原、广西南部的部分地区有5～7级风；黄海北部海域有7～8级风、阵风9级，渤海、渤海海峡、黄海中部和南部海域有6～7级风、阵风8级。
+
+**🇬🇧 Actionable Travel Intel**:  
+China's national meteorological authority forecasts that strong cold air will affect central and eastern China, bringing widespread strong winds, temperature drops and rain or snow. From the evening of October 16 to the evening of October 17, parts of central Inner Mongolia, south-central Ningxia, northern and southeastern Shaanxi, central and northern Shanxi, central-northern and eastern Hebei, Beijing, Tianjin, central-western Shandong, southwestern Liaoning, eastern and southern Henan, northern Anhui, northwestern Jiangsu, central-western Hubei, northeastern Sichuan, northern Chongqing and northern Hunan are expected to see heavy to torrential rain, with locally severe torrential rain of 100 to 140 mm in western Beijing along the mountains and in southeastern Henan. Local heavy to severe snowstorms of 5 to 15 mm are expected in northeastern Inner Mongolia and eastern parts of the Qinghai-Tibet Plateau. Parts of eastern and southern Xinjiang, northern and central-eastern Qinghai, central-western Inner Mongolia, Ningxia, central-northern Shaanxi, western Shanxi, southern Liaoning, northern Hebei, Tianjin and Shandong will see level 5 to 7 winds. From the evening of October 17 to the evening of October 18, parts of northeastern Inner Mongolia and northern Heilongjiang will see moderate to heavy snow or sleet, with local blizzards of 10 to 15 mm in northwestern Heilongjiang. Moderate to heavy rain is expected in parts of the Northeast, eastern Inner Mongolia, the Shandong Peninsula, Jiangsu, Anhui, Hubei, northwestern Hunan, eastern Chongqing and northeastern Guizhou, with torrential rain of 50 to 80 mm in parts of central-southern Liaoning, southern Hubei and northwestern Hunan. Parts of eastern Inner Mongolia, the Northeast, the Qinghai-Tibet Plateau and southern Guangxi will see level 5 to 7 winds; the northern Yellow Sea will see level 7 to 8 winds with gusts of level 9, while the Bohai Sea, the Bohai Strait and the central and southern Yellow Sea will see level 6 to 7 winds with gusts of level 8.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmXdR1V18)
+
+---
+
+### October 16, 2026 &bull; 17:22 CST
+#### Shenzhen Station Entry Gates Upgraded at the Luohu Border Crossing
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 从连接香港特别行政区与广东省深圳市的罗湖口岸入境，步行10分钟便可抵达深圳站进站口。在这里，旅客进站最快5秒就能完成刷脸核验。为迎接11月即将举行的2026年深圳APEC峰会，深圳站于近期完成进出站通道及实名制核验闸机改造。 最快5秒核验进站！铁路从这里与香港相连
+
+**🇬🇧 Actionable Travel Intel**:  
+Travellers entering through the Luohu Port, which links the Hong Kong SAR with Shenzhen in Guangdong, can reach the Shenzhen Station entrance on foot in about 10 minutes. At Shenzhen Station, passengers can complete face-recognition verification to enter the station in as little as 5 seconds. Shenzhen Station recently completed renovation of its entry and exit passages and its real-name verification gates, ahead of the Shenzhen APEC summit to be held in November 2026.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/RmWTEEADX)
+
+---
+
 ### October 16, 2026 &bull; 14:00 CST
 #### Wudangshan Airport Opens Temporarily for 62 Days with Added International Routes
 
@@ -71,6 +162,21 @@ Wudangshan Airport in Shiyan, Hubei, is temporarily open for international and r
 
 ---
 
+### October 16, 2026 &bull; 12:12 CST
+#### Tibet Airlines to Add Two Lhasa Round-Trip Routes, Including Hong Kong via Chengdu Shuangliu from November 29
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 来源：西藏航空
+
+**🇬🇧 Actionable Travel Intel**:  
+Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmURPubmY)
+
+---
+
 ### October 16, 2026 &bull; 11:15 CST
 #### Ezhou Airport Expressway Phase II Opens, Cutting Travel Time to Huahu International Airport
 
@@ -81,6 +187,19 @@ Wudangshan Airport in Shiyan, Hubei, is temporarily open for international and r
 Phase II of the Ezhou Airport Expressway opened for trial operation at midnight on October 16, with the Taihe East toll station also opening and nationwide networked tolling applied. The roughly 36.57-km main line has six lanes in both directions and a design speed of 120 km/h. After opening, driving time from Daye to Ezhou Huahu International Airport is cut from about one hour to 20 minutes, and from Taihe Town in Liangzi Lake District to Huahu Airport from one hour to 30 minutes.
 
 > **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmUuHbdoq)
+
+---
+
+### October 16, 2026 &bull; 11:08 CST
+#### China Southern Adds Five New Xinjiang Routes for the Winter-Spring Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！（来源 | 南航新疆分公司） 🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
+
+**🇬🇧 Actionable Travel Intel**:  
+China Southern Airlines' Xinjiang branch has added five new routes for the winter-spring season. Urumqi-Chongqing-Jieyang (CZ8235/6) operates daily; Urumqi-Taiyuan-Lianyungang (CZ8633/4) operates on Mondays, Tuesdays, Thursdays and Saturdays; Urumqi-Taiyuan-Jiaxing (CZ5195/6) operates on Wednesdays, Fridays and Sundays; Urumqi-Chengdu Shuangliu (CZ6945/6) operates daily; and Urumqi-Shanghai Pudong (CZ6993/4) operates daily.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RmUs5x09H)
 
 ---
 
@@ -123,6 +242,19 @@ Following the fourth-quarter timetable adjustment, additional early-morning trai
 
 ---
 
+### October 15, 2026 &bull; 07:00 CST
+#### Cold Wave and Mountain-Flood Warning Issued for Mid-October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
+
+---
+
 ### October 14, 2026 &bull; 19:50 CST
 #### Northern Hunan Braces for Heavy Rain as Provincial Authorities Issue Flood-Season Reminder
 
@@ -146,6 +278,19 @@ On October 14, the Office of the Hunan Provincial Emergency Committee issued a f
 With the national railway timetable for the fourth quarter of 2026 taking effect at midnight on October 11, Dongguan East Station has adjusted 15 passenger and freight trains. On the passenger side, the Chongqing East to Huizhou K686 train has changed its stopping times, arriving at 12:24 and departing at 12:30; another 13 long-distance conventional trains have had stops and running times optimized, covering the Sichuan-Chongqing, Northwest, Jiangxi-Shandong and East China directions. On the freight side, train 80042/1/2 has been upgraded to the express intercity service X232/3/2, improving the freight corridor from Lancun West to Dongguan East. Railway authorities advise passengers to confirm times via the 12306 platform and station notices, and to allow enough time for security checks and boarding.
 
 > **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RmEdCEYoT)
+
+---
+
+### October 14, 2026 &bull; 17:02 CST
+#### Hefeng Pingshan Scenic Area to Close Temporarily from October 15 Due to Heavy Rain
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据鹤峰县气象部门发布的最新气象预警信息，近日鹤峰县将出现强降雨天气。屏山旅游景区自2026年10月15日起采取临时闭园措施，恢复开园时间将根据天气情况确定。请游客朋友们合理安排行程。（来源：鹤峰屏山旅游景区）
+
+**🇬🇧 Actionable Travel Intel**:  
+Hefeng Pingshan Scenic Area will adopt temporary closure measures starting October 15, 2026, after Hefeng County meteorological authorities issued a weather alert warning of heavy rainfall in the coming days. The reopening date will be determined based on weather conditions. Visitors are advised to arrange their itineraries accordingly.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RmDUyrsBe)
 
 ---
 
@@ -198,6 +343,32 @@ The China Airshow will be held in Zhuhai from December 7 to December 13. Public-
 The Huangshi Yangtze River Highway Bridge will be placed under full closure across the entire bridge section around the clock starting at midnight on October 15. The bridge, opened to traffic in 1995, will be rebuilt on its existing site as a 750-meter single-span composite cable-stayed bridge with six lanes in both directions, a design speed of 80 km/h, and a construction period of about five years.
 
 > **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmB9g9Hgb)
+
+---
+
+### October 14, 2026 &bull; 09:00 CST
+#### New G3979 High-Speed Service Cuts Chengdu-Hankou Run to 5h 15m
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日，由中国铁路成都局集团有限公司成都客运段担当的G3979次动车组从成都东站驶出开往汉口站，此次开行的G3979次列车经由宜兴高铁运行，串联沪渝蓉沿江高铁与郑渝高铁两大干线，途经重庆北、万州北、宜昌北，共设5个停车站，全程运行时间5小时15分，较此前成都东至汉口间最快列车压缩1小时44分。成都客运段“芙蓉花班组”不断提升服务品质，为旅客营造温馨舒适的旅途出行环境。
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11, the G3979 high-speed train, operated by the Chengdu Passenger Transport Section of China Railway Chengdu Group, departed Chengdu East Station bound for Hankou Station. The service runs via the Yichang-Xingshan high-speed line, linking the Shanghai-Chongqing-Chengdu and Zhengzhou-Chongqing corridors. It calls at Chongqing North, Wanzhou North and Yichang North among five stops in total, with a total journey time of 5h 15m, 1h 44m faster than the previous fastest Chengdu East-Hankou service.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RmAKU9DzH)
+
+---
+
+### October 14, 2026 &bull; 07:54 CST
+#### Heavy Rain Warning Across Southwest and Central-South China Through October 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
+
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmAka5Y3E)
 
 ---
 
@@ -266,6 +437,19 @@ Tianmenshan Scenic Area announced that maintenance on the Tianmen Cave Fast Cabl
 
 ---
 
+### October 12, 2026 &bull; 08:05 CST
+#### China Railway Kunming Group: Mohan Railway Port No-Visa-on-Arrival Notice and Kunming South High-Speed Rail Ticket Update
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 余票充足； 昆明南—北京方向 余票充足； 昆明南—上海方向 余票充足； 昆明南—广州方向 余票充足； 昆明南—深圳方向 余票充足； 昆明南—武汉方向 余票充足； 昆明南—成都方向 余票充足； 昆明南—重庆方向 余票充足； 昆明南—贵阳方向 余票充足； 昆明南—南宁方向 余票充足； 小提示：磨憨铁路口岸不办理落地签，国内昆明、昆明南、普洱、西双版纳、磨憨车站可换纸质车票。铁路12306是唯一官方售票平台，请勿通过第三方平台提供账号和身份证信息。出门前请再确认一次日期、车站和时间，祝您旅途愉快。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Kunming Group reminds passengers that Mohan Railway Port does not process visas on arrival, and paper tickets can be exchanged at domestic railway stations including Kunming, Kunming South, Pu'er, Xishuangbanna, and Mohan. High-speed rail tickets departing Kunming South toward Beijing, Shanghai, Guangzhou, Shenzhen, Wuhan, Chengdu, Chongqing, Guiyang, and Nanning currently have sufficient availability. Railway 12306 is the sole official ticketing platform; travelers are advised not to share account or identity information with third-party platforms and to reconfirm travel date, station, and departure time before boarding.
+
+> **Verified Source**: [China Railway Kunming Group (昆明铁路, Sina Weibo)](https://weibo.com/1920078035/RmhxNEbdc)
+
+---
+
 ### October 11, 2026 &bull; 20:00 CST
 #### Wuhan Metro Sets Up Free Self-Service Luggage Storage at Key Stations
 
@@ -276,6 +460,19 @@ Tianmenshan Scenic Area announced that maintenance on the Tianmen Cave Fast Cabl
 Wuhan Metro has set up temporary oversized luggage storage points at stations including Simenkou Yellow Crane Tower Station, Liyuan Station, and Wuchang Railway Station. Travelers can store their large baggage inside these stations using free self-service facilities.
 
 > **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmcNj8Loq)
+
+---
+
+### October 11, 2026 &bull; 12:07 CST
+#### Fastest High-Speed Train Linking Sichuan-Chongqing to Wuhan Commences Service via Yichang-Xingshan HSR
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日8时30分，G3979/3982次列车从成都东站驶出，开往汉口。这趟列车依托刚刚开通运营的宜兴高铁，成为川渝地区往返武汉的最快列车，全程仅需5小时15分，较原有线路压缩1小时44分钟。（文图：胡志强 费思童 韩旭刚）
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11 at 8:30, train G3979/3982 departed Chengdu East Station for Hankou. Operating via the newly opened Yichang-Xingshan High-Speed Railway, it becomes the fastest service connecting the Sichuan-Chongqing region and Wuhan, reducing previous travel time by 1 hour and 44 minutes.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Rm9HuwTq6)
 
 ---
 
@@ -395,6 +592,19 @@ On October 7, the final day of the National Day holiday, China Railway Guangzhou
 
 ---
 
+### October 8, 2026 &bull; 08:31 CST
+#### China State Railway Group: Peak Return Passengers Handled with 2,449 Extra Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【全国铁路迎来返程客流最高峰！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。10月6日，全国铁路发送旅客2160.5万人次，连续三天旅客发送量超2000万人次，运输安全平稳有序。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、西安、武汉、杭州、重庆等。各地铁路部门积极应对客流高峰，在热门方向和区间及时增加运力投放，保障旅客平安有序温馨出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group reported that national railways handled their return passenger peak on October 7, with an estimated 24,150,000 passenger journeys and 2,449 additional passenger trains scheduled. On October 6, 21,605,000 passengers were dispatched. Top departure cities identified through Railway 12306 included Beijing, Guangzhou, Chengdu, Xi'an, Wuhan, Hangzhou, and Chongqing.
+
+> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
+
+---
+
 ### October 7, 2026 &bull; 20:02 CST
 #### Zhangjiajie Tianmen Mountain: Tianmen Cave Express Cableway Suspended for Maintenance from October 8 to 12
 
@@ -418,6 +628,32 @@ On October 7, the final day of the National Day holiday, China Railway Guangzhou
 From October 8 to 12, the Tianmen Cave Express Cableway at Zhangjiajie Tianmen Mountain Scenic Area is suspended for maintenance. During this period, the scenic area opens only the round-trip cableway Line A tour (ticket sales from 6:30 to 16:00, passenger operations starting at 7:00), while round-trip Line B and Line C packages and one-way Line 1 and Line 2 packages are suspended. Because the lower section of the Tianmen Mountain Cableway (lower station to middle station) operates normally while the upper section (middle station to summit upper station) remains closed for renovation, the temporary Line A route runs from the Cableway Lower Station up to the Middle Station, transfers by scenic shuttle bus to Tianmen Cave, takes the 7-level trans-mountain escalator (upper escalator) behind Tianmen Cave to the summit and back down to Tianmen Cave, returns by scenic shuttle bus from Tianmen Cave Square to the Cableway Middle Station, and descends via the Tianmen Mountain Cableway to the Lower Station. Note: the Line A ticket covers the transport segments listed along this route, but excludes the one-way uphill ride on the lower escalator to Tianmen Cave.
 
 > **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/RlB68m3n2)
+
+---
+
+### October 7, 2026 &bull; 18:04 CST
+#### Yangtze River Delta Railway: Historic Peak Dispatched with 557 Relief Trains & 210 Overnight Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【长三角铁路迎来返程客流最高峰 增开夜间高铁210列！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，上铁集团当天预计发送旅客415万人次，较去年同比增长17.7%。上铁集团在启用高峰线运行图的基础上，计划增开南昌、武汉、广州、郑州、临沂等方向旅客列车557列（其中直通旅客列车216列，管内旅客列车341列），组织427列动车组列车重联运行；同时，计划于10月7日晚间至10月8日凌晨增开夜间高铁列车210列，重点补充管内及直通热门方向运力，更好地满足旅客乘车出行需求。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an estimated 4,150,000 passenger dispatches (+17.7% YoY) across the Yangtze River Delta network. Authorities scheduled 557 additional passenger trains (216 direct, 341 regional) toward destinations including Nanchang, Wuhan, Guangzhou, Zhengzhou, and Linyi, coupled 427 EMU trainsets, and operated 210 overnight high-speed trains between the evening of October 7 and the early morning of October 8.
+
+> **Verified Source**: [China Railway Shanghai Group (中国铁路上海局, Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
+
+---
+
+### October 7, 2026 &bull; 13:03 CST
+#### China Customs Issues Inbound Quarantine Reminder: Prohibitions on Meat, Bird's Nest, and Fresh Fruits
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，北京海关在1名进境旅客的行李中查获冻肉11千克，深圳海关在1名进境旅客的行李中查获藏匿在奶粉罐中的燕窝423克，重庆海关在1名进境旅客行李中查获龙宫果3.5千克，大连海关在1名进境旅客行李中查获柿子2.67千克。依据《中华人民共和国禁止携带、寄递进境的动植物及其产品和其他检疫物名录》，海关对上述物品实施截留处置。 上述动植物产品来源不明，可能携带非洲猪瘟病毒、高致病性禽流感病毒等动物病原体，大洋臀纹粉蚧、地中海实蝇等植物检疫性有害生物，一旦携带入境，极易引发重大动植物疫情，危害我国农林牧渔业生产，威胁国家生物安全。 海关提醒：根据《中华人民共和国生物安全法》和《中华人民共和国进出境动植物检疫法》及其实施条例等法律法规，未经审批禁止携带、寄递肉类、燕窝、新鲜水果等《中华人民共和国禁止携带、寄递进境的动植物及其产品和其他检疫物名录》内的物品进境。如有携带，应主动向海关申报。
+
+**🇬🇧 Actionable Travel Intel**:  
+The General Administration of Customs reminded inbound travelers that bringing meat products, bird's nest, and fresh fruits into China is strictly prohibited without prior official approval under border quarantine regulations. Arriving passengers carrying any restricted biological items must declare them to Customs for official quarantine inspection, and failure to comply carries legal liability under border health and biosecurity laws.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RlymrysSL)
 
 ---
 
@@ -484,6 +720,19 @@ China Railway Wuhan Bureau announced that starting September 29, 2026, the forme
 
 ---
 
+### October 3, 2026 &bull; 16:57 CST
+#### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
+
+---
+
 ### October 3, 2026 &bull; 16:21 CST
 #### Hainan High-Speed Loop: Pilot "Bike-on-Train" Service Available via 12306 App
 
@@ -533,3 +782,16 @@ Guangxi cultural and tourism authorities announced that online reservations for 
 Guilin Maritime Safety Administration and Li River scenic authorities outlined vessel safety regulations: Three-star and four-star luxury cruises on the Li River operate under real-name ticketing with no upper age limit. Conversely, bamboo rafts along the Li River and Yulong River enforce strict real-name bookings and prohibit children under 1.2 meters in height, adults aged 70 and above, and individuals with cardiovascular conditions. Raft operations suspend dynamically during heavy rainfall or strong convective weather.
 
 > **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (桂林海事局与漓江景区, Official Portal)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
+
+---
+
+### September 28, 2026 &bull; 18:04 CST
+#### Yichang–Xingshan High-Speed Railway Enters Service Connecting Yangtze Corridor
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 9月28日清晨，群山环抱下的兴山站十分热闹。站前广场上人潮涌动，舞狮表演、昭君小戏、踩堂戏、汉服快闪等特色节目轮番上演，处处洋溢着喜庆的氛围。9时58分，随着一声风笛长鸣，G6888次首发列车缓缓驶离兴山站，向宜昌北站疾驰而去，标志着宜兴高铁正式开通运营。至此，沪渝蓉沿江高铁与郑渝高铁成功“牵手”，兴山至宜昌两地火车出行半小时可达，武汉至重庆时空距离进一步压缩，两地最快3小时54分钟可达。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Yichang–Xingshan High-Speed Railway officially entered commercial passenger service on September 28 as train G6888 departed Xingshan Station towards Yichang North Station at 9:58. The line connects the Yangtze River corridor with the Zhengzhou–Chongqing High-Speed Railway, cutting rail travel time between Xingshan and Yichang to half an hour and reducing Wuhan–Chongqing travel time to 3 hours 54 minutes.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rkdu7u1Qm)

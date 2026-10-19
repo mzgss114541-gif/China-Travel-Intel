@@ -45,6 +45,19 @@ Shaanxi's meteorological observatory issued a cold-wave blue warning effective f
 
 ---
 
+### October 19, 2026 &bull; 12:00 CST
+#### New High-Speed Train Links Chengdu and Wuhan in Five and a Quarter Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 随着宜昌至兴山高速铁路开通运营，成都东站开往汉口站的G3979/3982次列车10月11日上线，成为川渝通往武汉的最快列车，全程运行5小时15分，较此前压缩1小时44分钟。宜兴高铁连接沪渝蓉沿江高铁与郑渝高铁两大干线，将巴蜀大地与荆楚江城紧密相连，川鄂时空距离大幅缩短。清晨在成都品味麻辣鲜香，午后便可驻足武汉黄鹤楼俯瞰长江奔涌，成都、武汉实现当日往返。
+
+**🇬🇧 Actionable Travel Intel**:  
+The G3979/3982 train from Chengdu East to Hankou began operating on 11 October after the Yichang–Xingshan high-speed railway opened. It is the fastest train between the Sichuan-Chongqing region and Wuhan, with a total journey of five and a quarter hours, 1 hour 44 minutes faster than before. Chengdu and Wuhan can now be visited as a same-day round trip.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rnn4s2DM3)
+
+---
+
 ### October 19, 2026 &bull; 11:00 CST
 #### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
 
@@ -68,6 +81,21 @@ Hanzhong Airport will begin its 2026 winter-spring flight schedule on October 25
 The Binggou River Scenic Area in the Qilian Mountains will have its final opening day of the year on November 1, 2026, and will officially close for the season from November 2.
 
 > **Verified Source**: [Gansu Provincial Department of Culture and Tourism (微游甘肃, Sina Weibo)](https://weibo.com/6317297386/Rnm0ht43G)
+
+---
+
+### October 19, 2026 &bull; 09:00 CST
+#### New Cold Wave to Bring Temperature Drops and Strong Winds Across Central and Eastern China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 刚刚过去的这个周末，一股较强冷空气横扫中东部地区。北方朋友的秋裤、厚外套可能已经紧急“上岗”。10月20日至21日，在新一股冷空气影响下，中东部地区大部将先后有4℃至8℃降温，西北地区东部、华北和东北地区南部等部分地区将会降温10℃至12℃。预计，10月18日20时至19日20时，新疆东部、内蒙古大部、辽宁西部和北部、吉林西部、黑龙江中南部、青海大部、山西北部、河北北部、西藏大部等地部分地区有5～7级风，阵风8～9级。中央气象台10月18日18时继续发布大风蓝色预警。 在接连两轮冷空气的影响下，下周前半段，长江以北大部地区气温都将维持在偏低水平，最高和最低气温都将有频繁创新低的情况。临近霜降时节，北方寒意袭人，南方凉意加重。提醒大家，要关注短期天气预报，及时增减衣物，顺应昼夜温差，做好防护。
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold wave will affect most of central and eastern China from October 20 to 21, bringing temperature drops of 4 to 8 degrees Celsius, with drops of 10 to 12 degrees Celsius in parts of eastern Northwest China, North China and southern Northeast China. From the evening of October 18 to the evening of October 19, parts of eastern Xinjiang, most of Inner Mongolia, western and northern Liaoning, western Jilin, central and southern Heilongjiang, most of Qinghai, northern Shanxi, northern Hebei and most of Tibet are forecast to have force 5 to 7 winds and gusts of force 8 to 9. The Central Meteorological Observatory continued a blue gale warning on the evening of October 18.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnlTopuW4)
 
 ---
 
@@ -110,19 +138,6 @@ Starting October 25, direct flights from Chengdu to Altay will be increased, wit
 
 ---
 
-### October 18, 2026 &bull; 19:00 CST
-#### New Cold Air Mass to Bring 10-12°C Temperature Drops on October 20-21
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 最近，北方接连受冷空气影响，遭遇了同期少见的强降雨，大风降温也在同步进行。预计20日至21日（下周二、周三），新一股冷空气将影响我国。西北、华北和东北局地降温10℃到12℃，长江中下游一带的气温将会迅速下滑，秋意明显。此外，西南、长江中下游以及东北局地还将迎来明显降水。关注气温变化，及时增添衣物！央视新闻的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-A new cold air mass is expected to affect China from October 20 to 21. Parts of Northwest, North, and Northeast China may see temperature drops of 10°C to 12°C, while temperatures in the middle and lower Yangtze River region will fall quickly. Parts of Southwest, the middle and lower Yangtze River region, and Northeast China may also see notable precipitation. Travelers should monitor temperature changes and add clothing promptly.
-
-> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/Rngorc8YG)
-
----
-
 ### October 18, 2026 &bull; 15:16 CST
 #### Eight Lhasa Bus Routes Temporarily Rerouted for 122-Day Road Works
 
@@ -135,19 +150,6 @@ Because of road and pipe-network construction from Sela North Road to the Niangr
 > 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RneVvxJVi)
-
----
-
-### October 18, 2026 &bull; 14:40 CST
-#### Heavy Rain Raises Geological Hazard Risk in Parts of Hubei
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 预计今天鄂西北和随州、荆门北部以阴天到到多云为主，局地有阵雨，省内其他地区还会有小到中雨、局地大雨出现，风力减弱。明天随着新一股冷空气的到来，鄂西南、襄阳南部、荆门北部、鄂东北一线降水再度加强，会有中到大雨、局地暴雨，其他地区有阵雨。后天，冷空气继续南下降水减弱、但北风加大阵风可达5到7级。受强降水影响，神农架、十堰、宜昌、恩施、荆州、荆门、随州、孝感等地部分地区地质灾害气象风险等级较高，请注意防范。
-
-**🇬🇧 Actionable Travel Intel**:  
-A new cold air mass will strengthen rainfall in Hubei. Tomorrow, precipitation will intensify again along southwestern Hubei, southern Xiangyang, northern Jingmen and northeastern Hubei, with moderate to heavy rain and local rainstorms. The day after, the cold air continues southward; rainfall weakens but north winds strengthen, with gusts reaching force 5 to 7. Affected by the heavy rain, parts of Shennongjia, Shiyan, Yichang, Enshi, Jingzhou, Jingmen, Suizhou and Xiaogan have a relatively high meteorological risk of geological hazards. Travellers should take precautions.
-
-> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RneHbl6km)
 
 ---
 
@@ -255,6 +257,19 @@ The 2026 Hanzhong Liping Autumn Foliage Season opens on October 17. On October 1
 
 ---
 
+### October 17, 2026 &bull; 07:00 CST
+#### Cold Wave and Heavy Rain to Affect Most of China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 应急管理部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave will move from west to east across most of China, bringing temperature drops of 4 to 8 degrees Celsius, with local drops above 10 degrees, and northerly winds of force 4 to 6 with gusts of force 7 to 9 in some areas. Moderate to heavy rain is forecast along the Yangtze River and areas to its north, including eastern Northwest China, North China, Northeast China, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, with local rainstorms or heavy rainstorms. High-altitude areas of northern Xinjiang, Gansu and Qinghai, as well as northeastern Inner Mongolia and northern Heilongjiang, will see rain and snow.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/Rn2g2ppdR)
+
+---
+
 ### October 16, 2026 &bull; 19:50 CST
 #### Sichuan Autumn Foliage Season: Free Admission at Walwu Mountain, Xiling Snow Mountain and Daocheng Yading
 
@@ -281,16 +296,16 @@ The Shaanxi Provincial Department of Culture and Tourism and the Shaanxi Meteoro
 
 ---
 
-### October 16, 2026 &bull; 18:02 CST
-#### China Railway to Reform National Train Numbering in Two Batches from Late November
+### October 16, 2026 &bull; 18:11 CST
+#### Strong Cold Air to Bring High Winds, Temperature Drops and Rain or Snow Across Central and Eastern China
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，为更好地适应铁路运输发展和市场需求，中国国家铁路集团有限公司启动全国铁路列车车次编排改革工作，将在11月下旬、12月下旬分2批对现行列车车次的字头字母、数字号段编排进行全面优化调整，拓展车次编排可使用的号段资源，同步实施新版《列车车次编排规定》，旅客货主可以通过变更后的列车车次直观了解列车速度、品质、功能等特征，有助于进一步优化铁路客货运输产品供给，构建层次清晰、辨识度高、便民友好的现代化铁路运输产品体系。 X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车； G读“高”，表示最高运行时速350公里的复兴号动车组列车，车次编排为G1-G9998； T读“特”，表示最高运行时速300公里的动车组列车，车次编排为T1-T9998； K读“快”，表示最高运行时速200公里及以上、250公里及以下的动车组列车，车次编排为K1-K9998； D读“动”，表示最高运行时速200公里及以下的动力集中动车组列车，车次编排为D1-D9998； C读“城”，表示最高运行时速200公里及以下铁路局集团公司管内城际铁路动车组列车，车次编排为C1-C2998； S读“市郊”，表示城市市域范围内开行的最高运行时速160公里及以下的铁路局集团公司管内旅客列车，车次编排为S1-S2998； Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998； N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次编排为N1-N1998； V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次编排为V6001-V6998、普通旅客慢车车次编排为V7001-V7998； Y读“游”，表示普速旅游列车，其中，普速旅游专线列车车次编排为Y1-Y998、普速旅游专列车次编排为Y1001-Y9998。
+> 较强冷空气将影响我国中东部地区，带来大范围大风、降温和雨雪天气。 预计10月16日20时至17日20时，内蒙古中部、宁夏中南部、陕西北部和东南部、山西中北部、河北中北部和东部、北京、天津、山东中西部、辽宁西南部、河南东部和南部、安徽北部、江苏西北部、湖北中西部、四川东北部、重庆北部、湖南北部等地部分地区有大到暴雨，其中，北京西部沿山、河南东南部等地局地有大暴雨(100～140毫米)。内蒙古东北部、青藏高原东部等地局地有大到暴雪（5～15毫米）。新疆东部和南部、青海北部和中东部、内蒙古中西部、宁夏、陕西中北部、山西西部、辽宁南部、河北北部、天津、山东等地部分地区有5～7级风； 10月17日20时至18日20时，内蒙古东北部、黑龙江北部等地部分地区有中到大雪或雨夹雪，其中，黑龙江西北部局地有暴雪（10～15毫米）。东北地区、内蒙古东部、山东半岛、江苏、安徽、湖北、湖南西北部、重庆东部、贵州东北部等地部分地区有中到大雨，其中，辽宁中南部、湖北南部、湖南西北部等地部分地区有暴雨（50～80毫米）。内蒙古东部、东北地区、青藏高原、广西南部的部分地区有5～7级风；黄海北部海域有7～8级风、阵风9级，渤海、渤海海峡、黄海中部和南部海域有6～7级风、阵风8级。
 
 **🇬🇧 Actionable Travel Intel**:  
-China Railway Group has launched a reform of national train numbering, to be carried out in 2 batches in late November and late December, comprehensively adjusting the letter prefixes and number ranges used for train numbers and implementing a new version of the train numbering rules. The reform is intended to let passengers and freight customers read a train's speed, quality and function directly from its number. Under the new scheme, X denotes Fuxing high-speed trains with a maximum operating speed above 350 km/h, numbered X1 to X9998; G denotes Fuxing high-speed trains with a maximum operating speed of 350 km/h, numbered G1 to G9998; T denotes high-speed trains with a maximum operating speed of 300 km/h, numbered T1 to T9998; K denotes high-speed trains with a maximum operating speed of 200 km/h and above and 250 km/h and below, numbered K1 to K9998; D denotes power-concentrated high-speed trains with a maximum operating speed of 200 km/h and below, numbered D1 to D9998; C denotes intercity high-speed trains running within a railway group's jurisdiction with a maximum operating speed of 200 km/h and below, numbered C1 to C2998; S denotes suburban passenger trains within a city with a maximum operating speed of 160 km/h and below, numbered S1 to S2998; Z denotes express passenger trains with a maximum operating speed of 160 km/h, numbered Z1 to Z1998; N denotes express passenger trains with a maximum operating speed of 140 km/h, numbered N1 to N1998; V denotes conventional-speed passenger trains with a maximum operating speed of 120 km/h, of which express passenger trains are numbered V1 to V5998, ordinary fast passenger trains V6001 to V6998 and ordinary slow passenger trains V7001 to V7998; and Y denotes conventional-speed tourist trains, of which tourist line trains are numbered Y1 to Y998 and tourist special trains Y1001 to Y9998.
+China's national meteorological authority forecasts that strong cold air will affect central and eastern China, bringing widespread strong winds, temperature drops and rain or snow. From the evening of October 16 to the evening of October 17, parts of central Inner Mongolia, south-central Ningxia, northern and southeastern Shaanxi, central and northern Shanxi, central-northern and eastern Hebei, Beijing, Tianjin, central-western Shandong, southwestern Liaoning, eastern and southern Henan, northern Anhui, northwestern Jiangsu, central-western Hubei, northeastern Sichuan, northern Chongqing and northern Hunan are expected to see heavy to torrential rain, with locally severe torrential rain of 100 to 140 mm in western Beijing along the mountains and in southeastern Henan. Local heavy to severe snowstorms of 5 to 15 mm are expected in northeastern Inner Mongolia and eastern parts of the Qinghai-Tibet Plateau. Parts of eastern and southern Xinjiang, northern and central-eastern Qinghai, central-western Inner Mongolia, Ningxia, central-northern Shaanxi, western Shanxi, southern Liaoning, northern Hebei, Tianjin and Shandong will see level 5 to 7 winds. From the evening of October 17 to the evening of October 18, parts of northeastern Inner Mongolia and northern Heilongjiang will see moderate to heavy snow or sleet, with local blizzards of 10 to 15 mm in northwestern Heilongjiang. Moderate to heavy rain is expected in parts of the Northeast, eastern Inner Mongolia, the Shandong Peninsula, Jiangsu, Anhui, Hubei, northwestern Hunan, eastern Chongqing and northeastern Guizhou, with torrential rain of 50 to 80 mm in parts of central-southern Liaoning, southern Hubei and northwestern Hunan. Parts of eastern Inner Mongolia, the Northeast, the Qinghai-Tibet Plateau and southern Guangxi will see level 5 to 7 winds; the northern Yellow Sea will see level 7 to 8 winds with gusts of level 9, while the Bohai Sea, the Bohai Strait and the central and southern Yellow Sea will see level 6 to 7 winds with gusts of level 8.
 
-> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RmX9TtBnN)
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmXdR1V18)
 
 ---
 
@@ -413,6 +428,19 @@ The Phoenix Legend concert will be held at the Chongqing Olympic Sports Center f
 
 ---
 
+### October 15, 2026 &bull; 18:07 CST
+#### Stronger Cold Wave to Sweep Most of China from October 16 to 19
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 较强冷空气将自西向东影响我国大部地区 16日至19日较强冷空气将自西向东影响我国大部地区。新疆北部、内蒙古、华北、东北地区、黄淮、江淮、江汉、江南西部和北部等地先后有4～6℃，局地8℃以上降温，部分地区伴有4～5级偏北风，阵风6～8级。西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。
+
+**🇬🇧 Actionable Travel Intel**:  
+China's national meteorological authority forecasts a stronger cold wave moving from west to east across most of China from October 16 to 19. Northern Xinjiang, Inner Mongolia, North China, the Northeast, Huanghuai, Jianghuai, Jianghan, and western and northern Jiangnan will successively see temperature drops of 4 to 6 degrees Celsius, with local drops above 8 degrees, and some areas will have level 4 to 5 northerly winds with gusts of level 6 to 8. Moderate to heavy rain, locally torrential or severe torrential, is forecast for eastern Northwest China, North China, the Northeast, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, while rain and snow are expected in high-altitude areas of northern Xinjiang, Gansu and Qinghai, and in northeastern Inner Mongolia and northern Heilongjiang.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmNLM98Fz)
+
+---
+
 ### October 15, 2026 &bull; 17:00 CST
 #### Shaanxi Publishes First Batch of Designated Qinling Outdoor Hiking Routes
 
@@ -467,6 +495,34 @@ Tibet Airlines has launched a Winter Sun multi-trip pass, with one-way economy f
 
 ---
 
+### October 15, 2026 &bull; 13:00 CST
+#### China Railway Qinghai-Tibet Group Adds Temporary Trains on Xining-Golmud, Xining-Menyuan and Lhasa-Nyingchi Routes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据近期旅客出行需求，中国铁路青藏集团有限公司决定加开临时旅客列车： 10月16、23、30日，11月6、13、20日，西宁至格尔木间加开C4381/2次临时动车组旅客列车。 10月18、25日，11月1、8、15、22日，西宁至格尔木间加开C4383次临时动车组旅客列车。 10月19、26日，11月2、9、16、23日，格尔木至西宁间加开C4384次临时动车组旅客列车。 11月1日至11月23日，西宁至门源间加开D9911/2次、D9913/4次动车组旅客列车。 11月6、13、20日，拉萨至林芝间加开K6833/4次临时旅客列车。 10月17日、19—22日、24日、26—29日、31日，11月2—5日、7日、9—12日、14日、16—19日、21日，西宁至格尔木间加开7585次临时旅客列车。 10月18日、20—23日、25日、27—30日，11月1日、3—6日、8日、10—13日、15日、17—20日、22日，格尔木至西宁间加开7586次临时旅客列车。 10月18日、25日，11月1、8、15、22日(逢周日)，拉萨至林芝间加开C4389/90次临时动车组旅客列车。 铁路部门提醒广大旅客，相关列车车票的发售及列车时刻等详细信息，可以通过登录中国铁路12306网站（含12306手机APP）、车站自动售票机查询，或者拨打中国铁路12306客服电话进行查询。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Qinghai-Tibet Group will add temporary passenger trains to meet recent travel demand. Additional Xining-Golmud services run on October 16, 23 and 30 and on November 6, 13 and 20, with further Xining-Golmud trains added on other dates in October and November. Extra Lhasa-Nyingchi trains run on November 6, 13 and 20, and additional Lhasa-Nyingchi services run on Sundays. Xining-Menyuan shuttle trains are added from November 1 to November 23. Passengers can check ticket sales and timetables through the official railway channels. Per current official policy for foreign visitors, arrangements are subject to change.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmLKOy9yg)
+
+---
+
+### October 15, 2026 &bull; 11:00 CST
+#### Chongqing Airport Opens Transit Service Hall Offering Free Meals, Rest and Showers Within 48 Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 免费吃饭、休息、沐浴！重庆机场中转服务厅正式启用，48小时内中转旅客均可申请。（来源：重庆发布） 交通运输部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Chongqing Airport has officially opened a transit service hall. Transit passengers within 48 hours can apply for free meals, rest and shower facilities.
+
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RmKY7hkqJ)
+
+---
+
 ### October 15, 2026 &bull; 10:20 CST
 #### Ninth Winter Tibet Campaign Opens October 15 with Five Months of Free Scenic-Area Admission
 
@@ -479,6 +535,19 @@ The ninth Winter Tibet campaign opens on October 15 and offers free admission at
 > 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmKIce6Rk)
+
+---
+
+### October 15, 2026 &bull; 07:00 CST
+#### Cold Wave and Mountain-Flood Warning Issued for Mid-October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
 
 ---
 
@@ -508,16 +577,16 @@ The Emei Shan Scenic Area Administration announced that shuttle bus tickets for 
 
 ---
 
-### October 14, 2026 &bull; 17:02 CST
-#### Hefeng Pingshan Scenic Area to Close Temporarily from October 15 Due to Heavy Rain
+### October 14, 2026 &bull; 18:26 CST
+#### Cold Wave and Heavy Rain to Affect Most of China from October 15 to 19
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据鹤峰县气象部门发布的最新气象预警信息，近日鹤峰县将出现强降雨天气。屏山旅游景区自2026年10月15日起采取临时闭园措施，恢复开园时间将根据天气情况确定。请游客朋友们合理安排行程。（来源：鹤峰屏山旅游景区）
+> 新一轮冷空气将自西向东影响我国大部地区 15日至19日新一轮冷空气将自西向东影响我国大部地区。新疆北部、内蒙古、华北、东北地区、黄淮、江淮、江汉、江南西部和北部等地先后有4～6℃，局地8℃以上降温，部分地区并伴有4～5级偏北风，阵风6～8级。西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 另外，14日夜间至15日白天，重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地的部分地区有大到暴雨，湖南北部、湖北东南部等地局地有大暴雨(100～140毫米)。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过60毫米）、雷暴大风等强对流天气。
 
 **🇬🇧 Actionable Travel Intel**:  
-Hefeng Pingshan Scenic Area will adopt temporary closure measures starting October 15, 2026, after Hefeng County meteorological authorities issued a weather alert warning of heavy rainfall in the coming days. The reopening date will be determined based on weather conditions. Visitors are advised to arrange their itineraries accordingly.
+China's national meteorological authority forecasts a new cold wave moving from west to east across most of China from October 15 to 19. Northern Xinjiang, Inner Mongolia, North China, the Northeast, Huanghuai, Jianghuai, Jianghan and western and northern Jiangnan will see temperature drops of 4 to 6 degrees Celsius, with local drops above 8 degrees, accompanied in some areas by level 4 to 5 northerly winds and gusts of level 6 to 8. Moderate to heavy rain, locally torrential, is forecast for eastern Northwest China, North China, the Northeast, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, while rain and snow are expected in high-altitude areas of northern Xinjiang, Gansu and Qinghai and in northeastern Inner Mongolia and northern Heilongjiang. From the night of October 14 to the daytime of October 15, heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe torrential rain in northern Hunan and southeastern Hubei. Short-duration intense rainfall, thunderstorm gales and other severe convective weather are also possible in these areas.
 
-> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RmDUyrsBe)
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmEsJqZQv)
 
 ---
 
@@ -599,6 +668,32 @@ On October 13, the grand bridge carrying the access line of the Chengdu-Chongqin
 
 ---
 
+### October 14, 2026 &bull; 09:00 CST
+#### New G3979 High-Speed Service Cuts Chengdu-Hankou Run to 5h 15m
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日，由中国铁路成都局集团有限公司成都客运段担当的G3979次动车组从成都东站驶出开往汉口站，此次开行的G3979次列车经由宜兴高铁运行，串联沪渝蓉沿江高铁与郑渝高铁两大干线，途经重庆北、万州北、宜昌北，共设5个停车站，全程运行时间5小时15分，较此前成都东至汉口间最快列车压缩1小时44分。成都客运段“芙蓉花班组”不断提升服务品质，为旅客营造温馨舒适的旅途出行环境。
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 11, the G3979 high-speed train, operated by the Chengdu Passenger Transport Section of China Railway Chengdu Group, departed Chengdu East Station bound for Hankou Station. The service runs via the Yichang-Xingshan high-speed line, linking the Shanghai-Chongqing-Chengdu and Zhengzhou-Chongqing corridors. It calls at Chongqing North, Wanzhou North and Yichang North among five stops in total, with a total journey time of 5h 15m, 1h 44m faster than the previous fastest Chengdu East-Hankou service.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RmAKU9DzH)
+
+---
+
+### October 14, 2026 &bull; 07:54 CST
+#### Heavy Rain Warning Across Southwest and Central-South China Through October 17
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
+
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmAka5Y3E)
+
+---
+
 ### October 13, 2026 &bull; 19:00 CST
 #### Xi'an Imposes Traffic Controls for 2026 Marathon Across City Center on October 18
 
@@ -622,6 +717,19 @@ The 2026 Xi'an Marathon will be held in the main urban area of Xi'an on Sunday, 
 China Railway Chengdu Group issued a travel advisory regarding a heavy rainfall system forecast across southern and southeastern Chongqing from October 14 to 15. Sections along the Chongqing-Xiamen High-Speed Railway, Chongqing-Huaihua Railway, Sichuan-Guizhou Railway, and Chongqing-Guiyang Railway may exceed safety rainfall thresholds. Railway authorities may implement temporary line lockdowns for safety inspections, and passing passenger trains may experience delays or cancellations. Travelers are advised to monitor official updates through station announcements or Railway 12306 before departure.
 
 > **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Rmu1gh1ce)
+
+---
+
+### October 13, 2026 &bull; 12:15 CST
+#### Hubei Yichang-Xingshan High-Speed Railway Opens, Cutting Xingshan-Wuhan Travel Time to 100 Minutes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 湖北宜昌至兴山高铁开通运营，兴山至武汉最快100分钟可达。全长101公里的宜兴高铁穿行鄂西山区，全线桥隧比高达94.4%。宜兴高铁形成了“兴山—宜昌—荆门—襄阳—神农架—兴山”的鄂西环线高铁路径。武汉至重庆间部分高铁列车经由宜兴高铁运行后，最快3小时54分钟可达。山乡与城市、长江中上游地区的联系更加紧密。 （文旅+交通） （光明日报全媒体记者王建宏、张锐 通讯员杨璨） 
+
+**🇬🇧 Actionable Travel Intel**:  
+The 101-km Yichang-Xingshan High-Speed Railway has officially opened for passenger operation in western Hubei, with bridges and tunnels accounting for 94.4% of the route. The new line establishes a regional high-speed rail loop linking Xingshan, Yichang, Jingmen, Xiangyang, and Shennongjia, enabling fastest travel times of 100 minutes between Xingshan and Wuhan and 3 hours 54 minutes on select Wuhan-Chongqing high-speed trains routing via the Yichang-Xingshan corridor.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RmsBz4ZVu)
 
 ---
 
@@ -854,6 +962,45 @@ The Mount Emei Scenic Area Management Committee announced that the Jinding No. 1
 
 ---
 
+### October 8, 2026 &bull; 12:00 CST
+#### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #2026铁路建设进展#10月1日8时18分，在四川省南充市南充北站的施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路铺轨施工正式启动。成达万高铁是我国“八纵八横”高铁网沿江通道的重要组成部分，线路西起四川省成都市天府站，途经四川省资阳市、遂宁市、南充市、达州市及重庆市开州区、万州区，接入既有郑渝高铁万州北站，正线全长477公里，设计时速350公里。@西南铁路
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group announced the start of track-laying operations for the Chengdu–Dazhou–Wanzhou High-Speed Railway at Nanchong North Station on October 1. The line forms a key component of the Yangtze River corridor in the national high-speed railway grid, running 477 kilometers from Chengdu Tianfu Station to Wanzhou North Station with a design speed of 350 km/h.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
+
+---
+
+### October 8, 2026 &bull; 08:31 CST
+#### China State Railway Group: Peak Return Passengers Handled with 2,449 Extra Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【全国铁路迎来返程客流最高峰！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。10月6日，全国铁路发送旅客2160.5万人次，连续三天旅客发送量超2000万人次，运输安全平稳有序。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、西安、武汉、杭州、重庆等。各地铁路部门积极应对客流高峰，在热门方向和区间及时增加运力投放，保障旅客平安有序温馨出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group reported that national railways handled their return passenger peak on October 7, with an estimated 24,150,000 passenger journeys and 2,449 additional passenger trains scheduled. On October 6, 21,605,000 passengers were dispatched. Top departure cities identified through Railway 12306 included Beijing, Guangzhou, Chengdu, Xi'an, Wuhan, Hangzhou, and Chongqing.
+
+> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
+
+---
+
+### October 7, 2026 &bull; 13:03 CST
+#### China Customs Issues Inbound Quarantine Reminder: Prohibitions on Meat, Bird's Nest, and Fresh Fruits
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，北京海关在1名进境旅客的行李中查获冻肉11千克，深圳海关在1名进境旅客的行李中查获藏匿在奶粉罐中的燕窝423克，重庆海关在1名进境旅客行李中查获龙宫果3.5千克，大连海关在1名进境旅客行李中查获柿子2.67千克。依据《中华人民共和国禁止携带、寄递进境的动植物及其产品和其他检疫物名录》，海关对上述物品实施截留处置。 上述动植物产品来源不明，可能携带非洲猪瘟病毒、高致病性禽流感病毒等动物病原体，大洋臀纹粉蚧、地中海实蝇等植物检疫性有害生物，一旦携带入境，极易引发重大动植物疫情，危害我国农林牧渔业生产，威胁国家生物安全。 海关提醒：根据《中华人民共和国生物安全法》和《中华人民共和国进出境动植物检疫法》及其实施条例等法律法规，未经审批禁止携带、寄递肉类、燕窝、新鲜水果等《中华人民共和国禁止携带、寄递进境的动植物及其产品和其他检疫物名录》内的物品进境。如有携带，应主动向海关申报。
+
+**🇬🇧 Actionable Travel Intel**:  
+The General Administration of Customs reminded inbound travelers that bringing meat products, bird's nest, and fresh fruits into China is strictly prohibited without prior official approval under border quarantine regulations. Arriving passengers carrying any restricted biological items must declare them to Customs for official quarantine inspection, and failure to comply carries legal liability under border health and biosecurity laws.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RlymrysSL)
+
+---
+
 ### October 7, 2026 &bull; 08:43 CST
 #### Southwest China Railway Corridor: 590,000 Return Peak Handled with 65.5 Added Train Pairs
 
@@ -1023,6 +1170,32 @@ Highway authorities issued a 4-day countdown for the seasonal winter closure of 
 
 ---
 
+### October 3, 2026 &bull; 18:00 CST
+#### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【 #假期出行物品遗失应对指南# 】 #12306可在线找回遗失物品# 假期出行物品遗失时有发生，万一行李错拿漏拿，请第一时间向民警或工作人员求助。在火车站或列车上，还可用铁路12306APP里的遗失物品查找功能在线找回：打开12306，首页找到温馨服务，选择遗失物品查找，按提示填写信息，提交后等待反馈，工作人员找到会尽快送回。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway highlighted the lost property tracking service available on the Railway 12306 app. Passengers who misplace belongings on trains or at railway stations can navigate to "Warm Service" on the app home screen, select "Lost Property Search", fill in trip details, and submit for staff assistance.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RkYAD8qqA)
+
+---
+
+### October 3, 2026 &bull; 16:57 CST
+#### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
+
+---
+
 ### October 1, 2026 &bull; 12:31 CST
 #### Terracotta Warriors Pit Two Reopens with Dual North/South Viewing Circuits
 
@@ -1059,6 +1232,23 @@ Jiuzhaigou Administrative Bureau confirmed peak-season pricing continues through
 As of 9:00 on September 30, 2026, Jiuzhaigou Scenic Area announced that ticket reservations for October 1 reached the peak-season maximum daily capacity of 41,000 visitors, and tickets for October 2 through 5 are also sold out. Visitors without reservations may book alternative dates or visit nearby attractions in Jiuzhaigou County such as Shenxianchi and Jiawuhai Panda Park. Advance real-name reservation is mandatory for all visitors, including those eligible for free or discounted admission, via the "Jiuzhaigou Tourism Official Platform" WeChat official account or mini-program (ticketing inquiry: 0837-7769999) or the Aba Tourism mini-program (ticketing inquiry: 400-088-6969 ext. 1).
 
 > **Verified Source**: [Jiuzhaigou National Park Administration (九寨沟风景名胜区, Official Portal)](https://www.jiuzhai.com/news/notice/11430-2026-09-30-09-16-53)
+
+---
+
+### September 29, 2026 &bull; 18:00 CST
+#### Ministry of Culture and Tourism Issues National Holiday Travel Weather Advisory
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 国庆节假期即将来临，文化和旅游部与中国气象局提醒广大游客，关注天气变化，快乐平安出游。
+一、全国大部地区气象条件较好，总体有利于出行
+预计国庆节假日期间（10月1日至7日），北方大部地区多数时间以晴到多云天气为主。除华南地区外，全国大部地区、多数时间气候舒适度为“较舒适”及以上等级，其中华北到江南北部以及西南地区东部、西北地区大部气候舒适度可以达到“舒适”或“最舒适”等级，总体有利于旅游出行。华北到黄淮、东北地区南部、西北地区大部适合游玩。10月1日至4日，南方地区多阴雨天气；10月5日后，南方大部地区将转为晴好天气，而且随着气温和湿度降低，气候舒适度将达到“较舒适”及以上等级，可规划旅游出行。
+二、重点关注假日期间阶段性降温和阴雨天气
+假日期间全国大部地区气温较适宜。北方地区早晚体感寒凉，特别是内蒙古东部、河北北部、黑龙江等地的部分地区最低气温可达0℃左右，准备到上述地区旅游的公众要备好保暖衣物。受冷空气影响，10月3日至4日，中东部地区气温将先后下降4-6℃；10月6日至7日，受新一股冷空气影响，新疆北部将有明显大风降温天气。旅游出行需关注冷空气活动，注意及时添减衣物。10月2日至3日，内蒙古中部、华北北部、东北地区南部有小到中雨或雷阵雨、局部大雨；10月1日至4日，南方地区多阴雨天气，部分地区有大雨，贵州等地局部有暴雨，青藏高原东部局部有大雪。降雨集中时段对旅游出行有一定影响，建议游客密切关注临近天气预报，提前做好行程安排，特别注意避免前往涉山涉水高风险区域和未开发开放区域。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Ministry of Culture and Tourism and the China Meteorological Administration jointly issued a National Day holiday (October 1–7) travel weather advisory: (1) Most northern regions see sunny-to-cloudy skies and favorable comfort levels across North China, northern Jiangnan, eastern Southwest China, southern Northeast China, and most of Northwest China, while southern China experiences rainy weather from October 1 to 4 before turning clear and comfortable after October 5; (2) Travelers should prepare warm clothing for chilly mornings and evenings in the north—where minimum temperatures in parts of eastern Inner Mongolia, northern Hebei, and Heilongjiang drop to around 0°C—alongside 4–6°C cooling across central and eastern China on October 3–4 and strong winds with cooling in northern Xinjiang on October 6–7. Rain is forecast for central Inner Mongolia, northern North China, and southern Northeast China on October 2–3 (light-to-moderate rain or thunderstorms, localized heavy rain) and across southern China on October 1–4 (heavy rain in parts, localized torrential rain in Guizhou, and localized heavy snow in the eastern Qinghai-Tibet Plateau); visitors are advised to monitor forecasts closely and avoid high-risk mountain/water zones and undeveloped or unopened areas.
+
+> **Verified Source**: [Ministry of Culture and Tourism of the PRC (文旅之声, Sina Weibo)](https://weibo.com/5713450386/RkmT0bVyx)
 
 ---
 
