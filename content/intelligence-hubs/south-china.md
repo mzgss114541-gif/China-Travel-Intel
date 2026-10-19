@@ -6,6 +6,19 @@
 
 ---
 
+### October 19, 2026 &bull; 13:41 CST
+#### Nanning Warns of Cold Air, Rain and Thunderstorms from 21 October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【南宁要降温啦！冷空气10月21日抵达，降温+降雨双连击，注意添衣。未来五天，全市多云，局地有阵雨或雷雨。】 新闻夜班的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold air mass will reach Nanning on 21 October, bringing cooler temperatures and rain. Over the next five days, the city will be mostly cloudy with local showers or thunderstorms. Travelers should add clothing and monitor conditions.
+
+> **Verified Source**: [Nanning Municipal Bureau of Culture and Tourism (南宁文旅, Sina Weibo)](https://weibo.com/1971263622/RnnJCwg1Y)
+
+---
+
 ### October 18, 2026 &bull; 09:50 CST
 #### Guangxi Issues Three-Day Weather and Fire-Risk Advisory
 
