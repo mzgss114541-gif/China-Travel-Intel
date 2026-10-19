@@ -6,6 +6,19 @@
 
 ---
 
+### October 19, 2026 &bull; 16:00 CST
+#### Jilin Longwan Scenic Area Closes for Season; Two Areas Keep Limited Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 吉林龙湾景区夏季旅游季已经结束，现定于2026年10月19日起闭园休业。届时景区内三角龙湾景区、大龙湾景区经营项目全面暂停营业。吊水壶景区、四方顶景区营业时间为8:00至16:00。（吉林龙湾景区）
+
+**🇬🇧 Actionable Travel Intel**:  
+Jilin Longwan Scenic Area will close for the season from 19 October 2026. Operations at Triangle Dragon Bay and Big Dragon Bay will be fully suspended. Diaoshuihu and Sifangding will remain open from 8:00 to 16:00.
+
+> **Verified Source**: [Jilin Provincial Department of Culture and Tourism (吉林文旅, Sina Weibo)](https://weibo.com/2061847537/RnoE7qWi5)
+
+---
+
 ### October 19, 2026 &bull; 13:30 CST
 #### Heilongjiang Warns of Snow, Sleet and Slippery Roads
 
