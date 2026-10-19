@@ -6,6 +6,19 @@
 
 ---
 
+### October 19, 2026 &bull; 10:21 CST
+#### China Railway Publishes New Passenger Train-Number Prefix System
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 旅客列车方面，国铁集团本级负责统一编排旅客列车车次，根据旅客列车的基础属性、开行属性、服务属性、经营属性等特点，对列车车次进行了编排，形成了高速旅客列车（X、G、T、K字头）、动集旅客列车（D字头）、城际旅客列车（C字头）、市郊（域）旅客列车（S字头）、普速旅客列车（Z、N、V字头）、普速旅游列车（Y字头）等类别，能够让旅客通过车次直观了解列车的速度等级、产品类别和运行范围。 X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车； G读“高”，表示最高运行时速350公里的复兴号动车组列车，车次编排为G1-G9998； T读“特”，表示最高运行时速300公里的动车组列车，车次编排为T1-T9998； K读“快”，表示最高运行时速200公里及以上、250公里及以下的动车组列车，车次编排为K1-K9998； D读“动”，表示最高运行时速200公里及以下的动力集中动车组列车，车次编排为D1-D9998； C读“城”，表示最高运行时速200公里及以下铁路局集团公司管内城际铁路动车组列车，车次编排为C1-C2998； S读“市郊”，表示城市市域范围内开行的最高运行时速160公里及以下的铁路局集团公司管内旅客列车，车次编排为S1-S2998； Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998； N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次编排为N1-N1998； V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次编排为V6001-V6998、普通旅客慢车车次编排为V7001-V7998； Y读“游”，表示普速旅游列车，其中，普速旅游专线列车车次编排为Y1-Y998、普速旅游专列车次编排为Y1001-Y9998。 跨境旅客列车在境内段运行时，相关车次将根据新版《列车车次编排规定》并结合实际进行相应调整。承接临时旅客运输任务的各类列车，车次编排使用同类产品的字头字母和预留的数字号段。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway has published a revised passenger-train numbering system intended to show speed class, product type and operating scope through the train-number prefix. The published categories include X, G, T and K for high-speed trains; D for power-concentrated electric multiple units; C for intercity services; S for suburban services; Z, N and V for conventional passenger services; and Y for tourist trains. Cross-border passenger trains operating within China will have their train numbers adjusted under the new rules.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RnmqjhPqa)
+
+---
+
 ### October 18, 2026 &bull; 12:35 CST
 #### Shanghai Lists Chongyang Free-Admission Offers for Seniors
 
