@@ -6,6 +6,45 @@
 
 ---
 
+### October 19, 2026 &bull; 17:44 CST
+#### Heavy Rain May Disrupt Guizhou High-Speed and Conventional Rail Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象部门预报，10月20日至10月21日，贵州省西南部、东北部有一轮强降雨过程。在此轮降水过程中，盘兴高铁、沪昆高铁、沪昆铁路、吉玉铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据实际情况封锁线路开展安全巡查，途经旅客列车可能不同程度晚点或停运。在此，铁路部门提醒旅客朋友们出行前关注天气变化，合理安排行程，具体情况详见站车公告、“成都铁路12306”微博或拨打（028）12306成都铁路客服中心电话咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+Heavy rain is forecast in southwestern and northeastern Guizhou from 20 to 21 October. Sections of the Panzhou–Xingyi high-speed railway, Shanghai–Kunming high-speed railway, Shanghai–Kunming railway and Jiyu railway may exceed rainfall thresholds. Railway authorities may close sections for safety inspections, and passenger trains may be delayed or suspended. Travelers should check station announcements before departure.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/RnpkmbD35)
+
+---
+
+### October 19, 2026 &bull; 16:23 CST
+#### Heavy Rain and Snow Warning for Chongqing and Hubei
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 你感觉到降温了吗？新一股冷空气来了! 10月19日起，重庆、湖北等地部分地区有暴雨或大暴雨，北方部分地区有降雪，21日早晨最低气温0℃线将向南推进。（via.重庆广电第1眼） 重庆广电第1眼的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+From 19 October, parts of Chongqing and Hubei may experience heavy to torrential rain, while some northern areas may see snow. The 0°C line is forecast to move south by the morning of 21 October.
+
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RnoNcsiIp)
+
+---
+
+### October 19, 2026 &bull; 14:19 CST
+#### Shaanxi Issues Cold-Wave Warning for 19–21 October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 常来长安##陕西省气象台2026年10月19日12时00分发布寒潮蓝色预警：寒潮降温：受较强冷空气影响，预计2026年10月19日20时至21日08时，日平均气温陕北大部下降8～10℃，关中北部、秦岭山区下降6～8℃。预计最低气温出现在21日... http://sxyj12379.cn/
+
+**🇬🇧 Actionable Travel Intel**:  
+Shaanxi's meteorological observatory issued a cold-wave blue warning effective from 8 p.m. on 19 October to 8 a.m. on 21 October. Average temperatures are forecast to fall 8–10°C in most of northern Shaanxi and 6–8°C in northern Guanzhong and the Qinling Mountains. The lowest temperatures are expected on 21 October.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RnnZ18LbE)
+
+---
+
 ### October 19, 2026 &bull; 11:00 CST
 #### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
 

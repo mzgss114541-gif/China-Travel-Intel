@@ -6,6 +6,32 @@
 
 ---
 
+### October 19, 2026 &bull; 14:53 CST
+#### Zhujiajian Daqingshan Scenic Area to Close 24–25 October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 朱家尖大青山景区于2026年10月24日、25日临时闭园，10月26日恢复正常开放。 来源：朱家尖大青山旅游
+
+**🇬🇧 Actionable Travel Intel**:  
+Zhujiajian Daqingshan Scenic Area will be temporarily closed on 24 and 25 October 2026 and will reopen on 26 October.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/Rnod13JtN)
+
+---
+
+### October 19, 2026 &bull; 14:50 CST
+#### Super Typhoon Champi Nears China; Coastal Wind and Rain Expected
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今早5时，超强台风“蔷琵”的中心位于距离台湾台北市东偏南方向约2300公里，将以每小时20-25公里的速度向西偏北方向移动，强度还将有所增强。预计本周，台风“蔷琵”会逐渐逼近我国，后面是否会登陆我国，关键是要看周三、周四冷空气对副热带高压的削弱情况，如果副热带高压不断开，后续它登陆的可能性就会提升。如果副高断开，台风就会北上日本。 今后3天，中东部普遍会有4-8℃降温；西北地区东部、华北和东北地区南部的部分地区，降温10-12℃，长江以北大部地区伴有4-5级偏北风，阵风6-8级。 周一周二，降水主要集中在西北地区东部到长江流域以及西南一带；周三，新疆北部雨雪会明显加强；周四开始，东南沿海风雨渐起。央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+At 5 a.m. local time, Super Typhoon Champi was centered about 2,300 kilometers east-southeast of Taipei and was moving west-northwest at 20–25 kilometers per hour; it may strengthen further. Whether it approaches China depends on cold air weakening the subtropical high on Wednesday and Thursday. Coastal wind and rain are expected to increase from Thursday.
+
+> **Verified Source**: [Shanghai Railway Station (China Railway Shanghai Group) (铁路上海站, Sina Weibo)](https://weibo.com/1917205532/Rnobw04LU)
+
+---
+
 ### October 19, 2026 &bull; 10:21 CST
 #### China Railway Publishes New Passenger Train-Number Prefix System
 
