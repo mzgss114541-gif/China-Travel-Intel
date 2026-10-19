@@ -6,6 +6,34 @@
 
 ---
 
+### October 19, 2026 &bull; 09:00 CST
+#### New Cold Wave to Bring Temperature Drops and Strong Winds Across Central and Eastern China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 刚刚过去的这个周末，一股较强冷空气横扫中东部地区。北方朋友的秋裤、厚外套可能已经紧急“上岗”。10月20日至21日，在新一股冷空气影响下，中东部地区大部将先后有4℃至8℃降温，西北地区东部、华北和东北地区南部等部分地区将会降温10℃至12℃。预计，10月18日20时至19日20时，新疆东部、内蒙古大部、辽宁西部和北部、吉林西部、黑龙江中南部、青海大部、山西北部、河北北部、西藏大部等地部分地区有5～7级风，阵风8～9级。中央气象台10月18日18时继续发布大风蓝色预警。 在接连两轮冷空气的影响下，下周前半段，长江以北大部地区气温都将维持在偏低水平，最高和最低气温都将有频繁创新低的情况。临近霜降时节，北方寒意袭人，南方凉意加重。提醒大家，要关注短期天气预报，及时增减衣物，顺应昼夜温差，做好防护。
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold wave will affect most of central and eastern China from October 20 to 21, bringing temperature drops of 4 to 8 degrees Celsius, with drops of 10 to 12 degrees Celsius in parts of eastern Northwest China, North China and southern Northeast China. From the evening of October 18 to the evening of October 19, parts of eastern Xinjiang, most of Inner Mongolia, western and northern Liaoning, western Jilin, central and southern Heilongjiang, most of Qinghai, northern Shanxi, northern Hebei and most of Tibet are forecast to have force 5 to 7 winds and gusts of force 8 to 9. The Central Meteorological Observatory continued a blue gale warning on the evening of October 18.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnlTopuW4)
+
+---
+
+### October 19, 2026 &bull; 07:00 CST
+#### Blizzard and Heavy Snow Forecast for Northeast China as Cold Air Persists
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~ 应急管理部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 19, frequent precipitation is forecast for Northeast China and the middle and lower Yangtze region. Parts of northeastern Inner Mongolia and northwestern Heilongjiang may see blizzards or heavy blizzards, with adverse effects on transport. Cold air will continue to affect China, keeping temperatures below normal across much of the area north of the Yangtze, with many locations expected to record their lowest temperatures so far in the second half of the year.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/Rnl6LqJDs)
+
+---
+
 ### October 18, 2026 &bull; 12:07 CST
 #### New Cold Front to Bring Sharp Temperature Drops Across China
 

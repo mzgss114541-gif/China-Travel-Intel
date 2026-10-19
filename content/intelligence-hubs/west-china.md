@@ -6,6 +6,58 @@
 
 ---
 
+### October 19, 2026 &bull; 11:00 CST
+#### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。（来源：汉中城固机场）
+
+**🇬🇧 Actionable Travel Intel**:  
+Hanzhong Airport will begin its 2026 winter-spring flight schedule on October 25. Hanzhong-Shenzhen and Hanzhong-Guiyang services will increase to one flight daily; a new Hanzhong-Lanzhou route will operate on Tuesdays, Thursdays and Saturdays; and schedules for Shenzhen, Hangzhou and Shanghai will be adjusted, including a new afternoon departure from Shenzhen. Flight times are for reference, and travelers should confirm details through live booking systems.
+
+> **Verified Source**: [Hanzhong Municipal Bureau of Culture and Tourism (汉中市文化和旅游局, Sina Weibo)](https://weibo.com/2360269453/RnmG63F0e)
+
+---
+
+### October 19, 2026 &bull; 09:16 CST
+#### Binggou River Scenic Area to Close for Season After November 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据祁连山冰沟河景区消息，冰沟河景区将于2026年11月1日（星期日）迎来本年最后一个开放日，自11月2日（星期一）起正式休园。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Binggou River Scenic Area in the Qilian Mountains will have its final opening day of the year on November 1, 2026, and will officially close for the season from November 2.
+
+> **Verified Source**: [Gansu Provincial Department of Culture and Tourism (微游甘肃, Sina Weibo)](https://weibo.com/6317297386/Rnm0ht43G)
+
+---
+
+### October 19, 2026 &bull; 08:42 CST
+#### Strong Winds Forecast at Glacier Park Upper Station
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据气象台预报目前，冰川公园上部站风速大，19日04-05时极大风达22m/s，预计今天上午还将出现10级以上瞬时大风，请做好防范。
+
+**🇬🇧 Actionable Travel Intel**:  
+Strong winds are forecast at the upper station of Glacier Park. Maximum winds reached 22 meters per second between 04 and 05 on October 19, and instantaneous winds of force 10 or stronger are expected that morning. Visitors should take precautions.
+
+> **Verified Source**: [Jade Dragon Snow Mountain Scenic Area Administration (丽江玉龙雪山, Sina Weibo)](https://weibo.com/5288549152/RnlMkdOJz)
+
+---
+
+### October 18, 2026 &bull; 22:26 CST
+#### Chengdu-Area Attractions Announce Seasonal and Maintenance Changes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 小伙伴们看过来！多家景区发布最新公告，近期出游请注意。成都大熊猫繁育研究基地11月1日起将执行景区冬季开闭园时间，西岭雪山景区云懒懒牧场暂停运营、萌宠季收官，瓦屋山景区金花桥索道将开展检修保养，夜爬挑战将收官，十八月潭景区恢复开园正常运营。详情如下↓↓ （成都发布）
+
+**🇬🇧 Actionable Travel Intel**:  
+Chengdu Research Base of Giant Panda Breeding will switch to its winter opening and closing times from November 1. At Xiling Snow Mountain, Yunlanlan Ranch will suspend operations and the pet season will conclude. At Wawu Mountain, the Jinhuagiao cableway will undergo maintenance and the night-climbing challenge will conclude. Shibayuetan Scenic Area has resumed normal operations.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RnhK6lG48)
+
+---
+
 ### October 18, 2026 &bull; 21:29 CST
 #### Chengdu-Altay Direct Flights to Increase from October 25
 

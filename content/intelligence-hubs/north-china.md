@@ -6,6 +6,32 @@
 
 ---
 
+### October 19, 2026 &bull; 11:00 CST
+#### Jingyuetan Scenic Area to End Boat Operations for 2026 on October 21
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为保障您的游览安全与游览体验，景区自2026年10月21日起，结束游船项目（游船、快艇、电动船、脚踏船）2026年度运营。（净月潭） 编辑：王华琳 初审：柳絮 复审：师锁伟 终审：曹昊
+
+**🇬🇧 Actionable Travel Intel**:  
+Jingyuetan Scenic Area will end its 2026 boat operations beginning October 21, including cruise boats, speedboats, electric boats and pedal boats, to support visitor safety and the visiting experience.
+
+> **Verified Source**: [Changchun Municipal Bureau of Culture and Tourism (长春文旅, Sina Weibo)](https://weibo.com/2798034700/RnmG62zmF)
+
+---
+
+### October 18, 2026 &bull; 21:55 CST
+#### Shijiazhuang Metro Line 1 to Adopt New Timetable from October 19
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为配合1号线二期北段及三期试运行工作，自10月19日起，1号线将执行新运行图，各站首末班车时间会有调整。请广大乘客关注首末班车时刻，合理安排出行时间。
+
+**🇬🇧 Actionable Travel Intel**:  
+Shijiazhuang Metro Line 1 will begin operating under a new timetable on October 19 to support trial operation of the northern section of Line 1 Phase II and Phase III. First and last service times at stations will be adjusted, and passengers are advised to check the revised times and plan accordingly.
+
+> **Verified Source**: [Shijiazhuang Municipal Bureau of Culture and Tourism (石家庄文旅之声, Sina Weibo)](https://weibo.com/2516150701/Rnhxu7jjw)
+
+---
+
 ### October 18, 2026 &bull; 20:00 CST
 #### China Railway Explains Daily, Weekend, and Peak-Period Train Services
 
