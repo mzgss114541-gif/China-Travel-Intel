@@ -6,6 +6,45 @@
 
 ---
 
+### October 19, 2026 &bull; 13:30 CST
+#### Heilongjiang Warns of Snow, Sleet and Slippery Roads
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 黑龙江省气象台发布全省天气预报: 19日白天到夜间：大兴安岭北部阴有小雪，黑河东部、伊春北部、鹤岗、佳木斯东部、双鸭山东部多云有阵雨或雨夹雪，其他地区多云。 20日白天到夜间：大兴安岭阴有小雪或雨夹雪，黑河、伊春北部、佳木斯东部、双鸭山东部、鸡西、牡丹江多云有阵雨或雨夹雪，其他地区多云。 19日白天最高气温：大兴安岭2～4℃，黑河、伊春、齐齐哈尔北部8～10℃，其他地区11～13℃。 19日夜间最低气温：大兴安岭-10～-8℃，黑河、伊春、齐齐哈尔、大庆北部、绥化北部-3～-1℃，其他地区0～2℃。 另外，雨雪天气导致道路湿滑，个别时段能见度低，出行请注意安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+Heilongjiang's meteorological observatory forecasts light snow in northern Daxing'anling and rain or sleet in parts of Heihe, northern Yichun, Hegang, eastern Jiamusi, eastern Shuangyashan, Jixi and Mudanjiang from 19 to 20 October. Daytime highs on 19 October range from 2–4°C in Daxing'anling to 11–13°C elsewhere; nighttime lows fall to minus 10 to minus 8°C in Daxing'anling. Rain and snow will make roads slippery and reduce visibility at times, so travelers should take care.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/RnnFfqzu4)
+
+---
+
+### October 19, 2026 &bull; 13:24 CST
+#### China Railway Offers 10% Off-Season Discount for Senior Passengers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 下午好！在铁路12306，有一项老年旅客专属福利：”淡季长者购票优惠“已经回归啦！年满60周岁的旅客购买乘车日期为2026年10月18日至12月30日且标注“敬”字的动车组列车的车票，可以在既有执行票价的基础上再享受9折优惠票价折上折，一路优惠到底！
+
+**🇬🇧 Actionable Travel Intel**:  
+Passengers aged 60 and above can receive a 10% discount on the existing fare for travel from 18 October to 30 December 2026 on selected EMU trains marked with the Chinese character for 'respect' (敬). The discount is available through the Railway 12306 platform.
+
+> **Verified Source**: [China Railway Shenyang Group (沈阳铁路, Sina Weibo)](https://weibo.com/1958889463/RnnCz9p4T)
+
+---
+
+### October 19, 2026 &bull; 12:00 CST
+#### Beijing West Railway Station Adds Assisted Service for Older Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 北京西站聚焦老年旅客出行需求，在车站南北售票厅分别设立用于服务老年旅客的敬老“慢”窗口，降低售票窗口高度，设置座椅，方便老人坐着办理业务。售票厅设立“流动服务岗”，工作人员会重点关注、主动对接前来办理购票、退改签业务的老年旅客，将其引导至敬老“慢”窗口，享受专人服务。 此外，针对年岁较大、记忆力较差、对乘车流程不熟悉的特殊老年旅客，售票员在为旅客购票成功后，会第一时间对接车站036候车室客运人员，做好旅客进站、候车、上车“一条龙”服务，畅通老年旅客出行路。
+
+**🇬🇧 Actionable Travel Intel**:  
+Beijing West Railway Station has set up assisted-service windows in its north and south ticket halls for older travelers. The windows are lower and have seats so passengers can sit while completing ticket transactions. Staff at a mobile service point will guide older travelers to these windows, and station staff can provide assistance through entry, waiting and boarding for those who need help with the travel process.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/Rnn4sllP4)
+
+---
+
 ### October 19, 2026 &bull; 11:00 CST
 #### Jingyuetan Scenic Area to End Boat Operations for 2026 on October 21
 

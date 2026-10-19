@@ -6,6 +6,19 @@
 
 ---
 
+### October 19, 2026 &bull; 12:00 CST
+#### New High-Speed Train Links Chengdu and Wuhan in Five and a Quarter Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 随着宜昌至兴山高速铁路开通运营，成都东站开往汉口站的G3979/3982次列车10月11日上线，成为川渝通往武汉的最快列车，全程运行5小时15分，较此前压缩1小时44分钟。宜兴高铁连接沪渝蓉沿江高铁与郑渝高铁两大干线，将巴蜀大地与荆楚江城紧密相连，川鄂时空距离大幅缩短。清晨在成都品味麻辣鲜香，午后便可驻足武汉黄鹤楼俯瞰长江奔涌，成都、武汉实现当日往返。
+
+**🇬🇧 Actionable Travel Intel**:  
+The G3979/3982 train from Chengdu East to Hankou began operating on 11 October after the Yichang–Xingshan high-speed railway opened. It is the fastest train between the Sichuan-Chongqing region and Wuhan, with a total journey of five and a quarter hours, 1 hour 44 minutes faster than before. Chengdu and Wuhan can now be visited as a same-day round trip.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rnn4s2DM3)
+
+---
+
 ### October 19, 2026 &bull; 09:00 CST
 #### New Cold Wave to Bring Temperature Drops and Strong Winds Across Central and Eastern China
 
