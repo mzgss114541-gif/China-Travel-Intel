@@ -6,16 +6,16 @@
 
 ---
 
-### October 19, 2026 &bull; 12:00 CST
-#### New High-Speed Train Links Chengdu and Wuhan in Five and a Quarter Hours
+### October 19, 2026 &bull; 14:50 CST
+#### Super Typhoon Champi Nears China; Coastal Wind and Rain Expected
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 随着宜昌至兴山高速铁路开通运营，成都东站开往汉口站的G3979/3982次列车10月11日上线，成为川渝通往武汉的最快列车，全程运行5小时15分，较此前压缩1小时44分钟。宜兴高铁连接沪渝蓉沿江高铁与郑渝高铁两大干线，将巴蜀大地与荆楚江城紧密相连，川鄂时空距离大幅缩短。清晨在成都品味麻辣鲜香，午后便可驻足武汉黄鹤楼俯瞰长江奔涌，成都、武汉实现当日往返。
+> 今早5时，超强台风“蔷琵”的中心位于距离台湾台北市东偏南方向约2300公里，将以每小时20-25公里的速度向西偏北方向移动，强度还将有所增强。预计本周，台风“蔷琵”会逐渐逼近我国，后面是否会登陆我国，关键是要看周三、周四冷空气对副热带高压的削弱情况，如果副热带高压不断开，后续它登陆的可能性就会提升。如果副高断开，台风就会北上日本。 今后3天，中东部普遍会有4-8℃降温；西北地区东部、华北和东北地区南部的部分地区，降温10-12℃，长江以北大部地区伴有4-5级偏北风，阵风6-8级。 周一周二，降水主要集中在西北地区东部到长江流域以及西南一带；周三，新疆北部雨雪会明显加强；周四开始，东南沿海风雨渐起。央视新闻的微博视频
 
 **🇬🇧 Actionable Travel Intel**:  
-The G3979/3982 train from Chengdu East to Hankou began operating on 11 October after the Yichang–Xingshan high-speed railway opened. It is the fastest train between the Sichuan-Chongqing region and Wuhan, with a total journey of five and a quarter hours, 1 hour 44 minutes faster than before. Chengdu and Wuhan can now be visited as a same-day round trip.
+At 5 a.m. local time, Super Typhoon Champi was centered about 2,300 kilometers east-southeast of Taipei and was moving west-northwest at 20–25 kilometers per hour; it may strengthen further. Whether it approaches China depends on cold air weakening the subtropical high on Wednesday and Thursday. Coastal wind and rain are expected to increase from Thursday.
 
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rnn4s2DM3)
+> **Verified Source**: [Shanghai Railway Station (China Railway Shanghai Group) (铁路上海站, Sina Weibo)](https://weibo.com/1917205532/Rnobw04LU)
 
 ---
 
@@ -44,6 +44,19 @@ A new cold wave will affect most of central and eastern China from October 20 to
 On October 19, frequent precipitation is forecast for Northeast China and the middle and lower Yangtze region. Parts of northeastern Inner Mongolia and northwestern Heilongjiang may see blizzards or heavy blizzards, with adverse effects on transport. Cold air will continue to affect China, keeping temperatures below normal across much of the area north of the Yangtze, with many locations expected to record their lowest temperatures so far in the second half of the year.
 
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/Rnl6LqJDs)
+
+---
+
+### October 18, 2026 &bull; 19:00 CST
+#### New Cold Air Mass to Bring 10-12°C Temperature Drops on October 20-21
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 最近，北方接连受冷空气影响，遭遇了同期少见的强降雨，大风降温也在同步进行。预计20日至21日（下周二、周三），新一股冷空气将影响我国。西北、华北和东北局地降温10℃到12℃，长江中下游一带的气温将会迅速下滑，秋意明显。此外，西南、长江中下游以及东北局地还将迎来明显降水。关注气温变化，及时增添衣物！央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A new cold air mass is expected to affect China from October 20 to 21. Parts of Northwest, North, and Northeast China may see temperature drops of 10°C to 12°C, while temperatures in the middle and lower Yangtze River region will fall quickly. Parts of Southwest, the middle and lower Yangtze River region, and Northeast China may also see notable precipitation. Travelers should monitor temperature changes and add clothing promptly.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/Rngorc8YG)
 
 ---
 
@@ -86,6 +99,19 @@ Typhoon Champi intensified from a severe typhoon into a super typhoon on the nig
 
 ---
 
+### October 17, 2026 &bull; 22:10 CST
+#### Cold Wave and Three Meteorological Warnings Affect China; Temperature Drops of 4–10°C
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 转发周知！ 央视新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+A cold wave is currently affecting China, with the main temperature drops concentrated in the northwest and north, where maximum temperatures may fall by 4 to 10 degrees Celsius. Tomorrow, maximum temperatures will also drop in Inner Mongolia, the northeast and much of the middle and lower Yangtze, with maximum drops of 4 to 10 degrees. Around October 21, the 0°C line will push south to central Shaanxi, southern Shanxi and northern Hebei. The Central Meteorological Observatory continued to issue blue warnings for rainstorms, severe convection and gales, with heavy to torrential rain in parts of 15 provinces and regions, local heavy rainstorms in Shandong and Liaoning, and thunderstorms with winds of force 10 or above in parts of Henan, Hubei and Hunan.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/Rn8d6FSlX)
+
+---
+
 ### October 17, 2026 &bull; 18:00 CST
 #### Blue Alert for Gale Winds Renewed by National Meteorological Centre
 
@@ -125,6 +151,32 @@ Influenced by a strong cold air mass, widespread rain, snow, gale winds, and tem
 
 ---
 
+### October 17, 2026 &bull; 11:28 CST
+#### China Railway to Renumber Trains in Late November and December
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway will change train numbers in two stages: conventional passenger and tourist trains in late November, followed by high-speed, EMU, intercity and suburban passenger trains in late December. The 12306 platform will display the new numbers within the 15-day advance-sale window. Routes and timings remain unchanged under the current timetable, and existing onboard services remain available.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/Rn40t7GRx)
+
+---
+
+### October 17, 2026 &bull; 09:05 CST
+#### China Railway to Change Train Numbers in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。 （中国铁路）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway will change train numbers in two batches. The first batch will be implemented in late November for conventional passenger trains, tourist trains and freight trains. The second batch will be implemented in late December for high-speed passenger trains, power-concentrated EMU passenger trains, intercity passenger trains, suburban and regional passenger trains, and EMU express freight trains. The 12306 platform will display the new train numbers within the 15-day pre-sale period based on the first operating day of the new-numbered passenger trains. After the first transition, the operating sections and timetables of the new-numbered trains will follow the current timetable. Existing onboard services such as quiet carriages, pet transport, light travel, bicycle carry-on, the railway pass code and online meal ordering will remain unchanged.
+
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/Rn34qhxBd)
+
+---
+
 ### October 17, 2026 &bull; 07:00 CST
 #### Cold Wave and Heavy Rain to Affect Most of China
 
@@ -151,6 +203,19 @@ China's national meteorological authority forecasts that strong cold air will af
 
 ---
 
+### October 16, 2026 &bull; 18:02 CST
+#### China Railway to Reform National Train Numbering in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，为更好地适应铁路运输发展和市场需求，中国国家铁路集团有限公司启动全国铁路列车车次编排改革工作，将在11月下旬、12月下旬分2批对现行列车车次的字头字母、数字号段编排进行全面优化调整，拓展车次编排可使用的号段资源，同步实施新版《列车车次编排规定》，旅客货主可以通过变更后的列车车次直观了解列车速度、品质、功能等特征，有助于进一步优化铁路客货运输产品供给，构建层次清晰、辨识度高、便民友好的现代化铁路运输产品体系。 X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车； G读“高”，表示最高运行时速350公里的复兴号动车组列车，车次编排为G1-G9998； T读“特”，表示最高运行时速300公里的动车组列车，车次编排为T1-T9998； K读“快”，表示最高运行时速200公里及以上、250公里及以下的动车组列车，车次编排为K1-K9998； D读“动”，表示最高运行时速200公里及以下的动力集中动车组列车，车次编排为D1-D9998； C读“城”，表示最高运行时速200公里及以下铁路局集团公司管内城际铁路动车组列车，车次编排为C1-C2998； S读“市郊”，表示城市市域范围内开行的最高运行时速160公里及以下的铁路局集团公司管内旅客列车，车次编排为S1-S2998； Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998； N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次编排为N1-N1998； V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次编排为V6001-V6998、普通旅客慢车车次编排为V7001-V7998； Y读“游”，表示普速旅游列车，其中，普速旅游专线列车车次编排为Y1-Y998、普速旅游专列车次编排为Y1001-Y9998。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Group has launched a reform of national train numbering, to be carried out in 2 batches in late November and late December, comprehensively adjusting the letter prefixes and number ranges used for train numbers and implementing a new version of the train numbering rules. The reform is intended to let passengers and freight customers read a train's speed, quality and function directly from its number. Under the new scheme, X denotes Fuxing high-speed trains with a maximum operating speed above 350 km/h, numbered X1 to X9998; G denotes Fuxing high-speed trains with a maximum operating speed of 350 km/h, numbered G1 to G9998; T denotes high-speed trains with a maximum operating speed of 300 km/h, numbered T1 to T9998; K denotes high-speed trains with a maximum operating speed of 200 km/h and above and 250 km/h and below, numbered K1 to K9998; D denotes power-concentrated high-speed trains with a maximum operating speed of 200 km/h and below, numbered D1 to D9998; C denotes intercity high-speed trains running within a railway group's jurisdiction with a maximum operating speed of 200 km/h and below, numbered C1 to C2998; S denotes suburban passenger trains within a city with a maximum operating speed of 160 km/h and below, numbered S1 to S2998; Z denotes express passenger trains with a maximum operating speed of 160 km/h, numbered Z1 to Z1998; N denotes express passenger trains with a maximum operating speed of 140 km/h, numbered N1 to N1998; V denotes conventional-speed passenger trains with a maximum operating speed of 120 km/h, of which express passenger trains are numbered V1 to V5998, ordinary fast passenger trains V6001 to V6998 and ordinary slow passenger trains V7001 to V7998; and Y denotes conventional-speed tourist trains, of which tourist line trains are numbered Y1 to Y998 and tourist special trains Y1001 to Y9998.
+
+> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RmX9TtBnN)
+
+---
+
 ### October 16, 2026 &bull; 17:30 CST
 #### China Railway to Renumber Trains in Two Batches from Late November
 
@@ -161,6 +226,19 @@ China's national meteorological authority forecasts that strong cold air will af
 Train numbering will be changed in two batches to ensure an orderly transition. The first batch, implemented in late November, covers conventional passenger trains, tourist trains and freight trains. The second batch, implemented in late December, covers high-speed passenger trains, power-concentrated EMU trains, intercity trains, suburban (city-region) passenger trains and EMU express freight trains. On the railway 12306 platform, the new train numbers are displayed within the 15-day presale window, counted from the operation date of the new train number. After the first transition, the operating sections and timetables of the renumbered trains follow the current operating plan. Onboard services such as quiet carriages, pet travel, light luggage, bicycle carry-on, the railway pass code and online meal ordering keep their existing labels, content and experience, and passengers can continue to use them. The 95306 platform shows the new freight train numbers within the block-train booking period.
 
 > **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmWWUgJTt)
+
+---
+
+### October 16, 2026 &bull; 13:00 CST
+#### China Railway Launches Nationwide Train-Numbering Reform in Two Batches from Late November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，为更好地适应铁路运输发展和市场需求，中国国家铁路集团有限公司启动全国铁路列车车次编排改革工作，将在11月下旬、12月下旬分2批对现行列车车次的字头字母、数字号段编排进行全面优化调整，拓展车次编排可使用的号段资源，同步实施新版《列车车次编排规定》，旅客货主可以通过变更后的列车车次直观了解列车速度、品质、功能等特征，有助于进一步优化铁路客货运输产品供给，构建层次清晰、辨识度高、便民友好的现代化铁路运输产品体系。 X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车； G读“高”，表示最高运行时速350公里的复兴号动车组列车，车次编排为G1-G9998； T读“特”，表示最高运行时速300公里的动车组列车，车次编排为T1-T9998； K读“快”，表示最高运行时速200公里及以上、250公里及以下的动车组列车，车次编排为K1-K9998； D读“动”，表示最高运行时速200公里及以下的动力集中动车组列车，车次编排为D1-D9998； C读“城”，表示最高运行时速200公里及以下铁路局集团公司管内城际铁路动车组列车，车次编排为C1-C2998； S读“市郊”，表示城市市域范围内开行的最高运行时速160公里及以下的铁路局集团公司管内旅客列车，车次编排为S1-S2998； Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998； N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次编排为N1-N1998； V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次编排为V6001-V6998、普通旅客慢车车次编排为V7001-V7998； Y读“游”，表示普速旅游列车，其中，普速旅游专线列车车次编排为Y1-Y998、普速旅游专列车次编排为Y1001-Y9998。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group has launched a nationwide reform of train numbering, to be rolled out in two batches in late November and late December. The reform optimizes the prefix letters and number ranges used for train codes and implements a new edition of the train-numbering rules, so that passengers can tell a train's speed, quality and function directly from its number. Under the new system, X-prefixed trains denote Fuxing high-speed sets with a maximum operating speed above 350 km/h and are numbered X1-X9998; G denotes Fuxing sets with a maximum operating speed of 350 km/h, numbered G1-G9998; T denotes high-speed sets with a maximum operating speed of 300 km/h, numbered T1-T9998; and D denotes power-concentrated high-speed sets with a maximum operating speed of 200 km/h or below, numbered D1-D9998.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RmVbk47wm)
 
 ---
 
@@ -203,34 +281,6 @@ Over the next three days, precipitation affecting China will increase and intens
 
 ---
 
-### October 15, 2026 &bull; 13:00 CST
-#### China Railway Qinghai-Tibet Group Adds Temporary Trains on Xining-Golmud, Xining-Menyuan and Lhasa-Nyingchi Routes
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据近期旅客出行需求，中国铁路青藏集团有限公司决定加开临时旅客列车： 10月16、23、30日，11月6、13、20日，西宁至格尔木间加开C4381/2次临时动车组旅客列车。 10月18、25日，11月1、8、15、22日，西宁至格尔木间加开C4383次临时动车组旅客列车。 10月19、26日，11月2、9、16、23日，格尔木至西宁间加开C4384次临时动车组旅客列车。 11月1日至11月23日，西宁至门源间加开D9911/2次、D9913/4次动车组旅客列车。 11月6、13、20日，拉萨至林芝间加开K6833/4次临时旅客列车。 10月17日、19—22日、24日、26—29日、31日，11月2—5日、7日、9—12日、14日、16—19日、21日，西宁至格尔木间加开7585次临时旅客列车。 10月18日、20—23日、25日、27—30日，11月1日、3—6日、8日、10—13日、15日、17—20日、22日，格尔木至西宁间加开7586次临时旅客列车。 10月18日、25日，11月1、8、15、22日(逢周日)，拉萨至林芝间加开C4389/90次临时动车组旅客列车。 铁路部门提醒广大旅客，相关列车车票的发售及列车时刻等详细信息，可以通过登录中国铁路12306网站（含12306手机APP）、车站自动售票机查询，或者拨打中国铁路12306客服电话进行查询。
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway Qinghai-Tibet Group will add temporary passenger trains to meet recent travel demand. Additional Xining-Golmud services run on October 16, 23 and 30 and on November 6, 13 and 20, with further Xining-Golmud trains added on other dates in October and November. Extra Lhasa-Nyingchi trains run on November 6, 13 and 20, and additional Lhasa-Nyingchi services run on Sundays. Xining-Menyuan shuttle trains are added from November 1 to November 23. Passengers can check ticket sales and timetables through the official railway channels. Per current official policy for foreign visitors, arrangements are subject to change.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmLKOy9yg)
-
----
-
-### October 15, 2026 &bull; 11:00 CST
-#### Chongqing Airport Opens Transit Service Hall Offering Free Meals, Rest and Showers Within 48 Hours
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 免费吃饭、休息、沐浴！重庆机场中转服务厅正式启用，48小时内中转旅客均可申请。（来源：重庆发布） 交通运输部的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-Chongqing Airport has officially opened a transit service hall. Transit passengers within 48 hours can apply for free meals, rest and shower facilities.
-
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RmKY7hkqJ)
-
----
-
 ### October 15, 2026 &bull; 07:00 CST
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
@@ -270,29 +320,16 @@ China's national meteorological authority forecasts a new cold wave moving from 
 
 ---
 
-### October 14, 2026 &bull; 15:30 CST
-#### Hangzhou Launches Dedicated Autumn Osmanthus-Viewing Bus Line
+### October 14, 2026 &bull; 17:49 CST
+#### Dongguan East Station Adjusts 15 Passenger and Freight Trains in National Rail Timetable Update
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 桂花是浙江杭州的市花，眼下，杭州各处桂花陆续绽放，满城馥郁芬芳，赏桂季正式开启。杭州专门开通秋日赏桂公交专线，运营时间持续至11月11日。（来源：央视网） 交通运输部的微博视频
+> 【10月11日全国铁路调图｜东莞东站15趟客货列车优化】10月11日零时起，全国铁路实施2026年第四季度列车运行图。本次调图，东莞东站共15趟客货列车优化。客运方面，重庆东开往惠州K686次调整停靠时刻，12时24分抵达、12时30分发车；另有13趟长途普速列车优化停站与运行时刻，覆盖川渝、西北、赣鲁、华东方向，更好满足务工、返乡旅客出行需求。货运上，80042/1/2次升级为快速城际班列X232/3/2次，蓝村西至东莞东货运通道提质增效。 温馨提示：列车时刻以12306及车站现场公告为准，请预留充足安检检票时间，合理规划行程。（罗肆安，陈东明，李德民）
 
 **🇬🇧 Actionable Travel Intel**:  
-Hangzhou has launched a dedicated autumn osmanthus-viewing bus line, with operations running through November 11. Osmanthus is the city flower of Hangzhou, and blooms across the city are marking the start of the osmanthus-viewing season.
+With the national railway timetable for the fourth quarter of 2026 taking effect at midnight on October 11, Dongguan East Station has adjusted 15 passenger and freight trains. On the passenger side, the Chongqing East to Huizhou K686 train has changed its stopping times, arriving at 12:24 and departing at 12:30; another 13 long-distance conventional trains have had stops and running times optimized, covering the Sichuan-Chongqing, Northwest, Jiangxi-Shandong and East China directions. On the freight side, train 80042/1/2 has been upgraded to the express intercity service X232/3/2, improving the freight corridor from Lancun West to Dongguan East. Railway authorities advise passengers to confirm times via the 12306 platform and station notices, and to allow enough time for security checks and boarding.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RmDjda8nA)
-
----
-
-### October 14, 2026 &bull; 15:00 CST
-#### Shanghai Railway Group to Add 7 Peak-Hour Commuter Trains
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 为方便上海、嘉兴、杭州等地居民早晚高峰通勤， 计划增开早晚高峰通勤列车7列，其中城际早通勤列车5列、城际晚通勤列车2列。
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway Shanghai Group plans to add 7 peak-hour commuter trains to serve residents commuting between Shanghai, Jiaxing, and Hangzhou, comprising 5 morning intercity commuter trains and 2 evening intercity commuter trains.
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmD71CRsu)
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RmEdCEYoT)
 
 ---
 
@@ -309,16 +346,29 @@ The Central Meteorological Observatory continued to issue a blue-level alert for
 
 ---
 
-### October 8, 2026 &bull; 12:00 CST
-#### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
+### October 14, 2026 &bull; 07:54 CST
+#### Heavy Rain Warning Across Southwest and Central-South China Through October 17
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #2026铁路建设进展#10月1日8时18分，在四川省南充市南充北站的施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路铺轨施工正式启动。成达万高铁是我国“八纵八横”高铁网沿江通道的重要组成部分，线路西起四川省成都市天府站，途经四川省资阳市、遂宁市、南充市、达州市及重庆市开州区、万州区，接入既有郑渝高铁万州北站，正线全长477公里，设计时速350公里。@西南铁路
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
 
 **🇬🇧 Actionable Travel Intel**:  
-China State Railway Group announced the start of track-laying operations for the Chengdu–Dazhou–Wanzhou High-Speed Railway at Nanchong North Station on October 1. The line forms a key component of the Yangtze River corridor in the national high-speed railway grid, running 477 kilometers from Chengdu Tianfu Station to Wanzhou North Station with a design speed of 350 km/h.
+A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
 
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RlHmZg8GN)
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmAka5Y3E)
+
+---
+
+### October 13, 2026 &bull; 08:47 CST
+#### Anhui Xuancheng Station: Updated Railway Timetable Operates 94 Pairs of High-Speed Trains From October 11
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日零时起，全国铁路实行新的列车运行图，从宣城站获悉，调图后，宣城站安排开行图定旅客列车116.，5对其中高速列车94对，普速列车22.5对。戳图了解↓↓
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the national railway timetable adjustment effective at midnight on October 11, Xuancheng Station operates 94 pairs of high-speed trains and 22.5 pairs of conventional-speed trains.
+
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmrfacPg8)
 
 ---
 
@@ -335,6 +385,19 @@ China State Railway Group reported that national railways handled their return p
 
 ---
 
+### October 7, 2026 &bull; 18:04 CST
+#### Yangtze River Delta Railway: Historic Peak Dispatched with 557 Relief Trains & 210 Overnight Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【长三角铁路迎来返程客流最高峰 增开夜间高铁210列！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，上铁集团当天预计发送旅客415万人次，较去年同比增长17.7%。上铁集团在启用高峰线运行图的基础上，计划增开南昌、武汉、广州、郑州、临沂等方向旅客列车557列（其中直通旅客列车216列，管内旅客列车341列），组织427列动车组列车重联运行；同时，计划于10月7日晚间至10月8日凌晨增开夜间高铁列车210列，重点补充管内及直通热门方向运力，更好地满足旅客乘车出行需求。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an estimated 4,150,000 passenger dispatches (+17.7% YoY) across the Yangtze River Delta network. Authorities scheduled 557 additional passenger trains (216 direct, 341 regional) toward destinations including Nanchang, Wuhan, Guangzhou, Zhengzhou, and Linyi, coupled 427 EMU trainsets, and operated 210 overnight high-speed trains between the evening of October 7 and the early morning of October 8.
+
+> **Verified Source**: [China Railway Shanghai Group (中国铁路上海局, Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
+
+---
+
 ### October 7, 2026 &bull; 13:03 CST
 #### China Customs Issues Inbound Quarantine Reminder: Prohibitions on Meat, Bird's Nest, and Fresh Fruits
 
@@ -345,6 +408,27 @@ China State Railway Group reported that national railways handled their return p
 The General Administration of Customs reminded inbound travelers that bringing meat products, bird's nest, and fresh fruits into China is strictly prohibited without prior official approval under border quarantine regulations. Arriving passengers carrying any restricted biological items must declare them to Customs for official quarantine inspection, and failure to comply carries legal liability under border health and biosecurity laws.
 
 > **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RlymrysSL)
+
+---
+
+### October 6, 2026 &bull; 07:59 CST
+#### Guangxi Implements Cross-Regional Buy-Now Refund-Now Departure Tax Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+>【“即买即退”全国异地互认9月落地 入境消费升温 退税服务提速】国庆假期，入境消费持续升温。为做好退税服务保障，广西加速推动离境退税“即买即退”向重点商圈、旅游景区延伸，优化多语种服务，延长集中退付点服务时长，推动“即买即退”全国异地互认政策落地，不断提升退税服务便利度。
+今年2月，南宁率先与北京、天津等16个省区市实现“即买即退”跨口岸互认；7月，广西与湖南、福建、广东、海南等6个省区市实现口岸互认；9月1日起，“即买即退”全国异地互认正式落地。
+“异地互认落地后，境外旅客在南宁退税商店购物，办理‘即买即退’并当场领取退税预付金后，可自由选择任一离境口岸完成海关核验，无需返回购物地，真正实现‘一地购物、多地离境’。”南宁市税务局第二税务分局副局长罗燕娜说，结合今年7月1日起实施的无纸化退税、小额抽检制度等措施，退税办理流程和时长进一步压缩。
+前不久来南宁参加第23届东博会的林女士对此感受颇深：“之前来中国购物，离境只能从南宁返程。有了互认政策，东博会结束后，我会先到桂林游玩，再去上海，直接从上海离境。”
+“全国异地互认举措真正补上了我们商场跨境消费服务的短板。”南宁杉杉奥特莱斯商业广场有限公司总经理夏飞说，过去，境外旅客购物退税需攒齐单据，离境时到口岸排队，环节多、耗时长，不少人因行程不匹配或嫌麻烦而放弃；如今，境外旅客可在商场开具申请单后到集中退付点办理退税，全国任一具备资质的离境口岸均可核验，不必再返回购物城市。
+政策叠加效应进一步显现。今年9月，广西开启2026“惠购广西”离境退税消费季活动，面向境外来桂商旅人士发放5万份“入境有礼”消费立减补贴，让境外旅客在退税商店消费时可同时享受“退税+立减”双重优惠。
+“退税服务便利度提升，叠加消费政策升级，在一定程度上提升了境外旅客的消费意愿，也为我们做好今年国庆假期入境消费服务增添了信心。”夏飞告诉记者，为提升境外旅客假期入境消费体验，商场在总服务台和核心品牌区加派专人值守，现场解答境外旅客退税咨询，协助其办理手续；同时，与符合条件的门店沟通，引导导购主动提醒境外旅客办理退税，避免因不了解退税政策错过优惠。
+不仅杉杉奥特莱斯如此，记者走访发现，南宁万象城、南宁百货大楼、南宁梦之岛水晶城等离境退税特色商圈均在核心区域设置退税服务台，为境外旅客提供退税政策引导、咨询和办理服务。
+“目前，南宁市备案的离境退税商店已有168家、313个经营网点，覆盖特色文创、农副特产、智能科技、日用百货等多个品类。”罗燕娜表示，将持续扩大“即买即退”覆盖范围，优化办理流程，丰富退税商品供给，助推“入境流量”转化为“消费留量”。
+
+**🇬🇧 Actionable Travel Intel**:  
+Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service across key commercial districts and scenic areas: following cross-port recognition between Nanning and 16 provinces/municipalities in February and 6 provinces (including Hunan, Fujian, Guangdong, and Hainan) in July, nationwide cross-regional mutual recognition took effect on September 1. Combined with paperless tax refunds and small-amount sampling implemented on July 1, overseas travelers shopping at tax-refund stores in Nanning can receive tax refund advances on-site and complete Customs verification at any qualified departure port nationwide without returning to the purchase city ("single-location shopping, multi-port departure"). In September, Guangxi also launched the 2026 "Huigou Guangxi" departure tax refund consumption season, issuing 50,000 instant-discount subsidies so inbound travelers enjoy dual "tax refund + instant discount" benefits. Major commercial complexes—including Shanshan Outlets, Nanning MixC, Nanning Department Store, and Mengzhidao Crystal City—have set up dedicated tax refund service desks, supported by 168 registered departure tax-refund stores across 313 retail outlets in Nanning.
+
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
 
 ---
 
@@ -371,32 +455,6 @@ The Ministry of Transport reported that inter-regional passenger movements surpa
 China Customs issued a reminder regarding currency restrictions for inbound and outbound travelers. Passengers carrying more than CNY 20,000 in cash or foreign currency exceeding the equivalent of USD 5,000 must declare to customs. Outbound travelers carrying USD 5,000 to USD 10,000 must obtain a permit from an authorized bank, while amounts exceeding USD 10,000 require a permit from the State Administration of Foreign Exchange.
 
 > **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/Rlg7zni9N)
-
----
-
-### October 5, 2026 &bull; 07:30 CST
-#### Direct Passenger Flight Resumes: Qingdao to Vancouver Weekly Route
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月2日，山东青岛直飞加拿大温哥华客运航线正式复航。山东边检总站青岛机场边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线每周五执飞一班。（文：徐哲/图：朱杰）
-
-**🇬🇧 Actionable Travel Intel**:  
-The direct passenger air route between Qingdao and Vancouver officially resumed on October 2, with international flights operating weekly on Fridays. Qingdao Airport border inspection deployed optimized duty arrangements to maintain passenger clearance for incoming and departing travelers.
-
-> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RldjUcMIZ)
-
----
-
-### October 3, 2026 &bull; 18:00 CST
-#### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【 #假期出行物品遗失应对指南# 】 #12306可在线找回遗失物品# 假期出行物品遗失时有发生，万一行李错拿漏拿，请第一时间向民警或工作人员求助。在火车站或列车上，还可用铁路12306APP里的遗失物品查找功能在线找回：打开12306，首页找到温馨服务，选择遗失物品查找，按提示填写信息，提交后等待反馈，工作人员找到会尽快送回。
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway highlighted the lost property tracking service available on the Railway 12306 app. Passengers who misplace belongings on trains or at railway stations can navigate to "Warm Service" on the app home screen, select "Lost Property Search", fill in trip details, and submit for staff assistance.
-
-> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RkYAD8qqA)
 
 ---
 
@@ -440,55 +498,3 @@ Following its May–June off-peak midweek promotion that offered a 10% discount 
 The Ministry of Culture and Tourism and the China Meteorological Administration jointly issued a National Day holiday (October 1–7) travel weather advisory: (1) Most northern regions see sunny-to-cloudy skies and favorable comfort levels across North China, northern Jiangnan, eastern Southwest China, southern Northeast China, and most of Northwest China, while southern China experiences rainy weather from October 1 to 4 before turning clear and comfortable after October 5; (2) Travelers should prepare warm clothing for chilly mornings and evenings in the north—where minimum temperatures in parts of eastern Inner Mongolia, northern Hebei, and Heilongjiang drop to around 0°C—alongside 4–6°C cooling across central and eastern China on October 3–4 and strong winds with cooling in northern Xinjiang on October 6–7. Rain is forecast for central Inner Mongolia, northern North China, and southern Northeast China on October 2–3 (light-to-moderate rain or thunderstorms, localized heavy rain) and across southern China on October 1–4 (heavy rain in parts, localized torrential rain in Guizhou, and localized heavy snow in the eastern Qinghai-Tibet Plateau); visitors are advised to monitor forecasts closely and avoid high-risk mountain/water zones and undeveloped or unopened areas.
 
 > **Verified Source**: [Ministry of Culture and Tourism of the PRC (文旅之声, Sina Weibo)](https://weibo.com/5713450386/RkmT0bVyx)
-
----
-
-### September 28, 2026 &bull; 21:48 CST
-#### Harbin–Yichun High-Speed Rail Opens: Northeast Boreal Corridor Linked in 1h 46m
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #哈尔滨至伊春高铁开通运营# 9月28日10时26分，D7288次列车从伊春西站开出，驶向哈尔滨站，标志着哈伊高铁正式开通运营，哈尔滨至伊春最快1小时46分钟可达。哈伊高铁是国内首条穿越高寒岛状冻土区的高速铁路，线路全长318公里，设计时速250公里，设哈尔滨、哈尔滨北、呼兰北、兴隆镇西、绥化南、庆安南、铁力、日月峡、伊春西9座车站，其中伊春西站是我国目前建成的纬度最高的高铁车站，于今日正式开门迎客。（图片：杨宝森） @哈尔滨铁路
-
-**🇬🇧 Actionable Travel Intel**:  
-The Harbin–Yichun High-Speed Railway has entered official passenger operation, marking China's first high-speed line built across high-latitude discontinuous permafrost. The 318 km line (speed 250 km/h) connects Harbin with Yichun in 1 hour 46 minutes. Yichun West Station now operates as the country's northernmost high-speed terminus across 9 newly operational stations.
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkeX20Ttn)
-
----
-
-### September 28, 2026 &bull; 18:04 CST
-#### Yichang–Xingshan High-Speed Railway Enters Service Connecting Yangtze Corridor
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 9月28日清晨，群山环抱下的兴山站十分热闹。站前广场上人潮涌动，舞狮表演、昭君小戏、踩堂戏、汉服快闪等特色节目轮番上演，处处洋溢着喜庆的氛围。9时58分，随着一声风笛长鸣，G6888次首发列车缓缓驶离兴山站，向宜昌北站疾驰而去，标志着宜兴高铁正式开通运营。至此，沪渝蓉沿江高铁与郑渝高铁成功“牵手”，兴山至宜昌两地火车出行半小时可达，武汉至重庆时空距离进一步压缩，两地最快3小时54分钟可达。
-
-**🇬🇧 Actionable Travel Intel**:  
-The Yichang–Xingshan High-Speed Railway officially entered commercial passenger service on September 28 as train G6888 departed Xingshan Station towards Yichang North Station at 9:58. The line connects the Yangtze River corridor with the Zhengzhou–Chongqing High-Speed Railway, cutting rail travel time between Xingshan and Yichang to half an hour and reducing Wuhan–Chongqing travel time to 3 hours 54 minutes.
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rkdu7u1Qm)
-
----
-
-### September 28, 2026 &bull; 15:29 CST
-#### Beijing–Hong Kong Corridor: Xiong'an–Shangqiu High-Speed Line Opens in 2h 27m
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #京港高铁雄安至商丘段开通运营# 9月28日8时52分，G3935次列车从雄安站驶出，京港高铁雄安至商丘段正式开通运营。线路全长552公里，连接起华北平原、冀中南平原、鲁西南腹地和豫东地区。雄安至商丘高铁最快2小时27分钟可达。（视频：小金工作室） 
-
-**🇬🇧 Actionable Travel Intel**:  
-The Xiong'an–Shangqiu section of the Beijing–Hong Kong High-Speed Railway entered operation on September 28 as train G3935 departed Xiong'an Station. The 552-kilometer line links the North China Plain with eastern Henan and southwestern Shandong, achieving a travel time of 2 hours 27 minutes between Xiong'an and Shangqiu.
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rkct8a8Zx)
-
----
-
-### September 27, 2026 &bull; 18:00 CST
-#### Bohai-Rim Transit Expansion: Tianjin–Weifang HSR Connector Begins Trial Runs
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #2026铁路建设进展# 9月24日13时，55101次检测列车从济南东站稳稳驶出，天津至潍坊高铁济南联络线全面启动联调联试工作，为全线开通运营奠定坚实基础。济滨高铁从济南东站引出，向北经山东省济南市历城区、遥墙机场、章丘区，上跨黄河经济南市济阳区、商河县，向东经滨州市惠民县、滨城区，接入滨州站津潍场。正线全长约145公里，设计时速350公里。 @国铁济南局
-
-**🇬🇧 Actionable Travel Intel**:  
-Inspection train 55101 departed Jinan East Station on September 24, launching full commissioning for the Jinan Connector of the Tianjin–Weifang High-Speed Railway. Extending approximately 145 kilometers with a design speed of 350 km/h, the line connects Jinan East Station with Yaoqiang Airport and Binzhou Station.
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rk41ECTRB)
