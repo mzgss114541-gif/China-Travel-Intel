@@ -6,6 +6,32 @@
 
 ---
 
+### October 20, 2026 &bull; 20:00 CST
+#### Super Typhoon Champi Expected to Enter China's 48-Hour Warning Line
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【关注！今年第30号台风“蔷琵”预计今夜至明晨，将进入我国48小时警戒线】据气象部门消息，今年第30号台风“蔷琵”（超强台风级），目前中心位于西北太平洋洋面，“蔷琵”目前的移动路径仍然稳定，以每小时25-30公里的速度继续向西偏北方向移动，逐渐趋向台湾以东洋面。预计今夜至明晨，“蔷琵”将进入我国48小时警戒线，后续路径仍存在不确定性。 受台风外围环流影响，台湾以东洋面、巴士海峡、东海南部、台湾海峡风力将逐步增大，相关海域将出现大风、巨浪，沿海地区后续可能迎来风雨影响。请相关地区公众及时关注最新预警预报信息，提前做好防范应对。
+
+**🇬🇧 Actionable Travel Intel**:  
+Super Typhoon Champi is moving west-northwest at 25–30 kilometers per hour toward waters east of Taiwan and is expected to enter China's 48-hour warning line tonight or tomorrow morning. Its later track remains uncertain. Winds and rough seas will increase east of Taiwan, in the Bashi Channel, southern East China Sea and Taiwan Strait, and coastal areas may later experience wind and rain. Travelers should monitor updated warnings.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnzDMiFG1)
+
+---
+
+### October 20, 2026 &bull; 19:00 CST
+#### Cold Air to Bring Temperature Drops, Strong Winds and Rain to Central and Eastern China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据气象部门消息，今明两天，冷空气影响我国，中东部大部地区有4℃～6℃降温，华北西部、东北地区等地部分地区降温超过8℃，长江以北大部地区伴有4～6级偏北风，阵风7～9级。同时，西南地区东部、江淮、江汉、江南西部等地部分地区有中到大雨，局地暴雨。20日至21日白天，西北地区、内蒙古、华北、东北地区等地部分地区有小雨（雪）或雨夹雪，其中吉林东部、黑龙江南部等地局地有中到大雪。21日至24日，新疆北部将出现大风降温天气，北部地区有明显雨雪天气，部分高海拔山区有暴雪到大暴雪，局地特大暴雪。 提醒大家，要关注短期天气预报，及时增减衣物，顺应昼夜温差，做好防护。大风时段注意远离广告牌、临时搭建物，防范高空坠物。
+
+**🇬🇧 Actionable Travel Intel**:  
+Over the next two days, cold air will affect most of central and eastern China, bringing temperature drops of 4–6°C, with drops exceeding 8°C in parts of western North China and Northeast China. Much of the area north of the Yangtze will have north winds of force 4–6 and gusts of force 7–9. Parts of eastern Southwest China, the Jianghuai region, Jianghan and western Jiangnan may see moderate to heavy rain, with local torrential rain. From 20 to 21 October, parts of Northwest China, Inner Mongolia, North China and Northeast China may see light rain, snow or sleet, with moderate to heavy snow in parts of eastern Jilin and southern Heilongjiang. From 21 to 24 October, northern Xinjiang will see strong winds and cooling, with significant rain and snow and possible blizzards to heavy blizzards in high-altitude areas. Travelers should monitor forecasts, dress appropriately and stay away from billboards and temporary structures during strong winds.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnzfqlTu9)
+
+---
+
 ### October 19, 2026 &bull; 14:50 CST
 #### Super Typhoon Champi Nears China; Coastal Wind and Rain Expected
 
