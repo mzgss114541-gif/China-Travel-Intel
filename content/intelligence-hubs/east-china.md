@@ -6,6 +6,19 @@
 
 ---
 
+### October 20, 2026 &bull; 18:00 CST
+#### Shengsi Water Passenger Services May Be Disrupted from 21 October
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受冷空气与台风“蔷琵”共同影响，嵊泗海域将出现大风天气。自10月21日起，嵊泗县水上客运航班或将受到影响，预计影响时长约一周。详情👉 https://mp.weixin.qq.com/s/Dbrz2TTwfK2450WKDkdiLg 来源：嵊泗旅游
+
+**🇬🇧 Actionable Travel Intel**:  
+Strong winds from cold air and Typhoon Champi may affect water passenger services in Shengsi County from 21 October for about one week. Travelers should check the latest service information before departure.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RnyR4mW58)
+
+---
+
 ### October 19, 2026 &bull; 14:53 CST
 #### Zhujiajian Daqingshan Scenic Area to Close 24–25 October
 
