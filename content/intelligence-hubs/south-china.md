@@ -6,6 +6,19 @@
 
 ---
 
+### October 22, 2026 &bull; 11:00 CST
+#### Zhuhai Railway Passengers Eligible for Ferry Ticket Discounts Through April 2027
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2027年4月30日前，凭珠海站7日内高铁票，在九洲港、湾仔旅游码头线下窗口购票享专属优惠！（段治平，九洲港，肖倩兰） 广州铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Through April 30, 2027, passengers presenting a high-speed rail ticket to Zhuhai Station dated within seven days can enjoy special discounts when purchasing ferry tickets in person at offline ticket windows of Jiuzhou Port and Wanzai Tourist Pier.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RnOXAvWKl)
+
+---
+
 ### October 21, 2026 &bull; 13:00 CST
 #### Strong Wind Warning Issued for Wuhan
 

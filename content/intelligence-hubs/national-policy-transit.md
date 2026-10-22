@@ -6,6 +6,19 @@
 
 ---
 
+### October 22, 2026 &bull; 08:00 CST
+#### Gales, Sharp Temperature Drop and Rain-Snow Weather Forecast Across Northern Regions
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据气象部门消息，未来三天，新疆大部、甘肃中西部、青海北部和南部、内蒙古、华北北部、东北地区等地部分地区先后有5～7级风，阵风7～9级，新疆风口风力9~11级，阵风12~13级；上述大部地区平均气温下降4～6℃，新疆北部部分地区降温超过10℃。另外，新疆北部有明显雨雪天气，高海拔山区有暴雪到大暴雪，局地特大暴雪。 提醒，近期北方冷空气活跃，气温起伏较为剧烈，建议公众做好防风保暖措施；新疆北部雨雪范围广，需防范强降雪对交通出行、旅游等的不利影响。出行请关注天气变化，注意安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+Over the next three days, parts of northern and western regions—including most of Xinjiang, central and western Gansu, northern and southern Qinghai, Inner Mongolia, northern North China, and Northeast China—will experience winds of force 5 to 7 with gusts of force 7 to 9. Xinjiang mountain passes will see winds of force 9 to 11 with gusts of force 12 to 13. Average temperatures across most of these areas will fall by 4 to 6 degrees Celsius, with drops exceeding 10 degrees Celsius in parts of northern Xinjiang. Northern Xinjiang will also see widespread rain and snow, with snowstorms to severe snowstorms in high-altitude mountain areas. Travelers should monitor weather conditions and dress warmly.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnNMQvMmt)
+
+---
+
 ### October 21, 2026 &bull; 10:17 CST
 #### Typhoon Path Remains Uncertain as Strong Coastal Winds and Rain Approach
 

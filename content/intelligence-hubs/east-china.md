@@ -6,6 +6,58 @@
 
 ---
 
+### October 22, 2026 &bull; 09:33 CST
+#### Suzhou Jinji Lake Cruise Piers Adjust Operations for Sailing Regatta
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 各位游客、市民朋友： 为保障第十七届"城际内湖杯"帆船赛顺利举办，结合赛事水域规划及通航安全保障相关要求，我司将对金鸡湖部分水上经营项目作出如下临时调整: 一、 月光码头 2026年10月22日至10月25日，月光码头往返望湖阁码头的金鸡湖水上公共巴士项目暂停运营; 2026年10月23日至10月25日，月光码头水上漂移、水上超跑项目暂停运营;10月23日至10月25日每日9:00至17:00,月光码头双体帆船项目暂停运营。 二、 望湖阁码头 2026年10月23日至10月25日期间，每日9:00至17:00,望湖阁码头所有经营项目暂停服务。 三、 风之园码头 2026年10月23日至10月25日每日9:00至17:00，风之园码头双体帆船项目暂停运营;其他经营项目在切实避离赛事水域的前提下正常开放。 公告提及的暂停项目外，其余项目正常运营。请广大游客和市民提前做好行程安排，由此带来的不便，敬请谅解。感谢大家对赛事工作的理解与支持! 特此通知。 苏州文博商务旅游发展有限公司 2026年10月21日
+
+**🇬🇧 Actionable Travel Intel**:  
+To support a local sailing regatta, Jinji Lake water tourism operations in Suzhou are temporarily adjusted. At Moonlight Pier, the water bus running between Moonlight Pier and Wanghuge Pier is suspended from October 22 to October 25, 2026; water drift and supercar experiences are suspended from October 23 to October 25; and catamaran sailing is suspended daily from 9:00 to 17:00 between October 23 and October 25. At Wanghuge Pier, all commercial services are suspended daily from 9:00 to 17:00 between October 23 and October 25. At Fengzhiyuan Pier, catamaran sailing is suspended daily from 9:00 to 17:00 from October 23 to October 25, while other activities remain open outside the regatta waters.
+
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RnOoz4xtD)
+
+---
+
+### October 22, 2026 &bull; 09:32 CST
+#### Suzhou Shishan Cultural Square Announces Temporary Closures and Suspensions
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于狮山文化广场部分区域及设施临时封闭、暂停运营的公告 尊敬的各位市民、游客： 因近期活动需要，狮山文化广场部分区域及设施将临时封闭、暂停运营，现将具体事项公告如下： 一、地下车行通道及停车场封闭 封闭范围：狮山文化广场地下车行通道（金山路—长江路、汾湖路双向）；地下停车场全部区域及相关出入口。封闭期间不再提供社会车辆停放服务，请勿驶入、停放。 封闭时间：2026年10月22日12:00（星期四）至10月23日24:00（星期五）。 10月22日6:00起地下停车场实行只出不进管控，当日12:00起整体封闭 。 二、广场地面及环路部分封闭 封闭范围：狮子山、天狮湖，广场及环路部分区域（具体根据现场工作需要）。 封闭时间：2026年10月22日17:00至10月23日24:00。 三、游乐设施暂停运营 停运范围：天狮湖游船、观光自行车、电瓶车等设施。 停运时间：2026年10月22日至23日全天。 四、温馨提示 1.请广大车主及时检查车辆停放情况，务必于10月22日12:00前将车辆驶离地下停车场。 2.本次封闭及停运期间，请广大市民游客提前规划出行、游览及停车路线，合理安排行程。 给您带来不便，敬请谅解，感谢您的理解与配合！ 狮山文化广场 2026年10月21日 来源：狮山文化广场、苏州发布
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to scheduled event activities, parts of Shishan Cultural Square in Suzhou are temporarily closed. The underground vehicular passage and entire underground parking area are closed from 12:00 on October 22 to 24:00 on October 23, 2026. Surface areas around Shizi Mountain, Tianshi Lake, the square, and ring road will be partially closed from 17:00 on October 22 to 24:00 on October 23. Recreational facilities, including Tianshi Lake sightseeing boats, rental bicycles, and electric battery carts, are suspended all day on October 22 and 23.
+
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RnOo0EZBd)
+
+---
+
+### October 21, 2026 &bull; 18:29 CST
+#### Zhoushan Baisha Island Scenic Area Temporarily Closed Due to Typhoon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> “蔷琵”（超强台风级）外围环流影响，舟山白沙岛景区自10月21日（星期三）18:00 起临时关闭，暂停一切对外开放及游览活动，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源：舟山白沙旅游）
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to the peripheral circulation of Typhoon Ciampi, Baisha Island Scenic Area in Zhoushan temporarily closed on October 21 at 18:00, suspending all public visits and tourism activities. Reopening time will be announced separately. Visitors are advised to adjust travel plans, stay away from coastlines, and mind safety during typhoon weather.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RnItAv0Tb)
+
+---
+
+### October 21, 2026 &bull; 17:16 CST
+#### Typhoon Outer Clouds and Cold Air to Bring Rain and Strong Wind to Shanghai
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ，预计较大可能于周五夜间到周六进入东海，上海周五下午至周日有连续降水过程】今年第30号台风“蔷琵”外围云系将影响上海，可能出现暴雨天气。明天起，受冷空气影响，上海有一次大风降温过程，预计“蔷琵”较大可能于周五夜间到周六进入东海，之后向北偏东南方向移动。受“蔷琵”外围云系和冷空气共同影响，上海周五下午至周日有连续降水过程，并伴有6~7级阵风，沿江沿海地区风力可达8~9级，预计风雨较大时段为周五夜间至周六，期间可能出现暴雨。 021视频-新闻晨报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Affected by the outer cloud system of Typhoon Ciampi and incoming cold air, Shanghai is forecast to experience continuous precipitation from Friday afternoon through Sunday, accompanied by gusts of force 6 to 7, and winds reaching force 8 to 9 along rivers and coastal areas. The strongest wind and rain are expected from Friday night to Saturday, with heavy rain possible. Typhoon Ciampi is likely to enter the East China Sea between Friday night and Saturday before moving northeastward.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnHZZkMtW)
+
+---
+
 ### October 21, 2026 &bull; 10:28 CST
 #### Zhoushan Scenic Area Temporarily Closed Due to Typhoon
 
