@@ -6,6 +6,45 @@
 
 ---
 
+### October 21, 2026 &bull; 13:00 CST
+#### Strong Wind Warning Issued for Wuhan
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今天（21日）清晨武汉市气象台发布大风蓝色预警：预计今天白天至上半夜，武汉中心城区大部分街道号有3到4级偏北风，阵风5到7级，江河湖库及山地周边阵风可达8级以上。
+
+**🇬🇧 Actionable Travel Intel**:  
+A blue strong-wind warning is in effect for Wuhan from daytime through late night on October 21. Most central urban streets are forecast to have northerly winds of force 3 to 4 with gusts of force 5 to 7. Gusts around rivers, lakes, reservoirs and mountain areas may exceed force 8.
+
+> **Verified Source**: [Wuhan Municipal Bureau of Culture and Tourism (武汉市文化和旅游局, Sina Weibo)](https://weibo.com/2140196951/RnGjO1iGH)
+
+---
+
+### October 21, 2026 &bull; 09:04 CST
+#### Enshi Airport Adds Quanzhou Route and Adjusts Winter Flights
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月25日至2027年3月7日，恩施许家坪国际机场正式执行2026—2027年冬春航季航班计划，季中预新开泉州航线，加密温州航班，优化深圳⇌恩施⇌太原航线，进一步拓宽恩施对外通达半径。（恩施新闻网） https://mp.weixin.qq.com/s/MiSyMQpxwTBam90pgPVNWQ
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 25, 2026 to March 7, 2027, Enshi Xujiaping International Airport will operate its 2026-2027 winter-spring flight schedule. The schedule is expected to add a Quanzhou route, increase Wenzhou flights, and optimize the Shenzhen-Enshi-Taiyuan route.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RnEM0k1j6)
+
+---
+
+### October 21, 2026 &bull; 08:52 CST
+#### Guangxi Faces Cooler, Rainy Weather Through October 22
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 预计今天至22日白天，一股弱冷空气将会自北向南影响广西，带来降温降雨天气；今天各地日平均气温下降幅度：桂北4℃～6℃、局地8℃以上；桂南2℃～4℃。雨水方面：今天白天，百色、崇左、防城港、钦州、北海、玉林等市阴天有小雨，百色局地雨势明显，有大雨或暴雨；今晚到22日白天，桂西多云为主偶尔会有分散阵雨出现。22日晚上到23日白天，全区转为多云到晴的天气，桂西北有阵雨。另外23日起受台风“蔷琵”西侧外围环流影响，各地气温逐渐回升。 广西气象的微博视频（来源：广西气象）
+
+**🇬🇧 Actionable Travel Intel**:  
+A weak cold air mass will move from north to south across Guangxi through the daytime of October 22, bringing cooler and rainy weather. Average daily temperatures are forecast to fall by 4 to 6 degrees Celsius in northern Guangxi, with local drops above 8 degrees Celsius, and by 2 to 4 degrees Celsius in southern Guangxi. Today, Baise, Chongzuo, Fangchenggang, Qinzhou, Beihai and Yulin will be cloudy with light rain, with locally heavy rain or rainstorms in Baise. From tonight through the daytime of October 22, western Guangxi will be mostly cloudy with scattered showers. From the night of October 22 through the daytime of October 23, most of Guangxi will become cloudy to clear, with showers in northwestern Guangxi.
+
+> **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RnEHqwVM2)
+
+---
+
 ### October 20, 2026 &bull; 17:36 CST
 #### Nanning Railway Offers 10% Off-Season Discount on 219 Trains for Seniors
 
