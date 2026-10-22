@@ -6,6 +6,32 @@
 
 ---
 
+### October 21, 2026 &bull; 09:36 CST
+#### Sun Island Exhibition Halls Adjust Hours; Two Venues Close
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 出游注意！太阳岛风景区七大展馆营业时间有调整 自10月19日起，哈尔滨市太阳岛风景区内七大展馆调整营业时间。 周立波《暴风骤雨》创作地纪念馆 开馆时间：每周一至周日9时至16时20分 展馆地址：临江街5号 俄罗斯艺术展览馆 开馆时间：每周二至周日9时至11时，13时至16时（每周一闭馆） 展馆地址：太阳岛街5号 哈尔滨建筑文化与冰雪艺术映像馆 开馆时间：每周二至周日9时30分至15时30分（每周一闭馆） 展馆地址：西园街6号 太阳书愿国图文创馆 开馆时间：每周二至周日10时至16时30分（每周一闭馆） 展馆地址：西林街8号 韩建民中俄油画收藏馆 开馆时间：每周一至周日9时至16时 展馆地址：平原街11号 黑土文化艺术研究院美术馆 （闭馆，暂停参观） 展馆地址：临江街10号 于志学美术馆 （闭馆，暂停参观） 展馆地址：平原街20号
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 19, seven exhibition venues in Harbin Sun Island Scenic Area adjusted their opening hours. The two venues that are closed and suspended for visits are the Black Soil Culture and Art Research Institute Art Museum and the Yu Zhixue Art Museum. The Russian Art Exhibition Hall, Harbin Architecture and Ice-Snow Art Image Hall and Sun Book Garden are closed on Mondays.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/RnEZ0aIY2)
+
+---
+
+### October 21, 2026 &bull; 07:51 CST
+#### Qinhuangdao Airport Opens New Winter-Spring Routes from October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 冬春交替、航季焕新！全国民航2026年冬春航季即将开启，秦皇岛北戴河机场10月25日起将执行全新航班计划，新航季开通至上海、杭州、石家庄、重庆、成都、西安、深圳、长春、广州、无锡、包头等城市航线，其中上海航班周一、三、五、日加密至两班，此次换季部分航线班期、时刻有所调整，广大出行旅客需留意变化，合理安排行程。（图文信息自秦皇岛北戴河机场）
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting October 25, 2026, Qinhuangdao Beidaihe Airport will implement a new winter-spring flight schedule with routes to Shanghai, Hangzhou, Shijiazhuang, Chongqing, Chengdu, Xi'an, Shenzhen, Changchun, Guangzhou, Wuxi and Baotou. Shanghai flights will increase to two on Mondays, Wednesdays, Fridays and Sundays. Some flight dates and times will change.
+
+> **Verified Source**: [Qinhuangdao Bureau of Culture and Tourism (秦皇岛旅游文化发布, Sina Weibo)](https://weibo.com/2119650641/RnEindpkc)
+
+---
+
 ### October 19, 2026 &bull; 16:00 CST
 #### Jilin Longwan Scenic Area Closes for Season; Two Areas Keep Limited Hours
 
