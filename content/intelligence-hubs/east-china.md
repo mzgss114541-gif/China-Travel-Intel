@@ -6,6 +6,32 @@
 
 ---
 
+### October 22, 2026 &bull; 19:44 CST
+#### Shanghai and Coastal East China Issue Typhoon Champi Rain and Gale Alerts from October 23
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据央视新闻报道，台风“蔷琵”继续靠近我国，将会在今天稍晚些时候进入24小时警戒圈，虽然其未来路径还有不确定性，但台湾、浙江、上海、江苏等地都将有明显风雨。 据上观新闻，受台风“蔷琵”外围环流和冷空气共同影响，23日下午至25日白天本市将有明显风雨天气。其中较明显风雨影响时段为23日傍晚到24日，本市有暴雨，雨量分布不均，累积雨量50～70毫米，东部和南部沿海地区90～120毫米，个别站点可达150毫米左右，最大小时雨强30～40毫米；陆地最大阵风6～7级，长江口区和沿江沿海地区8～9级，洋山港区9～10级，25日上午起风雨逐渐减弱。 今年第30号台风“蔷琵”（超强台风级）中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级（55米每秒）。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北方向移动，也不排除在台湾东北部沿海擦过的可能性。受其影响，23日至26日，上海、浙江、福建等地有大到暴雨，局地大暴雨。中央气象台22日6时发布台风蓝色预警。 根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于22日8时针对上海、浙江、福建启动防汛防台风四级应急响应，并派出工作组赴浙江协助指导防汛防台风工作。（东方网 ） 东方网的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Influenced by Typhoon Champi and a cold air mass, Shanghai and coastal East China will experience heavy rain and strong winds from the afternoon of October 23 through October 25, with peak impact from the evening of October 23 to October 24. Inland areas may experience gusts of force 6 to 7, while coastal areas and the Yangtze River estuary could see gusts of force 8 to 9. A Level IV flood and typhoon emergency response has been activated for Shanghai, Zhejiang, and Fujian. Travelers should monitor weather advisories and exercise caution.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnSozABun)
+
+---
+
+### October 22, 2026 &bull; 15:00 CST
+#### Putuoshan to Zhujiajian Passenger Ferries Suspended from October 23 Due to Typhoon Champi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受30台风“蔷琵”影响，普陀山至朱家尖航线客船明天（10月23日）起停航，预计停航3-4天，请各位相互转告！ 来源：舟山旅游集团
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to Typhoon Champi, passenger ferry services on the Putuoshan to Zhujiajian route will be suspended starting October 23 for an expected 3 to 4 days. Travelers are advised to adjust their travel plans accordingly.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RnQx0agML)
+
+---
+
 ### October 22, 2026 &bull; 09:33 CST
 #### Suzhou Jinji Lake Cruise Piers Adjust Operations for Sailing Regatta
 

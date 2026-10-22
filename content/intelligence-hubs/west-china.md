@@ -6,6 +6,19 @@
 
 ---
 
+### October 22, 2026 &bull; 15:19 CST
+#### Chang'an Airlines Launches and Resumes Seasonal Routes from Xi'an from October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #千年古都 常来长安# 【长安航空冬春航季新开恢复西安—荔波—珠海等多条航线】10月25日起，新海航长安航空将开始执行2026年冬春航季航班计划。换季后，新海航长安航空将新开西安—荔波—珠海、西安—井冈山—三亚航线，恢复西安—珠海等航线，继续执行西安至三亚、北海、哈尔滨、喀什等热门航线，以及西安—凯里—海口、西安—铜仁—厦门、西安—景德镇—宁波等文旅特色航线，覆盖城市41座，重点满足冰雪旅游与暖冬度假等季节性客流需求。 https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Fxafbapp.xiancn.com%2Fapp%2Ftemplate%2FdisplayTemplate%2Fnews%2FnewsDetail%2F104%2F7541280.html%3FisShare%3Dtrue&action=appmsg_redirect&uin=Mjk5MzUxMjU4MQ%3D%3D&biz=MzA5NDUxMDkxMQ==&mid=2651116103&idx=1&type=1&scene=0 （via. ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting October 25, Chang'an Airlines will operate its winter-spring flight schedule, covering 41 cities. The airline will introduce new routes connecting Xi'an with Libo and Zhuhai, and Xi'an with Jinggangshan and Sanya, while resuming direct Xi'an to Zhuhai service. Flights from Xi'an to Sanya, Beihai, Harbin, and Kashgar will continue operating.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RnQEIhGo5)
+
+---
+
 ### October 22, 2026 &bull; 13:00 CST
 #### Multiple Sichuan Scenic Areas Announce Free Admission Policies Through November
 
