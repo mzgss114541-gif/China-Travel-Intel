@@ -6,6 +6,45 @@
 
 ---
 
+### October 22, 2026 &bull; 13:00 CST
+#### Multiple Sichuan Scenic Areas Announce Free Admission Policies Through November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近期，四川21市（州）秋假时间已全部确定。从各市州公布方案看，3天秋假衔接周末形成5天连休是普遍安排。金秋风景正好，四川多个景区也推出免票福利。西岭雪山后山滑雪场、瓦屋山景区11月30日前面向所有游客免门票，11月1日—11月30日期间，毕棚沟、二郎山喇叭河等景区也有免门票政策。 （来源： ）四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Multiple scenic attractions in Sichuan have announced free admission policies for tourists. Xiling Snow Mountain back-mountain ski resort and Wawu Mountain Scenic Area offer free entrance for all visitors before November 30. From November 1 to November 30, Bipenggou and Erlang Mountain Laba River scenic areas also offer free ticket policies.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RnPKievCR)
+
+---
+
+### October 22, 2026 &bull; 11:00 CST
+#### Hanzhong Airport Adjusts Flight Schedule for Winter-Spring Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 日起执行！汉中机场冬春航季航线上新汉中 带着微博去旅行 2026-2027 冬春航季来啦（至 2027.3.28） 8 家航司通达 13 城，周航班 120 架次，同比增 30.4% ✅北京、深圳、贵阳实现每日直飞 ✅新增贵阳 — 汉中 — 兰州、汉中直飞海口 ✅加密乌鲁木齐 — 汉中 — 温州至每周 4 班 ✅杭州、上海等航线时刻优化，航班集中日间 还有首乘、特殊旅客专属服务、机场约巴、航旅优惠线路，出行更省心！（来源：汉中机场）
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 25, 2026 to March 28, 2027, Hanzhong Airport will operate its new winter-spring flight schedule connecting 13 cities. Daily direct flights are available to Beijing, Shenzhen, and Guiyang. New routes include Guiyang-Hanzhong-Lanzhou and direct Hanzhong-Haikou services. The Urumqi-Hanzhong-Wenzhou route increases to 4 flights per week, while schedules for routes to Hangzhou and Shanghai are optimized with daytime flight concentrations.
+
+> **Verified Source**: [Hanzhong Municipal Bureau of Culture and Tourism (汉中市文化和旅游局, Sina Weibo)](https://weibo.com/2360269453/RnOXAkY31)
+
+---
+
+### October 21, 2026 &bull; 20:44 CST
+#### China-Laos Railway Experiences Delays Following Earthquake in Yunnan
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受云南玉溪市元江县3.0级地震影响 途径中老铁路的部分列车晚点 10月21日19时52分，云南玉溪市元江县发生3.0级地震，铁路部门立即启动应急预案，组织人员巡查线路。为确保列车安全，铁路部门对中老铁路采取限速运行，部分列车将不同程度晚点。 铁路部门提醒旅客朋友们关注列车时刻变化，出行前留意12306短信通知和车站公告，合理安排行程。因列车晚点需要办理退票、改签业务的旅客可优先通过铁路12306(手机客户端)线上办理相关业务。（中国铁路昆明局集团有限公司）
+
+**🇬🇧 Actionable Travel Intel**:  
+Following a magnitude 3.0 earthquake in Yuanjiang County, Yuxi, Yunnan on October 21 at 19:52, speed restrictions were placed on the China-Laos Railway for safety inspections, resulting in varying train delays. Passengers are advised to check train schedules via 12306 notifications and station announcements. Those needing ticket refunds or changes due to delays can process them online through the Railway 12306 mobile app.
+
+> **Verified Source**: [China Railway Kunming Group (昆明铁路, Sina Weibo)](https://weibo.com/1920078035/RnJmjltr4)
+
+---
+
 ### October 19, 2026 &bull; 17:44 CST
 #### Heavy Rain May Disrupt Guizhou High-Speed and Conventional Rail Services
 
