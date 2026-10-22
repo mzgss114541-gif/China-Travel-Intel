@@ -6,6 +6,19 @@
 
 ---
 
+### October 22, 2026 &bull; 20:30 CST
+#### Enshi Airport Announces Winter-Spring Flight Schedule with New and Resumed Routes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月25日至2027年3月7日，恩施许家坪国际机场正式执行2026—2027年冬春航季航班计划，季中预新开泉州航线，加密温州航班，优化深圳⇌恩施⇌太原航线，进一步拓宽恩施对外通达半径。 📍航线一：泉州⇌恩施直飞 这是2023年以来，恩施恢复闽南方向直飞航班。两地旅客不用中转，一票直达。 执飞航司：长龙航空 班期：每周二、四、六 GJ8839｜泉州15:00起飞→17:25抵达恩施 GJ8840｜恩施12:00起飞→14:15抵达泉州 📍航线二：恩施⇌温州新增航班 长龙航空同步开通恩施往返温州航线，每周二、四、六运行，和东方航空每周一、三、五、日班次互补，出行选择更丰富。适合浙南观光、商务出行及探亲访友。 GJ8779｜温州09:00起飞→11:15抵达恩施 GJ8780｜恩施18:10起飞→20:05抵达温州 📍航线三：原深圳⇌恩施⇌西宁调整为深圳⇌恩施⇌太原 执飞航司：长龙航空，每日一班 调整后深圳航班时刻优化，出行更省心。太原航线串联三晋风光，为冬春出游增添新选择。GJ8735｜深圳08:15起飞→10:20抵达恩施；恩施11:05起飞→12:40抵达太原 GJ8736｜太原19:50起飞→21:35抵达恩施；恩施22:20起飞→次日00:05 抵达深圳 新航季恩施许家坪国际机场，共运营17条国内航线通达23座城市、24个航点，旅客出行选择更加丰富。 📍温馨提示：航班时刻存在动态调整可能，购票前请留意最新信息。 （恩施融媒）
+
+**🇬🇧 Actionable Travel Intel**:  
+Enshi Xujiaping International Airport will operate its winter-spring flight schedule from October 25, 2026, to March 7, 2027, covering 17 domestic routes across 23 cities. Key changes include resuming direct flights between Quanzhou and Enshi on Tuesdays, Thursdays, and Saturdays; adding Enshi-Wenzhou flights on Tuesdays, Thursdays, and Saturdays; and adjusting the Shenzhen-Enshi-Xining route to Shenzhen-Enshi-Taiyuan daily. Flight schedules remain subject to operational adjustments, and passengers should check latest information before booking.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RnSGWEzuH)
+
+---
+
 ### October 22, 2026 &bull; 11:00 CST
 #### Zhuhai Railway Passengers Eligible for Ferry Ticket Discounts Through April 2027
 
