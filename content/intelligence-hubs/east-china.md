@@ -6,6 +6,32 @@
 
 ---
 
+### October 23, 2026 &bull; 09:34 CST
+#### Zhoushan Suspends Operations at Multiple Attractions and Venues Due to Typhoon Champi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受今年第30号台风 “蔷琵”（超强台风级）外围环流影响，舟山多家景区及场馆暂停开放，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源 ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to the outer circulation of this year's No. 30 typhoon Champi (super typhoon grade), multiple scenic spots and cultural venues in Zhoushan have temporarily suspended operations. Reopening times will be announced separately. Travelers are advised to adjust travel plans, stay away from the coastline during the typhoon, and prioritize travel safety.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RnXPn4BCy)
+
+---
+
+### October 23, 2026 &bull; 08:09 CST
+#### Typhoon Champi Forecast to Track Northward Along Offshore Eastern Zhejiang
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 风雨影响已经开始，过去24小时，“蔷琵”已经给台湾带来较强风雨，最大阵风超过15级，台湾北部出现大暴雨。目前，“蔷琵”结构保持仍然比较完整，但由于高层有干空气的侵入，强度将逐渐减弱，将于25日前后沿浙江东部近海北上，尚不排除25日擦过浙江沿海的可能。
+
+**🇬🇧 Actionable Travel Intel**:  
+Wind and rain impacts have begun. Over the past 24 hours, Typhoon Champi brought heavy wind and rain to Taiwan, with peak gusts exceeding force 15 and heavy downpours in northern Taiwan. While its structure remains relatively intact, the intrusion of dry air in upper levels will gradually weaken its intensity. The system is expected to move northward along offshore waters of eastern Zhejiang around the 25th, and the possibility of it brushing the Zhejiang coast on the 25th cannot be ruled out.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RnXgVtPVY)
+
+---
+
 ### October 22, 2026 &bull; 19:44 CST
 #### Shanghai and Coastal East China Issue Typhoon Champi Rain and Gale Alerts from October 23
 

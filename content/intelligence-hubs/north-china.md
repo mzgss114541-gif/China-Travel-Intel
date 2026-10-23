@@ -6,6 +6,19 @@
 
 ---
 
+### October 22, 2026 &bull; 22:15 CST
+#### Hetou Ancient Street Scenic Area in Tangshan to Offer Free Admission from November 10 to December 10, 2026
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 唐山市丰南区河头老街景区2026年度游客接待量已突破1000万人次，为感谢全国游客的支持，更好落实文化惠民要求，景区将于2026年11月10日至12月10日实行免费入园政策，诚邀广大游客前来体验。现就有关事宜提示如下： 1.在此期间，所有游客均需提前预约方可入园。具体预约流程及规则请关注景区公众号“丰南文发”获取。 https://mp.weixin.qq.com/s/g-w3F4Cu1kD5sD6fBkffug
+
+**🇬🇧 Actionable Travel Intel**:  
+The Hetou Ancient Street scenic area in Fengnan District, Tangshan, will implement a free admission policy from November 10 to December 10, 2026. All visitors must make advance reservations before entering the scenic area.
+
+> **Verified Source**: [Shijiazhuang Municipal Bureau of Culture and Tourism (石家庄文旅之声, Sina Weibo)](https://weibo.com/2516150701/RnTnEg9VN)
+
+---
+
 ### October 21, 2026 &bull; 09:36 CST
 #### Sun Island Exhibition Halls Adjust Hours; Two Venues Close
 
