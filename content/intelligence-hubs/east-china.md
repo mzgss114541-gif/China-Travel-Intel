@@ -32,6 +32,19 @@ Affected by outer cloud bands of Typhoon Ciampi, meteorological stations in Shan
 
 ---
 
+### October 23, 2026 &bull; 11:55 CST
+#### Zhoushan Activates Level III Emergency Response for Typhoon Ciampi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 舟山启动防台风Ⅲ级应急响应！ 来源：舟山应急管理
+
+**🇬🇧 Actionable Travel Intel**:  
+Zhoushan has initiated a Level III emergency response in preparation for Typhoon Ciampi.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RnYKuB8eI)
+
+---
+
 ### October 23, 2026 &bull; 09:34 CST
 #### Zhoushan Suspends Operations at Multiple Attractions and Venues Due to Typhoon Champi
 
