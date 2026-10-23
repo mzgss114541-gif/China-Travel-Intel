@@ -6,6 +6,19 @@
 
 ---
 
+### October 23, 2026 &bull; 14:00 CST
+#### China Railway Bohai Ferry Discounts Passenger Fares Between Yantai and Dalian
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意正浓，跨海游正当时，即日起至2026年12月31日，乘坐中铁渤海铁路轮渡往返烟台、大连的旅客，可享受船票7折优惠（特等舱除外），私家车乘船票价同步下调，实现“船票车票双降”。中铁渤海铁路轮渡纵贯渤海海峡，连通辽宁大连与山东烟台，使两地间行程比绕行山海关缩短1600多公里。船上有大床房、双人间、多人间等多种房型供旅客选择，私家车也可以上船。
+
+**🇬🇧 Actionable Travel Intel**:  
+From now until December 31, 2026, passengers travelling between Yantai and Dalian on the China Railway Bohai Ferry can receive discounted passenger ferry tickets, with special-class cabins excluded. Vehicle ferry fares for private cars are also reduced. The Bohai Railway Ferry crosses the Bohai Strait to connect Dalian in Liaoning with Yantai in Shandong, shortening travel distance between the two cities significantly compared with detouring through Shanhaiguan. Double rooms, multi-bed rooms, and other room types are available on board, and private vehicles can also be transported.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RnZz9m87R)
+
+---
+
 ### October 22, 2026 &bull; 22:15 CST
 #### Hetou Ancient Street Scenic Area in Tangshan to Offer Free Admission from November 10 to December 10, 2026
 

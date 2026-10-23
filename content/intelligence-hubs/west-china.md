@@ -6,6 +6,36 @@
 
 ---
 
+### October 23, 2026 &bull; 17:39 CST
+#### Held Qinghai-Tibet Railway Trains Resume with Speed Restrictions Following Nagqu Earthquake
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受那曲地震影响扣停的青藏铁路部分列车今早已陆续恢复，目前限速运行。地震波及格拉段部分区段，铁路部门第一时间扣停列车、启动预案，备好应急物资保障旅客，并对车站、车辆开展全面安全巡检，排查隐患。请出行旅客留意列车动态。 （来源：西藏卫视）
+
+**🇬🇧 Actionable Travel Intel**:  
+Trains on the Qinghai-Tibet Railway that were held due to the Nagqu earthquake have begun resuming service this morning under speed restrictions. The earthquake affected sections of the Golmud-Lhasa line, where railway departments halted trains, activated emergency contingency plans, prepared supplies for passengers, and conducted comprehensive safety inspections of stations and rolling stock. Passengers should stay alert to train operation updates.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Ro102hMlH)
+
+---
+
+### October 23, 2026 &bull; 16:02 CST
+#### Tibet Earthquake Suspends Multiple Passenger Trains on October 23
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受西藏巴青 7.0 级地震影响，10 月 23 日多趟进出藏及区内列车停运： ✅出藏：Z22、Z224、Z8982、Y84 次 ✅拉日：C883、C885/C887、C884、C886/C888 次 ✅拉林：K6831、K6833、K6832、K6834 次 请出行旅客通过 12306APP、客服电话等官方渠道核实车次信息，妥善调整行程。由此带来不便，敬请谅解。 （来源：西藏发布） #西藏巴青 7.0 级地震#
+
+**🇬🇧 Actionable Travel Intel**:  
+Following a magnitude 7.0 earthquake in Baqing, Tibet, multiple inbound, outbound and regional trains are suspended on October 23. Outbound trains affected include Z22, Z224, Z8982 and Y84. On the Lhasa-Shigatse line, affected trains include C883, C885/C887, C884 and C886/C888. On the Lhasa-Nyingchi line, affected trains include K6831, K6833, K6832 and K6834. Passengers are advised to verify train status through the 12306 app, customer service hotlines or other official channels, and adjust their travel plans accordingly.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Ro0mFvNzT)
+
+---
+
 ### October 23, 2026 &bull; 12:45 CST
 #### Traffic Control on National Highway 317 in Tibet Prohibits Tourist Vehicles Following Earthquake
 

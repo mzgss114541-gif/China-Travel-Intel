@@ -6,6 +6,32 @@
 
 ---
 
+### October 23, 2026 &bull; 16:38 CST
+#### Shanghai Metro Prepares Service Adjustments on Elevated and Ground Sections for Typhoon Champi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【上海地铁：将结合台风影响，视情调整高架、地面区段列车运行】 据“上海地铁shmetro”微信公众号2026年10月23日消息，今年第30号台风“蔷琵”(强台风级)逐步影响本市。今天9时浦东新区、奉贤区、崇明区、金山区、宝山区和青浦区气象台已发布台风蓝色预警信号。根据气象预测，受“蔷琵”和冷空气共同影响，今天傍晚到明天风雨明显，今明天累积雨量可达暴雨，局部地区大暴雨。 为保障轨道交通运营安全，上海地铁将持续跟踪台风路径变化，结合风速、雨量及对运营的实际影响，动态调整列车开行方案，视情对高架、地面区段采取列车限速、调整交路、临时停运等管控措施，守护乘客出行安全。 上海地铁提醒乘客，密切关注气象预警及地铁运营公告，尽量减少外出或提前规划、适时调整行程。强对流天气外出请注意出行安全，远离站台边缘、户外广告牌、树木、围挡，防范高空坠物。勿在地面、高架站露天区域长时间停留。请留意车站出入口积水，谨防地面湿滑。如遇轨道交通因灾害天气实施限速、交路调整、跳停越站、全线或区段停运等临时措施，请根据现场指引通行，有序疏散、配合处置。请乘客及时留意车站现场提示以及上海地铁shmetro
+
+**🇬🇧 Actionable Travel Intel**:  
+As Severe Typhoon Champi affects Shanghai, meteorological observatories in Pudong New Area, Fengxian, Chongming, Jinshan, Baoshan, and Qingpu districts issued blue typhoon warnings at 9 on October 23, 2026. Rain and wind are expected to intensify from this evening through tomorrow, with cumulative rainfall reaching heavy rain and local torrential rain. Shanghai Metro will dynamically adjust train operations based on wind speed and rainfall, and may implement speed restrictions, routing adjustments, and temporary suspensions on elevated and ground track sections as conditions warrant. Passengers are advised to reduce travel where possible, check metro announcements, follow station staff instructions if stations or lines are suspended, and avoid lingering on open platforms.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/Ro0BFsQFf)
+
+---
+
+### October 23, 2026 &bull; 14:00 CST
+#### China Railway Bohai Ferry Discounts Passenger Fares Between Yantai and Dalian
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意正浓，跨海游正当时，即日起至2026年12月31日，乘坐中铁渤海铁路轮渡往返烟台、大连的旅客，可享受船票7折优惠（特等舱除外），私家车乘船票价同步下调，实现“船票车票双降”。中铁渤海铁路轮渡纵贯渤海海峡，连通辽宁大连与山东烟台，使两地间行程比绕行山海关缩短1600多公里。船上有大床房、双人间、多人间等多种房型供旅客选择，私家车也可以上船。
+
+**🇬🇧 Actionable Travel Intel**:  
+From now until December 31, 2026, passengers travelling between Yantai and Dalian on the China Railway Bohai Ferry can receive discounted passenger ferry tickets, with special-class cabins excluded. Vehicle ferry fares for private cars are also reduced. The Bohai Railway Ferry crosses the Bohai Strait to connect Dalian in Liaoning with Yantai in Shandong, shortening travel distance between the two cities significantly compared with detouring through Shanhaiguan. Double rooms, multi-bed rooms, and other room types are available on board, and private vehicles can also be transported.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RnZz9m87R)
+
+---
+
 ### October 23, 2026 &bull; 13:39 CST
 #### Shanghai Coastal Attractions Temporarily Closed Due to Typhoon
 
