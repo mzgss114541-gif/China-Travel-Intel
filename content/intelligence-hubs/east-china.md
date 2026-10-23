@@ -13,7 +13,7 @@
 > 受台风“蔷琵”影响，为保障游客人身安全，金山城市沙滩景区（含鹦鹉洲湿地公园）、碧海金沙景区、渔人码头区域自2026年10月23日起开始闭园。恢复开放时间将根据台风影响情况另行通知，请大家关注各景点官方发布的最新公告。
 
 **🇬🇧 Actionable Travel Intel**:  
-Due to the impact of Typhoon Ciampi, several coastal attractions in Shanghai—including Jinshan City Beach (incorporating Yingwuzhou Wetland Park), Bihai Jinsha Scenic Area, and the Fisherman's Wharf area—are closed starting October 23, 2026. Reopening times will be announced separately based on typhoon conditions. Visitors are advised to follow official announcements from the respective attractions.
+Due to the impact of Typhoon Champi, several coastal attractions in Shanghai—including Jinshan City Beach (incorporating Yingwuzhou Wetland Park), Bihai Jinsha Scenic Area, and the Fisherman's Wharf area—are closed starting October 23, 2026. Reopening times will be announced separately based on typhoon conditions. Visitors are advised to follow official announcements from the respective attractions.
 
 > **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnZqO8UwW)
 
@@ -26,20 +26,20 @@ Due to the impact of Typhoon Ciampi, several coastal attractions in Shanghai—i
 > 受台风“蔷琵”外围云系影响，本市大部已出现阵雨，预计主要的降雨时段是在今天傍晚到明天。今天9时浦东新区、奉贤区、崇明区、金山区、宝山区和青浦区气象台已发布台风蓝色预警信号。（来源：上海市天气）
 
 **🇬🇧 Actionable Travel Intel**:  
-Affected by outer cloud bands of Typhoon Ciampi, meteorological stations in Shanghai's Pudong New Area, Fengxian, Chongming, Jinshan, Baoshan, and Qingpu districts issued blue typhoon warnings at 9 a.m. today. Most of Shanghai has experienced scattered showers, with the main rainfall period forecast from Friday evening through tomorrow.
+Affected by outer cloud bands of Typhoon Champi, meteorological stations in Shanghai's Pudong New Area, Fengxian, Chongming, Jinshan, Baoshan, and Qingpu districts issued blue typhoon warnings at 9 a.m. today. Most of Shanghai has experienced scattered showers, with the main rainfall period forecast from Friday evening through tomorrow.
 
 > **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnZa7l8HB)
 
 ---
 
 ### October 23, 2026 &bull; 11:55 CST
-#### Zhoushan Activates Level III Emergency Response for Typhoon Ciampi
+#### Zhoushan Activates Level III Emergency Response for Typhoon Champi
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 舟山启动防台风Ⅲ级应急响应！ 来源：舟山应急管理
 
 **🇬🇧 Actionable Travel Intel**:  
-Zhoushan has initiated a Level III emergency response in preparation for Typhoon Ciampi.
+Zhoushan has initiated a Level III emergency response in preparation for Typhoon Champi.
 
 > **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RnYKuB8eI)
 
@@ -130,7 +130,7 @@ Due to scheduled event activities, parts of Shishan Cultural Square in Suzhou ar
 > “蔷琵”（超强台风级）外围环流影响，舟山白沙岛景区自10月21日（星期三）18:00 起临时关闭，暂停一切对外开放及游览活动，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源：舟山白沙旅游）
 
 **🇬🇧 Actionable Travel Intel**:  
-Due to the peripheral circulation of Typhoon Ciampi, Baisha Island Scenic Area in Zhoushan temporarily closed on October 21 at 18:00, suspending all public visits and tourism activities. Reopening time will be announced separately. Visitors are advised to adjust travel plans, stay away from coastlines, and mind safety during typhoon weather.
+Due to the peripheral circulation of Typhoon Champi, Baisha Island Scenic Area in Zhoushan temporarily closed on October 21 at 18:00, suspending all public visits and tourism activities. Reopening time will be announced separately. Visitors are advised to adjust travel plans, stay away from coastlines, and mind safety during typhoon weather.
 
 > **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RnItAv0Tb)
 
@@ -143,7 +143,7 @@ Due to the peripheral circulation of Typhoon Ciampi, Baisha Island Scenic Area i
 > ，预计较大可能于周五夜间到周六进入东海，上海周五下午至周日有连续降水过程】今年第30号台风“蔷琵”外围云系将影响上海，可能出现暴雨天气。明天起，受冷空气影响，上海有一次大风降温过程，预计“蔷琵”较大可能于周五夜间到周六进入东海，之后向北偏东南方向移动。受“蔷琵”外围云系和冷空气共同影响，上海周五下午至周日有连续降水过程，并伴有6~7级阵风，沿江沿海地区风力可达8~9级，预计风雨较大时段为周五夜间至周六，期间可能出现暴雨。 021视频-新闻晨报的微博视频
 
 **🇬🇧 Actionable Travel Intel**:  
-Affected by the outer cloud system of Typhoon Ciampi and incoming cold air, Shanghai is forecast to experience continuous precipitation from Friday afternoon through Sunday, accompanied by gusts of force 6 to 7, and winds reaching force 8 to 9 along rivers and coastal areas. The strongest wind and rain are expected from Friday night to Saturday, with heavy rain possible. Typhoon Ciampi is likely to enter the East China Sea between Friday night and Saturday before moving northeastward.
+Affected by the outer cloud system of Typhoon Champi and incoming cold air, Shanghai is forecast to experience continuous precipitation from Friday afternoon through Sunday, accompanied by gusts of force 6 to 7, and winds reaching force 8 to 9 along rivers and coastal areas. The strongest wind and rain are expected from Friday night to Saturday, with heavy rain possible. Typhoon Champi is likely to enter the East China Sea between Friday night and Saturday before moving northeastward.
 
 > **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnHZZkMtW)
 
