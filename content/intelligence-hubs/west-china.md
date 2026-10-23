@@ -6,6 +6,51 @@
 
 ---
 
+### October 23, 2026 &bull; 12:45 CST
+#### Traffic Control on National Highway 317 in Tibet Prohibits Tourist Vehicles Following Earthquake
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月22日22时33分，西藏那曲市巴青县发生7.0级地震。受地震及相关地质灾害影响，国道317线索县县城至比如县扎拉乡路段实施全幅交通管制，317国道那曲辖区部分路段实行双向交通管制，管制期间除应急抢险、救援公务车辆外，社会旅游车辆禁止通行。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 22 at 22:33, full traffic control is in effect on National Highway 317 between Suo County town and Zhala Township in Biru County, with two-way traffic control on sections within Nagqu jurisdiction. All social tourist vehicles are prohibited from entering controlled sections, with access restricted to emergency and official rescue vehicles. Travelers planning trips to Nagqu are advised to adjust their itineraries.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RnZ4MbXir)
+
+---
+
+### October 23, 2026 &bull; 12:09 CST
+#### Tingri Airport Adjusts Tourist Shuttle Bus Schedule from October 23
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> / 人 📍乘车点：定日县客运站、定日机场航站楼出口客运候车区 💴购票：现金、移动支付均可 ⚠️温馨提醒：提前 20 分钟到乘车点，凭身份证乘车；航班起飞前 40 分钟停止值机，建议至少提前 2 小时抵达机场，避免误机 ☎咨询：15962925678、13034742269（10:00-18:00） （来源：珠峰旅游）
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective October 23, 2026, the tourist shuttle bus service between Tingri Airport and Tingri County Town operates on Mondays, Wednesdays, and Saturdays, with 1 round trip daily. The one-way fare is 35 yuan per person. Boarding locations are Tingri County Passenger Transport Station and the passenger waiting area at the Tingri Airport terminal exit. Cash and mobile payment are accepted. Passengers are advised to arrive at the boarding point 20 minutes in advance, and arrive at the airport at least 2 hours before departure as check-in closes 40 minutes prior to takeoff.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RnYQtsRIT)
+
+---
+
+### October 23, 2026 &bull; 10:48 CST
+#### Qinghai-Tibet Railway Section Reopened Under Speed Restrictions Following Earthquake
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月22日22时33分，西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10公里，震中距离最近的青藏铁路那曲站198公里。地震发生后，中国铁路青藏集团有限公司迅速启动Ⅰ级应急处置，扣停受地震影响相关区段客车、货车，同步封锁青藏、敦煌、格库、拉林、拉日铁路相关区段，同时组织工务、电务、供电、房建等人员，采取添乘、徒步等方式，对封锁区段线路、接触网、信号、通信、房建等设备开展全面排查，全力确保铁路运输安全有序。 经全面检查，铁路设备运行良好。截至10月23日8时，受那曲地震影响的青藏铁路格拉段已解除封锁，此前该区段扣停的旅客列车已限速恢复运行。 请广大旅客随时关注列车时刻变化，注意站、车公告或通过铁路12306App、12306客服电话等官方渠道查询，及时掌握列车开行信息，妥善安排出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 22 at 22:33, China Railway Qinghai-Tibet Group initiated Level I emergency response and temporarily locked affected sections of the Qinghai-Tibet, Dunhuang, Golmud-Korla, Lhasa-Nyingchi, and Lhasa-Shigatse railways for comprehensive safety inspections. Following inspections, the locked Golmud-Lhasa section of the Qinghai-Tibet Railway was reopened by 8 a.m. on October 23, and held passenger trains resumed operations under speed restrictions. Passengers are advised to monitor train schedule changes via the Railway 12306 mobile app or official station announcements.
+
+> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RnYjrBEBN)
+
+---
+
 ### October 22, 2026 &bull; 15:19 CST
 #### Chang'an Airlines Launches and Resumes Seasonal Routes from Xi'an from October 25
 
