@@ -6,6 +6,32 @@
 
 ---
 
+### October 23, 2026 &bull; 13:39 CST
+#### Shanghai Coastal Attractions Temporarily Closed Due to Typhoon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受台风“蔷琵”影响，为保障游客人身安全，金山城市沙滩景区（含鹦鹉洲湿地公园）、碧海金沙景区、渔人码头区域自2026年10月23日起开始闭园。恢复开放时间将根据台风影响情况另行通知，请大家关注各景点官方发布的最新公告。
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to the impact of Typhoon Ciampi, several coastal attractions in Shanghai—including Jinshan City Beach (incorporating Yingwuzhou Wetland Park), Bihai Jinsha Scenic Area, and the Fisherman's Wharf area—are closed starting October 23, 2026. Reopening times will be announced separately based on typhoon conditions. Visitors are advised to follow official announcements from the respective attractions.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnZqO8UwW)
+
+---
+
+### October 23, 2026 &bull; 12:58 CST
+#### Shanghai Districts Issue Blue Typhoon Warning with Rain Expected Through Tomorrow
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受台风“蔷琵”外围云系影响，本市大部已出现阵雨，预计主要的降雨时段是在今天傍晚到明天。今天9时浦东新区、奉贤区、崇明区、金山区、宝山区和青浦区气象台已发布台风蓝色预警信号。（来源：上海市天气）
+
+**🇬🇧 Actionable Travel Intel**:  
+Affected by outer cloud bands of Typhoon Ciampi, meteorological stations in Shanghai's Pudong New Area, Fengxian, Chongming, Jinshan, Baoshan, and Qingpu districts issued blue typhoon warnings at 9 a.m. today. Most of Shanghai has experienced scattered showers, with the main rainfall period forecast from Friday evening through tomorrow.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RnZa7l8HB)
+
+---
+
 ### October 23, 2026 &bull; 09:34 CST
 #### Zhoushan Suspends Operations at Multiple Attractions and Venues Due to Typhoon Champi
 
