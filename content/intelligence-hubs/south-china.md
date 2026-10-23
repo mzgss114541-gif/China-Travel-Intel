@@ -249,8 +249,6 @@ Wudangshan Airport in Shiyan, Hubei, is temporarily open for international and r
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmURPubmY)
 
 ---
