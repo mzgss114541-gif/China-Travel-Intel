@@ -132,8 +132,6 @@ Jingyuetan Scenic Area will end its 2026 boat operations beginning October 21, i
 **🇬🇧 Actionable Travel Intel**:  
 A new cold wave will affect most of central and eastern China from October 20 to 21, bringing temperature drops of 4 to 8 degrees Celsius, with drops of 10 to 12 degrees Celsius in parts of eastern Northwest China, North China and southern Northeast China. From the evening of October 18 to the evening of October 19, parts of eastern Xinjiang, most of Inner Mongolia, western and northern Liaoning, western Jilin, central and southern Heilongjiang, most of Qinghai, northern Shanxi, northern Hebei and most of Tibet are forecast to have force 5 to 7 winds and gusts of force 8 to 9. The Central Meteorological Observatory continued a blue gale warning on the evening of October 18.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnlTopuW4)
 
 ---
@@ -367,8 +365,6 @@ China's national meteorological authority forecasts that strong cold air will af
 
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmURPubmY)
 

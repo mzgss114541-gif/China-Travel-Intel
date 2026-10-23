@@ -15,8 +15,6 @@
 **🇬🇧 Actionable Travel Intel**:  
 Trains on the Qinghai-Tibet Railway that were held due to the Nagqu earthquake have begun resuming service this morning under speed restrictions. The earthquake affected sections of the Golmud-Lhasa line, where railway departments halted trains, activated emergency contingency plans, prepared supplies for passengers, and conducted comprehensive safety inspections of stations and rolling stock. Passengers should stay alert to train operation updates.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Ro102hMlH)
 
 ---
@@ -29,8 +27,6 @@ Trains on the Qinghai-Tibet Railway that were held due to the Nagqu earthquake h
 
 **🇬🇧 Actionable Travel Intel**:  
 Following a magnitude 7.0 earthquake in Baqing, Tibet, multiple inbound, outbound and regional trains are suspended on October 23. Outbound trains affected include Z22, Z224, Z8982 and Y84. On the Lhasa-Shigatse line, affected trains include C883, C885/C887, C884 and C886/C888. On the Lhasa-Nyingchi line, affected trains include K6831, K6833, K6832 and K6834. Passengers are advised to verify train status through the 12306 app, customer service hotlines or other official channels, and adjust their travel plans accordingly.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Ro0mFvNzT)
 
@@ -45,8 +41,6 @@ Following a magnitude 7.0 earthquake in Baqing, Tibet, multiple inbound, outboun
 **🇬🇧 Actionable Travel Intel**:  
 Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 22 at 22:33, full traffic control is in effect on National Highway 317 between Suo County town and Zhala Township in Biru County, with two-way traffic control on sections within Nagqu jurisdiction. All social tourist vehicles are prohibited from entering controlled sections, with access restricted to emergency and official rescue vehicles. Travelers planning trips to Nagqu are advised to adjust their itineraries.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RnZ4MbXir)
 
 ---
@@ -60,8 +54,6 @@ Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 2
 **🇬🇧 Actionable Travel Intel**:  
 Effective October 23, 2026, the tourist shuttle bus service between Tingri Airport and Tingri County Town operates on Mondays, Wednesdays, and Saturdays, with 1 round trip daily. The one-way fare is 35 yuan per person. Boarding locations are Tingri County Passenger Transport Station and the passenger waiting area at the Tingri Airport terminal exit. Cash and mobile payment are accepted. Passengers are advised to arrive at the boarding point 20 minutes in advance, and arrive at the airport at least 2 hours before departure as check-in closes 40 minutes prior to takeoff.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RnYQtsRIT)
 
 ---
@@ -74,8 +66,6 @@ Effective October 23, 2026, the tourist shuttle bus service between Tingri Airpo
 
 **🇬🇧 Actionable Travel Intel**:  
 Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 22 at 22:33, China Railway Qinghai-Tibet Group initiated Level I emergency response and temporarily locked affected sections of the Qinghai-Tibet, Dunhuang, Golmud-Korla, Lhasa-Nyingchi, and Lhasa-Shigatse railways for comprehensive safety inspections. Following inspections, the locked Golmud-Lhasa section of the Qinghai-Tibet Railway was reopened by 8 a.m. on October 23, and held passenger trains resumed operations under speed restrictions. Passengers are advised to monitor train schedule changes via the Railway 12306 mobile app or official station announcements.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RnYjrBEBN)
 
@@ -111,7 +101,7 @@ Multiple scenic attractions in Sichuan have announced free admission policies fo
 #### Hanzhong Airport Adjusts Flight Schedule for Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 日起执行！汉中机场冬春航季航线上新汉中 带着微博去旅行 2026-2027 冬春航季来啦（至 2027.3.28） 8 家航司通达 13 城，周航班 120 架次，同比增 30.4% ✅北京、深圳、贵阳实现每日直飞 ✅新增贵阳 — 汉中 — 兰州、汉中直飞海口 ✅加密乌鲁木齐 — 汉中 — 温州至每周 4 班 ✅杭州、上海等航线时刻优化，航班集中日间 还有首乘、特殊旅客专属服务、机场约巴、航旅优惠线路，出行更省心！（来源：汉中机场）
+> ✈️10 月 25 日起执行！汉中机场冬春航季航线上新汉中 带着微博去旅行 2026-2027 冬春航季来啦（至 2027.3.28） 8 家航司通达 13 城，周航班 120 架次，同比增 30.4% ✅北京、深圳、贵阳实现每日直飞 ✅新增贵阳 — 汉中 — 兰州、汉中直飞海口 ✅加密乌鲁木齐 — 汉中 — 温州至每周 4 班 ✅杭州、上海等航线时刻优化，航班集中日间 还有首乘、特殊旅客专属服务、机场约巴、航旅优惠线路，出行更省心！（来源：汉中机场）
 
 **🇬🇧 Actionable Travel Intel**:  
 From October 25, 2026 to March 28, 2027, Hanzhong Airport will operate its new winter-spring flight schedule connecting 13 cities. Daily direct flights are available to Beijing, Shenzhen, and Guiyang. New routes include Guiyang-Hanzhong-Lanzhou and direct Hanzhong-Haikou services. The Urumqi-Hanzhong-Wenzhou route increases to 4 flights per week, while schedules for routes to Hangzhou and Shanghai are optimized with daytime flight concentrations.
@@ -220,8 +210,6 @@ The Binggou River Scenic Area in the Qilian Mountains will have its final openin
 **🇬🇧 Actionable Travel Intel**:  
 A new cold wave will affect most of central and eastern China from October 20 to 21, bringing temperature drops of 4 to 8 degrees Celsius, with drops of 10 to 12 degrees Celsius in parts of eastern Northwest China, North China and southern Northeast China. From the evening of October 18 to the evening of October 19, parts of eastern Xinjiang, most of Inner Mongolia, western and northern Liaoning, western Jilin, central and southern Heilongjiang, most of Qinghai, northern Shanxi, northern Hebei and most of Tibet are forecast to have force 5 to 7 winds and gusts of force 8 to 9. The Central Meteorological Observatory continued a blue gale warning on the evening of October 18.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RnlTopuW4)
 
 ---
@@ -273,8 +261,6 @@ Starting October 25, direct flights from Chengdu to Altay will be increased, wit
 
 **🇬🇧 Actionable Travel Intel**:  
 Because of road and pipe-network construction from Sela North Road to the Niangre North Road intersection at Dangre Road, the affected section is under full closure. From October 15, 2026, Lhasa bus routes 6, 16, 20, 21, 24, 28, 29 and 31 are temporarily rerouted. The construction period is provisionally 122 days. Some routes and stops are affected, some original stops are temporarily cancelled and temporary stops are added. Riders should follow route changes and plan their journeys in advance. The routes will return to their original alignment once construction ends and the road is passable.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RneVvxJVi)
 
@@ -471,8 +457,6 @@ The rear ski-area scenic zone of Xiling Snow Mountain waives the scenic-area tic
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmURPubmY)
 
 ---
@@ -616,8 +600,6 @@ Xiling Snow Mountain's back-mountain ski area is waiving admission through Novem
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines has launched a Winter Sun multi-trip pass, with one-way economy fares starting at 209 yuan and round-trip fares starting at 398 yuan, both excluding airport construction and fuel surcharges. The pass covers several popular routes. Sales run from now through November 27, valid travel dates are October 25 to November 30, and bookings must be redeemed at least three days before the travel date. Availability is limited and allocated on a first-come, first-served basis; details and applicable routes follow Tibet Airlines' official information. Per current official policy for foreign visitors, arrangements are subject to change.
 
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
-
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmLNg9zTG)
 
 ---
@@ -630,8 +612,6 @@ Tibet Airlines has launched a Winter Sun multi-trip pass, with one-way economy f
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Qinghai-Tibet Group will add temporary passenger trains to meet recent travel demand. Additional Xining-Golmud services run on October 16, 23 and 30 and on November 6, 13 and 20, with further Xining-Golmud trains added on other dates in October and November. Extra Lhasa-Nyingchi trains run on November 6, 13 and 20, and additional Lhasa-Nyingchi services run on Sundays. Xining-Menyuan shuttle trains are added from November 1 to November 23. Passengers can check ticket sales and timetables through the official railway channels. Per current official policy for foreign visitors, arrangements are subject to change.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmLKOy9yg)
 
@@ -658,8 +638,6 @@ Chongqing Airport has officially opened a transit service hall. Transit passenge
 
 **🇬🇧 Actionable Travel Intel**:  
 The ninth Winter Tibet campaign opens on October 15 and offers free admission at scenic areas for five full months. Per current official policy for foreign visitors, arrangements are subject to change.
-
-> 🚫 **Access Restriction (Foreign Passport Holders)**: 西藏自治区全域（涉外入藏专项管理区）
 
 > **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RmKIce6Rk)
 
