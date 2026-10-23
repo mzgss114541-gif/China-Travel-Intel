@@ -6,6 +6,32 @@
 
 ---
 
+### October 23, 2026 &bull; 20:46 CST
+#### Level IV Flood and Typhoon Emergency Response Initiated for Jiangsu
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【国家防总、应急管理部针对江苏启动防汛防台风四级应急响应】今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）。预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向。受冷空气和台风共同影响，23日至26日，我国东南部海域及华东沿海有持续大风，江苏、上海、浙江等地部分地区有大到暴雨。中央气象台23日18时发布台风蓝色预警和暴雨蓝色预警。 根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于23日19时针对江苏启动防汛防台风四级应急响应。
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to the combined impact of Super Typhoon Champi and cold air, the State Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management initiated a Level IV flood and typhoon emergency response for Jiangsu on October 23. From October 23 to 26, sustained gales are expected along the coastal areas of East China, with heavy rain to torrential rain forecast across parts of Jiangsu, Shanghai, and Zhejiang. The typhoon center was located approximately 180 kilometers southeast of Taipei, and is projected to move northward along the offshore waters of eastern Zhejiang around October 25. Travelers in Jiangsu, Shanghai, and Zhejiang should prepare for transport disruptions.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/Ro2ej4xhR)
+
+---
+
+### October 23, 2026 &bull; 18:35 CST
+#### Multiple Scenic Areas in Zhejiang Closed as Typhoon Champi Approaches
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 浙江省气象台预计，“蔷琵”将以每小时20公里左右的速度向西北方向移动，强度缓慢减弱。有可能在23日夜里到24日上午擦过台湾东北部沿海，尔后紧擦浙江沿海北上（不能完全排除登陆浙江的可能）。浙江多个景区关闭，部分活动延期，请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源 ）
+
+**🇬🇧 Actionable Travel Intel**:  
+According to the Zhejiang Provincial Meteorological Observatory, Typhoon Champi is forecast to move northwest at around 20 kilometers per hour, potentially brushing the northeastern coast of Taiwan between the night of October 23 and the morning of October 24 before moving northward along the Zhejiang coast. In response to the severe weather, multiple scenic attractions in Zhejiang have suspended operations and several scheduled activities have been postponed. Travelers are advised to adjust itineraries, avoid coastal zones during the typhoon, and monitor local safety announcements.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/Ro1mPdKCE)
+
+---
+
 ### October 23, 2026 &bull; 16:38 CST
 #### Shanghai Metro Prepares Service Adjustments on Elevated and Ground Sections for Typhoon Champi
 

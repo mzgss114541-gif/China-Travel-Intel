@@ -6,6 +6,32 @@
 
 ---
 
+### October 23, 2026 &bull; 20:00 CST
+#### Chang an Airlines Launches 2026 Winter-Spring Flight Schedule with New Routes from Xi an
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #千年古都 常来长安# 冬春航季上新～西安新开恢复多条文旅航线！暖冬海岛、北国冰雪一键直达！ 10月25日起，新海航长安航空正式执行2026冬春航季航班计划。本次换季新开西安—荔波—珠海、西安—井冈山—三亚，恢复西安—珠海等航线，保留多条热门与文旅特色航线。航季共覆盖41座城市，适配冰雪游、暖冬度假等季节性出行需求。（via. ）西安广播电视台的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Beginning October 25, Chang an Airlines executes its 2026 winter-spring flight schedule covering 41 cities. The seasonal schedule launches new routes including Xi an to Libo to Zhuhai and Xi an to Jinggangshan to Sanya, while resuming the direct Xi an to Zhuhai service alongside other cultural tourism routes. Inbound travelers connecting between Shaanxi, Guizhou, Jiangxi, and southern destinations can utilize these flight connections.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/Ro1VgvASL)
+
+---
+
+### October 23, 2026 &bull; 18:00 CST
+#### Special Tourism Train Connects Guizhou, Chongqing, and Sichuan Between Guiyang and Panzhihua South
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 多彩贵州号”即将开行贵阳往返攀枝花南特色旅游专线，串联四川、重庆、贵州三地风光，沿线站点灵活上下，行程自由随心，完美适配周末出游。旅客可通过铁路12306App购买车票。 去程Y922/923次列车：10月23日，贵阳19时08分开，经遵义、重庆西、成都西、峨眉、西昌西等站，次日14时38分抵达攀枝花南。 返程Y924/921次列车：10月25日，攀枝花南12时13分开，经西昌西、越西、成都西、重庆西、遵义等站，次日8时36分抵达贵阳。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway operates the Jinxiu Shanhe Duocai Guizhou special tourist train connecting scenic areas across Guizhou, Chongqing, and Sichuan, with tickets available on the Railway 12306 app. Outbound train Y922/923 departs Guiyang at 19:08 on October 23, calling at Zunyi, Chongqing West, Chengdu West, Emei, and Xichang West before arriving at Panzhihua South at 14:38 the following day. Return train Y924/921 departs Panzhihua South at 12:13 on October 25, calling at Xichang West, Yuexi, Chengdu West, Chongqing West, and Zunyi, arriving in Guiyang at 8:36 the next morning.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Ro18zeJVQ)
+
+---
+
 ### October 23, 2026 &bull; 17:39 CST
 #### Held Qinghai-Tibet Railway Trains Resume with Speed Restrictions Following Nagqu Earthquake
 
