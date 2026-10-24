@@ -6,6 +6,19 @@
 
 ---
 
+### October 24, 2026 &bull; 15:30 CST
+#### Badaling Great Wall: China Great Wall Museum Officially Reopens with Over 700 Cultural Artifacts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今天（10月24日），中国长城博物馆在八达岭长城脚下焕新开馆。中国长城博物馆从长城历史、长城文化、长城精神三个层面，推出一系列重磅展览。基本陈列上展文物700余件（套），来自全国二十多家博物馆的展品汇聚于此，讲述长城何以成为中华文明的重要标识。跟随北京交通广播记者毛嘉惠的镜头，听重磅文物如何讲述长城故事？（ ） 北京交通广播的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 24, the renovated China Great Wall Museum officially reopened at the foot of Badaling Great Wall in Beijing. The upgraded venue showcases a permanent exhibition featuring over 700 cultural artifacts assembled from museums across China, offering in-depth historical displays for international visitors touring the Badaling section.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/Ro9AaxfEM)
+
+---
+
 ### October 23, 2026 &bull; 14:00 CST
 #### China Railway Bohai Ferry Discounts Passenger Fares Between Yantai and Dalian
 
