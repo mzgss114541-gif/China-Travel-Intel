@@ -6,6 +6,32 @@
 
 ---
 
+### October 24, 2026 &bull; 18:32 CST
+#### Bohai Railway Ferry Between Yantai and Dalian Offers 30% Passenger Ticket Discount
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意正浓，跨海游正当时，即日起至2026年12月31日，乘坐中铁渤海铁路轮渡往返烟台、大连的旅客，可享受船票7折优惠（特等舱除外），私家车乘船票价同步下调，实现“船票车票双降”。中铁渤海铁路轮渡纵贯渤海海峡，连通辽宁大连与山东烟台，使两地间行程比绕行山海关缩短1600多公里。船上有大床房、双人间、多人间等多种房型供旅客选择，私家车也可以上船。
+
+**🇬🇧 Actionable Travel Intel**:  
+From now through December 31, 2026, passengers traveling on the China Railway Bohai Railway Ferry between Yantai, Shandong and Dalian, Liaoning receive a 30% discount on passenger tickets (excluding special-class cabins), alongside reduced rates for private vehicles. The cross-sea railway ferry connects Dalian and Yantai across the Bohai Strait, shortening the travel distance by over 1600 km compared to bypassing Shanhaiguan. Onboard accommodation options include double rooms, twin rooms, and multi-bed shared cabins.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RoaMnkUNI)
+
+---
+
+### October 24, 2026 &bull; 17:00 CST
+#### Beijing Xiangshan Park Suspends Cableway for System Upgrades and Designates Peak Autumn Dates
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 霜降，秋季最后一个节气即将到来。10月22日消息，目前香山公园彩叶植物整体变色率也升至20%，推荐赏叶点位有静翠湖、老松林、和顺门至豫泰门等处。 眼下，游客举着相机上山，看到的却不是“一键变红”的漫山红遍——同一片山坡上，有的枝头已经泛红，有的还绿着，同一片区域里也是红绿相间。“霜降对红叶来说，更像一个加速键，而不是一键全红的开关。”在看云起样地，红叶物候观测小组成员尚紫阳拉下一根黄栌样枝，仰头点数叶片。他介绍说，本周全园彩叶变色率达到20%，比红叶节开幕时的约10%明显加快，霜降前后昼夜温差拉大正是关键推手。 入秋后叶绿素合成受阻、加速分解，绿色逐渐退场；温差大的天气特别利于花青素合成，黄栌叶片细胞液呈酸性，花青素在酸性环境下呈现红色，叶子便由绿转红。霜降时节正是一年中昼夜温差最大的时段，全国多数地方昼夜温差已超过10℃。对黄栌来说，日最低气温低于14℃、昼夜温差超过10℃、日平均气温在12℃至20℃并持续三天，第四天才开始变色；霜降前后的天气，恰好踩在这道门槛上。 但“踩上门槛”不等于“全山同时红透”。20%是一个全园平均进度，不代表“只有两成能看”，更不意味着霜降一到，漫山遍野就该是一个颜色。 “香山红叶不是漫山遍野一起红，是点状、片状、一层一层推过去的。”尚紫阳说，高海拔区域温度低、昼夜温差更大，往往先进入变色节奏；低海拔区域相对滞后。即便在同一片区域、同一面坡上，阳面枝条光照足、积温高，可能先红；阴面枝条光照弱、温度低，变色就会慢半拍。游客站在一个点位看到“半边红半边绿”，很多时候并不是红叶“没到时候”，而是阴面阳面、光照条件和小气候差异造成的“局部时差”。也正因如此，霜降过后的20%，不能简单读作“香山只有两成红叶”，而是全园平均进度：向阳、高海拔点位可能已经红得更透，阴面、低海拔点位则还在酝酿。 香山公园提示，10月24日、25日、31日，11月1日、7日、8日为客流高峰时段。香山索道正进行系统升级，暂停运营。建议游客关注交通管控措施，优先绿色出行、错峰游览，登山量力而行，文明观赏红叶，爱护山林生态。游园咨询可拨打服务电话62591222。（ ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Xiangshan Park in Beijing has designated October 24, 25, and 31, as well as November 1, 7, and 8, as peak visitor traffic periods during the autumn red leaf season. The Xiangshan Cableway is currently suspended for system upgrades. Park authorities advise visitors to observe local traffic controls, use public transit, and schedule off-peak visits. Park inquiries can be made via service telephone 62591222.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RoaaHwgDN)
+
+---
+
 ### October 24, 2026 &bull; 15:30 CST
 #### Badaling Great Wall: China Great Wall Museum Officially Reopens with Over 700 Cultural Artifacts
 
