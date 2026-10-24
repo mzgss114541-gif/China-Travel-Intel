@@ -6,6 +6,45 @@
 
 ---
 
+### October 24, 2026 &bull; 18:32 CST
+#### Bohai Railway Ferry Between Yantai and Dalian Offers Passenger and Vehicle Ticket Fare Discounts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意正浓，跨海游正当时，即日起至2026年12月31日，乘坐中铁渤海铁路轮渡往返烟台、大连的旅客，可享受船票7折优惠（特等舱除外），私家车乘船票价同步下调，实现“船票车票双降”。中铁渤海铁路轮渡纵贯渤海海峡，连通辽宁大连与山东烟台，使两地间行程比绕行山海关缩短1600多公里。船上有大床房、双人间、多人间等多种房型供旅客选择，私家车也可以上船。
+
+**🇬🇧 Actionable Travel Intel**:  
+From now through December 31, 2026, passengers traveling on the China Railway Bohai Railway Ferry between Yantai and Dalian can receive 7-fold discounted fares on passenger tickets (excluding special-class cabins), alongside reduced rates for private vehicles. The cross-sea railway ferry connects Dalian in Liaoning with Yantai in Shandong, shortening the travel distance compared to bypassing Shanhaiguan. Onboard accommodation options include double rooms, twin rooms, and multi-bed shared cabins.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RoaMnkUNI)
+
+---
+
+### October 24, 2026 &bull; 18:23 CST
+#### Zhoushan Putuoshan Airport Adjusts Flights and Expects 46 Cancellations Due to Typhoon Champi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️受台风“蔷琵”影响，舟山普陀山国际机场部分航班调整 截至10月24日18时，今年第30号台风“蔷琵”预计将以每小时15公里左右的速度向北偏东方向移动，强度逐渐减弱，将于25日前后沿浙江东部近海转向东北方向移动。受台风“蔷琵”影响，舟山普陀山国际机场10月25日航班有所调整，预计取消46架次。 来源：舟山普陀山国际机场
+
+**🇬🇧 Actionable Travel Intel**:  
+As of October 24, Typhoon Champi (No. 30) is moving north-northeast along the offshore waters of eastern Zhejiang. In response, Zhoushan Putuoshan International Airport has adjusted flight schedules for October 25, with an estimated 46 flights canceled. Passengers traveling through Zhoushan on October 25 should verify flight status with their airlines or airport customer service before departing for the terminal.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RoaINaBxz)
+
+---
+
+### October 24, 2026 &bull; 17:43 CST
+#### 27 A-Level Scenic Attractions in Shanghai Temporarily Closed Due to Typhoon Conditions
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 截止2026年10月24日15时30分，全市A级景区受台风影响，临时闭园27家（4A景区13家、3A景区12家、5A景区1家）。主要集中在浦东、奉贤、宝山、青浦、金山、崇明、普陀7区。清单如下👇
+
+**🇬🇧 Actionable Travel Intel**:  
+As of 15:30 on October 24, 2026, a total of 27 A-level tourist attractions across Shanghai have temporarily closed due to typhoon conditions. The closures comprise 1 5A-level attraction, 13 4A-level attractions, and 12 3A-level attractions, concentrated across 7 districts: Pudong, Fengxian, Baoshan, Qingpu, Jinshan, Chongming, and Putuo. Travelers planning to visit scenic destinations in these districts should check operational status directly with the venues prior to visiting.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RoasbFOIn)
+
+---
+
 ### October 24, 2026 &bull; 15:11 CST
 #### Mount Tai: Red Gate Hiking Trail Under Temporary Control on October 26 with Bus Ticket Discounts
 
