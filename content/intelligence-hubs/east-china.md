@@ -59,13 +59,13 @@ On October 26, from 10:00 to 15:00, the Red Gate hiking route from Red Gate Squa
 ---
 
 ### October 24, 2026 &bull; 11:35 CST
-#### Suzhou Taihu: Qiyuan Garden and Wetland Park Temporarily Closed for Typhoon Trami
+#### Suzhou Taihu: Qiyuan Garden and Wetland Park Temporarily Closed for Typhoon Champi
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 受台风“蔷琵”影响，为切实保障广大游客的人身安全，做好台风防御工作，即日起（10月24日）启园、太湖湖滨国家湿地公园、太湖新天地实施临时闭园管理，恢复开放时间将另行通知。 来源丨畅游太湖
 
 **🇬🇧 Actionable Travel Intel**:  
-Under the impact of Typhoon Trami, Qiyuan Garden, Taihu Lakeside National Wetland Park, and Taihu Xintiandi in Suzhou have implemented temporary park closures starting October 24 for visitor safety. Reopening arrangements will be announced in a subsequent notice.
+Under the impact of Typhoon Champi, Qiyuan Garden, Taihu Lakeside National Wetland Park, and Taihu Xintiandi in Suzhou have implemented temporary park closures starting October 24 for visitor safety. Reopening arrangements will be announced in a subsequent notice.
 
 > **Verified Source**: [Suzhou Wuzhong Taihu Tourism Administration (吴中太湖文旅, Sina Weibo)](https://weibo.com/1852451387/Ro82MzFg5)
 
@@ -78,7 +78,7 @@ Under the impact of Typhoon Trami, Qiyuan Garden, Taihu Lakeside National Wetlan
 > 受台风影响，今日起枫泾旅游区（包含枫泾古镇、中国农民画村）将临时闭园，游船服务暂停运营↓
 
 **🇬🇧 Actionable Travel Intel**:  
-Due to the impact of Typhoon Trami, the Fengjing Tourist Area in Shanghai—including Fengjing Ancient Town and the Chinese Peasant Painting Village—is temporarily closed starting today, and sightseeing boat services are suspended.
+Due to the impact of Typhoon Champi, the Fengjing Tourist Area in Shanghai—including Fengjing Ancient Town and the Chinese Peasant Painting Village—is temporarily closed starting today, and sightseeing boat services are suspended.
 
 > **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/Ro7IcwXdE)
 
