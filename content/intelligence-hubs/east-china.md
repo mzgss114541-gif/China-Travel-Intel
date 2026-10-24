@@ -6,6 +6,45 @@
 
 ---
 
+### October 24, 2026 &bull; 15:11 CST
+#### Mount Tai: Red Gate Hiking Trail Under Temporary Control on October 26 with Bus Ticket Discounts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 温馨提示 10月26日，首届CMG世界机器人登泰山大赛进行排位赛和保障测试，当日10:00至15:00红门徒步游览路红门广场至中天门段将实施临时管控、暂停通行，请游客朋友们择期游览此路段。 其间，天外村（乘车，该线路车票当日执行半价优惠）、桃花峪（乘车）、东御道（徒步）、天平湖（乘车）等4条游览路均正常开放，供游客朋友灵活选择。计划乘车入园的游客可选择天外村（车票半价）、桃花峪或天平湖游客中心进山，也可在红门广场乘坐临时专线车（门票车票选择天外村游览路）直达中天门；计划徒步入园的游客，可选择从东御道游览路进山（公交车19、K30、72、220等路）。下山游客可乘桃花源索道和旅游专线车从桃花峪游览路下山，也可在中天门客运站换乘旅游专线车（车票半价）下山，还可以在中天门牌坊选择经东御道徒步下山。景区将在红门广场、中天门、东御道等区域设置指引标识，并提供现场指引服务。 由此带来不便，敬请理解支持。如需帮助可拨打24小时服务热线：0538-96008888。祝您旅途愉快！
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 26, from 10:00 to 15:00, the Red Gate hiking route from Red Gate Square to Zhongtianmen will be placed under temporary control with pedestrian access suspended due to competition testing. Visitors can choose four alternative open routes: Tianwaicun (bus, with half-price bus tickets on that day), Taohuayu (bus), Dongyudao (hiking), or Tianpinghu (bus). Hikers may enter via the Dongyudao route (accessible by public buses 19, K30, 72, or 220), or board temporary shuttles from Red Gate Square to Zhongtianmen. For descending, options include the Taohuayuan cableway and shuttle bus, the Zhongtianmen passenger station shuttle bus (half-price ticket), or hiking down via Dongyudao from Zhongtianmen.
+
+> **Verified Source**: [Mount Tai Scenic Area Administration (泰山风景名胜区, Sina Weibo)](https://weibo.com/1964179365/Ro9stoAkj)
+
+---
+
+### October 24, 2026 &bull; 11:35 CST
+#### Suzhou Taihu: Qiyuan Garden and Wetland Park Temporarily Closed for Typhoon Trami
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受台风“蔷琵”影响，为切实保障广大游客的人身安全，做好台风防御工作，即日起（10月24日）启园、太湖湖滨国家湿地公园、太湖新天地实施临时闭园管理，恢复开放时间将另行通知。 来源丨畅游太湖
+
+**🇬🇧 Actionable Travel Intel**:  
+Under the impact of Typhoon Trami, Qiyuan Garden, Taihu Lakeside National Wetland Park, and Taihu Xintiandi in Suzhou have implemented temporary park closures starting October 24 for visitor safety. Reopening arrangements will be announced in a subsequent notice.
+
+> **Verified Source**: [Suzhou Wuzhong Taihu Tourism Administration (吴中太湖文旅, Sina Weibo)](https://weibo.com/1852451387/Ro82MzFg5)
+
+---
+
+### October 24, 2026 &bull; 10:44 CST
+#### Shanghai Fengjing Tourist Area: Temporary Park Closure and Boat Suspensions Due to Typhoon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受台风影响，今日起枫泾旅游区（包含枫泾古镇、中国农民画村）将临时闭园，游船服务暂停运营↓
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to the impact of Typhoon Trami, the Fengjing Tourist Area in Shanghai—including Fengjing Ancient Town and the Chinese Peasant Painting Village—is temporarily closed starting today, and sightseeing boat services are suspended.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/Ro7IcwXdE)
+
+---
+
 ### October 23, 2026 &bull; 20:46 CST
 #### Level IV Flood and Typhoon Emergency Response Initiated for Jiangsu
 

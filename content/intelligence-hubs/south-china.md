@@ -6,6 +6,32 @@
 
 ---
 
+### October 24, 2026 &bull; 16:05 CST
+#### Badong Wuxiakou: Scenic Cableway Suspended for Maintenance October 27 to 29
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 广大游客朋友： 为保障客运索道设施的安全运行，根据国家特种设备行业的相关管理要求，巫峡口景区将于2026年10月27日至10月29日（3天）对景区客运索道进行全面维护保养与检修。在此期间，巫峡口景区索道将暂停运营。请进入巫峡口景区的游客从景区副游客中心进入，由此给您带来不便敬请谅解，感谢您的支持与配合！ 特此公告 巴东巫峡口旅游开发有限公司 2026年10月24日
+
+**🇬🇧 Actionable Travel Intel**:  
+To ensure passenger ropeway safety, the passenger cableway at Wuxiakou Scenic Area in Badong will be suspended for 3 days from October 27 to October 29, 2026, for maintenance and inspection. Visitors touring the scenic area during this period must enter through the secondary visitor center.
+
+> **Verified Source**: [Badong County Culture and Tourism Bureau (文旅巴东, Sina Weibo)](https://weibo.com/7312475178/Ro9OFdjPe)
+
+---
+
+### October 24, 2026 &bull; 10:20 CST
+#### Wuhan Two Rivers Ferry: Smart Luggage Lockers Offering Two Hours Free Storage at Hankou Wharf
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近期，武汉文旅集团两江轮渡公司全面升级全域便民配套设施，在武汉关客运码头布设智能行李储存柜，投放了共计8组48个小柜16个大柜，设备全程扫码自助、2小时免费寄存、随存随取，无需人工登记、无需排队等候，一键即可完成存取操作，高效便捷、省时省心。下一步在轮渡航线全域推广。
+
+**🇬🇧 Actionable Travel Intel**:  
+Wuhan Two Rivers Ferry has installed 8 sets of smart self-service luggage lockers—comprising 48 small lockers and 16 large lockers—at the Wuhan Guan passenger ferry terminal. The lockers feature QR-code self-service access and offer 2 hours of free storage without manual registration, facilitating hassle-free transit for travelers before boarding.
+
+> **Verified Source**: [Wuhan Municipal Bureau of Culture and Tourism (武汉市文化和旅游局, Sina Weibo)](https://weibo.com/2140196951/Ro7ylhkXm)
+
+---
+
 ### October 22, 2026 &bull; 20:30 CST
 #### Enshi Airport Announces Winter-Spring Flight Schedule with New and Resumed Routes
 

@@ -6,6 +6,45 @@
 
 ---
 
+### October 24, 2026 &bull; 14:00 CST
+#### Chengdu to Chongqing Jiangbei Airport: Direct High-Speed Train Route G8665 and G8664 Adjusted
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近期，成都局集团公司优化列车运行方案，将原成都东往返沙坪坝G8665/8664次列车运行区段调整为成都东往返江北机场，畅通“高铁+航空”联程出行通道，进一步满足旅客出行需求。 新增成都东⇋江北机场动车，下了火车就能值机
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Bureau has adjusted the operation section of high-speed train services G8665 and G8664, which previously ran between Chengdu East and Shapingba, to run directly between Chengdu East and Chongqing Jiangbei Airport. This service provides a direct high-speed rail link to airport flight check-in facilities for air-rail transit.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Ro8ZGB3f1)
+
+---
+
+### October 24, 2026 &bull; 10:03 CST
+#### Xinjiang Nalati: Panlong Valley Route Closed for Winter Starting October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🔈受强冷空气影响，那拉提景区盘龙谷道沿线出现大面积降雪，道路出现积雪结冰现象，路面湿滑，已不具备车辆安全通行条件。 🔔为确保冬季旅游安全，自10月25日起，那拉提景区盘龙谷道实施季节性封闭。在此期间，区间车和自驾车将禁止通行。（来源 | 新疆那拉提国家旅游度假区）
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to heavy snowfall, road icing, and slick driving conditions brought by strong cold air, the Panlong Valley route in Nalati Scenic Area will be closed for the winter season starting October 25. During this closure period, sightseeing shuttle buses and private self-driving vehicles are strictly prohibited from entering this section.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/Ro7rNxtm3)
+
+---
+
+### October 24, 2026 &bull; 09:00 CST
+#### Southwest China Railway: Additional High-Speed Train Services Scheduled Across Sichuan, Chongqing, and Guizhou
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 1. 10 月 26 日至 11 月 25 日，贵阳北至铜仁加开 G4880 次，贵阳北 08:56 开，铜仁 10:52 到。 2. 10 月 26 日至 11 月 25 日，铜仁至兴义南加开 G4879 次，铜仁 11:40 开，兴义南 16:05 到。 3. 10 月 26 日至 11 月 25 日，兴义南至铜仁加开 G4870 次，兴义南 17:02 开，铜仁 21:30 到。 4. 10 月 26 日至 11 月 25 日，铜仁至贵阳北加开 G4871 次，铜仁 21:53 开，贵阳北 23:21 到。 5. 10 月 24 日至 11 月 22 日，广州南至贵阳北加开 G4626 次，广州南 18:10 开，贵阳北 22:25 到。 6. 10 月 25 日，重庆西至成都东加开 G8712 次，重庆西 22:21 开，成都东 23:51 到。 7. 10 月 26 日，成都东至重庆西加开 G8709 次，成都东 00:12 开，重庆西 01:28 到。 8. 10 月 25 日，重庆北至奉节加开 S5566 次，重庆北 11:54 开，奉节 14:00 到。 9. 10 月 25 日，奉节至重庆北加开 S5567 次，奉节 14:15 开，重庆北 16:02 到。 10. 10 月 24 日至 25 日，重庆北至丰都加开 D5168 次，重庆北 11:59 开，丰都 13:04 到。 11. 10 月 24 日至 25 日，丰都至重庆北加开 D5167 次，丰都 13:25 开，重庆北 14:32 到。 12. 10 月 26 日至 11 月 5 日、7 日至 19 日、 21 日，贵阳北至江油加开 C5760 次，贵阳北 10:05 开，江油 15:07 到。 13. 10 月 24 日至 11 月 5 日、 7 日至 19 日、 21 日，江油至宜宾西加开 C5823 次，江油 15:49 开，宜宾西 19:08 到。 14. 10 月 24 日至 11 月 5 日、 7 日至 19 日、 21 日，宜宾西至成都东加开 C5821/4 次，宜宾西 19:48 开，成都东 21:30 到。 15. 11 月 1 日至 30 日，贵阳北至兴义南加开 G9564/1 次，贵阳北 08:14 开，兴义南 10:34 到。 列车时刻请以 12306 官方网站查询为准。若有疑问，请致电铁路客服热线 028-12306 咨询。欢迎关注微信公众号 “成都铁路 12306”，在线查询时刻、余票及列车正晚点信息。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Bureau has announced temporary additional train services across regional corridors. Key additions include G8712 from Chongqing West (22:21) to Chengdu East (23:51) on October 25, G8709 from Chengdu East (00:12) to Chongqing West (01:28) on October 26, G4626 from Guangzhou South (18:10) to Guiyang North (22:25) from October 24 to November 22, and regional links connecting Guiyang North, Tongren, Xingyi South, Fengjie, Fengdu, Jiangyou, and Yibin West. Travelers can verify real-time schedules and bookings via 12306.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Ro71S6bqO)
+
+---
+
 ### October 23, 2026 &bull; 20:00 CST
 #### Chang an Airlines Launches 2026 Winter-Spring Flight Schedule with New Routes from Xi an
 

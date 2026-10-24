@@ -6,6 +6,19 @@
 
 ---
 
+### October 24, 2026 &bull; 13:00 CST
+#### China Railway Train Numbering Reform: New X-Prefix Introduced for 350 km/h Fuxing Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 全国铁路列车车次将于11月下旬、12月下旬分两批调整，其中新增X字头，X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车。 （中国铁路）
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group is launching a nationwide train numbering adjustment in two phases scheduled for late November and late December. The reform introduces a new 'X' prefix (pronounced 'Xin') for Fuxing bullet trains operating at maximum speeds of 350 km/h and above, numbered from X1 to X9998, designated for future higher-speed trainsets.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/Ro8BhEKOc)
+
+---
+
 ### October 22, 2026 &bull; 08:00 CST
 #### Gales, Sharp Temperature Drop and Rain-Snow Weather Forecast Across Northern Regions
 
