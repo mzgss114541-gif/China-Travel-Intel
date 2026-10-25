@@ -95,18 +95,6 @@ A weak cold air mass will move from north to south across Guangxi through the da
 
 > **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RnEHqwVM2)
 
----
-
-### October 20, 2026 &bull; 17:36 CST
-#### Nanning Railway Offers 10% Off-Season Discount on 219 Trains for Seniors
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月18日至12月30日，国铁南宁局面向老年群体推出淡季出行票价优惠，统筹调整219趟动车组列车票价折扣政策。年满60周岁的旅客在12306购票界面或车站自动售票设备选择带“敬”字标识的列车，可享执行票价9折优惠，且不再限制周中时段。购买优惠票的老年会员旅客还享3倍积分赠送，可用于兑换车票或办理座位升席。（资音、卢美蓉、麦竹娴、秦塬棋、于莉、秦凯、廖景芝） https://me.weibo.com/content/timer
-
-**🇬🇧 Actionable Travel Intel**:  
-From 18 October to 30 December, China Railway Nanning Group is offering off-season discounts on 219 EMU trains for passengers aged 60 and above. Eligible travelers can select trains marked with the Chinese character '敬' in the 12306 booking interface or at station self-service ticket machines to receive a 10% discount on the current fare. The discount is no longer limited to weekdays. Senior members who buy discounted tickets also receive triple points, which can be used for ticket exchanges or seat upgrades.
-
-> **Verified Source**: [China Railway Nanning Group (南宁铁路, Sina Weibo)](https://weibo.com/1869124960/RnyHknLFd)
 
 ---
 
