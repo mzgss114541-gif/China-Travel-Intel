@@ -6,6 +6,19 @@
 
 ---
 
+### October 25, 2026 &bull; 17:31 CST
+#### Customs at Hong Kong-Zhuhai-Macao Bridge Enforces Outbound Foreign Currency Cash Limits
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，拱北海关所属港珠澳大桥海关在出境客车通道查获一起随车旅客超量携带外币案。9月28日9时许，海关关员在港珠澳大桥珠海公路口岸出境客车通道监管时，发现一辆粤港两地牌客车行驶轨迹异常，遂将其截查。经进一步检查，在车上一旅客随身背包内查获大量未申报的外币纸币。经清点，当事人共携带面值5—500不等的美元、英镑、欧元、沙特阿拉伯里亚尔共2547张，折合人民币约143.88万元。10月13日经专业机构鉴定，上述外币全部为真钞。该名旅客属于15天内多次出境人员，所携带现钞超出规定额度。15天内首次出境旅客可携带不超过等值5000美元（含5000美元）的外币现钞；15天内第二次及以上、当天内第二次及以上出境旅客可分别携带等值不超过1000美元和500美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或相关银行申领有关证件并在出境时向海关主动申报。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Gongbei Customs at the Hong Kong-Zhuhai-Macao Bridge intercepted a passenger carrying excessive undeclared foreign currency cash on an outbound coach. Customs authorities reiterate outbound cash limits: travelers departing mainland China for the first time within 15 days may carry foreign currency cash up to the equivalent of 5,000 USD; travelers departing for the second time or more within 15 days are limited to 1,000 USD; travelers departing for the second time or more within the same day are limited to 500 USD. Cash exceeding these thresholds will not be cleared by Customs without prior permit certification from foreign exchange authorities or designated banks and timely declaration.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RojO7pOzs)
+
+---
+
 ### October 24, 2026 &bull; 16:05 CST
 #### Badong Wuxiakou: Scenic Cableway Suspended for Maintenance October 27 to 29
 
@@ -94,7 +107,6 @@ From October 25, 2026 to March 7, 2027, Enshi Xujiaping International Airport wi
 A weak cold air mass will move from north to south across Guangxi through the daytime of October 22, bringing cooler and rainy weather. Average daily temperatures are forecast to fall by 4 to 6 degrees Celsius in northern Guangxi, with local drops above 8 degrees Celsius, and by 2 to 4 degrees Celsius in southern Guangxi. Today, Baise, Chongzuo, Fangchenggang, Qinzhou, Beihai and Yulin will be cloudy with light rain, with locally heavy rain or rainstorms in Baise. From tonight through the daytime of October 22, western Guangxi will be mostly cloudy with scattered showers. From the night of October 22 through the daytime of October 23, most of Guangxi will become cloudy to clear, with showers in northwestern Guangxi. Additionally, beginning October 23, temperatures are forecast to gradually rebound under the influence of the western peripheral circulation of Typhoon Champi.
 
 > **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RnEHqwVM2)
-
 
 ---
 

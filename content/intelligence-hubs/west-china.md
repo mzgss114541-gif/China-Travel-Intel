@@ -6,6 +6,45 @@
 
 ---
 
+### October 25, 2026 &bull; 18:39 CST
+#### Guiyang Longdongbao Airport Cuts Domestic Flight Check-In Cut-off to 30 Minutes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 记者从贵阳龙洞堡国际机场获悉，为深入践行“人民航空为人民”理念，进一步提升机场运行效率，优化旅客航空出行体验，自2026年10月25日零时起，贵阳龙洞堡国际机场国内客运航班截载时间将由航班计划起飞时间前35分钟调整为30分钟。 据机场方面介绍，航班截载时间通常是指航班停止办理值机手续的时间。旅客须在该时间节点前完成航班值机、行李托运等手续；超过该时间节点，将无法办理值机手续，可能影响顺利乘机。此次调整后，国内客运航班停止办理值机、行李托运等手续的时间较此前延后5分钟。 贵阳机场提醒广大旅客，请把握好航班停止办理值机手续时间，合理安排出行计划，以免因误机带来不便。如需咨询详情，可拨打贵阳机场客服热线0851-96967或相关航空公司客服电话。（来源：贵阳网·贵阳新闻）
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective 00:00 on October 25, 2026, Guiyang Longdongbao International Airport has adjusted the domestic passenger flight check-in and baggage drop closure time from 35 minutes to 30 minutes prior to scheduled departure. Passengers must complete check-in and baggage drop before this 30-minute deadline, after which check-in systems close. Inquiries can be directed to the airport service hotline at 0851-96967 or operating airlines.
+
+> **Verified Source**: [Guiyang Municipal Bureau of Culture and Tourism (贵阳市文化和旅游局, Sina Weibo)](https://weibo.com/2473528064/RokfnCAJt)
+
+---
+
+### October 25, 2026 &bull; 16:51 CST
+#### Qinghai-Tibet Railway Lhasa-Nagqu Section Resumes Normal Operations Following Post-Earthquake Inspections
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【拉萨前往那曲的游客注意!（青藏铁路受地震影响区段）恢复正常！】地震发生后，铁路部门迅速行动，第一时间启动应急响应，组织各专业力量开展线路巡查、设备检修和安全隐患排查。工务、机务、电务、供电、通信、客运等部门协同配合，连夜检查铁路线路、桥隧设施及信号供电设备，强化列车运行监控与运输组织，全力保障铁路运输安全有序。 从线路巡检到设备排查，从调度指挥到旅客服务，各岗位工作人员坚守一线，以责任守护出行安全，以协作保障运输畅通，为抗震救灾和群众平安出行提供有力支撑。 来源：青藏集团公司党委宣传部
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the earthquake in Baqing County, China Railway Qinghai-Tibet Group completed overnight emergency inspections and safety checks of tracks, bridges, tunnels, communication, and power systems. Normal railway operations have fully resumed along the affected Lhasa-to-Nagqu section. Foreign passport holders entering Tibet are reminded that autonomous region regulations require traveling with an organized tour group and holding an approved Tibet Travel Permit (TTB Permit).
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RojxOiLmN)
+
+---
+
+### October 25, 2026 &bull; 15:30 CST
+#### Direct Flights Inaugurated Between Qamdo Bangda Airport and Kunming
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 昌都至昆明航线今日起正式通航 据昌都邦达机场消息，为进一步促进区域经济文化交流、满足群众出行需求，昌都邦达机场于10月25日正式开通昌都至昆明的直飞航线！据了解，本次航线由西藏航空执飞，航班号为TV9883/84，执行拉萨=昌都=昆明航线，计划每日1班。 来源： （图源：昌都邦达机场分公司）
+
+**🇬🇧 Actionable Travel Intel**:  
+Qamdo Bangda Airport in Tibet launched direct commercial flights connecting Qamdo and Kunming on October 25, 2026. Operated daily by Tibet Airlines under flight numbers TV9883/84 along the Lhasa=Qamdo=Kunming routing, the service establishes direct aerial connectivity between eastern Tibet and Yunnan. Foreign travelers visiting Tibet must arrange travel via authorized tour groups and secure a Tibet Travel Permit (TTB Permit) in advance.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Roj0Fqve5)
+
+---
+
 ### October 24, 2026 &bull; 14:00 CST
 #### Chengdu to Chongqing Jiangbei Airport: Direct High-Speed Train Route G8665 and G8664 Adjusted
 

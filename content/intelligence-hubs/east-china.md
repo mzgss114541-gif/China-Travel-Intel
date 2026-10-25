@@ -6,6 +6,58 @@
 
 ---
 
+### October 25, 2026 &bull; 17:41 CST
+#### Zhujiajian to Mount Putuo Passenger Ferries Resume Morning of October 26
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 朱家尖到普陀山普通客船明天（10月26日）上午复航，首班时间明天另告。请各位游客合理规划行程。 来源：舟山旅游集团
+
+**🇬🇧 Actionable Travel Intel**:  
+Regular passenger ferry services between Zhujiajian and Mount Putuo (Putuoshan) will resume on the morning of October 26, 2026. The departure time of the first morning ferry will be announced separately by Zhoushan Tourism Group. Visitors planning travel to the island are advised to monitor official departure notices.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RojS4jdv1)
+
+---
+
+### October 25, 2026 &bull; 17:36 CST
+#### Four Major Scenic Spots in Zhujiajian Reopen at 08:00 on October 26
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 朱家尖南沙景点、东沙景点、白山景区、乌石塘景区将于明天（10月26日）8:00恢复对外开放 来源：普陀山文化旅游
+
+**🇬🇧 Actionable Travel Intel**:  
+According to Putuoshan Cultural Tourism, four major outdoor tourist areas in Zhujiajian—Nansha, Dongsha, Baishan, and Wushitang—will resume normal public operations starting at 08:00 on October 26, 2026.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RojPV2cZC)
+
+---
+
+### October 25, 2026 &bull; 15:26 CST
+#### Zhoushan Zhujiajian Daqingshan Scenic Area Reopens October 26 as Typhoon Champi Weakens
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 台风影响减弱，朱家尖大青山景区 10 月 26 日 7:45 起恢复开放🌿 来源：朱家尖大青山旅游
+
+**🇬🇧 Actionable Travel Intel**:  
+As the maritime influence of Typhoon Champi subsides, Daqingshan Scenic Area in Zhujiajian, Zhoushan, will reopen to visitors starting at 07:45 on October 26, 2026.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RoiZd2yTn)
+
+---
+
+### October 25, 2026 &bull; 13:44 CST
+#### Shanghai Lifts Typhoon Blue Warning for Typhoon Champi and Issues Citywide Gale Alert
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【“蔷琵”远离，上海解除台风预警，大风无缝衔接，请注意防范！】今年第30号台风“蔷琵”(热带风暴级)，今天11时中心位置已经到达距离日本鹿儿岛西偏南方向约580公里的东海海面上（北纬29.5度、东经125.0度）。中心气压990百帕，近中心的最大风力9级（23米/秒），七级风圈半径260-400公里。台风中心将以每小时20-25公里的速度向东北方向移动，强度逐渐减弱。 上午10时，浦东、奉贤、金山、崇明、宝山、青浦六个区解除台风蓝色预警信号，全市各区发布大风蓝色预警信号。市民朋友需谨防高空坠物，在户外活动时也要注意防风。
+
+**🇬🇧 Actionable Travel Intel**:  
+As Typhoon Champi moved northeastward over the East China Sea with weakening intensity, Shanghai authorities lifted the Typhoon Blue Warning across Pudong, Fengxian, Jinshan, Chongming, Baoshan, and Qingpu districts at 10:00 on October 25, 2026. Citywide districts have transitioned to a Gale Blue Warning signal. Travelers engaging in outdoor activities should exercise caution against strong winds and falling objects.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RoijQ1r3M)
+
+---
+
 ### October 25, 2026 &bull; 11:36 CST
 #### Typhoon Champi Departs; Shanghai Lifts Coastal Typhoon Alert but Issues Citywide Blue Gale Warning
 

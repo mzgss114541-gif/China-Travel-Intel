@@ -6,6 +6,19 @@
 
 ---
 
+### October 25, 2026 &bull; 18:45 CST
+#### China Civil Aviation 2026/2027 Winter-Spring Flight Season Begins October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年10月25日起至2027年3月27日，全国民航正式执行2026/2027年冬春航季航班计划。换季不是简单的时刻表微调，航班时刻、班期都可能变化，部分航线还会增班、减班甚至停飞。 这两种情况出行要格外注意：如果购买了10月25日之后的机票，出行前重新核对一遍出发的机场、航站楼和航班时刻；经常乘坐低频次支线航班的话，这类航线换季时变动更大，建议多核对一次。 本次换季后，热门航线特价票供给可能收缩，但支线航班取消调整可能会减少，新的直飞航线也可能会增加。 换季初期是购票的利好窗口期，目前国内多条航线机票折扣力度可观。央视财经的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+China's civil aviation network officially commenced the 2026/2027 winter-spring flight schedule on October 25, 2026, which will run through March 27, 2027. Flight timings, frequencies, and operating routes across domestic airports may be adjusted, added, or suspended under the seasonal schedule change. Inbound and transit passengers traveling on or after October 25 are advised to double-check their departure airport, terminal building, and flight departure time before heading to the airport, especially when connecting on low-frequency regional routes.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/Roki1wZjQ)
+
+---
+
 ### October 24, 2026 &bull; 13:00 CST
 #### China Railway Train Numbering Reform: New X-Prefix Introduced for 350 km/h Fuxing Services
 

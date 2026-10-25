@@ -6,6 +6,32 @@
 
 ---
 
+### October 25, 2026 &bull; 16:30 CST
+#### Beijing Launches Dedicated Tourist Bus Lines for Autumn Foliage Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月25日，记者从北京市交通委获悉，随着红叶渐入最佳观赏期，为方便市民游客便捷赏秋、错峰出行，本市交通部门统筹地铁、有轨电车、地面公交等多元运力，优化推出多条香山赏叶专线及京郊赏秋通游专线。 10月16日起，2026年香山红叶观赏期正式开启，将持续至11月15日，历时31天、横跨5个周末。随着红叶渐入最佳观赏期，香山地区公共交通总客运量预计达310万人次，预计10月25日、31日和11月1日为客流高峰日。 前往香山，市民游客可选择三条公共交通线路。一是乘地铁10号线到巴沟站，换乘“赏叶专线”有轨电车西郊线直达香山。二是乘地铁4号线到西苑站，换乘通游专线26路前往香山，全程避开旱河路等拥堵路段。三是本市新增通游专线40路。10月24日起，乘地铁1号线到苹果园站，可换乘新开的通游专线40路到达香山，周末每15至20分钟一班，执行常规公交票价。此外，318路、360路等8条公交线路同步加密班次、增发区间车，乘客可就近选择。 其实，市民游客也不必扎堆香山，乘通游专线即可就近赏景。 前往房山坡峰岭，市民可乘地铁14号线到七里庄站，换乘通游专线41路直达，10月23日至11月15日逢周六、周日、周一运营，一人一座、提前预约、满员即发。 前往慕田峪长城，市民可在望京西枢纽乘通游专线31路，一站直达，节假日发车，往返票价80元。 前往喇叭沟原始森林公园，在望京西枢纽乘通游专线34路，线路将运营至11月8日。 上述通游专线实行一人一座、提前预约、市场化定价，市民可通过“一路同行”App、北京旅游集散中心官方渠道查询班次、票价并预约。（北京日报） 北京日报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Beijing transport authorities have introduced dedicated transit services for the autumn foliage season running through November 15, 2026. For Fragrant Hills (Xiangshan), visitors can take Subway Line 10 to Bagou Station for the Xijiao Line tram, take Tourist Line 26 from Line 4 Xiyuan Station, or take newly opened Tourist Line 40 from Line 1 Pingguoyuan Station (running every 15 to 20 minutes on weekends at regular bus fare). For Pofengling in Fangshan, Tourist Line 41 operates from Line 14 Qilizhuang Station on Saturdays, Sundays, and Mondays through November 15. For Mutianyu Great Wall, Tourist Line 31 operates direct from Wangjing West Hub on holidays for 80 RMB round-trip. For Labagou Primitive Forest Park, Tourist Line 34 operates from Wangjing West Hub through November 8. Seat reservations are required via the Yilu Tongxing App or Beijing Tourism Distribution Center official channels.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/Rojp1l5ki)
+
+---
+
+### October 25, 2026 &bull; 15:05 CST
+#### China Great Wall Museum at Badaling Reopens for Trial Operation with Free Admission
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 图1-2：中国长城博物馆于2026年10月24日（试运行）在八达岭长城脚下焕新开馆。改造提升后的中国长城博物馆总建筑面积约16000平方米，由藏品库区、藏品技术区、陈列展览区、教育与服务区、业务与研究区等功能用房组成。博物馆执行免费参观的开放政策，试运行期间采取免预约限流的开放模式，每日限流4000人，额满即止（每周二闭馆，法定节假日除外）。 🍂图3-4：金秋时节，北京十三陵国家森林公园蟒山景区换上斑斓盛装，漫山林木次第换色，红枫、黄栌、银杏交织出层次丰富的山林画卷，红叶正式进入最佳观赏期。目前，景区观赏指数已达到Ⅱ级，红叶变色率达到35%—60%，处于红黄与橙红之间。 🍂图5-8：秋风漫过紫谷伊甸园，园中繁花似锦，尽显秋日温柔。粉黛乱子草蓬松如云、轻盈似雾。连片的马鞭草铺展成浩瀚紫海，紫浪翻涌、清雅治愈；万寿菊、球菊、波斯菊、紫菀等各式秋花错落盛放，缤纷夺目。园内欧式风车、钢琴、音符打卡装置点缀花海之间，一步一景、浪漫雅致。 🍂图9-11：紫竹院公园“竹影凝秋·金菊焕章”2026年秋季菊展，于10月24日正式开幕。园内3000余平米布景，2.7万余株秋季花卉与青翠竹影交相辉映，为广大市民游客呈现一场沉浸式赏菊盛宴（福荫紫竹院行宫展区每周一闭展，大家别跑空哦）。 🍂图12-13：10月24日至11月17日，2026年“绿心花朝”游园会暨彩叶大道艺术开放周在城市绿心森林公园举办。1.7公里长的彩叶大道上，近600棵银红槭沿路成行成列，五角枫于两侧孤植或片植，错落点缀，共同铺就秋日彩叶长廊，最佳观赏期预计可持续2至3周。 🍂图14-15：10月22日，野鸭湖国际重要湿地迎来今秋大规模候鸟迁徙的“先头部队”。开阔的湖面上，小天鹅低头悠然觅食，豆雁、鸿雁结伴嬉戏，为这片湿地拉开候鸟迁徙季的序幕。沿着全长4.8公里的环湖步道慢行，苇穗随风摇曳、白鹭静立滩头、雁鸭游于碧波，水鸟起落翩跹，一幅人鸟和谐共生的湿地图景徐徐铺展。 🍂图16-17：当前，百望山森林公园彩叶整体变色率约25%，山林还处在黄绿交织的过渡阶段，红意初绽，层次丰富。据观测，下周百望山或将迎来彩叶最佳观赏期。
+
+**🇬🇧 Actionable Travel Intel**:  
+The upgraded China Great Wall Museum, located at the foot of Badaling Great Wall, commenced trial operations on October 24, 2026, offering free admission. During the trial period, the museum operates under a walk-in, reservation-free model with a daily visitor cap of 4,000 people on a first-come, first-served basis. The facility is closed on Tuesdays, except on statutory holidays.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RoiQNuQ87)
+
+---
+
 ### October 25, 2026 &bull; 12:00 CST
 #### China Railway Beijing Bureau Issues Tangshan Railway Station Passenger Navigation Advisory
 
