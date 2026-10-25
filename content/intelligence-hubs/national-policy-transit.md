@@ -33,13 +33,13 @@ Over the next three days, parts of northern and western regions—including most
 ---
 
 ### October 21, 2026 &bull; 10:17 CST
-#### Typhoon Path Remains Uncertain as Strong Coastal Winds and Rain Approach
+#### Typhoon Champi: Path Remains Uncertain as Strong Coastal Winds and Rain Approach
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 目前，今年第30号台风“蔷琵”维持超强台风级已超80个小时。中央气象台预计“蔷琵”有可能24日前后在我国台湾东部沿海登陆，并在福建二次登陆；也可能在台湾东北部海面转向东北方向移动，强度逐渐减弱。 “蔷琵”的路径预报仍有较大不确定性，后期路径和影响预计在22日趋于明朗。受其影响，我国东南部海域及浙江沿海、福建沿海、台湾沿海、上海沿海将有强风雨天气，提前做好台风防御措施。 今后几天，随着冷空气南下，南方多地炎热天气将会迅速收敛，其中江南多地气温波动较大，体感将明显转凉。华南多地受冷空气影响有限，气温波动不大，要注意防暑降温。央视新闻的微博视频
 
 **🇬🇧 Actionable Travel Intel**:  
-The 30th typhoon of the year is forecast to possibly make landfall around Taiwan's east coast on October 24 and a second landfall in Fujian, or to turn northeast near northeastern Taiwan. The path remains uncertain and is expected to become clearer on October 22. Strong wind and rain are forecast for the southeastern coastal waters and coastal Zhejiang, Fujian, Taiwan and Shanghai. Typhoon precautions should be taken in advance.
+Typhoon Champi (the 30th typhoon of the year) is forecast to possibly make landfall around Taiwan's east coast on October 24 and a second landfall in Fujian, or to turn northeast near northeastern Taiwan. The path remains uncertain and is expected to become clearer on October 22. Strong wind and rain are forecast for the southeastern coastal waters and coastal Zhejiang, Fujian, Taiwan and Shanghai. Typhoon precautions should be taken in advance.
 
 > **Verified Source**: [Tengchong Municipal Bureau of Culture and Tourism (腾冲文旅, Sina Weibo)](https://weibo.com/2131691740/RnFfIpP2c)
 
@@ -319,13 +319,13 @@ China's national meteorological authority forecasts a stronger cold wave moving 
 ---
 
 ### October 15, 2026 &bull; 16:47 CST
-#### China Meteorological Administration: Typhoon CHAMPI Forms and May Strengthen into a Super Typhoon
+#### China Meteorological Administration: Typhoon Champi Forms and May Strengthen into a Super Typhoon
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 今年第30号台风“蔷琵”（CHAMPI，名字来源于老挝，一种花）已于今天下午生成，今天14时，“蔷琵”的强度为热带风暴级（8级，18米/秒），其中心位于关岛东偏南方向约1560公里的洋面上。未来几天，“蔷琵”将继续向西行，强度不断增强，有可能在18日加强为超强台风。
 
 **🇬🇧 Actionable Travel Intel**:  
-The 30th typhoon of this year, CHAMPI (a name from Laos meaning a flower), formed this afternoon. Its intensity was at tropical storm level (force 8, 18 meters per second), with its center over the ocean about 1,560 km east-southeast of Guam. Over the coming days, CHAMPI will continue moving westward and steadily intensify, and may strengthen into a super typhoon on the 18th.
+The 30th typhoon of this year, Typhoon Champi (a name from Laos meaning a flower), formed this afternoon. Its intensity was at tropical storm level (force 8, 18 meters per second), with its center over the ocean about 1,560 km east-southeast of Guam. Over the coming days, Typhoon Champi will continue moving westward and steadily intensify, and may strengthen into a super typhoon on the 18th.
 
 > **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RmNf98nGq)
 

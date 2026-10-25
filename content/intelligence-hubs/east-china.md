@@ -39,7 +39,7 @@ Shanghai Metro confirmed that on October 25, all lines across the citywide metro
 > 11月1日至30日，芜湖多家A级景区优惠大放送，16周岁及以下免门票。星级酒店精品民宿连住最低6.6折，方特、马仁奇峰、大浦还有专属特惠，一次性给你安排到位。更多详情请关注“欢乐芜湖“公众号，带上孩子，来芜湖赴一场秋日之约! 芜湖 欢乐芜湖的微博视频
 
 **🇬🇧 Actionable Travel Intel**:  
-From November 1 through November 30, 2026, multiple A-level tourist attractions in Wuhu, Anhui Province, are offering free admission for youth aged 16 and under. In addition, participating star-rated hotels and boutique guesthouses are providing consecutive-night stay discounts starting from 34% off (6.6 zhe), with designated promotional packages available at major attractions including Fantawild, Maren Qifeng, and Dapu.
+From November 1 through November 30, 2026, multiple A-level tourist attractions in Wuhu, Anhui Province, are offering free admission for youth aged 16 and under. In addition, participating star-rated hotels and boutique guesthouses are providing consecutive-night stay discounts starting from 34% off (6.6 zhe), with designated promotional packages available at major attractions including Fantawild, Maren Qifeng Scenic Area, and Dapu Rural World.
 
 > **Verified Source**: [Wuhu Municipal Bureau of Culture and Tourism (欢乐芜湖, Sina Weibo)](https://weibo.com/5117843615/RogkX7NXc)
 
@@ -332,13 +332,13 @@ Lulan Qingsha Scenic Area in Zhoushan is temporarily closed because of the typho
 ---
 
 ### October 21, 2026 &bull; 10:17 CST
-#### Typhoon Path Remains Uncertain as Strong Coastal Winds and Rain Approach
+#### Typhoon Champi: Path Remains Uncertain as Strong Coastal Winds and Rain Approach
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 目前，今年第30号台风“蔷琵”维持超强台风级已超80个小时。中央气象台预计“蔷琵”有可能24日前后在我国台湾东部沿海登陆，并在福建二次登陆；也可能在台湾东北部海面转向东北方向移动，强度逐渐减弱。 “蔷琵”的路径预报仍有较大不确定性，后期路径和影响预计在22日趋于明朗。受其影响，我国东南部海域及浙江沿海、福建沿海、台湾沿海、上海沿海将有强风雨天气，提前做好台风防御措施。 今后几天，随着冷空气南下，南方多地炎热天气将会迅速收敛，其中江南多地气温波动较大，体感将明显转凉。华南多地受冷空气影响有限，气温波动不大，要注意防暑降温。央视新闻的微博视频
 
 **🇬🇧 Actionable Travel Intel**:  
-The 30th typhoon of the year is forecast to possibly make landfall around Taiwan's east coast on October 24 and a second landfall in Fujian, or to turn northeast near northeastern Taiwan. The path remains uncertain and is expected to become clearer on October 22. Strong wind and rain are forecast for the southeastern coastal waters and coastal Zhejiang, Fujian, Taiwan and Shanghai. Typhoon precautions should be taken in advance.
+Typhoon Champi (the 30th typhoon of the year) is forecast to possibly make landfall around Taiwan's east coast on October 24 and a second landfall in Fujian, or to turn northeast near northeastern Taiwan. The path remains uncertain and is expected to become clearer on October 22. Strong wind and rain are forecast for the southeastern coastal waters and coastal Zhejiang, Fujian, Taiwan and Shanghai. Typhoon precautions should be taken in advance.
 
 > **Verified Source**: [Tengchong Municipal Bureau of Culture and Tourism (腾冲文旅, Sina Weibo)](https://weibo.com/2131691740/RnFfIpP2c)
 
