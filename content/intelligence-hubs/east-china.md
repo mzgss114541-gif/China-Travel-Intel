@@ -6,6 +6,45 @@
 
 ---
 
+### October 25, 2026 &bull; 11:36 CST
+#### Typhoon Champi Departs; Shanghai Lifts Coastal Typhoon Alert but Issues Citywide Blue Gale Warning
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 台风“蔷琵”正在逐渐远离申城。虽说它的中心即将奔着日本去，但在它和冷空气的“默契配合”下，刚刚过去的这几天，申城的天气舞台有点不平静。不可因台风走远、雨停就放松警惕，持续关注大风预警。上午10时，浦东、奉贤、金山、崇明、宝山、青浦六个区解除台风蓝色预警信号，全市各区发布大风蓝色预警信号。via新民晚报 新民晚报新民网的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+At 10:00 on October 25, Shanghai meteorological authorities lifted the Typhoon Blue Warning for six coastal and suburban districts (Pudong, Fengxian, Jinshan, Chongming, Baoshan, and Qingpu) as Typhoon Champi moves away toward Japan. However, in combination with incoming cold air, a Blue Gale Warning has been issued across all districts citywide. Travelers are advised to remain alert to gusty conditions along waterfronts and open outdoor attractions despite the cessation of rainfall.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RohtQ4z4i)
+
+---
+
+### October 25, 2026 &bull; 10:17 CST
+#### Shanghai Metro Network Operates on Normal Schedule Across All Lines on October 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 介绍，10月25日，上海地铁全网络各线路执行正常运营计划，列车运行速度、间隔、交路及首末班车时间均按常态标准实施，请市民乘客根据日常出行安排规划行程。
+
+**🇬🇧 Actionable Travel Intel**:  
+Shanghai Metro confirmed that on October 25, all lines across the citywide metro network are operating on standard normal schedules. Train running speeds, headway intervals, routings, and first-and-last train departure times are all being maintained under regular standards. Inbound travelers using the urban rail network may proceed according to normal transit timetables.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RogXW22jW)
+
+---
+
+### October 25, 2026 &bull; 08:41 CST
+#### Wuhu Announces November Travel Discounts: Free Scenic Area Admission for Visitors Aged 16 and Under
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月1日至30日，芜湖多家A级景区优惠大放送，16周岁及以下免门票。星级酒店精品民宿连住最低6.6折，方特、马仁奇峰、大浦还有专属特惠，一次性给你安排到位。更多详情请关注“欢乐芜湖“公众号，带上孩子，来芜湖赴一场秋日之约! 芜湖 欢乐芜湖的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+From November 1 through November 30, 2026, multiple A-level tourist attractions in Wuhu, Anhui Province, are offering free admission for youth aged 16 and under. In addition, participating star-rated hotels and boutique guesthouses are providing consecutive-night stay discounts starting from 34% off (6.6 zhe), with designated promotional packages available at major attractions including Fantawild, Maren Qifeng, and Dapu.
+
+> **Verified Source**: [Wuhu Municipal Bureau of Culture and Tourism (欢乐芜湖, Sina Weibo)](https://weibo.com/5117843615/RogkX7NXc)
+
+---
+
 ### October 24, 2026 &bull; 18:32 CST
 #### Bohai Railway Ferry Between Yantai and Dalian Offers 30% Passenger Ticket Discount
 

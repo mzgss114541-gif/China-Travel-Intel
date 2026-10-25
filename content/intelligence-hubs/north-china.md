@@ -6,6 +6,45 @@
 
 ---
 
+### October 25, 2026 &bull; 12:00 CST
+#### China Railway Beijing Bureau Issues Tangshan Railway Station Passenger Navigation Advisory
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 唐山市火车出行快速避坑总结（建议收藏） 1. 能坐高铁动车：唐山站、唐山西站 2. 能坐普速火车：唐山站、唐山北站 3. 不能坐客运、只办货运：唐山南站、唐山东站 4. 靠近机场坐城际：优先选唐山西站 温馨提示：想去河头老街、唐山宴、南湖公园等市区景点打卡，唐山站下车最近、交通最便利。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Beijing Bureau has published an official passenger advisory outlining station functions across Tangshan, Hebei Province: High-speed EMU trains call at Tangshan Station and Tangshan West Station; regular-speed passenger trains serve Tangshan Station and Tangshan North Station; while Tangshan South Station and Tangshan East Station handle freight operations exclusively and do not handle passenger services. Tangshan West Station is recommended for airport and intercity rail connections, while Tangshan Station is closest to central urban attractions such as Hetou Old Street, Tangshan Banquet, and Nanhu Park.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RohDr6hi0)
+
+---
+
+### October 25, 2026 &bull; 10:30 CST
+#### China Railway Outlines Official Three-Step Free Return Protocol for High-Speed Rail Missed Stations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 刷着视频、打个盹，一抬头，坐过站了！先别急，正确操作只有三步↓↓ ① 发现坐过站，立刻找列车工作人员，出示身份证说明是“误降”； ② 列车长核对后开具客运记录，到前方站和车站办理交接； ③ 车站安排最近一趟列车，走站内通道把你免费送回票面到站，返程票不用自己买。（求助一定要在出站前，一旦刷票出站，免费返程就不再受理）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Zhengzhou Bureau has highlighted the standard 3-step procedure for passengers who mistakenly overshoot their ticketed destination on high-speed rail: (1) Notify train staff immediately upon discovering the overshoot and present valid identification to report accidental overrun; (2) The train conductor verifies ticket details, issues an official Passenger Transport Record, and arranges station handover at the next scheduled stop; (3) Station staff guide the passenger through internal transfer corridors onto the earliest available train back to their original ticketed destination free of charge. Crucially, travelers must seek assistance onboard or before scanning out through ticket barriers, as exiting the arrival gates forfeits eligibility for free return transit.
+
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/Roh33wbYm)
+
+---
+
+### October 25, 2026 &bull; 09:30 CST
+#### China Great Wall Museum at Badaling Completes Expansion to 16,000 Square Meters
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 长城脚下，一座“藏”在山里的博物馆焕新亮相！改造后的中国长城博物馆，面积大了，从4000平方米扩大至1.6万平方米，却通过外幕墙定制等手法，将建筑更巧妙地融于山势之中。走进馆内，可看的细节也不少：和平厅里，一轮直径33.2米的巨型吊顶犹如“圆月”高悬；长城厅内，37米无柱空间视野开阔，透过巨大的玻璃幕墙，八达岭长城成了“最大的展品”。此外，展陈里还有“崇祯款捷胜飞空灭虏安边发熕神炮”等700多件展品，带您走进长城历史。（北京日报） 北京日报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The revamped China Great Wall Museum, located at the foot of Badaling Great Wall in Beijing, has completed its major expansion, quadrupling its exhibition space from 4,000 to 16,000 square meters. The upgraded facility houses over 700 historical artifacts across specialized exhibition halls, featuring a 37-meter column-free Great Wall Hall with floor-to-ceiling panoramic glass walls looking out onto Badaling Great Wall.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RogEDxRqH)
+
+---
+
 ### October 24, 2026 &bull; 18:32 CST
 #### Bohai Railway Ferry Between Yantai and Dalian Offers 30% Passenger Ticket Discount
 
