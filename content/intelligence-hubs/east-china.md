@@ -6,6 +6,32 @@
 
 ---
 
+### October 26, 2026 &bull; 12:00 CST
+#### Shanghai Grand Opera House Opens Public Tour Reservations for October 27 to 31
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 新一轮上海大歌剧院公众参观预约开启✨ 赴黄浦江边，打卡地标 “中国扇” 同步探访全新艺术展览「声融东西・歌剧无界」 沉浸式漫游歌剧艺术长河，近距离感受歌剧之美 热爱艺术、喜欢逛展的朋友别错过 ⏰预约通道｜今日 12:00 正式开启 📅开放日期｜10.27–10.31（周二至周六） 🕒参观时段｜10:30–14:30（14:00 停止入场） 更多参观细则，详见下图👇
+
+**🇬🇧 Actionable Travel Intel**:  
+Public tour reservations for the Shanghai Grand Opera House officially opened at 12:00 on October 26 for visits scheduled between October 27 and October 31 (Tuesday to Saturday). Daily visiting hours are from 10:30 to 14:30, with final admission at 14:00. The public tour includes access to the Huangpu River landmark building and the art exhibition 'Melody Bridges East and West: Opera Without Boundaries'.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/Ror3VnSu5)
+
+---
+
+### October 26, 2026 &bull; 09:10 CST
+#### Zhoushan Suspends Shenjiawan to Dongji Island Ferry Route Starting November 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年11月1日起，沈家湾至东极航线暂停营运 来源：东极海运
+
+**🇬🇧 Actionable Travel Intel**:  
+Dongji Maritime Transport announced that passenger ferry services on the route between Shenjiawan and Dongji Island will be suspended starting November 1, 2026. Travelers planning journeys across the Zhoushan Archipelago should verify island transit timetables and alternative port arrangements.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RopWYgvZg)
+
+---
+
 ### October 25, 2026 &bull; 17:41 CST
 #### Zhujiajian to Mount Putuo Passenger Ferries Resume Morning of October 26
 

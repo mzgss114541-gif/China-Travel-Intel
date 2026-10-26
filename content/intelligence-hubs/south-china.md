@@ -6,6 +6,32 @@
 
 ---
 
+### October 26, 2026 &bull; 12:04 CST
+#### Guangxi Rail Network Links Nanning to Longji Terraces, Detian Waterfall, and Yangshuo
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 金秋十月，错峰出游正当时。铁路部门提示，10月下旬起广西多地梯田将陆续开镰，金色稻海进入倒计时。从南宁乘动车出发，约2小时可达桂林龙脊梯田，1小时可达崇左明仕田园、德天瀑布，最快2小时33分可达阳朔遇龙河，全天班次密集，出站即有旅游专线接驳，一日轻松游、两日深度游都合适。秋景不等人，出游请趁早。（张玥云） https://mp.weixin.qq.com/s/cBRNIH7B8OzFkxgU2CcXCQ
+
+**🇬🇧 Actionable Travel Intel**:  
+Nanning Railway highlighted high-speed train connections across Guangxi for autumn travelers. From Nanning, high-speed trains reach Guilin Longji Rice Terraces in approximately 2 hours, Chongzuo Mingshi and Detian Waterfall in 1 hour, and Yangshuo Yulong River in as fast as 2 hours 33 minutes. Dense train schedules operate throughout the day, with direct tourist shuttle connections available immediately outside arrival stations.
+
+> **Verified Source**: [China Railway Nanning Group (南宁铁路, Sina Weibo)](https://weibo.com/1869124960/Ror5yaPMb)
+
+---
+
+### October 26, 2026 &bull; 12:00 CST
+#### Guangdong High-Speed Rail Launches Direct Meizhou West to Zhanjiang North Train Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 四季度调图后，梅州西站新增往返湛江北的直达列车，不用中转，不用换乘，省时更省心！（朱永乐，赵洺欧，钟文锋，李德民） 广州铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the fourth-quarter national rail timetable adjustment, Meizhou West Railway Station has introduced direct passenger train service to and from Zhanjiang North Railway Station. The direct connection eliminates the need for en route transfers between eastern Guangdong and western Guangdong.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/Ror3Wh6ny)
+
+---
+
 ### October 25, 2026 &bull; 17:31 CST
 #### Customs at Hong Kong-Zhuhai-Macao Bridge Enforces Outbound Foreign Currency Cash Limits
 

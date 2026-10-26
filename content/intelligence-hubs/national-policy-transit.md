@@ -6,6 +6,19 @@
 
 ---
 
+### October 26, 2026 &bull; 11:36 CST
+#### China Railway Clarifies Ticket Refund and Rescheduling Rules for Free Child Passengers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 申报添加完成后，如所关联的成人票进行退票后，免费乘车儿童将被一并取消；如所关联的成人票进行改签后，免费乘车儿童将随所关联的乘车人一并改签。（图片由AI生成）
+
+**🇬🇧 Actionable Travel Intel**:  
+Railway passenger regulations specify that once a free child passenger declaration is linked to an adult passenger ticket, if the associated adult ticket is refunded, the booking for the free child passenger is automatically cancelled simultaneously. If the associated adult ticket is rescheduled, the free child passenger booking is transferred together with the passenger.
+
+> **Verified Source**: [China Railway Hohhot Group (草原铁路, Sina Weibo)](https://weibo.com/1920077735/RoqUbnCts)
+
+---
+
 ### October 25, 2026 &bull; 18:45 CST
 #### China Civil Aviation 2026/2027 Winter-Spring Flight Season Begins October 25
 

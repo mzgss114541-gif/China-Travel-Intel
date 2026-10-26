@@ -6,6 +6,32 @@
 
 ---
 
+### October 26, 2026 &bull; 10:30 CST
+#### Beijing Transit Deploys Autumn Foliage Shuttle Lines to Fragrant Hills and Suburbs
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 随着红叶渐入最佳观赏期，为应对赏秋客流高峰、方便市民游客便捷赏秋、错峰出行，北京市交通部门统筹地铁、有轨6电车、地面公交等多元运力，优化推出多条香山赏叶专线及京郊赏秋通游专线，搭建多层次公共交通出行体系，全方位护航市民错峰赏秋、安全畅行。交通部门倡导市民错峰游园、预约出行，有序返程。 北京交通部门推出多条“赏叶专线”（ 编辑｜思朦 斯浓）
+
+**🇬🇧 Actionable Travel Intel**:  
+To manage peak visitor flows during the autumn foliage season, Beijing municipal transport departments have coordinated subway, tram, and surface bus networks to operate dedicated foliage shuttle lines to Fragrant Hills (Xiangshan) and suburban touring routes. Visitors are advised to make advance scenic area reservations and stagger departure times to avoid congestion.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/Roqtos9mX)
+
+---
+
+### October 26, 2026 &bull; 08:50 CST
+#### Harbin Opens Direct Passenger Flight Route to Kamchatka in Russia
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月24日，黑龙江哈尔滨直飞俄罗斯堪察加客运航线正式开通。黑龙江边检总站哈尔滨边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线每周六执飞一班。（文：张慕远/图：刘鹏）
+
+**🇬🇧 Actionable Travel Intel**:  
+A direct passenger air route between Harbin, Heilongjiang Province, and Kamchatka, Russia, commenced operations on October 24. Harbin General Station of Exit and Entry Frontier Inspection has optimized inspection arrangements to support smooth border clearance. The flight operates once weekly on Saturdays.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RopOY4ish)
+
+---
+
 ### October 25, 2026 &bull; 16:30 CST
 #### Beijing Launches Dedicated Tourist Bus Lines for Autumn Foliage Season
 

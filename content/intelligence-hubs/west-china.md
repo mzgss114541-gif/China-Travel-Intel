@@ -6,6 +6,58 @@
 
 ---
 
+### October 26, 2026 &bull; 12:19 CST
+#### Shigatse Issues Weather Alert for Heavy Snow and Rapid Temperature Drop from October 29 to 31
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️暴雪 + 暴雨 + 降温！日喀则重要天气提醒 10 月 29 日 —31 日，我市大部出现雨雪天气，吉隆、聂拉木、定日、定结、亚东等地降水强度大，局地暴雪、大暴雪，低海拔乡镇有暴雨。 雪后降温 3～6℃，高海拔区域降幅超 8℃，多地伴有 7 级左右大风。 请大家警惕山洪、滑坡、泥石流、雪崩等次生灾害；高海拔路段路况复杂，出行谨慎，游客尽量避开沟谷陡坡等危险区域，密切关注预警信息！ （来源：日喀则市气象台）
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 29 to 31, rainy and snowy weather is forecast across most of Shigatse. Precipitation intensity will be heavy in Gyirong, Nyalam, Tingri, Dinggye, and Yadong, with localized heavy blizzards and torrential rain in low-elevation townships. Post-snow temperatures will decline by 3 to 6 degrees Celsius, with drops exceeding 8 degrees Celsius in high-altitude zones, accompanied by force 7 gale winds. Travelers to high-altitude passes and valley areas should remain alert to flash floods, landslides, mudslides, and avalanches.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RorbE6ViS)
+
+---
+
+### October 26, 2026 &bull; 11:47 CST
+#### Tibet Airlines Launches Lhasa-Xi'an-Changchun Direct Route on October 27
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 拉萨直达长春，出行再添新选择！10月27日，由西藏航空执飞的拉萨=西安=长春往返航线将正式开通，每周二、四、六各一班。新航线进一步连接雪域高原与东北城市，为两地旅客往来提供更多便利，也为冬游西藏增添出行选择。具体航班信息请以官方销售系统为准。 来源：西藏卫视+，西藏航空
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 27, Tibet Airlines will launch a scheduled round-trip passenger air route connecting Lhasa, Xi'an, and Changchun. The flight operates three times weekly on Tuesdays, Thursdays, and Saturdays, providing a direct air link between Tibet, Shaanxi, and Northeast China. Operating flight details are available through official ticketing systems.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RoqYN3Mzj)
+
+---
+
+### October 26, 2026 &bull; 11:15 CST
+#### Tibet Imposes Emergency Vehicle Permit Controls on Routes Toward Maru Township in Baqen
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于对前往巴青县玛如乡方向实行通行证管理的通告 为切实做好巴青县玛如乡抗震救灾各项工作，保障应急救援车辆安全、快速、有序通行，防止非应急救援车辆前往震中地区造成道路拥堵，影响抗震救援工作顺利开晨，现就有关享项通告如下： 来源：
+
+**🇬🇧 Actionable Travel Intel**:  
+Transport authorities in Tibet have implemented permit controls on roadways leading toward Maru Township in Baqen County to facilitate post-earthquake relief operations. Non-emergency vehicles are restricted from entering the relief zone to ensure emergency vehicles maintain unimpeded access.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RoqLF4tQ7)
+
+---
+
+### October 26, 2026 &bull; 10:45 CST
+#### China Eastern Adds 13 Key Routes in Xinjiang for Winter-Spring Flight Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ✈️10月25日起，全国民航正式执行2026/2027年冬春航季航班计划。按照国际民航惯例，我国每年3月和10月进行两次航班换季。在航班换季时，航班时刻、班期都可能变化，部分航线还会增班、减班甚至停飞。一起来看看~ 本次航班换季，中国东方航空股份有限公司共计在新疆新增13条重点航线航线，总量达48条。👇 ✅乌鲁木齐枢纽重点开通直飞：上海虹桥、上海浦东、北京大兴、西安、昆明、成都天府、南京、合肥、杭州、无锡十大国内核心城市机场。串联长三角、京津冀、成渝等国内重点经济圈，打通新疆对外商务往来空中通道。 ✅支线网络同步提质增效：东航疆内站点包括乌鲁木齐、喀什、伊宁、库尔勒、阿勒泰、库车、阿克苏、克拉玛依、博乐、塔城、和田。其中，喀什至西安航线达到每周21班高频班次。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the nationwide civil aviation transition to the 2026/2027 winter-spring flight schedule on October 25, China Eastern Airlines has added 13 key routes in Xinjiang, bringing its network to 48 routes. The Urumqi hub operates direct flights to 10 major domestic destinations: Shanghai Hongqiao, Shanghai Pudong, Beijing Daxing, Xi'an, Kunming, Chengdu Tianfu, Nanjing, Hefei, Hangzhou, and Wuxi. Regional destinations include Kashgar, Yining, Korla, Altay, Kuqa, Aksu, Karamay, Bole, Tacheng, and Hotan, with Kashgar-Xi'an flights operating at 21 flights per week.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/Roqzz4Jjk)
+
+---
+
 ### October 25, 2026 &bull; 18:39 CST
 #### Guiyang Longdongbao Airport Cuts Domestic Flight Check-In Cut-off to 30 Minutes
 
