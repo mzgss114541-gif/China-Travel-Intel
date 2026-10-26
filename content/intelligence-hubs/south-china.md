@@ -6,6 +6,32 @@
 
 ---
 
+### October 26, 2026 &bull; 17:00 CST
+#### Wuhan Metro Line 12 Loop Closes to Interconnect Hankou and Wuchang Rail Hubs
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 亚洲最长的地铁环线，今天终于在武汉首尾相接了！59.9公里、37座车站，这个武汉人等了多年的大圆，今天终于画完了！我现在就在武汉地铁汉口站北广场站，在我脚下就是即将全线开通的武汉地铁12号线！ 还记得今年五一，开通的武汉地铁12号线吗？当时开通的是一期工程，从钢都花园站到墨水湖公园站，全长35.32公里，一共23座车站。那时候我们说它是“亚洲最长”，指的是整条线路全部建成后的长度。当时真正投入运营的，其实只有大半圈。列车到了钢都花园或者墨水湖公园，还得掉头往回走，地图上这个圆，始终还差最后一笔。 今天，最后这一笔终于补上了！这次开通的是12号线二期，新开的14座车站，从十里铺站一直到科普公园站；按照工程范围来算，是从墨水湖公园站一路接到钢都花园站，全长24.64公里。它从汉阳出发，下穿汉江进入硚口，经过汉西、汉口火车站、后湖，再从二七长江大桥下游穿过长江，到达青山。这样一来，一期的两个端点被彻底接通，12号线终于可以内环、外环完整地跑上一整圈。 二期还设置了汉钢站、汉口站北广场站、丹水池站三座特色站。汉钢站最大的特点就是一个字：大。它是12号线穿越汉江的始发站，也是全线唯一一座超宽、超深的全盖挖车站，最宽处达到50.7米，几乎是普通地铁站的两倍，还为未来14号线平行换乘预留了空间。 更有意思的是，汉钢站所在的月湖片区，紧邻张之洞当年创办汉阳铁厂的工业遗址。站内专门设置了一面长约40米的《工业流光·钢铁织梦》艺术墙，把从汉阳铁厂到湖北近代工业发展的重要节点铺在了墙上。墙里还藏着真正的老钢轨，其中一段清楚地刻着“汉阳铁厂造民国三年正月”。大家来到这里，可以专门找找这个跨越百年的“彩蛋”。 汉口站北广场站延续了汉口火车站高挑的欧式拱顶风格，走进站厅，就能感受到铁路枢纽特有的空间气势。尤其是我现在所在的汉口站北广场站，12号线一期已经连接武昌火车站，这次又来到汉口火车站，两大铁路枢纽就这样被同一条地铁环线串了起来。 丹水池站整体突出城市科技感。更硬核的是，它的地下连接着丹水池站至科普公园站越江隧道，全长约4.01公里，是目前国内穿越长江距离最长的地铁隧道。 12号线还是武汉第二条全自动驾驶地铁线路。它的车头和车尾采用敞开式司机室，站在玻璃前面，就能用第一视角看着列车穿过隧道。 武汉地铁12号线为什么敢叫“亚洲最长”？把几座城市的地铁环线放在一起看就很直观了：北京10号线大约57.1公里，重庆环线约50.9公里，韩国首尔2号线主环约48.8公里，广州11号线约44.2公里，上海4号线约33.8公里。武汉12号线全长59.9公里，超过了这些地铁环线；放到全球，它也只排在莫斯科70公里的大环线之后，是亚洲最长、世界第二长的地铁环线。 长江和汉江，把武汉分成了三镇；而这条地铁，两次穿越长江、一次穿越汉江，又把三镇连成了一个整体。“亚洲最长”是它的名片，而让三镇同环、七区联动，让整个武汉运转更快！经济联系得更紧密！才是这个圆对武汉发展真正的意义。 湖北文旅的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Wuhan Metro Line 12 has completed its orbital ring with the opening of its 24.64 km Phase 2 section adding 14 stations. The 59.9 km, 37-station circular line crosses both the Yangtze and Han rivers, directly connecting two primary railway passenger hubs—Hankou Railway Station and Wuchang Railway Station—enabling continuous inner and outer loop transit across the city.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/Rot1HtLb7)
+
+---
+
+### October 26, 2026 &bull; 14:44 CST
+#### Cross-Border High-Speed Rail Clarifies Free Return Rules for Missed Stops at Hong Kong
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 广深港跨境高铁也能办误降免费送回，但有两个“特殊项”↓↓ 🔸 免费送回区段只坐二等座，不能升席别； 🔸 在香港西九龙站到站后超过10分钟才提出误乘、误降，按无票处理。 跨境出行证件、通关流程本来就细，乘车时多听广播、多看车门上方电子屏，到站前提前收拾好行李，比事后补救更省心。
+
+**🇬🇧 Actionable Travel Intel**:  
+Passengers traveling on the Guangzhou-Shenzhen-Hong Kong Express Rail Link who inadvertently overshoot their destination can request free return transport under two specific restrictions. The complimentary return trip is valid only in second-class seats with no seat upgrades permitted. Furthermore, overtravel requests declared more than 10 minutes after arriving at Hong Kong West Kowloon Station are treated as ticketless travel.
+
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/Ros8QqjhK)
+
+---
+
 ### October 26, 2026 &bull; 12:04 CST
 #### Guangxi Rail Network Links Nanning to Longji Terraces, Detian Waterfall, and Yangshuo
 

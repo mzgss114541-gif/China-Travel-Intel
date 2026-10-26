@@ -6,6 +6,45 @@
 
 ---
 
+### October 26, 2026 &bull; 16:31 CST
+#### Heihe Border Port Switches to Hovercraft Transport for Drift-Ice Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 黑河水运旅检口岸10月26日结束本年度明水期客轮客运；自10月27日起进入流冰期，启用气垫船运输。气垫船运行黑河首班发船时间8:00时起，末班发船时间15:00时止；布市返回末班发船时间16:00时。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Heihe waterway passenger inspection port concluded its open-water passenger ship operations on October 26 and transitioned to hovercraft service on October 27 for the river drift-ice period. Hovercraft departures from Heihe operate from 8:00 to 15:00 daily, with the final return departure from Blagoveshchensk at 16:00.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/RosQ8oFQe)
+
+---
+
+### October 26, 2026 &bull; 16:30 CST
+#### China Great Wall Museum Reopens with Free Entry at Badaling
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【中国长城博物馆焕新免费开放！咋玩最实惠？超全攻略来啦——】 历时三年多改造提升，中国长城博物馆2026年10月24日，在八达岭长城脚下正式试运行开放。这座承载中华文明千年印记的国家级长城专题博物馆，以全新面貌迎接八方来客。划重点：免费参观、试运行期间免预约，但每日限流4000人，额满即止！这篇攻略带你摸清展馆看点、周边打卡路线，文末还有互动福利，建议先收藏！查看详情 >> https://mp.weixin.qq.com/s/CKmI4hk1sJb_gjzNy9fKog （ ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Following a three-year renovation, the China Great Wall Museum at the foot of the Badaling Great Wall opened for trial operations on October 24, 2026. Admission is free with no advance reservation required during the trial period, but daily visitor capacity is strictly capped at 4,000 visitors on a first-come, first-served basis.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RosPwc8aN)
+
+---
+
+### October 26, 2026 &bull; 15:30 CST
+#### China Railway Bohai Ferry Cuts Passenger Fares by 30% on Yantai-Dalian Route
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意正浓，跨海游正当时，即日起至2026年12月31日，乘坐中铁渤海铁路轮渡往返烟台、大连的旅客，可享受船票7折优惠（特等舱除外），私家车乘船票价同步下调，实现“船票车票双降”。中铁渤海铁路轮渡纵贯渤海海峡，连通辽宁大连与山东烟台，使两地间行程比绕行山海关缩短1600多公里。船上有大床房、双人间、多人间等多种房型供旅客选择，私家车也可以上船。
+
+**🇬🇧 Actionable Travel Intel**:  
+Through December 31, 2026, passengers traveling on the China Railway Bohai Ferry between Yantai and Dalian receive a 30% discount on passenger tickets, excluding deluxe cabins, alongside reduced vehicle transport rates. The maritime route across the Bohai Strait links Shandong and Liaoning, cutting over 1,600 km compared to overland rail routing around Shanhaiguan.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RosrahxSi)
+
+---
+
 ### October 26, 2026 &bull; 10:30 CST
 #### Beijing Transit Deploys Autumn Foliage Shuttle Lines to Fragrant Hills and Suburbs
 

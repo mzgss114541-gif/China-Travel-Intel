@@ -6,6 +6,19 @@
 
 ---
 
+### October 26, 2026 &bull; 15:30 CST
+#### China Railway Bohai Ferry Cuts Passenger Fares by 30% on Yantai-Dalian Route
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋意正浓，跨海游正当时，即日起至2026年12月31日，乘坐中铁渤海铁路轮渡往返烟台、大连的旅客，可享受船票7折优惠（特等舱除外），私家车乘船票价同步下调，实现“船票车票双降”。中铁渤海铁路轮渡纵贯渤海海峡，连通辽宁大连与山东烟台，使两地间行程比绕行山海关缩短1600多公里。船上有大床房、双人间、多人间等多种房型供旅客选择，私家车也可以上船。
+
+**🇬🇧 Actionable Travel Intel**:  
+Through December 31, 2026, passengers traveling on the China Railway Bohai Ferry between Yantai and Dalian receive a 30% discount on passenger tickets, excluding deluxe cabins, alongside reduced vehicle transport rates. The maritime route across the Bohai Strait links Shandong and Liaoning, cutting over 1,600 km compared to overland rail routing around Shanhaiguan.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RosrahxSi)
+
+---
+
 ### October 26, 2026 &bull; 12:00 CST
 #### Shanghai Grand Opera House Opens Public Tour Reservations for October 27 to 31
 

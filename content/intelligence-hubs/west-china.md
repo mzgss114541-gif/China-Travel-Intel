@@ -6,6 +6,58 @@
 
 ---
 
+### October 26, 2026 &bull; 21:13 CST
+#### Direct High-Speed Trains Added Between Chengdu East and Chongqing Jiangbei Airport
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 更方便了！重庆江北机场往返成都东动车班次+1！成都局集团公司优化列车运行方案出炉，G8665和G8664次列车运行区段调整为成都东往返江北机场。（via. ）上游新闻的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Group has updated train operating schedules to improve intercity air-rail connectivity. High-speed train services G8665 and G8664 have been adjusted to operate directly between Chengdu East Railway Station and Chongqing Jiangbei International Airport, offering travelers convenient transit between the regional rail network and airport terminals.
+
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RouGobiVv)
+
+---
+
+### October 26, 2026 &bull; 20:20 CST
+#### Tibet Highway Hazard Alert and Scenic Area Closures Following Baqen Earthquake
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受巴青县7.0级地震及后续余震影响，G317、G558、G345国道部分路段存在落石、滑坡等次生地质灾害风险。前往巴青县、索县、比如县方向的游客请密切关注路况及预警信息，遇道路管制、交通拥堵时，请听从现场管控，切勿在山脚、路边停留观景。那曲市部分A级景区已临时暂停开放，广大游客朋友出行时请提前咨询确认景区开放情况及交通信息。 来源：那曲文旅
+
+**🇬🇧 Actionable Travel Intel**:  
+Following a magnitude 7.0 earthquake and subsequent aftershocks in Baqen County, sections of National Highways G317, G558, and G345 face risks of rockfalls and landslides. Travelers headed toward Baqen, Sog, and Biru counties in Nagqu must monitor official traffic advisories and avoid stopping along mountain roads. Several A-level tourist attractions in Nagqu have temporarily closed.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Roul2hth5)
+
+---
+
+### October 26, 2026 &bull; 20:01 CST
+#### Shigatse Issues Blizzard Warning Across Eight Counties with Tour Halts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受恶劣天气影响，10月28日至30日，日喀则市亚东、定结、岗巴、定日、聂拉木、吉隆、萨嘎、仲巴等县可能出现暴雪天气，部分路段存在道路结冰风险。 请广大游客提前关注天气预报及道路通行信息，合理安排行程；旅行社请勿在此期间组织游客前往上述县开展旅游活动，并做好行程调整和应急准备。出行途中如遇降雪、道路结冰等情况，请听从现场交通引导，注意安全。
+
+**🇬🇧 Actionable Travel Intel**:  
+Severe weather conditions from October 28 to 30 are forecast to bring blizzard conditions and road icing risks across eight counties in Shigatse, including Yadong, Tingri, and Gyirong. Tourism authorities have advised individual travelers to adjust itineraries and instructed travel agencies not to organize tour groups to these affected counties during this period.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RoudtkGv2)
+
+---
+
+### October 26, 2026 &bull; 17:37 CST
+#### Helan Mountain National Forest Park Adjusts Autumn and Winter Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 随着时节转凉、山风渐寒，宁夏贺兰山国家森林公园将于2026年10月26日起正式执行秋冬季营业时间，具体安排如下： 售票时间：9:00 - 16:30 营业时间：9:00 - 17:00 请各位游客根据新的运营时间合理规划行程，错峰出行，从容游览山间美景。
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective October 26, 2026, Helan Mountain National Forest Park in Ningxia has implemented seasonal autumn and winter operating hours. On-site ticket sales run from 9:00 to 16:30 daily, and the scenic park grounds are open to visitors from 9:00 to 17:00.
+
+> **Verified Source**: [Ningxia Department of Culture and Tourism (宁夏文旅, Sina Weibo)](https://weibo.com/1753048194/RotgPAvA6)
+
+---
+
 ### October 26, 2026 &bull; 12:19 CST
 #### Shigatse Issues Weather Alert for Heavy Snow and Rapid Temperature Drop from October 29 to 31
 
