@@ -175,6 +175,19 @@ Xiangshan Park in Beijing has designated October 24, 25, and 31, as well as Nove
 
 ---
 
+### October 24, 2026 &bull; 17:00 CST
+#### Mutianyu Great Wall Reopens Watchtower 20 Following Restoration
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 慕田峪长城的秋日风光一直是北京赏秋优选，古长城沿着山脊蜿蜒，山间彩林染上红橙金三色，乘缆车登高，便能望见漫山红叶铺在群山之间。层林之间，还藏着一份天然浪漫——慕田峪长城爱心弯。雄阔的万里长城，在山脊上悄悄留下这一处温柔的秋日彩蛋↓ 📍 拍摄点位：14-15号敌台中间；15-16号敌台中间 20号敌台修缮工程将于今日完工，25日可正常通行。这里视野开阔，是远眺层林、俯瞰长城的绝佳观赏点。 秋光正好，红叶可期，赴慕田峪之约，寻长城爱心弯，定格这份独属于雄关的秋日浪漫（via. ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Cultural relic restoration on Watchtower 20 at Mutianyu Great Wall was completed on October 24, with regular visitor access resuming on October 25. Watchtower 20 offers wide panoramic views and serves as a premier viewing point for the autumn foliage season.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RoaaHwgI1)
+
+---
+
 ### October 24, 2026 &bull; 15:30 CST
 #### Badaling Great Wall: China Great Wall Museum Officially Reopens with Over 700 Cultural Artifacts
 
