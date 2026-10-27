@@ -6,6 +6,19 @@
 
 ---
 
+### October 27, 2026 &bull; 11:24 CST
+#### China Railway 12306 Launches Group Ticket Station Contact Directory Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月26日起，铁路12306客户端（含网站）新增“团体票业务联系方式查询”功能。旅客可在铁路12306客户端“温馨服务”版块和网站“信息查询”版块，检索团体票办理车站、办公电话和营业时间。 有需要的旅客可拨打电话联系就近车站工作人员咨询、办理团体票业务，工作人员将为开车前3天及以上且乘车日期、车次、发站、到站、席别均相同的20人及以上团体旅客提供购买火车票咨询和办理服务。 铁路团体票办理车站继续现场受理团体旅客购买火车票业务，各类研学、演出、赛事等团体旅客集中购票出行更加方便。
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective October 26, the official Railway 12306 mobile app and website added a group ticket contact directory query function under the Warm Services and Information Query sections. Travelers can look up participating railway stations, direct phone numbers, and operating hours for group reservations. Railway personnel offer consultation and handling for groups of 20 or more passengers traveling together with identical dates, train numbers, origin, destination, and seat class when contacted at least 3 days before departure. Group ticket ticketing counters at designated stations remain open for on-site processing.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/RoAfOf4ZL)
+
+---
+
 ### October 26, 2026 &bull; 20:00 CST
 #### China Railway 12306 Adds Station Contact Inquiry for Group Tickets
 

@@ -6,6 +6,19 @@
 
 ---
 
+### October 27, 2026 &bull; 10:45 CST
+#### Wuhan Metro Line 12 Loop Nears Opening Connecting Major Rail Hubs Under Distance Fare System
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> “大环线”兜一圈2元，中间下车反而更贵？ “亚洲最长地铁环线”武汉轨道交通12号线，即将开通。 根据武汉地铁里程计费标准，坐半圈7元，坐整圈2元。也就是说，坐12号线兜一圈要2元，中间下车反而更贵。 这是为何？ 10月25日，该线路运营公司工作人员介绍，武汉地铁票价选取最短路径计算。地铁成网后，从A地到B地，可能有多种路径，但不管乘客实际上怎么坐地铁，系统默认以线网间最短路径来计价。 据悉，武汉地铁票价属于政府定价项目，由物价主管部门统筹研究方案并通过票价听证会后确定。现阶段按里程分段计价，计价标准为4公里以内，2元；4-12公里，1元/4公里；12-24公里，1元/6公里；24-40公里，1元/8公里；40-50公里，1元/10公里；50公里以上，1元/20公里。 先说坐一整圈。 乘客乘坐12号线，从汉口站北广场站进站，历时96分钟坐了一圈，回到汉口站北广场站，未超过240分钟的规定时限，系统默认为同站进出，票价2元。 再说坐大半圈。 乘客乘坐12号线，从汉口站北广场站进站，沿内环方向坐到四新中路站，实际上坐了四分之三圈，但是按最短路径，只能以四分之一圈的里程来计价。 接着说坐半圈。 乘客乘坐12号线，从汉口站北广场站进站，沿内环方向坐到富安街站，实际里程大约30公里，乘车时长不到50分钟，未超过规定时限，分段计价，4公里部分2元，4-12公里部分2元，12-24公里部分2元，24-30公里部分1元，总共7元。 这样比较下来，坐半圈票价最贵。 实际生活中，搭乘12号线坐一整圈兜风并不常见，12号线全程在地下，车厢外并没有风景可观赏。 该线路运营公司工作人员明确表示，按武汉地铁里程计费标准，240分钟内同站进出，票价2元；从12号线进站乘车后由12号线出站，乘车时长未超过规定时限的，最高计费票价为7元。 不过，话又说回来，作为“换乘之王”，大多数人乘坐12号线，是为了换乘其他地铁，那么，最短路径的参照系，不仅仅是12线这个地铁环线，而是整个线网，情况更为复杂。 关于12号线： 武汉地铁12号线全长59.9公里，超过北京地铁10号线，是亚洲最长的地铁环线，也是武汉第二条全自动驾驶地铁线路，设车站37座，串联硚口、江汉、江岸、青山、洪山、武昌、汉阳共七个中心城区，衔接武昌站、汉口站两大铁路枢纽，并与已运营和规划中的18条地铁线路实现换乘，构成“环网交织”的轨道网络形态。 今年5月1日，12号线一期工程率先通车。10月23日，二期工程、调整工程完成初期运营前安全评估，已经具备开通运营的全部条件。随着12号线画圆开通，江城将正式迈入“三镇同环”时代。
+
+**🇬🇧 Actionable Travel Intel**:  
+Wuhan Metro Line 12, a 59.9-kilometer automated circular subway line with 37 stations across 7 central districts, completed safety evaluations on October 23 and is preparing for full operation. The loop connects major railway transit centers Hankou Railway Station and Wuchang Railway Station and integrates interchange with 18 metro routes. Fares are calculated on the shortest network route: entering and exiting the same station within 240 minutes costs 2 RMB, while station-to-station journeys across the line are capped at a maximum of 7 RMB under standard time limits.
+
+> **Verified Source**: [Hubei Provincial Department of Culture and Tourism (湖北文旅, Sina Weibo)](https://weibo.com/2127403275/RozZYBrkc)
+
+---
+
 ### October 26, 2026 &bull; 17:00 CST
 #### Wuhan Metro Line 12 Loop Closes to Interconnect Hankou and Wuchang Rail Hubs
 

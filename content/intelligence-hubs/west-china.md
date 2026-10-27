@@ -6,6 +6,45 @@
 
 ---
 
+### October 27, 2026 &bull; 11:19 CST
+#### Tibet Airports Launch Winter-Spring Flight Schedules with Increased Kathmandu Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月25日起，西藏辖区各机场正式执行2026—2027年冬春航季航班时刻，至2027年3月27日结束，共154天。新航季区内多座支线机场新增或加密航班，国际及地区航线也有相应调整，其中加德满都航线加密至每周一至周五。计划出行的旅客请提前查询航班信息，合理安排出行时间，具体航班以航空公司官方发布为准。 来源：民航西藏自治区管理局
+
+**🇬🇧 Actionable Travel Intel**:  
+According to the Civil Aviation Administration of China Tibet Regional Administration, all civil airports across the Tibet Autonomous Region commenced the 2026–2027 Winter-Spring flight schedules on October 25, running for 154 days through March 27, 2027. Regional feeder airports have added or increased flight frequencies, and international services have been adjusted, including flights on the Kathmandu route which are now increased to operate every Monday through Friday. Travelers should verify flight statuses directly with operating airlines prior to departure.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RoAdPCgyN)
+
+---
+
+### October 27, 2026 &bull; 11:00 CST
+#### Hanzhong Liping Scenic Area Issues Autumn Foliage Transit Schedules and Ticketing Rules
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 汉中登上《中国国家地理》🍂 中国国家地理 秋天 汉中 航拍镜头俯瞰米仓山腹地，一幅秋日调色盘徐徐展开！ 《中国国家地理》上新黎坪红叶航拍大片，秦巴深秋的惊艳，被全国看见。 2026 第十四届黎坪炫彩红叶季正在盛放，主题「黎坪红叶，红动中国」 森林覆盖率超 98%，近百平方公里红叶林海，枫、槭、黄栌依海拔次第换色，红橙黄绿层层交织。 ✅最佳观赏期：10 月下旬 —11 月上旬 ✅看点：红尘峡幽谷、中华龙山亿年岩壁、枫林瀑布溪流，徒步、自驾、摄影、亲子都合适 💡出行贴士 ▫️山区比市区低 6-10℃，备好防风厚外套、雨具，穿防滑鞋 ▫️沿步道游览，勿翻越护栏，林区全域禁火 ▫️周末客流大，观光车可能排队，有序等候 ▫️15:00 后入园登记，次日免门票，仅购观光车票 ▫️禁止携带宠物入园 🚌交通参考 ✔️高铁枢纽站直通车 09:30 发车 ✔️南郑东大街班车：08:00、14:00 ✔️5–11 座定制包车，上门接送 📞景区咨询：0916-5691111 赴米仓山之约，来黎坪，邂逅秦巴最浓烈的秋！（来源：黎坪旅游）
+
+**🇬🇧 Actionable Travel Intel**:  
+Hanzhong Liping Scenic Area has entered its peak autumn red leaf season from late October through early November. Mountain temperatures run 6 to 10 degrees lower than urban districts. Dedicated direct shuttles from Hanzhong High-Speed Railway Hub Station depart daily at 09:30, alongside Nanzheng East Street buses departing at 08:00 and 14:00. Under current ticketing rules, visitors entering and registering after 15:00 receive free scenic admission for the following day, requiring only the purchase of the internal sightseeing bus ticket. Pets are prohibited throughout the forest reserve.
+
+> **Verified Source**: [Hanzhong Municipal Bureau of Culture and Tourism (汉中市文化和旅游局, Sina Weibo)](https://weibo.com/2360269453/RoA64fWTT)
+
+---
+
+### October 27, 2026 &bull; 08:05 CST
+#### China-Laos Railway Travel Advisory: Mohan Port Does Not Issue Visa-on-Arrival
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 万象方向 余票充足； 昆明南—北京方向 余票充足； 昆明南—上海方向 余票充足； 昆明南—广州方向 余票充足； 昆明南—深圳方向 余票充足； 昆明南—武汉方向 余票充足； 昆明南—成都方向 余票充足； 昆明南—重庆方向 余票充足； 昆明南—贵阳方向 余票充足； 昆明南—南宁方向 余票充足； 小提示：磨憨铁路口岸不办理落地签，国内昆明、昆明南、普洱、西双版纳、磨憨车站可换纸质车票。铁路12306是唯一官方售票平台，请勿通过第三方平台提供账号和身份证信息。出门前请再确认一次日期、车站和时间，祝您旅途愉快。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Kunming Group reminds cross-border passengers that Mohan Railway Port does not issue visas on arrival. International travelers departing China for Laos or entering China via the China-Laos Railway must ensure they hold valid entry visas prior to travel. Paper train tickets can be collected or exchanged domestically at Kunming, Kunming South, Pu'er, Xishuangbanna, and Mohan railway stations. Railway 12306 remains the sole official ticketing portal.
+
+> **Verified Source**: [China Railway Kunming Group (昆明铁路, Sina Weibo)](https://weibo.com/1920078035/RoyXdb9bo)
+
+---
+
 ### October 26, 2026 &bull; 21:13 CST
 #### Direct High-Speed Trains Added Between Chengdu East and Chongqing Jiangbei Airport
 
