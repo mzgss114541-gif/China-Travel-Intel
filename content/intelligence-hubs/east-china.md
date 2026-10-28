@@ -6,6 +6,45 @@
 
 ---
 
+### October 28, 2026 &bull; 16:00 CST
+#### Qiandao Lake Waives Main Admission Fees Across Central and Southeast Zones
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 📢好消息！千岛湖放大招了，自2026年11月1日至2027年3月31日，千岛湖景区（含中心湖区、东南湖区）大门票实行全免，更多优惠福利一起来看↓↓ ✅2026.11.1–2027.3.31，中心+东南湖区大门票全免 ✅游船艇费用7折，8家运营企业参与 ✅全新水上观光巴士7条线路，随坐随下，告别固定游船 ✅畅游一票通，打包项目更省钱 不用再被游船时间束缚，梅峰、黄山尖等热门岛屿随心打卡！秋冬绝美湖景已经备好，快约上你的家人朋友安排起来吧👉 （来源 ）
+
+**🇬🇧 Actionable Travel Intel**:  
+Qiandao Lake Scenic Area in Zhejiang Province is waiving entrance tickets for its Central and Southeast lake areas for five months from November 1, 2026, to March 31, 2027. In addition, boat cruise fares from 8 operating companies are discounted to 70% of standard rates, and 7 new hop-on hop-off water sightseeing bus routes have been launched to connect island attractions such as Meifeng and Huangshanjian.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RoLulgaqY)
+
+---
+
+### October 28, 2026 &bull; 14:30 CST
+#### Xinchang Waives Admission Fees for Three Scenic Areas Through November 30
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 山水旅游节，将于2026年10月30日—11月1日，在新昌十九峰景区举行！ 【新昌“第一弹”福利已就位，这波秋日羊毛必须薅！】 ①新昌十九峰景区、新昌县大佛寺文化旅游区、新昌天姥山景区三大景区，2026年10月28日—11月30日面向全国游客免大门票。 ②新昌十九峰景区（景区小火车、十九峰下咖啡、高空挑战套餐）、新昌县大佛寺文化旅游区（如愿食光、新昌宾馆窑烤面包、佛心书房点点咖啡）等一批新业态，10月28日—11月3日集体打六折。 秋时正好，新昌山里见！
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 28 to November 30, 2026, three major scenic areas in Xinchang County, Zhejiang Province—Shijiu Peaks, Dafo Temple Cultural Tourism Area, and Tianmu Mountain—are offering free main gate admission to visitors nationwide. Additionally, selected recreational services and dining venues across Shijiu Peaks and Dafo Temple provide a 40% discount from October 28 through November 3.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RoKTNFwxL)
+
+---
+
+### October 28, 2026 &bull; 14:29 CST
+#### Quzhou Launches Global Free Tourism Program Covering 14 Core Scenic Areas
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026全球免费游衢州｜11月赴一场山水之约✨ 全球免费游衢州活动又开始啦～ 🌍面向全球所有游客，14 个核心景区首道门票全免🤩 把丹霞奇峰、千年石窟、深山古镇统统收入旅途清单🧾 📅活动时间：2026年11月1日‑2027年3月31日（春节假期除外） ⛰️参与景区：烂柯山、药王山、天脊龙门、龙游石窟、民居苑、江郎山、仙霞关、廿八都、清漾村、浮盖山、三衢石林、梅树底、根宫佛国、钱江源。 ⚠️出行小 Tips ✔️免票为首道大门票，景区观光车、二次消费等其他消费项目自理 ✔️预约渠道： 1⃣️zfb搜「免费游衢州」 2⃣️「衢州文旅」wx公众号，点击菜单栏「景区预约」 3⃣️「游浙里」小程序，点击菜单栏「景区预约」 4⃣️「衢州文旅免费游商圈」，点击底部「游」按钮 预约成功后，二维码核销/刷身份证入园 5⃣️本次活动同步发放百万元商圈优惠券 覆盖各种品类 预约完后记得顺手领取福利～ 这个秋冬，出发来衢州 看山、访古、吃辣…慢下来感受江南不一样的风骨
+
+**🇬🇧 Actionable Travel Intel**:  
+Quzhou in Zhejiang Province has opened its Global Free Travel campaign for all global visitors from November 1, 2026, to March 31, 2027, excluding the Spring Festival holiday. First-gate admission is waived across 14 core attractions, including Mount Jianglang, Longyou Grottoes, and Nianbadu. Sightseeing shuttles and secondary expenses remain payable. Visitors must complete advance reservations via WeChat or Alipay official mini-programs before entering.
+
+> **Verified Source**: [Quzhou Municipal Bureau of Culture and Tourism (衢州文旅微博, Sina Weibo)](https://weibo.com/2119851590/RoKTKtUa0)
+
+---
+
 ### October 26, 2026 &bull; 15:30 CST
 #### China Railway Bohai Ferry Cuts Passenger Fares by 30% on Yantai-Dalian Route
 

@@ -6,6 +6,19 @@
 
 ---
 
+### October 27, 2026 &bull; 21:41 CST
+#### Zhangjiakou Airport Launches Free Dedicated Shuttle Service to Chongli Ski Resorts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月25日，张家口宁远机场至崇礼各大雪场专属免费直通车正式开通，为各地滑雪爱好者提供一站式点对点接驳服务，助力全市冰雪经济升温。 https://mp.weixin.qq.com/s/4_xokFRpHGqy8NpMd55fPw
+
+**🇬🇧 Actionable Travel Intel**:  
+Zhangjiakou Ningyuan Airport in Hebei Province inaugurated a dedicated free shuttle bus service on October 25, 2026, offering point-to-point transit connecting arriving passengers directly with major ski resorts across Chongli. The direct connection facilitates access for winter sports visitors heading into the Olympic skiing cluster.
+
+> **Verified Source**: [Shijiazhuang Municipal Bureau of Culture and Tourism (石家庄文旅之声, Sina Weibo)](https://weibo.com/2516150701/RoEiuwqmm)
+
+---
+
 ### October 27, 2026 &bull; 10:56 CST
 #### Shenyang Museums and Palace Announce Extended Autumn Holiday Opening Schedules
 

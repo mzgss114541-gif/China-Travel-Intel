@@ -6,6 +6,71 @@
 
 ---
 
+### October 28, 2026 &bull; 21:47 CST
+#### Shigatse Implements Highway Traffic Controls Across Himalayan Border Corridors
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #出行提示 # 日喀则路况通告 【⚠️暴雪恶劣天气｜日喀则辖区道路实施临时交通管控】 根据气象暴雪（雨）预警，为保障群众及游客出行安全，日喀则市公安局交通管理支队将对受影响区域道路实施交通管制： ✅10月29日9时起 对受天气影响路段车辆开展远端分流劝返 ✅10月29日11时起 在主要检查站设卡，对前往亚东、仲巴、聂拉木、吉隆、定结、定日、萨嘎等区域车辆实施远端交通管制 同时，全市积雪结冰、不具备通行条件路段将视情临时封闭，管制动态实时更新。 请广大游客、市民密切关注路况及天气信息，合理调整行程、暂缓前往高风险区域。出行务必减速慢行、服从现场交警指挥，安全出行！ （来源：日喀则交警） #日喀则暴雪天气出行提示 #
+
+**🇬🇧 Actionable Travel Intel**:  
+Shigatse traffic management authorities announced emergency highway traffic controls due to severe blizzard warnings. Starting from 9:00 on October 29, vehicles on weather-affected sections face diversion and advisory turnarounds. From 11:00 on October 29, checkpoints are set up on major routes to restrict vehicles traveling to Yadong, Zhongba, Nyalam, Gyirong, Dinggye, Tingri, and Saga counties. Icy and impassable sections across the prefecture are temporarily closed as conditions warrant.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoNLo1yMT)
+
+---
+
+### October 28, 2026 &bull; 20:34 CST
+#### Shaanxi High-Speed Rail Launches Periodic and Multi-Ride Ticket Passes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，中国铁路西安局集团有限公司推出“延西西十”（延安—漫川关）、“大西高铁大西段”（西安北—大荔）计次、定期票产品，为旅客提供更多乘车新选择。大西高铁、西延高铁、西十高铁相继开通以来，沿线通勤、商务、出游等客流持续攀升。旅客购买计次、定期票后，可通过席位预约和直接刷证两种使用方式，在固定有效期内，乘坐固定次数、指定发到站和指定席别的列车。 旅客可以点击铁路12306网站和手机App上的“计次·定期票”模块进行购买。本次推出的两款计次票均支持指定发到站，用户在购买时可选择需要的乘车区间。购买时，同一乘车人最多只能同时购买两个相同发到站的产品，但可以同时购买多个不同发到站的产品。（中国铁路）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Xi'an Group has launched multi-ride and periodic ticket products for the Yan'an–Manchuanguan and Xi'an North–Dali high-speed rail corridors. Travelers can purchase passes via the 12306 website or mobile app under the Multi-Ride and Periodic Tickets section. Passengers may travel by making advance seat reservations or by scanning their government-issued ID directly at the gate for designated stations, seat classes, and fixed validity periods.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/RoNhJ5b0u)
+
+---
+
+### October 28, 2026 &bull; 19:23 CST
+#### Jiuzhaigou Peak Foliage Tickets Fully Sold Out Through October 31
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 进入最佳观赏期，九寨沟10月31日及之前门票已全部售罄。旺季最大游客承载量为41000人次/天，售罄即止。享受免票、优惠票政策的游客同样需要实名制预约。（四川观察） 四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiuzhaigou National Park has entered its peak autumn viewing period, and all entrance tickets through October 31 are completely sold out. The scenic area enforces a maximum peak-season carrying capacity of 41,000 visitors per day, stopping ticket issuance once capacity is reached. Visitors eligible for ticket waivers or discounted rates must also complete real-name reservations in advance.
+
+> **Verified Source**: [Aba Prefecture Bureau of Culture and Tourism (文旅阿坝, Sina Weibo)](https://weibo.com/6608349086/RoMOMpSZR)
+
+---
+
+### October 28, 2026 &bull; 16:10 CST
+#### Mount Everest Scenic Area Closes Temporarily Due to Severe Blizzard Warning
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️游客注意！珠峰景区临时闭园 【 】 根据气象预警信息，10月29日至31日，珠峰景区预计出现大暴雪、雨夹雪等恶劣天气。受极端天气影响，景区道路极易积雪结冰、能见度下降，道路交通、观光转运、游览设施等方面安全风险较高。 为切实保障广大游客人身安全，珠峰景区将自2026年10月29日起临时闭园，暂停接待游客。 开园时间将结合气象变化、道路通行条件综合研判后，通过官方渠道另行通知。 咨询电话：0892-8263013、19889228848、15962925678 （来源：珠峰旅游）
+
+**🇬🇧 Actionable Travel Intel**:  
+Mount Everest Scenic Area in Shigatse is temporarily closed starting October 29, 2026, due to forecast blizzards, heavy snow, and sleet from October 29 to 31. Extreme weather creates severe risks of road icing, reduced visibility, and transport disruptions. Reopening dates will be announced through official channels following weather and road safety assessments. Tourist inquiry contacts are 0892-8263013, 19889228848, and 15962925678.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoLyG7TNg)
+
+---
+
+### October 28, 2026 &bull; 15:35 CST
+#### Xinjiang Scenic Areas Announce Seasonal Winter Closures
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ❄️前段时间，新疆多家景区已进入冬季闭园或暂停营业👉 https://weibo.com/2479930984/RnYiJB4vK ；随着气温逐渐降低，又有多家景区发布季节性闭园公告，如有出游计划的朋友。出发前请知悉~ 📍巴州焉耆县霍拉山丝路古村景区 📍巴州和静县克尔古提景区 📍伊犁新源县那拉提景区盘龙谷道
+
+**🇬🇧 Actionable Travel Intel**:  
+Following dropping temperatures across Xinjiang, several scenic areas have announced seasonal winter closures. The newly suspended locations include Huolashan Silk Road Ancient Village in Yanqi County, Ke'erguti Scenic Area in Hejing County, and the Panlong Valley route of the Nalati Scenic Area in Xinyuan County, Ili. Travelers planning regional trips should confirm operating status and local road conditions before departure.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RoLkbwdDV)
+
+---
+
 ### October 27, 2026 &bull; 11:19 CST
 #### Tibet Airports Launch Winter-Spring Flight Schedules with Increased Kathmandu Services
 

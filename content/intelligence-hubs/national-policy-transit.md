@@ -6,6 +6,19 @@
 
 ---
 
+### October 27, 2026 &bull; 17:15 CST
+#### Nanning Airport Winter-Spring Schedule Expands ASEAN Flight Network and Air-Rail Transfers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 南宁机场新增、恢复多条航线航班】 2026年10月25日至2027年3月27日，全国民航将执行2026年冬春航季航班计划，共计154天。10月24日，记者了解到，新航季，南宁吴圩国际机场（以下简称南宁机场）共有31家国内外航空公司计划运营客运航线101条，其中，国内航线86条，国际地区航线15条。通达国内外城市82个，其中国内城市69个，国际地区城市13个，进一步满足旅客多样化出行需求。 本航季，南宁机场新增、恢复南宁—长沙—榆林、南宁—长沙—万州、南宁—盐城、南宁—重庆—天津等多条航线航班。 同比加密南宁至北京首都、上海浦东、南京、武汉、哈尔滨、西双版纳、海口等重点省会城市、经贸城市及热门旅游城市航线，优化成都、西安等西部陆海新通道共建省份城市航线航班时刻，持续稳定广州、深圳、香港、澳门等粤港澳大湾区航线，进一步提升南宁至国内城市的通达性。 在国际地区客运方面，计划开通至曼谷、金边、新加坡、吉隆坡、斯里巴加湾、万象、雅加达、河内、海防、仰光、马尼拉等国际航线，香港、澳门等地区航线，航线网络基本覆盖东盟国家主要城市。 在出行服务方面，南宁机场立足旅客多元化出行需求，持续推出“经邕飞·东盟行”系列中转服务，全新打造“邕易联·空铁通”空铁便捷换乘服务品牌，为旅客提供“11免11优”及“3免3优”系列增值服务，涵盖免费住宿、免费餐食、免费机场巴士等权益，以及优享快捷值机、便捷安检通道等专享权益，全面提升旅客在食、住、行、游、购等各环节的服务体验。
+
+**🇬🇧 Actionable Travel Intel**:  
+Under the 2026–2027 civil aviation winter-spring flight season running for 154 days from October 25, 2026, to March 27, 2027, Nanning Wuxu International Airport operates 101 passenger routes across 82 destinations, including 15 international routes covering key ASEAN cities such as Bangkok, Singapore, Kuala Lumpur, Jakarta, Hanoi, and Manila. Nanning Airport also expanded its air-rail transit transfer services, offering convenient connections and transfer amenities for multimodal travelers.
+
+> **Verified Source**: [Nanning Municipal Bureau of Culture and Tourism (南宁文旅, Sina Weibo)](https://weibo.com/1971263622/RoCymnWKU)
+
+---
+
 ### October 27, 2026 &bull; 11:24 CST
 #### China Railway 12306 Launches Group Ticket Station Contact Directory Service
 
