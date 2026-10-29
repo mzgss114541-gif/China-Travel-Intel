@@ -912,7 +912,7 @@ With return passenger flows continuing to climb, China Railway Beijing Bureau an
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service across key commercial districts and scenic areas: following cross-port recognition between Nanning and 16 provinces/municipalities in February and 6 provinces (including Hunan, Fujian, Guangdong, and Hainan) in July, nationwide cross-regional mutual recognition took effect on September 1. Combined with paperless tax refunds and small-amount sampling implemented on July 1, overseas travelers shopping at tax-refund stores in Nanning can receive tax refund advances on-site and complete Customs verification at any qualified departure port nationwide without returning to the purchase city ("single-location shopping, multi-port departure"). In September, Guangxi also launched the 2026 "Huigou Guangxi" departure tax refund consumption season, issuing 50,000 instant-discount subsidies so inbound travelers enjoy dual "tax refund + instant discount" benefits. Major commercial complexes—including Shanshan Outlets, Nanning MixC, Nanning Department Store, and Mengzhidao Crystal City—have set up dedicated tax refund service desks, supported by 168 registered departure tax-refund stores across 313 retail outlets in Nanning.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
+> **Verified Source**: [People's Government of Guangxi Zhuang Autonomous Region (广西壮族自治区人民政府, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
 
 ---
 
@@ -972,12 +972,12 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 #### Henan Tourism Authority: Capacity Alerts and Ticket Saturation for Longmen Grottoes and Luoyang Museums
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> hct.henan.gov.cn 2026-10-03 16:24 来源： 点击：2365 --> 国庆假期 河南旅游市场火热 多个热门景区、博物馆 迎来客流高峰 提醒大家注意错峰出行 洛阳龙门石窟景区 10月3日线上、线下门票预约已满，10月4日和5日线下还有余票，10月6和7日线上、线下均有余票 图源：龙门石窟官微公众号页面 洛阳老君山景区 10月3日线上预约已满 图源：老君山景区公众号页面 开封万岁山武侠城景区 10月3日线上预约已满，今日可提前购买明日的门票 图源：万岁山武侠城公众号页面 宝泉崖天下景区 10月3日线上预约已满 图源：宝泉景区公众号页面 洛阳博物馆 10月3日、10月4日、10月5日门票预约已满 图源：洛阳博物馆公众号页面 洛阳古墓博物馆 10月3日、10月4日门票预约已满 图源：洛阳古墓博物馆公众号页面 图源：洛阳古墓博物馆公众号页面 请大家合理安排行程 尽量避开…
+> 国庆假期 河南旅游市场火热 多个热门景区、博物馆 迎来客流高峰 提醒大家注意错峰出行 洛阳龙门石窟景区 10月3日线上、线下门票预约已满，10月4日和5日线下还有余票，10月6和7日线上、线下均有余票 图源：龙门石窟官微公众号页面 洛阳老君山景区 10月3日线上预约已满 图源：老君山景区公众号页面 开封万岁山武侠城景区 10月3日线上预约已满，今日可提前购买明日的门票 图源：万岁山武侠城公众号页面 宝泉崖天下景区 10月3日线上预约已满 图源：宝泉景区公众号页面 洛阳博物馆 10月3日、10月4日、10月5日门票预约已满 图源：洛阳博物馆公众号页面 洛阳古墓博物馆 10月3日、10月4日门票预约已满 图源：洛阳古墓博物馆公众号页面 图源：洛阳古墓博物馆公众号页面 请大家合理安排行程 尽量避开…
 
 **🇬🇧 Actionable Travel Intel**:  
 Henan cultural and tourism authorities announced that Longmen Grottoes in Luoyang reached full booking capacity for online and offline tickets on October 3, with offline tickets available for October 4 and 5, and tickets remaining for October 6 and 7. Luoyang Museum reported full capacity for October 3, 4, and 5, while Luoyang Ancient Tombs Museum reached full capacity for October 3 and 4. Travelers are advised to complete advance reservations via official channels.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://hct.henan.gov.cn/2026/10-03/3434531.html)
+> **Verified Source**: [Henan Provincial Department of Culture and Tourism (河南省文化和旅游厅, Gov.cn)](http://hct.henan.gov.cn/2026/10-03/3434531.html)
 
 ---
 
@@ -1003,7 +1003,7 @@ The Palace Museum opened the second phase of the "Dianze: Tang and Song Calligra
 **🇬🇧 Actionable Travel Intel**:  
 The Shenyang Palace Museum opened a special exhibition at Shishan Zhai and Xiezhong Zhai, featuring over 20 selected calligraphy and poetry works created by honorary museum director Li Zhongyuan in celebration of the centennial of the Shenyang Imperial Palace institution.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://whly.ln.gov.cn/whly/mtjj/2026093010300011692/index.shtml)
+> **Verified Source**: [Liaoning Provincial Department of Culture and Tourism (辽宁省文化和旅游厅, Gov.cn)](http://whly.ln.gov.cn/whly/mtjj/2026093010300011692/index.shtml)
 
 ---
 
@@ -1085,7 +1085,7 @@ The National Museum of China announced it is temporarily closed on September 30 
 **🇬🇧 Actionable Travel Intel**:  
 Ahead of the 2026 Mid-Autumn and National Day holidays, the Beijing Municipal Bureau of Culture and Tourism advised residents and visitors to plan staggered itineraries, monitor real-time scenic area passenger flows, and prepare backup travel options for flexible adjustments. Before departure, travelers can purchase admission tickets for Beijing scenic spots including the Temple of Heaven, the Summer Palace, and the Badaling Great Wall via the "Scenic Area Ticketing" section of the "Jingtong" mini-program, and search the "Manyou Jingjiao" mini-program for digital rural tourism experiences.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://whlyj.beijing.gov.cn/zwgk/tzgg/202609/t20260922_4875417.html)
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (北京市文化和旅游局, Gov.cn)](https://whlyj.beijing.gov.cn/zwgk/tzgg/202609/t20260922_4875417.html)
 
 ---
 

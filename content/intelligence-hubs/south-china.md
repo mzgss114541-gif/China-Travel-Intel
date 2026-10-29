@@ -755,7 +755,7 @@ Under the new train operating schedule effective October 11, Xiantao Station exp
 **🇬🇧 Actionable Travel Intel**:  
 The Shenzhen Port Office and Hong Kong Security Bureau announced that the reconstructed Huanggang Port officially opens operations at 6:30 on October 12, 2026. The new inspection complex provides 24-hour border clearance services for passengers and vehicles between Shenzhen and Hong Kong. Temporary passenger inspection building services are simultaneously discontinued.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://ka.sz.gov.cn/xxgk/qt/tzgg/content/post_13011201.html)
+> **Verified Source**: [Port Office of Shenzhen Municipal People's Government (深圳市人民政府口岸办公室, Gov.cn)](https://ka.sz.gov.cn/xxgk/qt/tzgg/content/post_13011201.html)
 
 ---
 
@@ -792,7 +792,7 @@ Nanyue District highway authorities announced traffic controls in Mount Heng Nan
 **🇬🇧 Actionable Travel Intel**:  
 Haikou General Station of Exit and Entry Frontier Inspection reported that Hainan air and maritime ports handled 54,000 cross-border passenger crossings during the National Day holiday (+13.4% YoY). Sanya Phoenix International Airport recorded a 28.7% rise in cross-border traffic (22,000 passengers), while Haikou Meilan handled 30,000 arrivals and departures. Leading source markets included Russia, Kazakhstan, Indonesia, Malaysia, Singapore, and Belarus. Border inspection authorities opened maximum verification channels with updated signage to ensure efficient processing.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
+> **Verified Source**: [Hainan Department of Tourism, Culture, Radio, TV and Sports (海南省旅游和文化广电体育厅, Gov.cn)](http://lwt.hainan.gov.cn/ywdt/zwdt/202610/t20261008_4157382.html)
 
 ---
 
@@ -888,7 +888,7 @@ The General Administration of Customs reminded inbound travelers that bringing m
 **🇬🇧 Actionable Travel Intel**:  
 On October 6, China Railway Guangzhou Group projected 2,835,000 passenger departures (+617,000 or +27.8% YoY over 2025) as return flows concentrated from surrounding small-to-medium and tourist cities toward Guangzhou, Shenzhen, and Changsha. A total of 3,835 trains were scheduled, including 702 extra services (107 conventional and 595 EMUs) mainly along the Beijing–Guangzhou, Hangzhou–Shenzhen, Shenzhen–Zhanjiang, and Guangzhou–Shenzhen–Hong Kong high-speed lines toward Guangzhou, Shenzhen, Changsha, and Wuhan, plus 401 overnight high-speed trains early on October 7 toward Changsha, Chaoshan, and Zhanjiang. Through October 15, Hainan is running the country's first railway "Ticket Stub+" online promotion: passengers arriving in Hainan by train can upload electronic train tickets via the UnionPay Cloud QuickPass (Yunshanfu) app for a 100%-winning draw—offering UnionPay red packets up to 20% of the ticket fare (capped at 100 RMB per transaction) or hotel and consumption vouchers—alongside a 20% discount on rail ferry tickets. Major hubs including Guangzhou South, Shenzhen North, and Changsha South opened all exit channels with youth volunteers guiding transfers, while Guangzhou Baiyun and Changsha stations strengthened assistance for key passenger groups and maintained ticket window and manual check channels.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
+> **Verified Source**: [Guangzhou Municipal People's Government (广州市人民政府, Gov.cn)](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_11030146.html)
 
 ---
 
@@ -909,7 +909,7 @@ On October 6, China Railway Guangzhou Group projected 2,835,000 passenger depart
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service across key commercial districts and scenic areas: following cross-port recognition between Nanning and 16 provinces/municipalities in February and 6 provinces (including Hunan, Fujian, Guangdong, and Hainan) in July, nationwide cross-regional mutual recognition took effect on September 1. Combined with paperless tax refunds and small-amount sampling implemented on July 1, overseas travelers shopping at tax-refund stores in Nanning can receive tax refund advances on-site and complete Customs verification at any qualified departure port nationwide without returning to the purchase city ("single-location shopping, multi-port departure"). In September, Guangxi also launched the 2026 "Huigou Guangxi" departure tax refund consumption season, issuing 50,000 instant-discount subsidies so inbound travelers enjoy dual "tax refund + instant discount" benefits. Major commercial complexes—including Shanshan Outlets, Nanning MixC, Nanning Department Store, and Mengzhidao Crystal City—have set up dedicated tax refund service desks, supported by 168 registered departure tax-refund stores across 313 retail outlets in Nanning.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
+> **Verified Source**: [People's Government of Guangxi Zhuang Autonomous Region (广西壮族自治区人民政府, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
 
 ---
 

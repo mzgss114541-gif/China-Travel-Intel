@@ -972,7 +972,7 @@ Anhui and Zhejiang cultural and tourism authorities announced a free admission p
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service across key commercial districts and scenic areas: following cross-port recognition between Nanning and 16 provinces/municipalities in February and 6 provinces (including Hunan, Fujian, Guangdong, and Hainan) in July, nationwide cross-regional mutual recognition took effect on September 1. Combined with paperless tax refunds and small-amount sampling implemented on July 1, overseas travelers shopping at tax-refund stores in Nanning can receive tax refund advances on-site and complete Customs verification at any qualified departure port nationwide without returning to the purchase city ("single-location shopping, multi-port departure"). In September, Guangxi also launched the 2026 "Huigou Guangxi" departure tax refund consumption season, issuing 50,000 instant-discount subsidies so inbound travelers enjoy dual "tax refund + instant discount" benefits. Major commercial complexes—including Shanshan Outlets, Nanning MixC, Nanning Department Store, and Mengzhidao Crystal City—have set up dedicated tax refund service desks, supported by 168 registered departure tax-refund stores across 313 retail outlets in Nanning.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
+> **Verified Source**: [People's Government of Guangxi Zhuang Autonomous Region (广西壮族自治区人民政府, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
 
 ---
 

@@ -1492,7 +1492,7 @@ Xinjiang cultural and tourism authorities announced seasonal suspensions and sch
 **🇬🇧 Actionable Travel Intel**:  
 Medog County cultural and tourism authorities in Tibet issued a notice prohibiting any organization or individual from guiding tourists into undeveloped backcountry areas, citing complex terrain, volatile weather, poor communication, and lack of safety facilities. The Galongla Tianchi hiking route has an open window only from July to September, and is closed for the entire season ahead of schedule this year due to weather conditions. Tour guides, drivers, and travelers are advised to choose officially developed scenic areas and avoid unvetted routes.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏自治区文化和旅游厅, Gov.cn)](https://wlt.xizang.gov.cn/xccx/lytg/202610/t20261008_561738.html)
 
 ---
 
@@ -1821,7 +1821,7 @@ Train G9997 departed Xi'an East Station on September 28 at 9:16, marking the com
 **🇬🇧 Actionable Travel Intel**:  
 During the 16-day Mid-Autumn and National Day holiday transport period from September 23 to October 8, 2026, Lhasa Railway Station projects 170,000 passenger departures (averaging 10,600 daily, with a peak of 15,000 on October 1). To meet surging regional travel demand within Tibet, the station added temporary passenger trains between Lhasa and Nyingchi—operating K6833/4 on September 24 and 30 and October 1, 6, 7, 9, 16, 23, and 30, plus C4389/90 on September 27—as well as C4393/4 between Lhasa and Shigatse on September 24, 25, and 30 and October 1, 4, 6, and 7.
 
-> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Gov.cn)](https://wlt.xizang.gov.cn/xwzx_69/xydt/202609/t20260928_560851.html)
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏自治区文化和旅游厅, Gov.cn)](https://wlt.xizang.gov.cn/xwzx_69/xydt/202609/t20260928_560851.html)
 
 ---
 
