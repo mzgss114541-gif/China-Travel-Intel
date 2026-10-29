@@ -6,6 +6,19 @@
 
 ---
 
+### October 29, 2026 &bull; 11:30 CST
+#### Three 350 km/h High-Speed Rail Lines in Anhui Enter Joint Trial Operations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月26日，新建淮北至宿州至蚌埠城际铁路、新建阜阳至蒙城至宿州（淮北）铁路、新建巢湖至马鞍山城际铁路，三条时速350公里高铁同日试运行，开通运营进入倒计时。 中国铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 26, 2026, trial operations commenced simultaneously on three newly constructed 350 km/h high-speed rail lines in Anhui: the Huaibei–Suzhou–Bengbu Intercity Railway, the Fuyang–Mengcheng–Suzhou (Huaibei) Railway, and the Chaohu–Ma'anshan Intercity Railway. The three routes have entered the final countdown toward official commercial opening.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RoT9eBOUl)
+
+---
+
 ### October 28, 2026 &bull; 16:00 CST
 #### Qiandao Lake Waives Main Admission Fees Across Central and Southeast Zones
 

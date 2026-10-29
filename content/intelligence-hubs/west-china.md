@@ -6,6 +6,71 @@
 
 ---
 
+### October 29, 2026 &bull; 13:02 CST
+#### Jinfo Mountain in Chongqing Waives Admission for All Visitors Through November 30
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【南川金佛山限时免票！“178环线”秋日自驾攻略来了！】 秋意漫过山脊 金佛山迎来一年中 氛围感拉满的时节 重磅福利同步上线！ 10月27日 —11月30日 金佛山景区西门、北门 面向所有游客免门票
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 27 to November 30, 2026, Jinfo Mountain Scenic Area in Nanchuan District, Chongqing, is waiving entrance tickets for all visitors entering through the West Gate and North Gate during the peak autumn foliage season.
+
+> **Verified Source**: [Chongqing Municipal Commission of Culture and Tourism (重庆文旅, Sina Weibo)](https://weibo.com/2128914281/RoTKA7GPu)
+
+---
+
+### October 29, 2026 &bull; 12:51 CST
+#### Temporary Traffic Control Imposed on Roads Entering and Exiting Nyalam County Starting October 29
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受大暴雪天气影响，为保障道路交通安全，聂拉木县自2026年10月29日11时起，对进出县相关路段实施临时交通管制，解除时间将根据天气变化及道路通行情况另行通知。 请广大司乘人员及时调整出行路线和时间，密切关注官方通告，途经管控路段时自觉听从现场交警指挥。 来源：聂拉木发布
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to severe blizzard conditions, temporary traffic control has been implemented on roads entering and exiting Nyalam County in Shigatse starting at 11:00 on October 29, 2026, to ensure road traffic safety. The reopening schedule will be announced based on weather and road conditions. Drivers and passengers are advised to adjust travel routes and timing and follow the directions of on-site traffic police when passing through controlled sections.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RoTGbiPlE)
+
+---
+
+### October 29, 2026 &bull; 11:47 CST
+#### All Scenic Attractions in Namling County, Shigatse Temporarily Closed Amid Severe Weather
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️公告｜南木林县全县景区临时关停 受暴雪、暴雨极端天气影响，为保障游客安全，10 月 29 日 —31 日南木林县所有景区临时关停，恢复开放时间另行通知。 请大家及时调整行程，关停期间不要前往景区及周边逗留。 应急咨询：18208014681 给您带来不便，敬请谅解！ （来源：南木林县文旅局）
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to extreme blizzard and rainstorm weather, all scenic attractions across Namling County in Shigatse are temporarily closed from October 29 to October 31, 2026, to protect visitor safety. Reopening dates will be announced separately. Travelers should adjust itineraries and avoid staying around scenic spots and surrounding areas during the closure. Emergency inquiry hotline: 18208014681.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoTgeDai4)
+
+---
+
+### October 29, 2026 &bull; 10:21 CST
+#### Multiple Inter-County Passenger Bus Routes in Shigatse Temporarily Suspended Due to Extreme Snow and Rain
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️出行提示｜受雨雪极端天气影响，10 月 29 日 —10 月 31 日，日喀则多条客运班线临时停运。 停运线路：日喀则至阿里、那曲（申扎）、仲巴、萨嘎、吉隆、聂拉木、定日、定结、亚东等方向班线。 已购票旅客可免费全额退票、改签，无手续费。恢复运营时间另行通知。请大家合理调整行程，切勿冒险出行，注意出行安全！ （来源：珠峰交运）
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to extreme rain and snow conditions, multiple passenger bus lines departing Shigatse are temporarily suspended from October 29 to October 31, 2026. Suspended routes include services from Shigatse to Ngari, Nagqu (Shenzha), Zhongba, Saga, Gyirong, Nyalam, Tingri, Dinggye, and Yadong. Passengers who have already purchased tickets can obtain full refunds or rebook free of charge without handling fees. Resumption schedules will be announced separately.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoSHxf6vS)
+
+---
+
+### October 29, 2026 &bull; 09:00 CST
+#### Hanzhong Offers Half-Price Park Admission and Hotel Discounts for Transit Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 汉中 带着微博去旅行 红叶 汉中秋冬季票根经济福利来啦【汉台篇】✨ 外地游客凭机票、高铁票、高速收费凭证，即可享受： ✅天台森林公园门票半价 ✅多家酒店住宿 8 折起 ✅多家餐饮店全场折扣 ✅商场领消费券、影院低价观影 景区、住宿、美食、购物、观影一券通享！ 优惠持续至年底，带上票根畅游汉台秋色🍂 温馨提示：优惠以商家现场核验为准，注意活动时限。(来源：汉中市文化和旅游局)
+
+**🇬🇧 Actionable Travel Intel**:  
+Through the end of the year, out-of-town visitors arriving in Hantai District, Hanzhong can present an incoming flight boarding pass, high-speed rail ticket, or highway toll receipt to receive half-price admission to Tiantai Forest Park and room discounts starting from 20% off at participating hotels, alongside dining and shopping benefits. Promotional rates are subject to on-site merchant verification.
+
+> **Verified Source**: [Hanzhong Municipal Bureau of Culture and Tourism (汉中市文化和旅游局, Sina Weibo)](https://weibo.com/2360269453/RoSam1aTp)
+
+---
+
 ### October 28, 2026 &bull; 21:47 CST
 #### Shigatse Implements Highway Traffic Controls Across Himalayan Border Corridors
 
