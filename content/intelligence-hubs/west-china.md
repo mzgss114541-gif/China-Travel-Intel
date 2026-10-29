@@ -46,7 +46,7 @@ Jiuzhaigou National Park tickets are sold out at the maximum daily capacity of 4
 ---
 
 ### October 29, 2026 &bull; 18:55 CST
-#### Gyirong Port Access Restriction: Nepal Border County Enforces Outbound-Only Traffic Control Due to Snow
+#### Gyirong Port Border Transit Alert: Nepal Border County Enforces Outbound-Only Traffic Control Due to Snow
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
 > 31日吉隆县道路积雪结冰风险极高。自10月29日16:47起实施分级交通管控，全域执行「只出不进」，外来车辆禁止入县，请大家合理规划行程，非必要不前往吉隆，配合卡点劝返。待通行条件达标后及时解除管制。 （来源：吉隆县公安局交通管理大队） #日喀则出行提示 #
