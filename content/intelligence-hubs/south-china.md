@@ -6,6 +6,19 @@
 
 ---
 
+### October 29, 2026 &bull; 15:12 CST
+#### Shenzhen Futian Port Border Advisory: Undeclared Stony Corals Intercepted Under Strict CITES Regulations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，皇岗海关关员在福田口岸旅检大厅对进境旅客及其行李物品进行监管时，发现一名女性旅客经过海关监管区域未主动申报。其身穿宽松蓬蓬裙，频频低头、神态异常，并刻意向远离关员的一侧行走，关员随即对其进行拦截检查。经进一步查验，海关关员在该旅客裙下四层特制短裤的内兜中查获用透明塑料膜包裹的疑似活体珊瑚6包，共计14株，重0.9千克。后经深圳海关动植物检验检疫技术中心鉴定，上述疑似活体珊瑚均为石珊瑚目物种，被列入《濒危野生动植物种国际贸易公约》（CITES）附录Ⅱ。根据《濒危野生动植物种国际贸易公约》及《中华人民共和国野生动物保护法》《中华人民共和国濒危野生动植物进出口管理条例》等规定，除合法持有野生动植物进出口证书外，禁止贸易、携带、邮寄濒危物种及其制品进出境，情节严重构成犯罪的将依法追究刑事责任。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Customs officers at Futian Port passenger checkpoint intercepted an inbound traveler attempting to smuggle 14 live stony corals weighing 0.9 kg without declaration. Authorities issue an operational reminder that all stony corals (Scleractinia) are listed under CITES Appendix II. Under Chinese wildlife protection and customs import/export laws, carrying, trading, or mailing endangered wildlife species or their derivatives across borders without valid CITES certificates is illegal and subject to criminal liability.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RoUBmb7ks)
+
+---
+
 ### October 28, 2026 &bull; 14:57 CST
 #### Customs Intercepts Excess Undeclared Foreign Currency at Wenjindu Port
 

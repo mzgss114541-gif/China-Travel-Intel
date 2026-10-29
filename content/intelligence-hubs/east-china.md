@@ -6,6 +6,19 @@
 
 ---
 
+### October 29, 2026 &bull; 14:30 CST
+#### Shanghai Port Border Inspection: Direct Flights Between Shanghai and Algiers Commenced
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月27日，上海首条直飞阿尔及利亚首都阿尔及尔航线开通。上海边检总站上海机场边检站提前对接相关航司，严密勤务组织，圆满完成首航通关保障任务。据悉，该航线去程每周二、四、日各执飞一班，回程每周一、三、六各执飞一班。（文：黄晓东/图：郭晓洁）
+
+**🇬🇧 Actionable Travel Intel**:  
+Shanghai Airport Border Inspection confirmed the commencement of the first direct commercial air route between Shanghai and Algiers on October 27. The flight route operates three weekly services in each direction: outbound departures from Shanghai take place on Tuesdays, Thursdays, and Sundays, while inbound return flights arrive on Mondays, Wednesdays, and Saturdays.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RoUkivsFO)
+
+---
+
 ### October 29, 2026 &bull; 11:30 CST
 #### Three 350 km/h High-Speed Rail Lines in Anhui Enter Joint Trial Operations
 

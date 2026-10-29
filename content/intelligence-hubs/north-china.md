@@ -6,6 +6,19 @@
 
 ---
 
+### October 29, 2026 &bull; 19:50 CST
+#### North China Aviation Connection: Tonghua to Shijiazhuang Flight Launched with Interline Transit
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月27日，G54573航班平稳着陆在通化机场，标志着由华夏航空执飞的“通化—石家庄”航线首航完成。依托石家庄机场庞大的航线网络，这条新通道为旅客搭建起更加便捷的空中桥梁，也为通化文旅打开了一个更广阔的客源入口。 新航线固定班期每周二、四、六执行，航班单程飞行时间约两小时。航线同步上线通程、联程产品120个，旅客可享受“一次支付、一次值机、一次安检、行李直挂、全程无忧”的专享服务，最短1.5小时即可在石家庄机场中转至成都、三亚、昆明等30座城市。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Express Airlines inaugurated a direct scheduled air service connecting Tonghua Airport and Shijiazhuang Airport on October 27 via flight G54573. Operating every Tuesday, Thursday, and Saturday with a flight duration of approximately two hours, the route provides interline transfer services with single check-in, single security clearance, and through baggage handling, enabling domestic transit connections via Shijiazhuang to 30 destinations within 1.5 hours.
+
+> **Verified Source**: [Jilin Provincial Department of Culture and Tourism (吉林文旅, Sina Weibo)](https://weibo.com/2061847537/RoWqghURY)
+
+---
+
 ### October 27, 2026 &bull; 21:41 CST
 #### Zhangjiakou Airport Launches Free Dedicated Shuttle Service to Chongli Ski Resorts
 

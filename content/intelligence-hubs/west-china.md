@@ -6,6 +6,71 @@
 
 ---
 
+### October 29, 2026 &bull; 20:56 CST
+#### Xi'an Han Yang Ling Museum Autumn Season: Discounted Tickets, Metro Shuttles, and Museum Direct Buses
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #三秦四季 畅旅欢歌# 即将于10月29日启幕，门票优惠至40元。 第十二届汉阳陵“金秋踏古·银杏季”系列文化活动将于2026年10月29日至11月30日举办。活动期间，成人票优惠为40元/人（原价70元），半票35元/人，记者节当天持记者证可免票参观；惠民门票为汉阳陵国家考古遗址通票，可参观帝陵遗址保护展示厅、考古陈列馆、银杏林及其他开放区域。 10月29日10时，启动仪式将在汉阳陵银杏林举行，现场将带来民乐演奏、魔术表演及周边群众文艺汇演。银杏季期间，第五届陕西文博创意直播周及文创集市活动同步开展，汉阳陵联合陕西历史博物馆、秦始皇帝陵博物院、西安碑林博物馆、西安博物院等五家国家级文创试点单位，线上线下推广文博文创产品；“当年万里觅封侯——关中地区汉代列侯墓考古成果展”在考古陈列馆临展厅试开展，汇集印章、封泥、青铜礼乐器、金玉饰件、陶俑等珍贵文物，分四大单元解读汉代列侯制度、功业、生活与丧葬世界。 此外，活动还推出“阳陵秋韵·生态寻美”五感美育公益活动（面向6—14周岁亲子家庭）、车友会跨界联合活动、“寻踪汉阳陵”大汉紫道文物主题游径定向赛（拟定11月11日）及2026汉风雅集—“迎幸”集市，涵盖特色美食、亲子游乐、围炉煮茶、文创展销等体验。 公共交通方面，周末及法定节假日开通汉景帝阳陵博物院—西安市行政中心地铁口公交摆渡车；10月29日至11月30日运行文物旅游直通车，串联陕历博、秦汉馆与汉阳陵。汉阳陵实行“限量、预约、错峰”开放政策，每日最大观众承载量5.45万人次。咨询电话：029—62657530/62657569。
+
+**🇬🇧 Actionable Travel Intel**:  
+During the Han Yang Ling Gingko Season from October 29 to November 30, 2026, adult tickets are discounted to 40 RMB per person (regular 70 RMB), granting access to the underground protection hall, archaeology exhibition hall, and gingko forest. Free weekend and holiday shuttle buses operate between the museum and the Administrative Center Metro Station in Xi'an. Additionally, a cultural heritage bus runs between October 29 and November 30 connecting Shaanxi History Museum, Qin Han Museum, and Han Yang Ling. Daily visitor capacity is capped at 54,500 under an advance reservation policy.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/RoWRal42h)
+
+---
+
+### October 29, 2026 &bull; 20:37 CST
+#### Shigatse Mount Everest Access Traffic Control: Tingri Mountain Passes Closed Due to Heavy Snow
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 📢【出行提示】 受降雪影响，定日县野江拉山、加乌拉山路段积雪。自10月29日18:30起，措果乡—曲当乡通门检查站、扎西宗镇—珠峰北大门检查站实施临时双向交通管制。请合理规划行程，非必要不前往，途经请服从现场民警指挥，注意行车安全！ （来源：定日交警） #日喀则出行提示 #
+
+**🇬🇧 Actionable Travel Intel**:  
+Following snowfall and road accumulation across Yajiangla and Gawula mountain passes in Tingri County, traffic authorities implemented temporary two-way traffic controls starting October 29 at 18:30. Traffic controls apply to the Tongmen checkpoint (Cuoguo Township to Qudang Township) and the Mount Everest North Gate checkpoint (Zhaxizong Town to Everest North Gate). Travelers are advised to adjust travel itineraries, avoid non-essential travel to the area, and strictly follow police instructions.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoWJoszAj)
+
+---
+
+### October 29, 2026 &bull; 20:17 CST
+#### Sichuan Scenic Quota Alerts: Jiuzhaigou Peak Capacity Reached and Cuiyunlang Temporary Closure
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 九寨沟景区10月29日、30日、31日、11月1日门票预订4.1万张，已达最大承载量；米仓山旅游景区今日线上预约名额已达景区最大安全承载阈值，将暂停景区今日售票服务，香炉山客运索道线上预约名额已满；翠云廊景区10月31日将开展主题宣传拍摄活动，期间景区实行闭园管理，当日剑门关景区实施分区管控至12时。 详情如下。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiuzhaigou National Park tickets are sold out at the maximum daily capacity of 41,000 visitors across October 29, 30, 31, and November 1. Additionally, online booking for Micangshan Scenic Area has reached capacity, suspending on-site ticketing, while Xianglushan Passenger Ropeway reservations are full. Cuiyunlang Scenic Area will be closed on October 31 for an official filming event, and Jianmenguan Scenic Area will enforce partial zone controls until 12:00 on October 31.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RoWBjaAn0)
+
+---
+
+### October 29, 2026 &bull; 18:55 CST
+#### Gyirong Port Access Restriction: Nepal Border County Enforces Outbound-Only Traffic Control Due to Snow
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 31日吉隆县道路积雪结冰风险极高。自10月29日16:47起实施分级交通管控，全域执行「只出不进」，外来车辆禁止入县，请大家合理规划行程，非必要不前往吉隆，配合卡点劝返。待通行条件达标后及时解除管制。 （来源：吉隆县公安局交通管理大队） #日喀则出行提示 #
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to severe snowfall and elevated road icing hazards expected between October 30 and 31, Gyirong County traffic police enforced tiered traffic controls beginning October 29 at 16:47. The county has implemented an outbound-only rule prohibiting external vehicles from entering. Non-essential visits to Gyirong are discouraged, and motorists are instructed to comply with checkpoint turnarounds until safe driving conditions are restored.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoW44dMnA)
+
+---
+
+### October 29, 2026 &bull; 16:22 CST
+#### Shigatse Himalayan Region Blizzard Alert: Bay of Bengal Storm Triggers Avalanche and Travel Warnings
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️紧急天气提示！10 月 29 日 —31 日，受孟加拉湾风暴影响，日喀则南部高海拔区域将出现暴雪、局地特大暴雪，河谷地带有大到暴雨，易引发雪崩、泥石流等次生灾害。 新一轮冷空气来袭，多地降温明显。请广大游客、市民密切关注气象预警，谨慎前往山区、边境沿线，不贸然进山徒步；自驾注意道路结冰，减速慢行，合理调整出行及旅游行程，注意防寒避险。 （来源：央视新闻）
+
+**🇬🇧 Actionable Travel Intel**:  
+From October 29 to 31, a Bay of Bengal storm system will bring blizzards and localized severe blizzards across southern high-altitude areas of Shigatse, alongside heavy rain in river valleys, elevating secondary risks of avalanches and landslides. Travelers are urged to heed weather warnings, exercise extreme caution before visiting southern alpine and border areas, avoid alpine trekking, reduce driving speeds due to icy roadways, and prepare cold-weather gear.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RoV3Qh6BH)
+
+---
+
 ### October 29, 2026 &bull; 13:02 CST
 #### Jinfo Mountain in Chongqing Waives Admission for All Visitors Through November 30
 
