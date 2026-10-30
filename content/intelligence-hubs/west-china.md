@@ -6,6 +6,58 @@
 
 ---
 
+### October 30, 2026 &bull; 12:20 CST
+#### Lhasa Yicuo Lake Suspends Visitor Reception Due to Boardwalk Maintenance and Weather
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 因栈道维修养护及天气原因，拉萨城关区维巴村易措湖即日起暂停接待游客。请徒步爱好者合理调整行程，不要前往易措湖区域，勿擅自进入封闭施工地段。恢复开放时间另行通知。 来源：
+
+**🇬🇧 Actionable Travel Intel**:  
+Yicuo Lake in Weiba Village, Chengguan District, Lhasa has suspended visitor reception starting immediately due to boardwalk maintenance and weather conditions. Hiking enthusiasts are advised to adjust their itineraries, avoid traveling to the Yicuo Lake area, and not enter closed construction zones. Reopening will be announced separately.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Rp2U7BV07)
+
+---
+
+### October 30, 2026 &bull; 11:30 CST
+#### Nyingchi Millennium Walnut King Scenic Area Suspends Operations for Renovation
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 林芝千年核桃王景区（3A级）因设施改造，暂停运营，停止游客接待和票务售卖。计划前往的游客请及时调整出行安排。 来源： （图1/巴宜文旅 图2/林芝市文旅局）
+
+**🇬🇧 Actionable Travel Intel**:  
+The 3A-rated Millennium Walnut King Scenic Area in Nyingchi has suspended operations due to facility renovation, halting all visitor admissions and ticket sales. Travelers planning trips to this area must adjust travel schedules accordingly until further notice.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Rp2zP1v8W)
+
+---
+
+### October 30, 2026 &bull; 10:59 CST
+#### Shigatse Road Alert: Snowfall Prompts Temporary Closures Across Four Counties
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️路况提醒｜受降雪影响，日喀则定日、聂拉木、亚东、定结多条道路实行临时双向交通管制，暂不具备通行条件，解除时间另行通知。 请市民、游客合理规划出行路线，途经管控区域服从现场民警指挥。恶劣天气行车，牢记降速、控距、亮尾，安全文明驾驶！ （来源：日喀则交警）
+
+**🇬🇧 Actionable Travel Intel**:  
+Traffic police in Shigatse have implemented temporary two-way traffic control on multiple roads across Tingri, Nyalam, Yadong, and Dinggye counties due to snowfall. The affected roadways currently do not meet safe transit conditions, and the reopening schedule will be announced separately. Travelers and drivers must adjust travel itineraries and follow on-site police guidance.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Rp2neCF8N)
+
+---
+
+### October 30, 2026 &bull; 08:45 CST
+#### Sichuan Opens Tianpu Railway: Ya'an Direct to Chengdu Tianfu Airport in 80 Minutes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 新建天蒲铁路将于10月30日开通运营，雅安至天府机场站最快80分钟可达。雅安至宜宾首开动车组，全程2小时39分钟，为区域经济社会高质量发展注入新动能。 成都发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The newly built Tianpu Railway officially opened for commercial operation on October 30 in Sichuan Province. High-speed rail travel between Ya'an and Chengdu Tianfu International Airport Station now takes as fast as 80 minutes. In addition, new direct EMU trains are launched between Ya'an and Yibin, connecting the two cities in 2 hours and 39 minutes.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/Rp1uSBTnq)
+
+---
+
 ### October 29, 2026 &bull; 20:56 CST
 #### Xi'an Han Yang Ling Museum Autumn Season: Discounted Tickets, Metro Shuttles, and Museum Direct Buses
 
