@@ -6,6 +6,71 @@
 
 ---
 
+### October 31, 2026 &bull; 15:41 CST
+#### Heavy Rain Forecast May Trigger High-Speed Rail Delays in Guizhou on November 1 and 2
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象部门预报，11月1日至11月2日，贵州省南部有一轮降雨过程。在此轮降水过程中，贵南高铁、贵广高铁、黔桂铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据实际情况封锁线路开展安全巡查，途经旅客列车可能不同程度晚点或停运。在此，铁路部门提醒旅客朋友们出行前关注天气变化，合理安排行程，具体情况详见站车公告、“成都铁路12306”微博或拨打（028）12306成都铁路客服中心电话咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+According to meteorological forecasts, heavy rainfall across southern Guizhou from November 1 to November 2 may exceed rainfall safety standards on sections of the Guiyang-Nanning High-Speed Railway, Guiyang-Guangzhou High-Speed Railway, and Qian-Gui Railway. Railway authorities will initiate safety patrols and temporary track closures based on rainfall levels, which may cause train delays or service cancellations. Travelers should check station notices or the 12306 railway customer service system before departure.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/RpdEvhL06)
+
+---
+
+### October 31, 2026 &bull; 10:16 CST
+#### Snow and Icing Trigger Two-Way Traffic Control on Highway G219 in Saga County
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️萨嘎临时交通管制 受降雪结冰影响，今日07:30分起，萨嘎县两处路段实施双向临时交通管制： ▪️G219（老马泉河边境检查站）— G349（萨嘎昂仁交界） ▪️G219突击拉山 — G219萨嘎汽修厂 管制解除时间另行通知，请大家合理规划路线，非必要不前往，途经请服从现场民警指挥。 #日喀则路况 # #西藏出行提示 #
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to snow accumulation and icing, temporary two-way traffic controls were imposed in Saga County starting at 07:30 on designated highway sections: Highway G219 between Laomaquanhe Border Checkpoint and Highway G349 at the Saga-Ngamring border, as well as Highway G219 between Tujila Mountain and Saga Auto Repair Plant. Reopening times will be announced separately, and travelers must follow on-site police instructions.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RpbwcvERG)
+
+---
+
+### October 30, 2026 &bull; 17:59 CST
+#### Orange Blizzard Warning Issued for Mount Everest Region and Southern Shigatse
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️【暴雪橙色预警】日喀则市气象台 10 月 30 日 16 时 20 分发布暴雪橙色预警！ 聂拉木、亚东、定日、定结已出现暴雪、局地特大暴雪。未来 12 小时南部强雨雪持续，聂拉木、亚东局地特大暴雪，多地新增积雪 10-20 厘米；雨雪后降温 3-8℃，伴有大风。 高海拔路段易积雪结冰，请注意道路交通、旅游出行安全，防范次生灾害，做好防寒防冻。 （来源：云端珠峰）
+
+**🇬🇧 Actionable Travel Intel**:  
+The Shigatse Meteorological Observatory issued an orange blizzard warning as heavy snow hit Tingri, Nyalam, Yadong, and Dinggye. Forecasts indicate continued intense snow across southern areas over the next 12 hours, with new snow accumulation reaching 10 to 20 cm, followed by temperature drops of 3 to 8 degrees Celsius and strong winds. High-altitude mountain passes face severe icing risks.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Rp57DmpWT)
+
+---
+
+### October 30, 2026 &bull; 17:36 CST
+#### Bilateral Road Closures Enacted Across Southern Shigatse and Border Ports Due to Snow
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ⚠️路况提醒｜受降雪影响，日喀则定日、聂拉木、亚东、定结、吉隆、聂拉木口岸多条道路临时双向交通管制，暂不具备通行条件，解除管制时间另行发布。 请市民、游客合理规划出行路线，途经管控路段服从现场民警指挥。恶劣天气行车牢记 “降速、控距、亮尾”，安全文明驾驶！ （来源：日喀则交警）
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to heavy snowfall and hazardous road conditions, traffic police in Shigatse have implemented temporary two-way traffic controls across multiple roadways in Tingri, Nyalam, Yadong, Dinggye, Gyirong, and the Nyalam border port area. These routes are currently impassable, with lifting times to be announced separately. Travelers on high-altitude routes must adjust travel plans and follow instructions from on-site police.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/Rp4YizItE)
+
+---
+
+### October 30, 2026 &bull; 15:57 CST
+#### Rainfall Warning for Trunk Rail Lines in Sichuan and Chongqing on October 31 and November 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 根据气象部门预报，10月31日至11月1日，四川省东北部、重庆市北部及东南部有一轮降雨过程。在此轮降水过程中，郑渝高铁、达三铁路、达万铁路、万凉铁路、渝怀铁路等线路部分区段可能发生雨量超标。届时，为确保旅客列车运行安全，铁路部门将根据实际情况封锁线路开展安全巡查，途经旅客列车可能不同程度晚点或停运。在此，铁路部门提醒旅客朋友们出行前关注天气变化，合理安排行程，具体情况详见站车公告、“成都铁路12306”微博或拨打（028）12306成都铁路客服中心电话咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+Heavy rainfall forecast across northeastern Sichuan as well as northern and southeastern Chongqing from October 31 to November 1 may exceed safety standards along railway lines including the Zhengzhou-Chongqing High-Speed Railway and the Chongqing-Huaihua Railway. Railway operators may temporarily blockade affected track sections to conduct safety inspections, which could lead to train delays or cancellations. Passengers should confirm train status through 12306 customer service or station announcements.
+
+> **Verified Source**: [China Railway Chengdu Group (Southwest Railway) (西南铁路, Sina Weibo)](https://weibo.com/1919955065/Rp4kunk7p)
+
+---
+
 ### October 30, 2026 &bull; 12:20 CST
 #### Lhasa Yicuo Lake Suspends Visitor Reception Due to Boardwalk Maintenance and Weather
 

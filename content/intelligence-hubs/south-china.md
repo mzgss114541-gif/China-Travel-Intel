@@ -6,6 +6,19 @@
 
 ---
 
+### October 31, 2026 &bull; 17:54 CST
+#### Guangxi High-Speed Rail Tourism Multi-Ride Pass Expanded to 50 Stations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月23日起，国铁南宁局升级“漫游八桂”旅游计次票，覆盖车站从6个扩至50个，新增44站，有效期15天。旅客可任选2至10段行程自由组合，总价再享9折。以桂林—柳州—南宁—北海为例，原价243元，计次票仅需208元，立省35元。12306网站或App均可购买，刷证或预约席位乘车，秋冬游广西更实惠、更灵活。（韦增乐、李诗颖、于莉、秦凯、彭婉云） https://mp.weixin.qq.com/s/I1HxEeSklnGnNZnWY2VVUA
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Nanning Group has expanded its Roam Bagui tourism multi-ride train ticket coverage from 6 to 50 stations with a 15-day validity period. Passengers can combine between 2 and 10 journey segments across Guangxi with a 10 percent discount on total fares (for example, the Guilin-Liuzhou-Nanning-Beihai route costs 208 yuan instead of the regular 243 yuan, saving 35 yuan). Tickets can be purchased via 12306 channels for seat reservations or direct document scanning.
+
+> **Verified Source**: [China Railway Nanning Group (南宁铁路, Sina Weibo)](https://weibo.com/1869124960/Rpew69Dee)
+
+---
+
 ### October 29, 2026 &bull; 15:12 CST
 #### Shenzhen Futian Port Border Advisory: Undeclared Stony Corals Intercepted Under Strict CITES Regulations
 
@@ -16,6 +29,19 @@
 Customs officers at Futian Port passenger checkpoint intercepted an inbound traveler attempting to smuggle 14 live stony corals weighing 0.9 kg without declaration. Authorities issue an operational reminder that all stony corals (Scleractinia) are listed under CITES Appendix II. Under Chinese wildlife protection and customs import/export laws, carrying, trading, or mailing endangered wildlife species or their derivatives across borders without valid CITES certificates is illegal and subject to criminal liability.
 
 > **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RoUBmb7ks)
+
+---
+
+### October 29, 2026 &bull; 00:00 CST
+#### Shenzhen Bay Port Extends Passenger Operating Hours Until 02:00 on October 31 and November 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 市口岸办 发布日期：2026-10-29 20:23 香港特别行政区政府将于10月31日周末期间，举行多重节日庆祝、演唱会等大型活动，为保障口岸跨境旅客周末高峰夜间便捷通关，经深港两地政府协商，作出如下安排： 一、2026年10月31日至11月1日，每日凌晨零时至二时，临时延长深圳湾口岸旅检（含客运通道）通关服务时间，即： 10月31日（周六）凌晨0:00-2:00； 11月1日（周日）凌晨0:00-2:00。 二、在上述延长通关服务期间（即10月31日及11月1日的凌晨零时至二时），获准使用深圳湾口岸的粤港跨境客车（含小汽车）只可使用深圳湾口岸通关（凌晨二时至六时三十分可使用皇岗口岸通关的安排维持不变）；至于获准使用皇岗、沙头角、文锦渡、莲塘口岸的粤港跨境小汽车，则于凌晨时段可使用皇岗口岸通关的安排维持不变。 三、其他深港陆路口岸通关服务时间维持不变。 四、深圳交通部门将做好口岸交通配套服务，具体信息请查询交通部门网站。 温馨提醒：广大出入境旅客密切关注深圳湾口岸通关时间，通过“i口岸”小程序实时查询深圳陆路口岸通畅度，提前规划行程，尽量避开出入境客流高峰期，合理选择通行口岸及通关时段。出行前请务必检查本人出入境证件、签证、签注有效日期，避免因出入境证件问题影响出行。 特此公告。 深圳市人民政府口岸办公室 2026年10月29日 附件： 
+
+**🇬🇧 Actionable Travel Intel**:  
+To facilitate cross-border passenger flow during weekend events in Hong Kong, Shenzhen Bay Port is temporarily extending passenger inspection and passenger transport channel operating hours from 0:00 to 2:00 on October 31 and November 1. Cross-border passenger vehicles licensed for Shenzhen Bay Port must clear customs at Shenzhen Bay Port during these extended hours, while operating hours at other land checkpoints between Shenzhen and Hong Kong remain unchanged.
+
+> **Verified Source**: [Shenzhen Municipal Office of Port Entry and Exit (深圳市口岸办, Gov.cn)](https://ka.sz.gov.cn/xxgk/qt/tzgg/content/post_13045364.html)
 
 ---
 

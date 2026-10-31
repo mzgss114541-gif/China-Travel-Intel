@@ -6,6 +6,32 @@
 
 ---
 
+### October 31, 2026 &bull; 16:44 CST
+#### Customs Currency Control Alert: Strict Foreign Cash Export Limit for Frequent Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，西九龙站海关在一名出境旅客的裙子两侧内袋中查获未申报美元现钞2万元，折合人民币约13.4万元。当日，海关关员在对出境旅客进行监管时，发现一名旅客进入海关监管区未主动申报，且该旅客过关时神色紧张、步伐加快，试图快速通过海关监管区，关员随即对其进行拦截检查。经进一步检查，关员在该旅客穿着的裙子两侧内袋中各发现美元现钞1万元，共计美元现钞2万元，折合人民币约13.4万元。该旅客属于15天内多次出境人员，其所携带的美元现钞超出规定限额，且该旅客年内曾有两次违规携带货币出境记录。目前，该案已移交海关缉私部门处理。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Customs officers at West Kowloon Station intercepted 20000 USD in undeclared cash from an exiting traveler. Under official customs regulations, travelers departing China for the second time or more within 15 days are legally permitted to carry foreign currency cash equivalent to no more than 1000 USD. Any excess currency will not be cleared by customs, and travelers requiring larger sums must obtain an official foreign exchange export permit from foreign exchange authorities or banks prior to departure.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/Rpe3TaMTz)
+
+---
+
+### October 30, 2026 &bull; 15:43 CST
+#### China Customs Enforces Strict Criminal Liability on Cannabis at Inbound Checkpoints
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，罗湖海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报，且其身上散发出一股浓烈的疑似大麻气味，海关关员随即对其进行拦截检查。经进一步检查，关员在其裤子右侧口袋内发现半支燃烧后熄灭的疑似大麻烟。经现场检测，该疑似大麻烟呈四氢大麻酚（THC）阳性反应。后经专业机构鉴定，该半支卷烟中检出四氢大麻酚成分，确认为大麻，半支烟重0.22克，烟丝净重0.08克。目前，该案已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Luohu Customs intercepted an incoming passenger carrying a partially burned cannabis cigarette testing positive for THC, with a tobacco weight of 0.08 grams. Under China Criminal Law and the Narcotics Control Law, cannabis is strictly classified as an illicit narcotic drug. Smuggling, transporting, or trafficking drugs in any quantity whatsoever incurs full criminal prosecution and statutory penalties under Chinese law.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/Rp4ergQHz)
+
+---
+
 ### October 27, 2026 &bull; 17:15 CST
 #### Nanning Airport Winter-Spring Schedule Expands ASEAN Flight Network and Air-Rail Transfers
 
