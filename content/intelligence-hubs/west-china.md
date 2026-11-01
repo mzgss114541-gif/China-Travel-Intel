@@ -6,6 +6,19 @@
 
 ---
 
+### November 1, 2026 &bull; 20:00 CST
+#### Capital Airlines Launches Xi'an–Yongzhou–Xiamen Flight Route for Winter-Spring Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #千年古都 常来长安# 【西安新开一条航线！】自2026年10月25日起，全国民航正式切换至2026-2027冬春航季。新航季，首都航空以北京大兴、杭州、西安、武汉、沈阳为核心枢纽，深挖文旅支线市场潜力，计划新开国内航线24条，加密热门旅游航线5条，充分释放多枢纽协同运营优势，打通多座旅游城市空中通道。 据悉，首都航空新开西安-永州-厦门航线，航线每周四班，班期为周一、周三、周五、周日，去程航班JD5305，07：25从西安咸阳国际机场起飞，09：20落地湖南永州，10：05从永州出发，11：55抵达厦门；回程航班JD5306，13：00从厦门起飞，15：10落地永州，16：05从永州出发，18：15抵达西安（以上为计划时刻和班期，具体航班信息，以航司系统实际执行为准）。 此外，首都航空将在华东地区，依托杭州枢纽拓展杭州-文山、杭州-唐山等航线，布局武汉-宁波、武汉-福州、大理-福州等线路；华中做强武汉枢纽，新开通武汉-南充-西昌、武汉-玉林等航线，并串联西安、北京大兴至永州等中转航线；西南、华南、华北、东北等地区同步布局海口-泸州、广州-大理、三亚-长沙-东营，串联海岛度假、冰雪体验、山地观光、康养休闲等多元旅游目的地。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the nationwide transition to the 2026–2027 winter-spring civil aviation flight schedule on October 25, Capital Airlines has launched a new Xi'an–Yongzhou–Xiamen air route. Operating four times weekly on Mondays, Wednesdays, Fridays, and Sundays, flight JD5305 departs Xi'an Xianyang International Airport at 07:25, lands in Yongzhou at 09:20, departs Yongzhou at 10:05, and reaches Xiamen at 11:55. Return flight JD5306 departs Xiamen at 13:00, lands in Yongzhou at 15:10, departs at 16:05, and arrives in Xi'an at 18:15. Flight times remain subject to airline operational updates.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RpoLJyTeG)
+
+---
+
 ### November 1, 2026 &bull; 14:09 CST
 #### Four Ngari Heritage and Scenic Sites in Tibet Reopen Following Snow Closures
 

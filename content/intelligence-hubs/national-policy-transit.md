@@ -6,6 +6,19 @@
 
 ---
 
+### November 1, 2026 &bull; 15:59 CST
+#### Customs Issues Border Drug Enforcement Warning Following Seizure at West Kowloon Station
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，西九龙站海关查获一名进境旅客携带冰毒晶体6粒，毛重5.5克。当日，海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报，该旅客在经过海关查验台时眼神躲闪、步伐急促，关员随即对其进行拦截检查。检查过程中，该旅客言语逻辑混乱、举止异常，表现得十分紧张。经进一步检查，海关关员在其随身携带的手提包内发现一张折叠整齐的纸巾，打开后发现疑似冰毒晶体2粒，后又在其手提包底部发现疑似冰毒晶体4粒，以上6粒晶体毛重共计5.5克。经现场试剂检测，均呈甲基苯丙胺（冰毒）阳性反应。后经专业机构鉴定，在上述物品中均检出甲基苯丙胺（冰毒）成分。目前，该案件已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Customs officers at the West Kowloon Station checkpoint intercepted an inbound male passenger carrying six methamphetamine crystals with a gross weight of 5.5 grams concealed inside a handbag. The suspect tested positive for methamphetamine and the case has been transferred to customs anti-smuggling departments. Under the Criminal Law and Anti-Drug Law of the People's Republic of China, smuggling, trafficking, transporting, or manufacturing narcotics—including methamphetamine, opium, heroin, morphine, cannabis, and cocaine—in any quantity incurs strict criminal liability and statutory punishment.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RpnbYwsZk)
+
+---
+
 ### October 31, 2026 &bull; 16:44 CST
 #### Customs Currency Control Alert: Strict Foreign Cash Export Limit for Frequent Travelers
 
