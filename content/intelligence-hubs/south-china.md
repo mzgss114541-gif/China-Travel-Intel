@@ -6,6 +6,19 @@
 
 ---
 
+### November 1, 2026 &bull; 11:12 CST
+#### Pingshan Scenic Area in Enshi Announces Temporary Closure from November 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 屏山旅游景区自2026年11月1日起采取临时闭园措施，恢复开园时间将根据天气情况确定。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Enshi Prefecture Bureau of Culture and Tourism announced that Pingshan Scenic Area has implemented temporary closure measures starting November 1, 2026. The official reopening date will be determined and announced according to evolving weather conditions. Travelers visiting the Enshi region should postpone canyon excursions and monitor local weather updates.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RpljFfLis)
+
+---
+
 ### October 31, 2026 &bull; 17:54 CST
 #### Guangxi High-Speed Rail Tourism Multi-Ride Pass Expanded to 50 Stations
 

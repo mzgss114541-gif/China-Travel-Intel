@@ -6,6 +6,58 @@
 
 ---
 
+### November 1, 2026 &bull; 14:09 CST
+#### Four Ngari Heritage and Scenic Sites in Tibet Reopen Following Snow Closures
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 恢复开放！受前期降雪天气影响临时闭园的古格文化遗址公园、皮央东嘎洞窟遗址、香孜五彩土林、穹窿银城遗址景区，现已具备开园条件，正式恢复对外开放。 来源：西藏阿里文旅 西藏文旅的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The Ngari Prefecture cultural tourism authorities announced that four scenic destinations—the Guge Kingdom Cultural Heritage Site Park, Piyang Donggar Cave Ruins, Xiangzi Colorful Earth Forest, and Khyunglung Silver Castle Ruins—have officially reopened to visitors. The sites were previously closed due to adverse snowfall weather and have now met safety standards for reopening. Inbound visitors planning journeys to western Tibet must arrange travel via certified agencies with required regional permits.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Rpmtws8Cb)
+
+---
+
+### November 1, 2026 &bull; 13:30 CST
+#### Sichuan Airlines Resumes Chengdu–Jiuzhai Huanglong Flights Starting November 7
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月7日起，九寨黄龙机场将恢复成都航线。10月31日，记者查询四川航空官方网站发现，成都天府至九寨黄龙的航班已开始上线售票。 该航线航班在成都天府国际机场起降，由川航执飞，每周一班，每周六执行。去程航班号3U6675，计划12:50从天府机场起飞，13:45降落九黄机场；返程航班号3U6676，计划14:25从九黄机场起飞，15:20返回天府机场。单程计划空中飞行时间55分钟，复航首班经济舱票价（不含税）为300元。（川观新闻）四川日报的微博视频 阿坝 网页链接
+
+**🇬🇧 Actionable Travel Intel**:  
+Direct scheduled flights between Chengdu Tianfu International Airport and Jiuzhai Huanglong Airport will resume on November 7, operated by Sichuan Airlines once weekly on Saturdays. Outbound flight 3U6675 departs Chengdu Tianfu at 12:50 and lands at Jiuzhai Huanglong at 13:45. Return flight 3U6676 departs Jiuzhai Huanglong at 14:25 and reaches Chengdu Tianfu at 15:20. The scheduled air travel time is 55 minutes, with initial one-way economy tickets priced from 300 RMB before tax.
+
+> **Verified Source**: [Aba Prefecture Bureau of Culture and Tourism (文旅阿坝, Sina Weibo)](https://weibo.com/6608349086/RpmdN3atz)
+
+---
+
+### November 1, 2026 &bull; 10:21 CST
+#### Dunhuang Implements Temporary Road Traffic Controls from November 2 to 4
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【请注意！第九届丝绸之路（敦煌）国际文化博览会期间有道路交通管控】 记者从酒泉公安交管部门了解到，为保障第九届丝绸之路（敦煌）国际文化博览会召开期间道路交通安全，根据《中华人民共和国道路交通安全法》规定，结合敦煌道路实际情况，敦煌市公安局交通管理大队决定自2026年11月2日8时至11月4日24时，对进入或途经敦煌市车辆进行管控分流。具体如下： 一、过境敦煌前往青海、新疆、柳园、酒泉、瓜州等方向的车辆经由G3011、S31高速公路绕行。 二、由瓜州经省道314线、G3011途经敦煌前往七里镇、阿克塞、青海等方向的5吨以上货车、危化品运输车，由G3011高速敦煌北收费站下高速，由国道215线539公里（龙德盛十字）路口向西沿国道215线过境线绕行。 三、由新疆、柳园经国道215线途经敦煌前往七里镇、阿克塞、青海等方向的5吨以上货车、危化品运输车辆，由国道215线539公里（龙德盛十字）路口向西沿国道215线过境线绕行。 四、由青海、阿克塞经国道215线途经敦煌前往柳园、新疆、瓜州、酒泉等方向的5吨以上货车、危化品运输车辆，由国道215线554公里（恒固预制厂路口）向北沿过境线行驶，在国道215线539公里（龙德盛十字）路口向北行至G3011敦煌北收费站上高速绕行。 五、禁止运输剧毒、危化品车辆，五吨以上货车进入敦煌城区；进入敦煌城区或驻地宾馆、活动场馆的电力、通讯、运送展品、鲜活农产品及其他民生保障车辆，由相关单位向敦煌市公安局交管大队提出书面申请，经批准后，按照指定时间、路线通行。 六、执勤民警在实施交通管控时以劝导、引导为主，对不听劝阻违反禁令标志、标线指示，违反交通管制规定强行通行的，依据《中华人民共和国道路交通安全法》及《甘肃省道路交通安全条例》相关条款进行处罚。对煽动闹事、恶意闯卡、阻碍执勤人员执行职务的，公安机关根据《中华人民共和国治安管理处罚法》依法进行处罚，对情节严重，触犯《中华人民共和国刑法》的，依法追究刑事责任。
+
+**🇬🇧 Actionable Travel Intel**:  
+Dunhuang traffic authorities announced traffic diversion measures from 08:00 on November 2 until 24:00 on November 4, 2026, during the 9th Silk Road Dunhuang International Cultural Expo. Transit vehicles passing through Dunhuang toward Qinghai, Xinjiang, Liuyuan, Jiuquan, and Guazhou must detour via the G3011 and S31 expressways. Vehicles over 5 tons are barred from urban Dunhuang. Independent drivers and touring groups along the Hexi Corridor route should factor in detours and follow roadside police instructions.
+
+> **Verified Source**: [Gansu Provincial Department of Culture and Tourism (微游甘肃, Sina Weibo)](https://weibo.com/6317297386/RpkYIAzA0)
+
+---
+
+### November 1, 2026 &bull; 10:10 CST
+#### New Chengdu Longquanyi Railway Station Commences Passenger Rail Operations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 新站首发！10月31日，新建成都龙泉驿站首趟列车开往深圳。开通运营初期，车站将承担至北京西、上海、杭州、深圳东、温州、长沙等地的34列旅客列车始发终到作业。 （来源： ）四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The newly constructed Chengdu Longquanyi Railway Station commenced commercial operations on October 31, with its inaugural passenger service bound for Shenzhen. During its initial operational phase, the station handles departures and arrivals for 34 passenger train services, connecting Chengdu with destinations including Beijing West, Shanghai, Hangzhou, Shenzhen East, Wenzhou, and Changsha. Travelers should verify the designated railway station name on their tickets when booking trains across Chengdu.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RpkUtiCd7)
+
+---
+
 ### October 31, 2026 &bull; 15:41 CST
 #### Heavy Rain Forecast May Trigger High-Speed Rail Delays in Guizhou on November 1 and 2
 
