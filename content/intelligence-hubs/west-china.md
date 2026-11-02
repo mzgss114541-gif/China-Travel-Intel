@@ -6,6 +6,45 @@
 
 ---
 
+### November 2, 2026 &bull; 20:55 CST
+#### Chengdu Railway Adds Extra Trains to Jiuzhaigou and Mount Emei Through November 29
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 成都铁路部门将在11月2日至29日加开部分列车，涉及成都、黄龙九寨、峨眉山、松潘等方向，为旅客赏秋出游提供更多便利。与此同时，11月11日（秋假首日）成都前往西安、西昌、北京等方向的部分列车已出现余票紧张的情况。 （四川观察） 四川观察的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Chengdu railway authorities are operating additional passenger train services between November 2 and November 29, 2026, covering routes toward Chengdu, Huanglong Jiuzhai, Mount Emei, and Songpan to accommodate autumn travel demand. In addition, railway officials noted that tickets on certain departures from Chengdu toward Xi'an, Xichang, and Beijing are already running low for November 11. Travelers planning journeys along these corridors should secure bookings early.
+
+> **Verified Source**: [Aba Prefecture Bureau of Culture and Tourism (文旅阿坝, Sina Weibo)](https://weibo.com/6608349086/RpyyDt4o8)
+
+---
+
+### November 2, 2026 &bull; 16:21 CST
+#### Mount Everest Scenic Area Resumes Operations Following Snow Clearance
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 经道路除雪保通与综合评估，珠峰景区自 2026 年 11 月 2 日 14 时起恢复开园⚠️ 目前部分山路、大本营区域仍有积雪结冰、路面湿滑，请游客在划定区域游览，遵守景区规定，注意高原天气变化，安全文明出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following road snow clearance and safety assessments, the Mount Everest Scenic Area in Shigatse resumed operations starting at 14:00 on November 2, 2026. Authorities advise that sections of mountain roads and the Base Camp area remain affected by snow, ice, and slippery surfaces. Visitors are instructed to remain within designated sightseeing areas, strictly observe scenic zone regulations, and stay vigilant regarding rapid high-altitude weather changes.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RpwLleTaw)
+
+---
+
+### November 2, 2026 &bull; 15:05 CST
+#### Lake Namtso Reopens as Nagenla Mountain Pass Clears Snow and Ice
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 纳木错恢复开放！ 那根拉山垭口积雪结冰已基本清除，道路通行条件恢复。经研判，纳木错景区将于11月2日（星期一）起恢复对外开放及售票。 🕘 开放时间：每日9:30—18:00 🎫 票务处理：因闭园未能入园的游客，已购门票可在原平台全额退款或改期，不收手续费；团队游客请联系报名单位调整行程。 ⚠️ 游览提醒：恢复初期部分路段仍有残雪暗冰，早间及夜间易结冰，请减速慢行。请勿进入未开放区域、野景点及湖岸、雪坡等危险地段，安全第一。 纳木错 来源：
+
+**🇬🇧 Actionable Travel Intel**:  
+The Lake Namtso Scenic Area in Tibet resumed operations and ticket sales on November 2, 2026, following snow and ice clearance across the Nagenla Mountain Pass. Operating hours are 9:30 to 18:00 daily. Visitors holding tickets affected by the prior temporary closure may receive full refunds or reschedule without fees via their original booking platform, while tour group participants should coordinate with their agencies. Drivers are advised to reduce speed as lingering icy patches persist, particularly during morning and evening hours.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/Rpwgx4Gdm)
+
+---
+
 ### November 2, 2026 &bull; 11:03 CST
 #### Altay Habahe County Introduces Lifetime Free Admission Policy for Core Scenic Areas
 

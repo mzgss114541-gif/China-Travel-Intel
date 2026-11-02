@@ -6,6 +6,32 @@
 
 ---
 
+### November 2, 2026 &bull; 16:06 CST
+#### Nanning-Liuzhou-Guilin Culinary Tourism Train Y878/7 Opens Ticket Sales
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月2日12时，“八桂嗦粉”主题旅游专列Y878/7次车票在“铁路12306”网站、APP公开发售。专列由国铁南宁局开行，11月7日起在南宁、柳州、桂林间运行，旅客可边乘车边品尝老友粉、螺蛳粉、桂林米粉，体验边品美食、边赏民俗、边游山水的出行乐趣。详情请点击： https://mp.weixin.qq.com/s/PuZIEReGOd8wQWrOtHRd1A （黄有贤、柳峰、孙雪瑶、彭婉云）
+
+**🇬🇧 Actionable Travel Intel**:  
+Tickets for the Guangxi culinary tourism train Y878/7 opened for booking on the official Railway 12306 platform at 12:00 on November 2, 2026. Operated by China Railway Nanning Group, the special tourist train will run between Nanning, Liuzhou, and Guilin starting November 7, offering passengers regional specialties including Guilin rice noodles and local cultural activities along the scenic route.
+
+> **Verified Source**: [China Railway Nanning Group (南宁铁路, Sina Weibo)](https://weibo.com/1869124960/RpwFizVmO)
+
+---
+
+### November 2, 2026 &bull; 13:04 CST
+#### G4 Expressway Toll Stations in Hunan Close for Construction Through January 2027
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【注意绕行！11月4日起京港澳高速岳阳、长沙部分收费站出入口将管制】出行注意！G4京港澳高速岳阳龙湾至长沙广福段扩容施工，11月4日8时30分起至2027年1月20日12时，大荆、板仓两座收费站将封闭施工，禁止车辆通行。往返长沙、广州、武汉、北京方向的车友，记得提前规划路线，可绕行107 国道、许广高速、平洞高速等，避免耽误行程。 湖南日报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to lane expansion work along the G4 Beijing-Hong Kong-Macau Expressway between Yueyang Longwan and Changsha Guangfu, the Dajing and Bancang toll stations will be closed to traffic from 8:30 on November 4, 2026, until 12:00 on January 20, 2027. Road travelers traveling between Changsha, Guangzhou, Wuhan, and Beijing should plan alternative detours via National Highway 107, the Xuguang Expressway, or the Pingdong Expressway to prevent transit delays.
+
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/Rpvtq6nKs)
+
+---
+
 ### November 1, 2026 &bull; 11:12 CST
 #### Pingshan Scenic Area in Enshi Announces Temporary Closure from November 1
 
