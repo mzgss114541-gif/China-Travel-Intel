@@ -6,6 +6,32 @@
 
 ---
 
+### November 2, 2026 &bull; 11:03 CST
+#### Altay Habahe County Introduces Lifetime Free Admission Policy for Core Scenic Areas
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 📣注意~阿勒泰哈巴河县推出“一次购票、终身免票”惠民政策，覆盖白哈巴村、白桦林、彩虹布拉克景区等县域核心景区。 🙌这个冬天，来阿勒泰哈巴河县吧，雪原辽阔，白桦静立，走进其中，沉浸式感受这片土地独有的冬日韵味。（来源 | 阿勒泰地区融媒体中心）
+
+**🇬🇧 Actionable Travel Intel**:  
+Habahe County in Altay, Xinjiang has introduced a policy where a single ticket purchase grants lifetime free admission to core scenic attractions across the county. The policy covers key scenic destinations including Baihaba Village, Birch Forest, and Rainbow Bulake Scenic Area. Visitors planning winter travel in Habahe County can access these designated sites on subsequent visits following an initial ticket purchase.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RpuGhksOV)
+
+---
+
+### November 2, 2026 &bull; 10:28 CST
+#### Tianshan Tianchi Scenic Area Adjusts Winter-Spring Hours and Ticket Policies
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🏔️打算去天山天池的朋友注意了！景区的运营时间已“换季”，自2026年11月1日起，天山天池进入冬春季运营时段，开放时间调整为9:30-17:00，计划出行的小伙伴们，请提前留意时间变化和购票政策~ 👇冬春季门票优惠政策 📅执行时间：2026年11月1日至2027年3月31日 💴：门票45元/人，继续实行“一票两日游” 🏠住宿：凭阜康市13家酒店、宾馆、民宿（天山天池景区太空舱营地、天山五江温泉城酒店、天山天池国际滑雪场酒店、雅轩大酒店、博格达酒店、温德姆花园酒店、白玉兰酒店、黄竹山庄、速8精选酒店、福林春酒店、天池大酒店、准东宾馆、天池遇见你民宿）有效住宿发票，免天山天池景区门票（仅限本人）。 🎫票根：凭飞览天下·新疆会客厅飞越中国畅玩票、五江温泉度假城温泉结算单、天山天池国际滑雪场租赁雪板票，免天山天池景区门票（仅限本人）。 🏡跨景区：凭长白山天池景区全票（105元/人次）、鼓浪屿七组套票（130元/人次）、吉木萨尔北庭故城全票（48元/人次）、江布拉克景区全票（55元/人次）门票凭证或购票记录，免天山天池景区门票。
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective November 1, 2026, the Tianshan Tianchi Scenic Area enters its winter-spring operating schedule with revised opening hours of 9:30–17:00. Under the winter-spring ticket policy running from November 1, 2026 to March 31, 2027, standard admission is 45 RMB per person under a continuing two-day ticket validity. Visitors can receive free personal admission by presenting valid lodging invoices from 13 designated hotels and guesthouses in Fukang, qualified receipts or stubs from designated local entertainment and ski facilities, or ticket stubs and purchase records from partner attractions including Changbaishan Tianchi, Gulangyu, Jimsar Beiting Ancient City, and Jiangbulake Scenic Area.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/Rpusp9U6O)
+
+---
+
 ### November 1, 2026 &bull; 20:00 CST
 #### Capital Airlines Launches Xi'an–Yongzhou–Xiamen Flight Route for Winter-Spring Season
 
