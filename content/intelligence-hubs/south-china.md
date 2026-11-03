@@ -1055,27 +1055,3 @@ Guangxi cultural and tourism authorities announced that online reservations for 
 > **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RkE7vrSRl)
 
 ---
-
-### September 30, 2026 &bull; 10:43 CST
-#### Li River & Yulong River: Luxury Cruises vs Bamboo Raft Age Restrictions
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【桂林海事局与漓江景区水上安全提示：游船与排筏适乘规定】漓江三星/四星级豪华游船实行实名制预约购票与登船核验，适乘人群广泛且设施完备，无年龄上限限制；漓江精华段及遇龙河排筏执行严格水上安全红线管控，实行实名制预约乘筏。按安全规定，身高1.2米以下儿童及70周岁以上老人严禁乘坐排筏，患有心脑血管等疾病人员禁止乘坐；遇大雨洪峰或强对流天气排筏将立即执行动态停运管制。家庭出行或长者游客建议选乘全景游船。
-
-**🇬🇧 Actionable Travel Intel**:  
-Guilin Maritime Safety Administration and Li River scenic authorities outlined vessel safety regulations: Three-star and four-star luxury cruises on the Li River operate under real-name ticketing with no upper age limit. Conversely, bamboo rafts along the Li River and Yulong River enforce strict real-name bookings and prohibit children under 1.2 meters in height, adults aged 70 and above, and individuals with cardiovascular conditions. Raft operations suspend dynamically during heavy rainfall or strong convective weather.
-
-> **Verified Source**: [Guilin Maritime Safety Administration & Li River Scenic Area (桂林海事局与漓江景区, Official Portal)](https://www.sina.cn/news/article/comos_nitqkpm2271457.html)
-
----
-
-### September 28, 2026 &bull; 18:04 CST
-#### Yichang–Xingshan High-Speed Railway Enters Service Connecting Yangtze Corridor
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 9月28日清晨，群山环抱下的兴山站十分热闹。站前广场上人潮涌动，舞狮表演、昭君小戏、踩堂戏、汉服快闪等特色节目轮番上演，处处洋溢着喜庆的氛围。9时58分，随着一声风笛长鸣，G6888次首发列车缓缓驶离兴山站，向宜昌北站疾驰而去，标志着宜兴高铁正式开通运营。至此，沪渝蓉沿江高铁与郑渝高铁成功“牵手”，兴山至宜昌两地火车出行半小时可达，武汉至重庆时空距离进一步压缩，两地最快3小时54分钟可达。
-
-**🇬🇧 Actionable Travel Intel**:  
-The Yichang–Xingshan High-Speed Railway officially entered commercial passenger service on September 28 as train G6888 departed Xingshan Station towards Yichang North Station at 9:58. The line connects the Yangtze River corridor with the Zhengzhou–Chongqing High-Speed Railway, cutting rail travel time between Xingshan and Yichang to half an hour and reducing Wuhan–Chongqing travel time to 3 hours 54 minutes.
-
-> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rkdu7u1Qm)

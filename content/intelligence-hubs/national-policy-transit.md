@@ -637,18 +637,3 @@ Following its May–June off-peak midweek promotion that offered a 10% discount 
 > **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkVXxhrbw)
 
 ---
-
-### September 29, 2026 &bull; 18:00 CST
-#### Ministry of Culture and Tourism Issues National Holiday Travel Weather Advisory
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 国庆节假期即将来临，文化和旅游部与中国气象局提醒广大游客，关注天气变化，快乐平安出游。
-一、全国大部地区气象条件较好，总体有利于出行
-预计国庆节假日期间（10月1日至7日），北方大部地区多数时间以晴到多云天气为主。除华南地区外，全国大部地区、多数时间气候舒适度为“较舒适”及以上等级，其中华北到江南北部以及西南地区东部、西北地区大部气候舒适度可以达到“舒适”或“最舒适”等级，总体有利于旅游出行。华北到黄淮、东北地区南部、西北地区大部适合游玩。10月1日至4日，南方地区多阴雨天气；10月5日后，南方大部地区将转为晴好天气，而且随着气温和湿度降低，气候舒适度将达到“较舒适”及以上等级，可规划旅游出行。
-二、重点关注假日期间阶段性降温和阴雨天气
-假日期间全国大部地区气温较适宜。北方地区早晚体感寒凉，特别是内蒙古东部、河北北部、黑龙江等地的部分地区最低气温可达0℃左右，准备到上述地区旅游的公众要备好保暖衣物。受冷空气影响，10月3日至4日，中东部地区气温将先后下降4-6℃；10月6日至7日，受新一股冷空气影响，新疆北部将有明显大风降温天气。旅游出行需关注冷空气活动，注意及时添减衣物。10月2日至3日，内蒙古中部、华北北部、东北地区南部有小到中雨或雷阵雨、局部大雨；10月1日至4日，南方地区多阴雨天气，部分地区有大雨，贵州等地局部有暴雨，青藏高原东部局部有大雪。降雨集中时段对旅游出行有一定影响，建议游客密切关注临近天气预报，提前做好行程安排，特别注意避免前往涉山涉水高风险区域和未开发开放区域。
-
-**🇬🇧 Actionable Travel Intel**:  
-The Ministry of Culture and Tourism and the China Meteorological Administration jointly issued a National Day holiday (October 1–7) travel weather advisory: (1) Most northern regions see sunny-to-cloudy skies and favorable comfort levels across North China, northern Jiangnan, eastern Southwest China, southern Northeast China, and most of Northwest China, while southern China experiences rainy weather from October 1 to 4 before turning clear and comfortable after October 5; (2) Travelers should prepare warm clothing for chilly mornings and evenings in the north—where minimum temperatures in parts of eastern Inner Mongolia, northern Hebei, and Heilongjiang drop to around 0°C—alongside 4–6°C cooling across central and eastern China on October 3–4 and strong winds with cooling in northern Xinjiang on October 6–7. Rain is forecast for central Inner Mongolia, northern North China, and southern Northeast China on October 2–3 (light-to-moderate rain or thunderstorms, localized heavy rain) and across southern China on October 1–4 (heavy rain in parts, localized torrential rain in Guizhou, and localized heavy snow in the eastern Qinghai-Tibet Plateau); visitors are advised to monitor forecasts closely and avoid high-risk mountain/water zones and undeveloped or unopened areas.
-
-> **Verified Source**: [Ministry of Culture and Tourism of the PRC (文旅之声, Sina Weibo)](https://weibo.com/5713450386/RkmT0bVyx)
