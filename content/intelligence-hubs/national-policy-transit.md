@@ -6,6 +6,19 @@
 
 ---
 
+### November 3, 2026 &bull; 16:02 CST
+#### China Customs Issues Inbound Checkpoint Warning on Cannabis Products and Edibles
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，西九龙站海关查获一名进境旅客携带大麻糖果1包，毛重18.03克。当日，海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报。该旅客过关时眼神涣散、神情紧张，关员随即对其进行拦截检查。检查过程中，关员在该旅客随身携带的挎包内发现可疑糖果1包，疑似大麻糖果，毛重18.03克。经现场试剂检测，呈四氢大麻酚（THC）阳性反应。后经专业机构鉴定，确认检出四氢大麻酚（THC）成分。目前，该案件已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+West Kowloon Station Customs intercepted an inbound passenger carrying a packet of cannabis candy with a gross weight of 18.03 grams that tested positive for THC. Under the PRC Criminal Law and Narcotics Control Law, cannabis and THC are strictly regulated illicit drugs in China. Smuggling, trafficking, transporting, or manufacturing narcotics in any quantity incurs full criminal liability and statutory criminal penalties at Chinese border checkpoints.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RpG4pByHi)
+
+---
+
 ### October 31, 2026 &bull; 16:44 CST
 #### Customs Currency Control Alert: Strict Foreign Cash Export Limit for Frequent Travelers
 
@@ -635,5 +648,3 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 Following its May–June off-peak midweek promotion that offered a 10% discount on executed fares for senior travelers, China State Railway Group has further optimized its senior fare concession policy: passengers aged 60 and above purchasing tickets for trains marked with the character "Jing" ("敬") on Railway 12306 for travel between October 18 and December 30, 2026 (inclusive) will receive compound "discount-on-discount" fare reductions. The updated policy expands the eligible timeframe and removes the midweek-only restriction, with discounted tickets going on sale starting October 4.
 
 > **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkVXxhrbw)
-
----
