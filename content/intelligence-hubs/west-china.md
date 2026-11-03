@@ -1163,19 +1163,6 @@ Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Che
 
 ---
 
-### October 16, 2026 &bull; 12:00 CST
-#### Sichuan Autumn Foliage Season: Wawu Mountain, Xiling Snow Mountain and Daocheng Yading Waive Admission
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 彩林季开启，多家景区推出免票福利。瓦屋山、西岭雪山免门票至11月30日，稻城亚丁免票持续到10月31日。此外，巴中光雾山、广元、黑水等地红叶彩林陆续进入观赏期，趁着免票窗口期，一起来四川邂逅秋日美景。 （来源： 、各景区综合）四川观察的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-Sichuan's autumn foliage season has begun, with several scenic areas offering free admission. Wawu Mountain and Xiling Snow Mountain waive admission through November 30, and Daocheng Yading waives admission through October 31. Red-leaf foliage in Bazhong's Guangwu Mountain, Guangyuan and Heishui is also entering its viewing season.
-
-> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RmUMYlDG2)
-
----
-
 ### October 16, 2026 &bull; 11:24 CST
 #### Heavy Rain May Delay or Suspend Trains on Chongqing-Sichuan Rail Lines from October 16 to 17
 
