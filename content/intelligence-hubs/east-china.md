@@ -6,6 +6,19 @@
 
 ---
 
+### November 3, 2026 &bull; 19:30 CST
+#### Fuzhou Offers Free Airport Express Shuttle Transfer Between Fuzhou South Station and Changle Airport
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 即日起至12月31日，乘坐高铁/动车/火车（福州及平潭地区除外）与福州机场航班联运的旅客，可享受1趟福州火车南站往返福州机场的机场专线车辆免费接驳服务。旅客出示身份证、动车票与机票即可快捷办理，乘车地点已公布→ https://share.fznews.com.cn/pub/template/displayTemplate/news/newsDetail/159/663798.html Via：
+
+**🇬🇧 Actionable Travel Intel**:  
+From now through December 31, transit passengers connecting between train or high-speed rail services (excluding Fuzhou and Pingtan origins) and flights at Fuzhou Airport are eligible for one complimentary transfer on the express shuttle line operating between Fuzhou South Railway Station and Fuzhou Changle International Airport. Travelers can redeem the service by presenting an ID card, railway ticket, and flight itinerary.
+
+> **Verified Source**: [Fuzhou Municipal Bureau of Culture and Tourism (遇见福州, Sina Weibo)](https://weibo.com/2171536211/RpHqyBOYP)
+
+---
+
 ### October 29, 2026 &bull; 14:30 CST
 #### Shanghai Port Border Inspection: Direct Flights Between Shanghai and Algiers Commenced
 
@@ -973,5 +986,3 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 Shanghai Metro enacted special holiday operations across its rail network for the 7 days holiday period. East Nanjing Road Station on Lines 2 and 10, alongside Yu Garden Station on Line 14, undergo temporary station closures daily from late afternoon at hour 16 until end of service between October 1 and 7 (Line 10 at Yu Garden remains operational). On September 30, closures take effect from hour 20 until end of service. Extended evening train services operate on Lines 1, 7, 8, 9, 10, 13, and 17.
 
 > **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RkCBdoNFM)
-
----
