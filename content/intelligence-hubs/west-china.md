@@ -6,6 +6,19 @@
 
 ---
 
+### November 3, 2026 &bull; 14:38 CST
+#### Chengdu Schedules Direct Flight Resumptions and New Routes to Auckland, Dubai, Hanoi, and Abu Dhabi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 一大波航线即将复航、开通！今年12月3日起，川航从成都直飞奥克兰的航线复航，明年1月1日起，从成都直飞迪拜的航线复航，明年1月13日，国航开通从成都天府直飞越南河内的定期客运航线，明年3月5日，阿联酋国家航空公司开通成都至阿布扎比航线。一起来看↓↓ 成都
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting December 3, 2026, Sichuan Airlines will resume direct passenger service between Chengdu and Auckland. From January 1, 2027, direct flights connecting Chengdu and Dubai will also resume. On January 13, 2027, Air China will launch a scheduled passenger route connecting Chengdu Tianfu and Hanoi, Vietnam. On March 5, 2027, the UAE national carrier will inaugurate service connecting Chengdu and Abu Dhabi. Inbound travelers connecting through Chengdu should consult official airline booking channels for upcoming flight schedules and ticket releases.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RpFw4hEMe)
+
+---
+
 ### November 2, 2026 &bull; 20:55 CST
 #### Chengdu Railway Adds Extra Trains to Jiuzhaigou and Mount Emei Through November 29
 
