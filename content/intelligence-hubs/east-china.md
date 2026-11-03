@@ -6,19 +6,6 @@
 
 ---
 
-### October 30, 2026 &bull; 16:42 CST
-#### Yi County Offers Free November Admission for Minors at UNESCO World Heritage Villages
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 趁秋假，正出发，一起赴一场黟县的深秋！ 优惠政策：11月1日-11月30日，黟县西递、宏村、南屏、屏山、打鼓岭景区对全国18周岁以下人群免门票（不含研学团队）。 （素材来源： ）
-
-**🇬🇧 Actionable Travel Intel**:  
-Under an autumn promotional policy, scenic attractions in Yi County—including UNESCO World Heritage sites Xidi and Hongcun, along with Nanping, Pingshan, and Daguling—are providing free entrance to visitors aged 18 and under from November 1 to November 30 (excluding organized study tour groups).
-
-> **Verified Source**: [Anhui Provincial Department of Culture and Tourism (安徽文旅, Sina Weibo)](https://weibo.com/2062557711/Rp4CG8axz)
-
----
-
 ### October 29, 2026 &bull; 14:30 CST
 #### Shanghai Port Border Inspection: Direct Flights Between Shanghai and Algiers Commenced
 
