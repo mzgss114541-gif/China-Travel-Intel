@@ -6,6 +6,45 @@
 
 ---
 
+### November 4, 2026 &bull; 13:03 CST
+#### Lingshan Grand Buddha Scenic Area Grants 50% Ticket Discount for Global Visitors Through November 22
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 四重福利上线，来灵山赴一场秋日禅意之约。无锡苏超夺冠福利持续放送，灵山免票继续开抢。 🎫 福利一·苏超免票：庆祝无锡队苏超夺冠，无锡、常州及其他江苏市民——灵山买单！限指定日期使用；因受2026中国公路自行车公开赛影响部分路段封路，本次免票活动11月7日暂不参与；每日限量开抢，请提前完成线上预约后在指定日期前往景区，实行实名预约、约满为止。 💴 福利二·半价优惠：即日起至11月22日，全球游客均可享灵山胜境景区首道门票5折（已享受优惠折扣的对象不同时享受5折）。 🧒 福利三·全国青少年免票：即日起至11月30日，全国18周岁及以下青少年凭本人有效身份证原件至闸口核验入园（未办身份证可凭户口本原件），免票仅限本人使用；16周岁以下需成人陪同。免票仅限首道门票，不含电瓶车、《吉祥愿》演出等二次消费。 💳 福利四·年卡限时钜惠：灵山29周年年卡大促，全年冰点价、单日低至0.3元，含免费停车＋免费看演出＋免费会员活动＋专属折扣。 🍁 秋风吹拂山林，金黄秋叶铺满步道：菩提大道秋日暖阳洒落；九龙灌浴静待音乐响起、莲花缓缓绽放、九龙吐水；祥符禅寺里打卡经典机位——和大佛击掌；拾级登上佛脚平台，直面88米灵山大佛，抱一抱佛脚、眺望太湖与层叠秋山；梵宫高耸穹顶、绚丽琉璃、细腻木雕一一铺展，必看演出《吉祥愿》在此上演（演出票需另购），还有1:1复刻的音乐窟、云冈石窟特展；五印坛城浓郁藏式风情；最后打卡曼飞龙塔，洁白塔身衬着秋日柔光。 原文链接： https://mp.weixin.qq.com/s/SdX2yGPS1KNge2Limee0eA
+
+**🇬🇧 Actionable Travel Intel**:  
+From now through November 22, global visitors can receive a 50 percent discount on first admission tickets to the Lingshan Grand Buddha scenic area in Wuxi. Visitors must complete online real-name reservations in advance for their intended visiting date, subject to daily capacity limits. Note that promotional access is suspended on November 7 due to local road closures for a road cycling competition. The discount covers general admission to the scenic park but excludes internal sightseeing shuttles and separate performance tickets.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RpOjY3Yma)
+
+---
+
+### November 4, 2026 &bull; 12:25 CST
+#### Wuxi Offers 50% Scenic Spot Discount and 20% Hotel Discount for Inbound and Domestic Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 无锡诚意加推“乐享苏超 惠游无锡”专属福利，诚邀海内外朋友来锡畅游，体验赛场之外的“锡游记”。 🎫 景区：即日起至11月9日，无锡、常州市民游览无锡收费等级景区首道门票免费；即日起至11月22日，境内外游客首道门票五折。灵山、三国水浒、鼋头渚、惠山古镇（文物古迹区）、动物园·太湖欢乐园需实名预约、约满为止，请提前通过景区官方公众号或小程序预约；因2026中国公路自行车公开赛，11月7日马山部分路段封路，灵山景区、龙头渚公园的优惠活动当日暂停。 🏨 住宿：即日起至11月22日，境内外游客入住无锡星级饭店享挂牌价八折，需提前一日预约。 🛍 球迷专属：凭2026苏超无锡队赛事票根（电子/纸质均可），可解锁无锡万象城东西区100+门店折扣、恒隆广场满千减百、大东方百货50元消费券、八佰伴200元冠军礼券、苏宁广场轻餐券、梁溪爱琴海“吃百返百”等商圈福利；体育集团七大游泳馆有票根抵扣与199元/10次冠军纪念次卡；无锡大世界影城八店同庆，线下购票20元起、“我是冠军”单人套餐9.9元。 哨声会远，热爱不散——无锡与您，不见不散🌿 原文链接： https://mp.weixin.qq.com/s/ORjJgb5bfm-lU6u1-vkqpw
+
+**🇬🇧 Actionable Travel Intel**:  
+From now through November 22, inbound and domestic visitors can enjoy a 50 percent discount on first admission tickets across major rated scenic spots in Wuxi, including Lingshan, Three Kingdoms and Water Margin City, Yuantouzhu, Huishan Ancient Town (heritage area), and the Zoo Taihu Amusement Park. Real-name advance reservations are required via official WeChat accounts or mini-programs until daily quotas are reached. Note that promotional activities at Lingshan and Longtouzhu Park are suspended on November 7 due to cycling race road closures in Mashan. Additionally, international and domestic guests can receive a 20 percent discount on listed rates at Wuxi star-rated hotels through November 22 with one day advance booking.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RpO4xwbOY)
+
+---
+
+### November 4, 2026 &bull; 11:41 CST
+#### Wuxi Cultural Tourism Group Offers Half-Price Admission at Ticket Windows for Global Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026苏超决赛的那个夜晚仿佛还在眼前——无锡队捧起冠军奖杯，整个城市都为这一声冠军沸腾。球场内的欢呼声刚落，球场外的惊喜已经接上：票根福利、球员专享、球迷回馈，统统都有。作为冠军之城，无锡文旅集团感谢每一位支持过无锡队的小伙伴。 🎫 即日起至11月9日，无锡、常州市民游览无锡文旅收费等级景区可享首道门票免费，结合景区承载能力实行实名预约、约满为止。其中鼋头渚、惠山古镇（文物古迹区）、无锡动物园太湖欢乐园需提前一天在“乐游无锡”小程序实名预约；梅园景区、蠡园公园、惠山古镇（锡惠名胜区）无需预约，凭有效身份证件核验入园。 即日起至11月22日，全球游客均可享无锡文旅收费等级景区（鼋头渚、惠山古镇、梅园、蠡园、动物园）首道门票半价，无需提前预约，携带有效证件在景区窗口购买（已享受优惠折扣的对象不同时享受5折）。 预约规则：每日10:00可预约次日免票，仅限按预约日期当日入园、不可调换，约满即止；每个ID/身份证活动期间限抢1张。 🍁 恰逢秋色正浓：鼋头渚观鸥季已悄悄开启，一小批红嘴鸥先锋部队已抵达太湖水域，再过一段时间大批候鸟将陆续抵达；惠山古镇菊展此刻正火热进行，各色菊花竞相开放，繁花掩映青砖黛瓦；10月24日至11月29日无锡动物园“萌宠繁花季”开启，五大主题大型花境串联整条游览路线，阿熊音符广场每天上演原创儿童舞台剧《奇幻动物城——魔法森林大冒险》；无锡梅园向日葵正值盛放，连片金葵迎着秋阳舒展。 另外，此前凭今年苏超无锡队赛事电子门票凭证＋身份证，11月1日至30日仍可免费畅游五大景区；无锡体育集团七大游泳馆的冠军回馈礼也依旧可用。 福利有时限，风景正当季——这个秋天，无锡见🌿 原文链接： https://mp.weixin.qq.com/s/pyterYIs18IbEsBilcRVnw
+
+**🇬🇧 Actionable Travel Intel**:  
+Through November 22, all international and global travelers can receive half-price admission to five major scenic areas managed by Wuxi Cultural Tourism Group: Yuantouzhu, Huishan Ancient Town, Plum Garden (Meiyuan), Li Garden (Liyuan), and Wuxi Zoo. International visitors do not need to make advance reservations online; tickets can be purchased directly at on-site ticket windows upon presenting valid identification documents. This promotional rate applies to regular first admission tickets.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RpNMGkRb8)
+
+---
+
 ### November 4, 2026 &bull; 11:00 CST
 #### Shanghai Pudong Airport Opens Dedicated Inspection Lanes for Inbound Influx Ahead of 9th CIIE
 
