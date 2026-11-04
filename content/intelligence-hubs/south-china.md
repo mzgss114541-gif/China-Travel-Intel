@@ -19,19 +19,6 @@ The 2026 Guangzhou International Light Festival will run for 11 days from Decemb
 
 ---
 
-### November 4, 2026 &bull; 09:05 CST
-#### Huanggang Customs Enforces Strict Foreign Currency Cash Limits for Frequent Cross-Border Travelers
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【查获跨境客车司机携带未申报美元现钞1.55万元出境案】10月21日，一辆跨境客车经皇岗口岸客运车道出境，未主动申报。皇岗海关关员对该车开展查验时，在车辆的驾驶位上发现一个挎包，包内查获美元现钞1.55万元，折合人民币约10.3万元。经核，该司机为15天内多次出境人员，其所携带的美元现钞超出规定限额。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 海关发布的微博视频
-
-**🇬🇧 Actionable Travel Intel**:  
-China Customs reminds cross-border travelers exiting via Shenzhen's Huanggang Port that strict cash limits apply to frequent travelers. Under customs regulations, passengers departing mainland China for the second time or more within 15 days are permitted to carry foreign currency cash equivalent to no more than 1,000 USD without declaration. Any excess amounts will not be cleared by customs unless an official foreign exchange export permit has been obtained in advance from foreign exchange authorities or a commercial bank.
-
-> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RpMLmBnm6)
-
----
-
 ### November 2, 2026 &bull; 16:06 CST
 #### Nanning-Liuzhou-Guilin Culinary Tourism Train Y878/7 Opens Ticket Sales
 
