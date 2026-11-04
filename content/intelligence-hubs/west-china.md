@@ -6,6 +6,32 @@
 
 ---
 
+### November 4, 2026 &bull; 11:16 CST
+#### Nalati Scenic Area Suspends Online Self-Driving Booking for In-Person Registration
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🚗那拉提自驾游预约有变化，速看！自2026年10月30日起，景区自驾游预约系统升级期间，线上自驾定制游预约功能暂时关闭，自驾游客请携带相关证件前往游客服务中心二楼现场办理。 📑自驾入园流程 1️⃣沿218国道驶入景观大道，直行约300米，注意观察路边交通标识； 2️⃣左转入场：按指示牌指引左转，进入冬季停车场； 3️⃣有序停放：自驾车停车场分为A区、B区、C区，请根据现场引导或空位情况，选择合适区域停放； 4️⃣步行抵达：停好车步行至游客服务中心，现场办理自驾游、区间车等业务。
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting October 30, 2026, Nalati Scenic Area in Xinjiang has temporarily suspended online reservations for self-driving custom tours due to a system upgrade. Self-driving visitors must register in person on the second floor of the Visitor Service Center with valid identification and vehicle documents. Drivers traveling along National Highway 218 should follow signage to the designated winter parking areas (Zones A, B, and C) before proceeding to the service center for self-driving permits or sightseeing shuttle tickets.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RpNCOFHf6)
+
+---
+
+### November 4, 2026 &bull; 09:00 CST
+#### Additional High-Speed Trains Added Between Chengdu and Chongqing Throughout November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 早安【成都出发多趟列车加开】 计划坐动车的朋友看过来！为方便旅客出行，成都局集团公司持续加开部分列车，快来看看有没有你关注的方向！ 1、11月4日至8日、10日成都东至广元加开C6042次，成都东07:50开，广元09:28到。 2、11月4日至8日、10日兴文至成都东加开C6044次，兴文15:06开，成都东17:33到。 3、11月4日至8日、10日广元至成都东加开C6047次，广元21:05开，成都东23:04到。 4、11月4日至7日、9日至23日成都东至重庆北加开D5194次，成都东10:44开，重庆北13:20到。 5、11月4日至7日、9日至23日潼南至成都东加开D5197次，潼南19:23开，成都东20:56到。 6、11月4日至6日、9日至12日、14日重庆北至成都东加开D5129次，重庆北12:32开，成都东15:18到。 7、11月4日至6日、9日至12日、14日成都东至重庆北加开D5134次，成都东15:44开，重庆北18:16到。 8、11月4日至7日、10日至13日、15日泸州至成都东加开C6182次，泸州09:02开，成都东11:04到。 9、11月4日至7日、10日至13日、15日泸州至成都东加开C6184次，泸州14:01开，成都东15:41到。 10、11月4日至7日、10日至13日、15日成都东至泸州加开C6183次，成都东11:28开，泸州13:33到。 11、11月4日至7日、9日至23日成都东至重庆西加开C6135/8次，成都东06:12开，重庆西08:54到。 12、11月4日至7日、9日至23日泸州至成都东加开C6134次，泸州10:53开，成都东13:12到。 13、11月4日至7日、9日至23日泸州至成都东加开C6136次，泸州15:44开，成都东17:43到。 14、11月4日、5日至7日、10日至11日、13日至23日泸州至成都东加开C6170次，泸州12:28开，成都东14:50到。 15、11月4日至7日、9日至23日成都东至泸州加开C6139次，成都东13:40开，泸州15:16到。 16、11月4日、5日至7日、10日至11日、13日至23日成都东至泸州加开C6179次，成都东10:18开，泸州12:09到。 17、11月4日、5日至7日、10日至11日、13日至23日成都东至重庆西加开C6175/8次，成都东15:14开，重庆西17:33到。 18、11月4日、5日至7日、10日至11日、13日至23日重庆西至成都东加开C6177/6次，重庆西20:45开，成都东23:07到。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Group has added extra high-speed train services across multiple dates in November. The augmented schedule increases daily frequencies between Chengdu East and Chongqing North (including trains D5194 and D5134) as well as Chongqing West (trains C6135/8 and C6175/8), alongside additional connections linking Chengdu with Guangyuan and Luzhou. Travelers can check seat availability and book tickets via the official railway ticketing system.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RpMJG1oCR)
+
+---
+
 ### November 3, 2026 &bull; 14:38 CST
 #### Chengdu Schedules Direct Flight Resumptions and New Routes to Auckland, Dubai, Hanoi, and Abu Dhabi
 
@@ -2000,5 +2026,3 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements for Pit Two, opening fully to the public on October 1, 2026. The upgraded hall introduces scientific North/South viewing circuits: a North Route dedicated to in-depth archaeological and artifact research, and a South Route featuring rapid viewing with multimedia displays and XR reconstructions.
 
 > **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RkDA6303z)
-
----

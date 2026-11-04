@@ -6,6 +6,32 @@
 
 ---
 
+### November 4, 2026 &bull; 09:31 CST
+#### 2026 Guangzhou International Light Festival Scheduled for December 4–14 with Reservation Rules
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 官宣！2026广州国际灯光节连开11天，点亮全城✨ 📅 【光影之约】 时间：12月4日—12月14日 主题：向光而行 花城新韵 恰逢广州建城2240年、得名1800年 也是广州国际灯光节的十五周年✨ 这一次，世界的光将再次汇聚广州，照亮全城！ 💡 【一岛两轴，全域联动】 本届采用“1+2+N”空间布局： 📍 1个核心岛：海心沙亚运公园 📍 2条展示轴：新中轴、一江两岸 📍 N个分会场：流花中心、黄埔扶胥古运河、海珠广场等 ✨ 广州塔、东塔、西塔将联动上演“三塔光影秀”，多点绽放，全城赏光！ 🎨 【岭南风韵，光影佳作】 全球征集百余份创意，36组佳作最终落地。 从岭南非遗到市井烟火，用光影转译千年城脉。 🐔 更有深受喜爱的“大湾鸡”担任传播大使！专属主题曲《广州之光》也将同步唱响🎵 🎁 【全民共创，福利拉满】 灯光节期间将推出作品全民投票、小红书影像大赛等互动。优秀创作者有机会获得海心沙观展名额、广州塔登塔权益及限量周边哦🎁 🎫 【预约指南，请查收】 🎯 海心沙主会场（需预约） 免费开放，实名预约制。 12月1日中午12时起，可在“广州国际灯光节”“广州海心沙”公众号或“穗好办”等小程序预约。 🎯 其他区域（免预约） 花城广场、一江两岸及各分会场户外公共区域，无需预约，可直接前往~ 广州之光，点亮世界！ 来看一场璀璨光影，感受花城新韵🌺 来源：广州市文化广电旅游局 部分图源：Hobin-MK813
+
+**🇬🇧 Actionable Travel Intel**:  
+The 2026 Guangzhou International Light Festival will run for 11 days from December 4 to December 14, 2026. The main venue at Haixinsha Asian Games Park requires free real-name reservations, which open on December 1 at 12:00 via official WeChat mini-programs. All other outdoor public display zones—including Huacheng Square, both banks of the Pearl River, and sub-venues across the city—are open to visitors without reservation.
+
+> **Verified Source**: [Guangzhou Municipal Bureau of Culture, Radio, TV and Tourism (广州市文化广电旅游局, Sina Weibo)](https://weibo.com/2532579261/RpMW8xSQ8)
+
+---
+
+### November 4, 2026 &bull; 09:05 CST
+#### Huanggang Customs Enforces Strict Foreign Currency Cash Limits for Frequent Cross-Border Travelers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【查获跨境客车司机携带未申报美元现钞1.55万元出境案】10月21日，一辆跨境客车经皇岗口岸客运车道出境，未主动申报。皇岗海关关员对该车开展查验时，在车辆的驾驶位上发现一个挎包，包内查获美元现钞1.55万元，折合人民币约10.3万元。经核，该司机为15天内多次出境人员，其所携带的美元现钞超出规定限额。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 海关发布的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+China Customs reminds cross-border travelers exiting via Shenzhen's Huanggang Port that strict cash limits apply to frequent travelers. Under customs regulations, passengers departing mainland China for the second time or more within 15 days are permitted to carry foreign currency cash equivalent to no more than 1,000 USD without declaration. Any excess amounts will not be cleared by customs unless an official foreign exchange export permit has been obtained in advance from foreign exchange authorities or a commercial bank.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RpMLmBnm6)
+
+---
+
 ### November 2, 2026 &bull; 16:06 CST
 #### Nanning-Liuzhou-Guilin Culinary Tourism Train Y878/7 Opens Ticket Sales
 
@@ -1053,5 +1079,3 @@ The Nanyue Mount Heng Scenic Area Administration suspended same-day online reser
 Guangxi cultural and tourism authorities announced that online reservations for Detian Transnational Waterfall in Chongzuo near full capacity from October 1 to 4 under real-name ticketing rules. Visitors holding tickets must enter during their reserved time slots. Due to regional road maintenance and limited parking near the border scenic core, travelers are advised to park at the visitor center parking facilities.
 
 > **Verified Source**: [Guangxi Department of Culture and Tourism (广西文化和旅游厅, Sina Weibo)](https://weibo.com/1780560607/RkE7vrSRl)
-
----

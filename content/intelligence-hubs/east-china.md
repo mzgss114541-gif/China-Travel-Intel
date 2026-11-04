@@ -6,6 +6,19 @@
 
 ---
 
+### November 4, 2026 &bull; 11:00 CST
+#### Shanghai Pudong Airport Opens Dedicated Inspection Lanes for Inbound Influx Ahead of 9th CIIE
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 第九届中国国际进口博览会（进博会）将于11月5日至10日在上海举办。11月3日，上海浦东国际机场口岸迎来首轮入境客流高峰。上海边检总站上海机场边检站加强口岸客流动态研判，开设专用通道，联合多家单位组成“通关+”青年志愿服务联盟，确保参展客商高效顺畅通关。（文：曹乃文/图：李宇航）
+
+**🇬🇧 Actionable Travel Intel**:  
+Ahead of the 9th China International Import Expo held in Shanghai from November 5 to 10, Shanghai Pudong International Airport border inspection has activated dedicated clearance channels to manage peak inbound passenger flows. Participating exhibitors and incoming international travelers passing through Pudong Airport can utilize these designated lanes for streamlined immigration and border procedures.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RpNw2scYz)
+
+---
+
 ### November 3, 2026 &bull; 19:30 CST
 #### Fuzhou Offers Free Airport Express Shuttle Transfer Between Fuzhou South Station and Changle Airport
 

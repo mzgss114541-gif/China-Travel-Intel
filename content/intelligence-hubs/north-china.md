@@ -6,6 +6,19 @@
 
 ---
 
+### November 4, 2026 &bull; 11:00 CST
+#### Severe Cold Wave and Snowstorm Warning Issued for Northern and Northeastern China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据气象部门消息，受冷空气影响，11月4日-6日，内蒙古、东北、华北、黄淮等地自北向南将相继出现大风降温，局地降幅超 10℃，伴有 5~6 级风、阵风 7~9 级。内蒙古东部、黑龙江部分地区有中到大雪、局地暴雪，黑龙江中东部局地雨转冻雨。提醒，北方新一轮冷空气即将上线，东北地区将有大范围降雪，需做好防风保暖的措施，并关注降雪结冰给交通出行带来的不利影响。↓↓
+
+**🇬🇧 Actionable Travel Intel**:  
+A major cold air surge from November 4 to 6 will bring sharp temperature drops exceeding 10°C, alongside force 5 to 6 winds with gusts of scale 7 to 9 across Inner Mongolia, Northeast China, North China, and Huanghuai. Eastern Inner Mongolia and parts of Heilongjiang face moderate to heavy snowfall with localized blizzards, while central and eastern Heilongjiang will see rain turning to freezing rain. Travelers in Northeast and North China should prepare for winter weather and monitor potential transport disruptions caused by snow accumulation and road icing.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RpNw33Q72)
+
+---
+
 ### October 29, 2026 &bull; 19:50 CST
 #### North China Aviation Connection: Tonghua to Shijiazhuang Flight Launched with Interline Transit
 
@@ -978,5 +991,3 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 Henan cultural and tourism authorities announced that Longmen Grottoes in Luoyang reached full booking capacity for online and offline tickets on October 3, with offline tickets available for October 4 and 5, and tickets remaining for October 6 and 7. Luoyang Museum reported full capacity for October 3, 4, and 5, while Luoyang Ancient Tombs Museum reached full capacity for October 3 and 4. Travelers are advised to complete advance reservations via official channels.
 
 > **Verified Source**: [Henan Provincial Department of Culture and Tourism (河南省文化和旅游厅, Gov.cn)](http://hct.henan.gov.cn/2026/10-03/3434531.html)
-
----
