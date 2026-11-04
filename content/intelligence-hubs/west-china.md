@@ -6,6 +6,32 @@
 
 ---
 
+### November 4, 2026 &bull; 20:50 CST
+#### Special Tourism Train Connects Guizhou, Chongqing, and Sichuan Between Guiyang and Panzhihua South
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 记者从中国铁路成都局集团有限公司了解到，“锦绣山河·多彩贵州号”紫色旅游列车再度启程，开启贵阳往返攀枝花南的特色文旅专线，串联起贵州、重庆、四川多地优质文旅资源。 该趟Y字头旅游列车全车编组11节，包含软卧车厢、餐车、多功能客厅车与观光车厢。列车以梦幻紫色为主基调，车身融入多彩民族纹样，尽显西南民族文化特色。车厢设有KTV包厢、棋牌室、茶室等功能空间。软卧采用四人包厢布局，床铺爬梯加宽，兼顾老年旅客出行安全。包厢内配备茶桌、电视、充电插座。观光车厢设置超大落地观景玻璃，方便旅客观赏景色。 本列专线去程贵阳出发，经停遵义、重庆西、成都西、峨眉、西昌西等站点抵达攀枝花南；返程从攀枝花南开出，经西昌西、成都西、重庆西、遵义等站点返回贵阳。列车运行时刻、售票信息以12306官方实时信息为准，旅客可通过12306APP购票。 （来源：天眼新闻）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Group has resumed operation of the "Jinxiu Shanhe Duocai Guizhou" Y-series special tourism train, running a scenic round-trip route connecting Guiyang and Panzhihua South. Outbound departures from Guiyang call at Zunyi, Chongqing West, Chengdu West, Emei, and Xichang West before terminating at Panzhihua South; return journeys call at Xichang West, Chengdu West, Chongqing West, and Zunyi back to Guiyang. The 11-carriage train features four-berth soft sleeper compartments, a dining car, a multi-functional lounge, and an observation car with panoramic glass windows. Real-time timetables and ticket bookings are available through the official Railway 12306 app.
+
+> **Verified Source**: [Guiyang Municipal Bureau of Culture and Tourism (贵阳市文化和旅游局, Sina Weibo)](https://weibo.com/2473528064/RpRnwke9r)
+
+---
+
+### November 4, 2026 &bull; 16:44 CST
+#### Dali Gantong Cableway Suspends Operations on November 5 for Scheduled Safety Inspection
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为了给大家提供更安全、舒适的游玩体验，根据年度工作计划，11月5日感通索道将进行设备安全检测，期间将暂停运营，请合理安排行程。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Gantong Cableway in Dali will suspend passenger operations for one day on November 5, 2026, to carry out scheduled annual equipment safety inspections. Travelers planning visits in Dali on this date should adjust their sightseeing and transit schedules accordingly.
+
+> **Verified Source**: [Dali Prefecture Bureau of Culture and Tourism (大理文旅发布厅, Sina Weibo)](https://weibo.com/1959521522/RpPLScwKE)
+
+---
+
 ### November 4, 2026 &bull; 11:16 CST
 #### Nalati Scenic Area Suspends Online Self-Driving Booking for In-Person Registration
 
