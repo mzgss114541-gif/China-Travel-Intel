@@ -6,6 +6,19 @@
 
 ---
 
+### November 5, 2026 &bull; 17:10 CST
+#### Direct Flights Between Nanning and Haiphong Launch on November 10
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为持续织密广西面向东盟的航线网络，助力中国与越南经贸文旅交流，北部湾航空将于11月10日开通南宁直飞越南海防往返航线，这是2026年冬春航季北部湾航空在东盟方向新增的一条国际客运航线，将进一步夯实南宁面向东盟门户枢纽地位。 南宁—海防航班号为GX8989/GX8990，班期为每周二、周六。去程GX8989，14:00从南宁吴圩国际机场起飞，15:05抵达海防吉碑国际机场；返程GX8990，16:05从海防起飞，17:10落地南宁（以上时刻均为北京时间）。需要注意的是，越南海防比北京时间慢1小时，提醒广大旅客购票、规划行程时留意时差，避免误机。 海防是越南北部重要港口城市，毗邻世界自然遗产下龙湾，兼具临港产业优势与滨海旅游资源，是越南北部经贸、物流、文旅重镇。本次直飞航线开通后，两地往来时间大幅压缩，为商务客商、研学团队、游客搭建了高效空中通道，国内旅客可经南宁便捷中转直达海防，并通过越南北部城市群。 2026年冬春航季，北部湾航空统筹运力布局，新增多条国内、国际航线，持续完善“一主两辅”枢纽网络。目前，公司常态化运营南宁—曼谷、南宁—河内、南宁—万象、济南—桂林—河内等东盟国际航线。南宁—海防航线开通后，北部湾航空在中越之间的空中通道进一步拓宽，广西对接越北市场的航空通道更加丰富。作为新海航旗下航空公司，北部湾航空长期深耕中国—东盟航空市场，此次新航线开通将有力促进中越跨境商贸往来与文旅互访，助力广西深度对接东盟市场。
+
+**🇬🇧 Actionable Travel Intel**:  
+GX Airlines will inaugurate direct round-trip flights between Nanning Wuxu International Airport and Haiphong Cat Bi International Airport on November 10. Operating under flight numbers GX8989 and GX8990 every Tuesday and Saturday, outbound flights depart Nanning at 14:00 and arrive in Haiphong at 15:05; return flights depart Haiphong at 16:05 and land in Nanning at 17:10 (all Beijing Time). Passengers should note Haiphong is 1 hour behind Beijing Time.
+
+> **Verified Source**: [Nanning Municipal Bureau of Culture and Tourism (南宁文旅, Sina Weibo)](https://weibo.com/1971263622/RpZn5vw3Z)
+
+---
+
 ### November 4, 2026 &bull; 09:31 CST
 #### 2026 Guangzhou International Light Festival Scheduled for December 4–14 with Reservation Rules
 

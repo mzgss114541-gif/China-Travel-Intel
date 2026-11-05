@@ -6,6 +6,19 @@
 
 ---
 
+### November 5, 2026 &bull; 16:20 CST
+#### Kunming Jiaozishan Cableway Suspends Operations for Maintenance November 5 to 12
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 注意！11月5日至12日停运，昆明轿子山旅游索道暂停运营，将进行安全检查维修，预计11月13日恢复运营！ 昆明日报掌上春城的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The Jiaozishan Tourist Cableway in Kunming is suspending operations from November 5 to 12 for safety inspection and maintenance. Service is expected to resume on November 13.
+
+> **Verified Source**: [Kunming Municipal Bureau of Culture and Tourism (文旅昆明, Sina Weibo)](https://weibo.com/2858745682/RpZ2Lp8qf)
+
+---
+
 ### November 4, 2026 &bull; 11:16 CST
 #### Nalati Scenic Area Suspends Online Self-Driving Booking for In-Person Registration
 
