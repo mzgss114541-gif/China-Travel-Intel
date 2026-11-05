@@ -6,32 +6,6 @@
 
 ---
 
-### November 5, 2026 &bull; 12:30 CST
-#### Wuyishan Resumes Direct Charter Flights to Seoul with 48 Scheduled Services
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 11月4日，福建武夷山直飞韩国首尔旅游定制航线正式复航。厦门边检总站宁德边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线将于11月4日至次年1月22日共执飞48个班次。（文/图：范正雄）
-
-**🇬🇧 Actionable Travel Intel**:  
-Direct international charter flights between Wuyishan in Fujian Province and Seoul, South Korea officially resumed on November 4. Operating under Ningde immigration inspection of the Xiamen General Station of Exit and Entry Frontier Inspection, the customized air route is scheduled to operate 48 flights between November 4 and January 22. This service provides direct international air access to the Mount Wuyi UNESCO World Heritage area.
-
-> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RpXx4g4Gn)
-
----
-
-### November 5, 2026 &bull; 08:30 CST
-#### Nanchang Railway Bureau Adds Autumn Tourism Services Linking Jingdezhen, Wuyuan, and Coastal Fujian
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【秋游正当时 “票根”享折扣 南铁加开多趟“秋游”列车方便旅客畅游赣闽】 入秋以来，全国多地陆续发布中小学秋假实施方案，“秋假”“亲子”“赏秋”等关键词热度持续攀升。中国铁路南昌局集团有限公司11月起加开多趟“秋游”列车，联动赣闽两省文旅部门和相关景区推出优惠政策，方便各地游客来赣闽两省“赏秋”。 据了解，南铁科学配置运能，每日加开景德镇北往返长沙南的G4311/6次、南昌西往返长沙南的G4315/2次等列车6趟，方便赣湘两省群众跨域“秋游”。利用周末时段，加开景德镇北往返上海南的G4195/6次、南昌东往返杭州西的G4270/69次、南昌西往返长沙南的G4201/2次、婺源往返长沙南的G4615/6次、赣州西往返武汉的G4864/3次、赣州西至深圳的G4255次等列车11趟，方便上海、杭州及武汉、长沙等方向旅客来赣闽两省“秋游”。将34对开往沪杭、广深等方向的图定列车重联，提升前往热门城市的运输能力。此外，11月5日至10日，南铁在上饶至济南间加开G4188/7次列车，该列车经停婺源，方便北方游客来婺源“晒秋”。 福建多地市明确了中小学“秋假”时间，福建多个景区面向幼儿园及中小学生推出免门票及票价优惠福利，铁路部门加大周末运力供应，在福州、厦门、漳州、平潭等热门城市间，以及赣闽两省间，加开列车50对，满足江西、福建游客周末短途出行需求。 铁路部门还联动赣闽多地文旅部门及景区，推出“票根”优惠政策。在江西萍乡，旅客持5日内抵达萍乡站、萍乡北站的铁路乘车凭证及本人身份证，可享武功山周边景区花涧里、龙溪秘境等景区门票直降，合作酒店、餐饮门店最低8.5折，户外装备、本地特产文创享8折优惠。在江西抚州，铁路部门联动文昌里景区推出票根福利，旅客凭始发、终到站为抚州站的7日内乘车凭证，前往文昌里售票窗口兑换，即可享寻梦牡丹亭实景演出门票特惠价。在福建龙岩，游客持从龙岩站、古田会址站出发或到达的乘车凭证，可享梅花山华南虎园景区门票5折、步云索道往返8.5折、园区住宿8折及森林体验项目单项5折等多项礼遇。在福建将乐，凭乘车凭证可享玉华洞景区门票5折优惠。 南铁还在赣闽两省多个秋游热门城市间，推出“寻闽记·海丝、茶韵、丹霞的邂逅”“赣闽红韵·踏访名城之旅”2款旅游计次票产品，串联南昌、赣州、龙岩、福州、厦门、泉州等热门旅游城市，旅客一次购票即可灵活组合行程，儿童旅客可享成人票价五折优惠。旅游计次票产品可通过12306平台查询预订。 下一步，南铁将继续围绕旅客“秋游”出行需求，合理调配运能，有需求的旅客可及时关注铁路12306客户端（含网站），选择适宜产品。 （文图：付森 吴楚月 姜媛 杨佳煜）
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway Nanchang Bureau has expanded autumn rail capacity across Jiangxi and Fujian provinces. Daily additions include 6 train trips between Jingdezhen North, Nanchang West, and Changsha South (G4311/6, G4315/2). Weekend services add 11 train runs connecting Jingdezhen North to Shanghai South (G4195/6), Nanchang East to Hangzhou West (G4270/69), and Wuyuan to Changsha South (G4615/6). Between November 5 and 10, additional G4188/7 trains operate between Shangrao and Jinan stopping at Wuyuan for seasonal tourism. Within Fujian, 50 pairs of weekend trains have been added across Fuzhou, Xiamen, Zhangzhou, and Pingtan. Additionally, 2 regional multi-ride tourism packages connecting Nanchang, Ganzhou, Longyan, Fuzhou, Xiamen, and Quanzhou are available on 12306.
-
-> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RpVXEns9Z)
-
----
-
 ### November 4, 2026 &bull; 12:25 CST
 #### Wuxi Offers 50% Scenic Spot Discount and 20% Hotel Discount for Inbound and Domestic Travelers
 
@@ -744,3 +718,297 @@ Over the next three days, precipitation affecting China will increase and intens
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
 
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
+
+---
+
+### October 14, 2026 &bull; 18:28 CST
+#### Anhui: Free Entry to Huangshan, Jiuhuashan and Hefei Sunac Land with Carnival Ticket Stub
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 黄山风景区、九华山风景区、合肥融创乐园 专属免票福利！ ✅以上三个场所采用现场核验方式 https://mp.weixin.qq.com/s/onP_6AJyKptzwStqI6ThCQ
+
+**🇬🇧 Actionable Travel Intel**:  
+Anhui's provincial culture and tourism authority has announced that from October 15 to December 31, 2026, holders of a Wanmei Performing Arts Carnival ticket stub can obtain free admission to Huangshan Scenic Area, Jiuhuashan Scenic Area and Hefei Sunac Land. Verification for all three venues is carried out on site.
+
+> **Verified Source**: [Anhui Provincial Department of Culture and Tourism (安徽文旅, Sina Weibo)](https://weibo.com/2062557711/RmEtKmiAO)
+
+---
+
+### October 14, 2026 &bull; 18:15 CST
+#### Suzhou Launches 1-Yuan Discount Ticket Stub Linking Hotels, Dining, Cruises and Shows
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 1元钱，能为一趟苏州之旅带来哪些实惠？10月9日，一张串联酒店、餐饮、游船、演出和文创购物的"票根"在虎丘山风景名胜区正式发布——市民游客凭这张优惠凭证，可在参与活动的商户和项目享受相应优惠。 🎟 领取方式：活动期间正常购票进入虎丘山景区的游客，前往虎丘山风景名胜区南门出口处，仅需以1元购入专属联动票根即可参与（后续活动点位将逐步扩大至其他参与单位的旅游景区、景点）。 🧾 票根颜值与功能双在线：票面以苏州古城插画为主体，自带江南氛围感、可收藏；正面印有活动主题标语与专属二维码，扫码可查看完整优惠H5页面；背面清晰罗列吃、住、行、游、购、娱六大类权益，搭配专属打孔核销区。 ✅ 两类核销规则：多次畅享类（无打孔）——酒店住宿、苏式餐饮、文创购物等福利，有效期内可无限次使用，每次出示票根即可享折扣；打孔核销类（单次专属）——盘门景区、运河游船、精品演出等项目，核销后打孔标记，一票可携4人同享优惠、单次核销不可重复使用。 📌 注意事项：所有优惠权益有效期至2026年12月31日；文博场馆常规周一闭馆；酒店、非遗体验需提前预约，节假日部分房型价格微调；票根不能替代园林景区门票，部分项目需提前预约，具体权益及使用条件以活动正式发布为准。 一张小小票根，串联整座江南烟火。这个秋冬，逛景区、泛小舟、品苏味、宿雅院、赏好戏，沉浸式读懂苏式生活的温柔与雅致🌿 原文链接： https://mp.weixin.qq.com/s/masoRZnxlbhOwF1hXEMGUw
+
+**🇬🇧 Actionable Travel Intel**:  
+On October 9, a discount ticket stub linking hotels, dining, boat cruises, performances and cultural-creative shopping was launched at Huqiu Hill Scenic Area in Suzhou. Visitors who buy a standard admission ticket to Huqiu Hill during the campaign can purchase the dedicated stub for 1 yuan at the south gate exit of Huqiu Hill Scenic Area. The stub lists benefits across dining, accommodation, transport, sightseeing, shopping and entertainment. Multi-use benefits such as hotel stays, Suzhou-style dining and cultural-creative shopping can be used repeatedly within the validity period, while single-use items such as Panmen Scenic Area, canal cruises and selected performances are punched once and can cover up to 4 people per stub. All benefits are valid until December 31, 2026. Museums and cultural venues are normally closed on Mondays, hotels and intangible-heritage experiences require advance booking, and the stub does not replace garden admission tickets.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RmEobehjH)
+
+---
+
+### October 14, 2026 &bull; 16:02 CST
+#### Qingdao Zhanqiao Pier's Huilan Pavilion Suspends Visits for Renovation from October 13
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 关于栈桥回澜阁保护修缮期间暂停参观游览的公告📢 修缮工程已开工，预计12月中旬竣工 🚧自10月13日22时起 对回澜阁及周边区域实施封闭管控 施工期间暂停参观游览 请广大市民、游客合理规划游览行程 via：魅力海滨
+
+**🇬🇧 Actionable Travel Intel**:  
+The Huilan Pavilion at Zhanqiao Pier in Qingdao and its surrounding area were placed under closure control from 10 PM on October 13 for a conservation and renovation project. Visiting is suspended during the construction period, and the project is expected to be completed in mid-December. Visitors are advised to plan their itineraries accordingly.
+
+> **Verified Source**: [Qingdao Municipal Bureau of Culture and Tourism (青岛市文化和旅游局, Sina Weibo)](https://weibo.com/2115980191/RmDwsqZMY)
+
+---
+
+### October 14, 2026 &bull; 15:30 CST
+#### Hangzhou Launches Dedicated Autumn Osmanthus-Viewing Bus Line
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 桂花是浙江杭州的市花，眼下，杭州各处桂花陆续绽放，满城馥郁芬芳，赏桂季正式开启。杭州专门开通秋日赏桂公交专线，运营时间持续至11月11日。（来源：央视网） 交通运输部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Hangzhou has launched a dedicated autumn osmanthus-viewing bus line, with operations running through November 11. Osmanthus is the city flower of Hangzhou, and blooms across the city are marking the start of the osmanthus-viewing season.
+
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RmDjda8nA)
+
+---
+
+### October 14, 2026 &bull; 15:00 CST
+#### Shanghai Railway Group to Add 7 Peak-Hour Commuter Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为方便上海、嘉兴、杭州等地居民早晚高峰通勤， 计划增开早晚高峰通勤列车7列，其中城际早通勤列车5列、城际晚通勤列车2列。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Group plans to add 7 peak-hour commuter trains to serve residents commuting between Shanghai, Jiaxing, and Hangzhou, comprising 5 morning intercity commuter trains and 2 evening intercity commuter trains.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RmD71CRsu)
+
+---
+
+### October 13, 2026 &bull; 15:00 CST
+#### China Railway Bohai Ferry Adjusts Free Shuttle Bus Stops at Yantai North Station
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为进一步方便旅客进港乘车，中铁渤海铁路轮渡烟台北站免费进港大巴车站点调整如下： 站点1：火车站北广场（中铁快运烟台站营业部门前）； 站点2：烟台汽车总站（青年路鑫荟金行站）； 发车时间：开航前1.5小时。 请大家留意乘车位置变化，合理规划出行路线，避免耽误行程。中铁渤海铁路轮渡祝您旅途顺利！（刘嘉 戴少毅 段丽静）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Bohai Railway Ferry announced adjustments to the free port-entry shuttle bus pick-up locations for Yantai North Station. Shuttle bus service departs 1.5 hours prior to sailing. Stop 1 is located at the Railway Station North Square in front of the China Railway Express Yantai business department, and Stop 2 is located at the Yantai Central Bus Station near the Qingnian Road Xinhui Gold Store stop. Passengers should note the pick-up location changes to avoid travel delays.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RmtGxqL8a)
+
+---
+
+### October 13, 2026 &bull; 12:00 CST
+#### China Railway Nanchang Group: Newly Built Yiwu Station Building Opens for Interconnected High-Speed Rail Operations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月9日，新建义乌站站房正式启用，“世界超市”义乌迎来一座联通八方的现代化新门户。新站房投用后，沪昆高铁、杭温高铁、沪昆铁路、甬金铁路，以及在建金义三四线在此互联互通，实现“南北双进站、上进下出”的立体化组织体系，并与城市轨道交通、公交、社会车辆等无缝衔接，成为服务全城、辐射浙中的“城市客厅”。 中国铁路的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+The newly constructed Yiwu Railway Station building officially entered operation on October 9, interconnecting the Shanghai-Kunming High-Speed Railway, Hangzhou-Wenzhou High-Speed Railway, Shanghai-Kunming Railway, Ningbo-Jinhua Railway, and the under-construction Jinhua-Yiwu third and fourth lines. The upgraded hub implements a dual north-south station entrance and upper-level entry, lower-level exit passenger flow system with direct transfers to urban rail transit, public buses, and private vehicles.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RmsvtcecA)
+
+---
+
+### October 13, 2026 &bull; 08:47 CST
+#### Anhui Xuancheng Station: Updated Railway Timetable Operates 94 Pairs of High-Speed Trains From October 11
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月11日零时起，全国铁路实行新的列车运行图，从宣城站获悉，调图后，宣城站安排开行图定旅客列车116.，5对其中高速列车94对，普速列车22.5对。戳图了解↓↓
+
+**🇬🇧 Actionable Travel Intel**:  
+Following the national railway timetable adjustment effective at midnight on October 11, Xuancheng Station operates 94 pairs of high-speed trains and 22.5 pairs of conventional-speed trains.
+
+> **Verified Source**: [Xuancheng Municipal Bureau of Culture and Tourism (宣城文旅, Sina Weibo)](https://weibo.com/2146627190/RmrfacPg8)
+
+---
+
+### October 12, 2026 &bull; 08:05 CST
+#### China Railway Kunming Group: Mohan Railway Port No-Visa-on-Arrival Notice and Kunming South High-Speed Rail Ticket Update
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 余票充足； 昆明南—北京方向 余票充足； 昆明南—上海方向 余票充足； 昆明南—广州方向 余票充足； 昆明南—深圳方向 余票充足； 昆明南—武汉方向 余票充足； 昆明南—成都方向 余票充足； 昆明南—重庆方向 余票充足； 昆明南—贵阳方向 余票充足； 昆明南—南宁方向 余票充足； 小提示：磨憨铁路口岸不办理落地签，国内昆明、昆明南、普洱、西双版纳、磨憨车站可换纸质车票。铁路12306是唯一官方售票平台，请勿通过第三方平台提供账号和身份证信息。出门前请再确认一次日期、车站和时间，祝您旅途愉快。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Kunming Group reminds passengers that Mohan Railway Port does not process visas on arrival, and paper tickets can be exchanged at domestic railway stations including Kunming, Kunming South, Pu'er, Xishuangbanna, and Mohan. High-speed rail tickets departing Kunming South toward Beijing, Shanghai, Guangzhou, Shenzhen, Wuhan, Chengdu, Chongqing, Guiyang, and Nanning currently have sufficient availability. Railway 12306 is the sole official ticketing platform; travelers are advised not to share account or identity information with third-party platforms and to reconfirm travel date, station, and departure time before boarding.
+
+> **Verified Source**: [China Railway Kunming Group (昆明铁路, Sina Weibo)](https://weibo.com/1920078035/RmhxNEbdc)
+
+---
+
+### October 11, 2026 &bull; 15:00 CST
+#### Quzhou Announces Free Admission to 14 Key Scenic Areas with Global Access Starting November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 杭衢旅游季如约开启！10月8日—10月31日，衢州14个重点景区对杭州市户籍市民免首道大门票，景区交通、二次消费等费用自理。11月起免票政策面向全球游客。可通过“衢州文旅”公众号、游浙里等小程序线上预约，也能持杭州户籍身份证现场预约。14个景区分为登高赏秋、古建人文、山水洗肺、轻量周末四大类，涵盖江郎山、廿八都、根宫佛国、钱江源等。杭州前往衢州高铁最快50多分钟，也可选直通车或自驾，秋游赏景、品尝衢州美食正合适。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Hang-Qu Tourism Season has launched in Zhejiang: from October 8 to October 31, 14 key scenic areas across Quzhou offer free first-gate admission to registered Hangzhou residents, and starting in November the free admission policy expands to global visitors (internal scenic transport and secondary consumption fees are self-paid). Reservations can be made online via the "Quzhou Culture and Tourism" WeChat official account or the "Youzheli" mini-program, or on-site with a Hangzhou household registration ID card. The 14 participating scenic areas span four categories—autumn mountain climbing, ancient architecture and culture, nature and forest retreats, and light weekend trips—covering Jianglang Mountain, Nianbadu, Root Palace Buddhist Cultural Zone, and Qianjiangyuan, with high-speed rail from Hangzhou to Quzhou taking just over 50 minutes alongside direct tourist bus and self-driving options.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/RmaPxnL1L)
+
+---
+
+### October 9, 2026 &bull; 14:00 CST
+#### Zhangjiagang Museum: Temporary Closure for Exhibition Hall Upgrades Starting October 10
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 张家港博物馆自10月10日起临时闭馆 各位市民、观众朋友： 因博物馆大厅改造、通史厅等多个展厅提升维护工作需要，本馆将于10月10日（周六）起临时闭馆，开馆时间另行通知。由此给您带来的不便，敬请谅解，感谢您的理解、支持与配合！
+
+**🇬🇧 Actionable Travel Intel**:  
+Zhangjiagang Museum announced a temporary closure beginning October 10 for hall renovations and exhibition space maintenance. Reopening dates will be announced separately.
+
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州文化旅游资讯, Sina Weibo)](https://weibo.com/2571243254/RlRAx53nz)
+
+---
+
+### October 9, 2026 &bull; 07:55 CST
+#### Shanghai Railway Hub Opens Ticket Sales Window Through October 23 Across 10 Stations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今日是2026年10月9日，通过12306网站、铁路12306手机App、电话订票、自动售票机、车站窗口和代售点方式可购2026年10月23日(含)之前的车票。今日铁路上海站（下辖上海站、上海南站、上海虹桥站、上海松江站、上海西站、南翔北站、安亭西站、安亭北站、金山北站、练塘站）预计发送旅客27.5万人，其中上海站7.4万人，上海南站4.0万人，上海虹桥站13.8万人，上海松江站1.7万人，到达旅客34.4万人，其中上海站9.3万人，上海南站4.2万人，上海虹桥站17.5万人，上海松江站2.9万人。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Station announced that passenger train tickets through October 23, 2026, are available for purchase across official 12306 channels, station ticket windows, and self-service kiosks. The administrative hub coordinates passenger operations across 10 railway stations, including Shanghai Station, Shanghai South, Shanghai Hongqiao, and Shanghai Songjiang.
+
+> **Verified Source**: [Shanghai Railway Station (China Railway Shanghai Group) (铁路上海站, Sina Weibo)](https://weibo.com/1917205532/RlPc7iILy)
+
+---
+
+### October 8, 2026 &bull; 16:49 CST
+#### Holiday Travel Consumption Review: County Destinations and In-Depth Cultural Tourism Experience Surge
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 途牛联合中国移动梧桐数据发布《2026国庆出游消费盘点》：超长假期点燃文旅消费活力，境内小城游、出境长线深度游热度攀升。受“请3休13”“年度最佳拼假攻略”带动，今年国庆假期出游热潮得以提前释放，大众旅游消费需求从“7天集中爆发”转向“13天分段释放”。传统热门城市热度领跑，小城游、县域旅游加速增长；传统文化游、赏秋游、红色旅游、观赛观演游、夜游等多元需求叠加，以情绪价值和体验型消费为核心的慢节奏、长停留、深体验、高品质旅游产品成为主流之选。#国庆中秋假期出行数据图鉴#
+
+**🇬🇧 Actionable Travel Intel**:  
+Shanghai Municipal Administration of Culture & Tourism shared the Golden Week travel consumption review, highlighting an evolving preference for extended, segmented travel and immersive regional tourism. While traditional destination cities maintained strong interest, county-level destinations, autumn tours, and evening cultural activities experienced rapid expansion, with slow-paced, in-depth cultural itineraries becoming mainstream choices.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RlJgmomaP)
+
+---
+
+### October 8, 2026 &bull; 10:52 CST
+#### Suzhou Museum Launches Seasonal Aesthetic Exhibition Through November 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 适逢苏州博物馆本馆建成开放二十周年，金秋喜至，苏州博物馆再度携手知名生活美学大师齐云先生，联合推出 “秋赏——齐云节气生活美学特展”。本次特展于9月29日亮相苏州博物馆本馆大厅及太平天国忠王府庭院，展期持续至11月1日。 秋尽霜临，万物敛色，枝头红柿却缀满寒秋，绘出独属于秋日的温暖景致。齐云先生设计的艺术装置作品《秋赏》，以寓意不同地域、不同民族的形制各异的窗框重构组合，打造沉浸式秋日艺术场景，展现千姿百态的秋日风光、多元的地域文化与审美视角。同时场景中特别设计了一套传统非遗竹编餐桌，以无用空间再利用为理念，让艺术与生活完美融合！山河秋色各有不同，而高悬枝头的红柿，是跨越地域与风俗的共同文化符号与集体记忆。 自古秋柿藏温情，红彤彤的硕果承载着大众纯粹的儿时美好回忆。作品以诗为韵、以窗为境、以柿为魂。
+
+**🇬🇧 Actionable Travel Intel**:  
+Suzhou Museum opened the special exhibition Autumn Appreciation, running from September 29 through November 1 across the main museum hall and the courtyards of the historic Prince Zhong Mansion. The exhibition features immersive seasonal art installations and intangible heritage craftsmanship celebrating traditional regional living aesthetics.
+
+> **Verified Source**: [Suzhou Municipal Bureau of Culture, Radio, TV and Tourism (苏州市文广旅局, Gov.cn)](http://wglj.suzhou.gov.cn/szwhgdhlyj/hdxx/202610/4d2a7a43f547415688e4478ec8deae12.shtml)
+
+---
+
+### October 8, 2026 &bull; 08:31 CST
+#### China State Railway Group: Peak Return Passengers Handled with 2,449 Extra Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【全国铁路迎来返程客流最高峰！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。10月6日，全国铁路发送旅客2160.5万人次，连续三天旅客发送量超2000万人次，运输安全平稳有序。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、成都、西安、武汉、杭州、重庆等。各地铁路部门积极应对客流高峰，在热门方向和区间及时增加运力投放，保障旅客平安有序温馨出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+China State Railway Group reported that national railways handled their return passenger peak on October 7, with an estimated 24,150,000 passenger journeys and 2,449 additional passenger trains scheduled. On October 6, 21,605,000 passengers were dispatched. Top departure cities identified through Railway 12306 included Beijing, Guangzhou, Chengdu, Xi'an, Wuhan, Hangzhou, and Chongqing.
+
+> **Verified Source**: [China Railway Lanzhou Group (中国铁路兰州局, Sina Weibo)](https://weibo.com/1920359817/RlG0vmyWf)
+
+---
+
+### October 7, 2026 &bull; 18:04 CST
+#### Yangtze River Delta Railway: Historic Peak Dispatched with 557 Relief Trains & 210 Overnight Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【长三角铁路迎来返程客流最高峰 增开夜间高铁210列！】10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，上铁集团当天预计发送旅客415万人次，较去年同比增长17.7%。上铁集团在启用高峰线运行图的基础上，计划增开南昌、武汉、广州、郑州、临沂等方向旅客列车557列（其中直通旅客列车216列，管内旅客列车341列），组织427列动车组列车重联运行；同时，计划于10月7日晚间至10月8日凌晨增开夜间高铁列车210列，重点补充管内及直通热门方向运力，更好地满足旅客乘车出行需求。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Bureau recorded a peak travel volume on October 7 with an estimated 4,150,000 passenger dispatches (+17.7% YoY) across the Yangtze River Delta network. Authorities scheduled 557 additional passenger trains (216 direct, 341 regional) toward destinations including Nanchang, Wuhan, Guangzhou, Zhengzhou, and Linyi, coupled 427 EMU trainsets, and operated 210 overnight high-speed trains between the evening of October 7 and the early morning of October 8.
+
+> **Verified Source**: [China Railway Shanghai Group (中国铁路上海局, Sina Weibo)](https://weibo.com/1919688583/RlAkpDvXx)
+
+---
+
+### October 6, 2026 &bull; 17:09 CST
+#### Yangtze River Delta Railway: Passenger Flow Mobilized with 553 Added Passenger Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【长三角铁路迎来节中返程客流高峰！计划增开旅客列车553列】10月6日是国庆假期第六天，长三角铁路迎来节中返程客流高峰，当天预计发送旅客390万人次。午后起，上海、南京、杭州、合肥、宁波、南通、盐城、扬州多地火车站将迎节中返程集中客流。10月5日，上铁集团发送旅客384.1万人次。自9月23日中秋国庆假期运输启动以来，截至10月5日，长三角铁路累计发送旅客4483万人次，日均发送约344.8万人次。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Bureau dispatched an estimated 3,900,000 passengers on October 6 across the Yangtze River Delta corridor. Rail stations in Shanghai, Nanjing, Hangzhou, Hefei, Ningbo, Nantong, Yancheng, and Yangzhou handled concentrated return passenger flows from the afternoon onward, supported by 553 scheduled additional passenger trains.
+
+> **Verified Source**: [China Railway Shanghai Group (中国铁路上海局, Sina Weibo)](https://weibo.com/1919688583/RlqxDx2Bw)
+
+---
+
+### October 6, 2026 &bull; 07:59 CST
+#### Guangxi Implements Cross-Regional Buy-Now Refund-Now Departure Tax Service
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+>【“即买即退”全国异地互认9月落地 入境消费升温 退税服务提速】国庆假期，入境消费持续升温。为做好退税服务保障，广西加速推动离境退税“即买即退”向重点商圈、旅游景区延伸，优化多语种服务，延长集中退付点服务时长，推动“即买即退”全国异地互认政策落地，不断提升退税服务便利度。
+今年2月，南宁率先与北京、天津等16个省区市实现“即买即退”跨口岸互认；7月，广西与湖南、福建、广东、海南等6个省区市实现口岸互认；9月1日起，“即买即退”全国异地互认正式落地。
+“异地互认落地后，境外旅客在南宁退税商店购物，办理‘即买即退’并当场领取退税预付金后，可自由选择任一离境口岸完成海关核验，无需返回购物地，真正实现‘一地购物、多地离境’。”南宁市税务局第二税务分局副局长罗燕娜说，结合今年7月1日起实施的无纸化退税、小额抽检制度等措施，退税办理流程和时长进一步压缩。
+前不久来南宁参加第23届东博会的林女士对此感受颇深：“之前来中国购物，离境只能从南宁返程。有了互认政策，东博会结束后，我会先到桂林游玩，再去上海，直接从上海离境。”
+“全国异地互认举措真正补上了我们商场跨境消费服务的短板。”南宁杉杉奥特莱斯商业广场有限公司总经理夏飞说，过去，境外旅客购物退税需攒齐单据，离境时到口岸排队，环节多、耗时长，不少人因行程不匹配或嫌麻烦而放弃；如今，境外旅客可在商场开具申请单后到集中退付点办理退税，全国任一具备资质的离境口岸均可核验，不必再返回购物城市。
+政策叠加效应进一步显现。今年9月，广西开启2026“惠购广西”离境退税消费季活动，面向境外来桂商旅人士发放5万份“入境有礼”消费立减补贴，让境外旅客在退税商店消费时可同时享受“退税+立减”双重优惠。
+“退税服务便利度提升，叠加消费政策升级，在一定程度上提升了境外旅客的消费意愿，也为我们做好今年国庆假期入境消费服务增添了信心。”夏飞告诉记者，为提升境外旅客假期入境消费体验，商场在总服务台和核心品牌区加派专人值守，现场解答境外旅客退税咨询，协助其办理手续；同时，与符合条件的门店沟通，引导导购主动提醒境外旅客办理退税，避免因不了解退税政策错过优惠。
+不仅杉杉奥特莱斯如此，记者走访发现，南宁万象城、南宁百货大楼、南宁梦之岛水晶城等离境退税特色商圈均在核心区域设置退税服务台，为境外旅客提供退税政策引导、咨询和办理服务。
+“目前，南宁市备案的离境退税商店已有168家、313个经营网点，覆盖特色文创、农副特产、智能科技、日用百货等多个品类。”罗燕娜表示，将持续扩大“即买即退”覆盖范围，优化办理流程，丰富退税商品供给，助推“入境流量”转化为“消费留量”。
+
+**🇬🇧 Actionable Travel Intel**:  
+Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service across key commercial districts and scenic areas: following cross-port recognition between Nanning and 16 provinces/municipalities in February and 6 provinces (including Hunan, Fujian, Guangdong, and Hainan) in July, nationwide cross-regional mutual recognition took effect on September 1. Combined with paperless tax refunds and small-amount sampling implemented on July 1, overseas travelers shopping at tax-refund stores in Nanning can receive tax refund advances on-site and complete Customs verification at any qualified departure port nationwide without returning to the purchase city ("single-location shopping, multi-port departure"). In September, Guangxi also launched the 2026 "Huigou Guangxi" departure tax refund consumption season, issuing 50,000 instant-discount subsidies so inbound travelers enjoy dual "tax refund + instant discount" benefits. Major commercial complexes—including Shanshan Outlets, Nanning MixC, Nanning Department Store, and Mengzhidao Crystal City—have set up dedicated tax refund service desks, supported by 168 registered departure tax-refund stores across 313 retail outlets in Nanning.
+
+> **Verified Source**: [People's Government of Guangxi Zhuang Autonomous Region (广西壮族自治区人民政府, Gov.cn)](http://www.gxzf.gov.cn/zzqzyxx/t28189945.shtml)
+
+---
+
+### October 5, 2026 &bull; 07:30 CST
+#### Direct Passenger Flight Resumes: Qingdao to Vancouver Weekly Route
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10月2日，山东青岛直飞加拿大温哥华客运航线正式复航。山东边检总站青岛机场边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线每周五执飞一班。（文：徐哲/图：朱杰）
+
+**🇬🇧 Actionable Travel Intel**:  
+The direct passenger air route between Qingdao and Vancouver officially resumed on October 2, with international flights operating weekly on Fridays. Qingdao Airport border inspection deployed optimized duty arrangements to maintain passenger clearance for incoming and departing travelers.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RldjUcMIZ)
+
+---
+
+### October 4, 2026 &bull; 14:11 CST
+#### Shanghai Forbidden City Treasures Exhibition: Final Days Ahead of October 7 Conclusion
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【倒计时！故宫珍宝特展即将结束！】国庆赏国风古韵，国采特展进入收官倒计时。10月7日，“国采 —— 故宫藏清代帝后服饰展”将在上海迎来最后一天展出，101件故宫珍稀织绣文物也将结束沪上之旅，悉数离沪回京。本次展品大多极少外展，难得一见，不少市民游客抢抓国庆假期走进展馆，沉浸式感受清代皇家服饰承载的东方美学与深厚传统文化底蕴。 #国采大展# #故宫# #上海世博会博物馆# #故宫博物院# #国采故宫藏清代帝后服饰展# @上海黄浦
+
+**🇬🇧 Actionable Travel Intel**:  
+The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Museum" in Shanghai enters its final days, with the last day of exhibition on October 7. The exhibition features 101 rare textile and embroidery artifacts from the Palace Museum before they conclude their display in Shanghai and return to Beijing.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/Rl6waDekB)
+
+---
+
+### October 3, 2026 &bull; 16:57 CST
+#### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RkYb9o4gH)
+
+---
+
+### October 1, 2026 &bull; 10:01 CST
+#### Shanghai Metro Imposes Holiday Station Closures at East Nanjing Road and Yu Garden
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年国庆假期为10月1日至7日，共7天。为保障市民乘客平安便捷出行，上海地铁特制定国庆专项运营服务方案，全面提升网络运营保驾等级和服务供应。其中，9月30日至10月3日，上海地铁1、7、8、9、10、13号线将实施延时运营方案，提升夜间运力；9月30日自20时起至运营结束、10月1日至7日每日自16时起至运营结束，2、10号线南京东路站及14号线豫园站将临时封站，期间10号线豫园站正常运营；长假尾程的10月6日及10月7日， 1、2、10、17号线将加开夜间定点加班车，延时加开的末班车发车时间延至次日0点，全力疏解返程大客流。
+
+**🇬🇧 Actionable Travel Intel**:  
+Shanghai Metro enacted special holiday operations across its rail network for the 7 days holiday period. East Nanjing Road Station on Lines 2 and 10, alongside Yu Garden Station on Line 14, undergo temporary station closures daily from late afternoon at hour 16 until end of service between October 1 and 7 (Line 10 at Yu Garden remains operational). On September 30, closures take effect from hour 20 until end of service. Extended evening train services operate on Lines 1, 7, 8, 9, 10, 13, and 17.
+
+> **Verified Source**: [Shanghai Municipal Administration of Culture and Tourism (乐游上海, Sina Weibo)](https://weibo.com/2014034660/RkCBdoNFM)
