@@ -6,6 +6,19 @@
 
 ---
 
+### November 5, 2026 &bull; 21:34 CST
+#### Shaanxi Heihe National Forest Park Temporarily Closed for Road Maintenance
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> #三秦四季 畅旅欢歌# 黑河国家森林公园即日起闭园！景区道路施工维修，开园时间待定，已购票可退款！ 11月4日，陕西黑河国家森林公园发布公告，因开展道路维修作业，公园即日起临时闭园，禁止游客及旅游车辆入园，恢复开园时间另行通告。已购票游客可在原购票渠道办理退款。 西安广播电视台的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Shaanxi Heihe National Forest Park announced an immediate temporary closure due to road repair and maintenance work. Entry is prohibited for all visitors and tourist vehicles until further notice. Travelers who have already purchased tickets can obtain refunds through their original booking channels.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Sina Weibo)](https://weibo.com/2197723802/Rq1613zX8)
+
+---
+
 ### November 5, 2026 &bull; 16:20 CST
 #### Kunming Jiaozishan Cableway Suspends Operations for Maintenance November 5 to 12
 
