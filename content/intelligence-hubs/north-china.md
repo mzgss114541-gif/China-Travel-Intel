@@ -6,6 +6,19 @@
 
 ---
 
+### November 5, 2026 &bull; 10:58 CST
+#### Beijing-Baotou High-Speed Railway Launches Multi-Ride Passes Across 15 Stations
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，开通计次票、定期票业务的车站包括京包客专沿线的包头、包头东、呼和浩特、呼和浩特东、乌兰察布、清河、北京北、昌平、八达岭长城、东花园北、怀来、下花园北、宣化北、张家口、怀安15座车站。新产品类型包括10次、20次/90日计次票；10次、15次、20次、25次、30次、35次、40次、45次、50次、55次、60次/30日定期票。为京蒙两地间频繁差旅人群提供更灵活的出行选择，高频往返性价比更高。（图片：温宇轩 赵丹妮）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Hohhot Bureau has introduced multi-ride and periodic train ticket products covering 15 stations along the Beijing-Baotou Passenger Dedicated Railway, including Badaling Great Wall, Beijing North, Qinghe, Zhangjiakou, Ulanqab, and Hohhot. Available options include 10-ride and 20-ride passes valid for 90 days, as well as periodic passes offering 10 to 60 rides valid for 30 days. These flexible ticketing passes provide cost-effective options for frequent travelers moving between Beijing, Hebei, and Inner Mongolia.
+
+> **Verified Source**: [China Railway Hohhot Group (草原铁路, Sina Weibo)](https://weibo.com/1920077735/RpWW6qUyF)
+
+---
+
 ### November 4, 2026 &bull; 11:00 CST
 #### Severe Cold Wave and Snowstorm Warning Issued for Northern and Northeastern China
 
@@ -692,6 +705,3 @@ The main scenic area of Baiyangdian in Anxin will be closed for maintenance star
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
 
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
-
----
-

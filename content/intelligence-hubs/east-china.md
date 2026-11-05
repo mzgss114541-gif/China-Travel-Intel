@@ -6,6 +6,32 @@
 
 ---
 
+### November 5, 2026 &bull; 12:30 CST
+#### Wuyishan Resumes Direct Charter Flights to Seoul with 48 Scheduled Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月4日，福建武夷山直飞韩国首尔旅游定制航线正式复航。厦门边检总站宁德边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线将于11月4日至次年1月22日共执飞48个班次。（文/图：范正雄）
+
+**🇬🇧 Actionable Travel Intel**:  
+Direct international charter flights between Wuyishan in Fujian Province and Seoul, South Korea officially resumed on November 4. Operating under Ningde immigration inspection of the Xiamen General Station of Exit and Entry Frontier Inspection, the customized air route is scheduled to operate 48 flights between November 4 and January 22. This service provides direct international air access to the Mount Wuyi UNESCO World Heritage area.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RpXx4g4Gn)
+
+---
+
+### November 5, 2026 &bull; 08:30 CST
+#### Nanchang Railway Bureau Adds Autumn Tourism Services Linking Jingdezhen, Wuyuan, and Coastal Fujian
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【秋游正当时 “票根”享折扣 南铁加开多趟“秋游”列车方便旅客畅游赣闽】 入秋以来，全国多地陆续发布中小学秋假实施方案，“秋假”“亲子”“赏秋”等关键词热度持续攀升。中国铁路南昌局集团有限公司11月起加开多趟“秋游”列车，联动赣闽两省文旅部门和相关景区推出优惠政策，方便各地游客来赣闽两省“赏秋”。 据了解，南铁科学配置运能，每日加开景德镇北往返长沙南的G4311/6次、南昌西往返长沙南的G4315/2次等列车6趟，方便赣湘两省群众跨域“秋游”。利用周末时段，加开景德镇北往返上海南的G4195/6次、南昌东往返杭州西的G4270/69次、南昌西往返长沙南的G4201/2次、婺源往返长沙南的G4615/6次、赣州西往返武汉的G4864/3次、赣州西至深圳的G4255次等列车11趟，方便上海、杭州及武汉、长沙等方向旅客来赣闽两省“秋游”。将34对开往沪杭、广深等方向的图定列车重联，提升前往热门城市的运输能力。此外，11月5日至10日，南铁在上饶至济南间加开G4188/7次列车，该列车经停婺源，方便北方游客来婺源“晒秋”。 福建多地市明确了中小学“秋假”时间，福建多个景区面向幼儿园及中小学生推出免门票及票价优惠福利，铁路部门加大周末运力供应，在福州、厦门、漳州、平潭等热门城市间，以及赣闽两省间，加开列车50对，满足江西、福建游客周末短途出行需求。 铁路部门还联动赣闽多地文旅部门及景区，推出“票根”优惠政策。在江西萍乡，旅客持5日内抵达萍乡站、萍乡北站的铁路乘车凭证及本人身份证，可享武功山周边景区花涧里、龙溪秘境等景区门票直降，合作酒店、餐饮门店最低8.5折，户外装备、本地特产文创享8折优惠。在江西抚州，铁路部门联动文昌里景区推出票根福利，旅客凭始发、终到站为抚州站的7日内乘车凭证，前往文昌里售票窗口兑换，即可享寻梦牡丹亭实景演出门票特惠价。在福建龙岩，游客持从龙岩站、古田会址站出发或到达的乘车凭证，可享梅花山华南虎园景区门票5折、步云索道往返8.5折、园区住宿8折及森林体验项目单项5折等多项礼遇。在福建将乐，凭乘车凭证可享玉华洞景区门票5折优惠。 南铁还在赣闽两省多个秋游热门城市间，推出“寻闽记·海丝、茶韵、丹霞的邂逅”“赣闽红韵·踏访名城之旅”2款旅游计次票产品，串联南昌、赣州、龙岩、福州、厦门、泉州等热门旅游城市，旅客一次购票即可灵活组合行程，儿童旅客可享成人票价五折优惠。旅游计次票产品可通过12306平台查询预订。 下一步，南铁将继续围绕旅客“秋游”出行需求，合理调配运能，有需求的旅客可及时关注铁路12306客户端（含网站），选择适宜产品。 （文图：付森 吴楚月 姜媛 杨佳煜）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Nanchang Bureau has expanded autumn rail capacity across Jiangxi and Fujian provinces. Daily additions include 6 train trips between Jingdezhen North, Nanchang West, and Changsha South (G4311/6, G4315/2). Weekend services add 11 train runs connecting Jingdezhen North to Shanghai South (G4195/6), Nanchang East to Hangzhou West (G4270/69), and Wuyuan to Changsha South (G4615/6). Between November 5 and 10, additional G4188/7 trains operate between Shangrao and Jinan stopping at Wuyuan for seasonal tourism. Within Fujian, 50 pairs of weekend trains have been added across Fuzhou, Xiamen, Zhangzhou, and Pingtan. Additionally, 2 regional multi-ride tourism packages connecting Nanchang, Ganzhou, Longyan, Fuzhou, Xiamen, and Quanzhou are available on 12306.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RpVXEns9Z)
+
+---
+
 ### November 4, 2026 &bull; 12:25 CST
 #### Wuxi Offers 50% Scenic Spot Discount and 20% Hotel Discount for Inbound and Domestic Travelers
 
@@ -718,6 +744,3 @@ Over the next three days, precipitation affecting China will increase and intens
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
 
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
-
----
-

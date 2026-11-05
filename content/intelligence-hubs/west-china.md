@@ -6,6 +6,19 @@
 
 ---
 
+### November 5, 2026 &bull; 09:34 CST
+#### Chengdu Railway Bureau Bolsters Autumn Rail Capacity on Sichuan-Qinghai and Southwest High-Speed Corridors
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 2026年全国秋假于11月拉开帷幕，记者从国铁成都局获悉，铁路部门已制定“秋游”运输方案。秋游期间，国铁成都局重点补强了西安、南宁、昆明等热门城市运力，日均开行旅客列车超1800列。重点加开北京、昆明、南宁等方向直通动车组26列，普速列车8列；在成渝高铁、西成高铁、郑渝高铁、渝贵铁路、成贵铁路、新成昆铁路、川青铁路等热点线路加开管内动车组226列、普速列车20列，同时，针对华东、华南、华北等多个热门方向动车组分阶段实施重联扩编。（来源：四川在线）成都
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Bureau has rolled out an autumn tourism transport plan operating over 1800 daily passenger trains, bolstering capacity toward major hubs including Xi'an, Kunming, and Nanning. The bureau is adding 26 direct EMU high-speed trains and 8 conventional trains toward Beijing, Kunming, and Nanning. Along key regional corridors—including the Sichuan-Qinghai Railway, Chengdu-Chongqing HSR, Xi'an-Chengdu HSR, Zhengzhou-Chongqing HSR, Chongqing-Guiyang Railway, Chengdu-Guiyang HSR, and New Chengdu-Kunming Railway—an additional 226 intra-bureau EMUs and 20 conventional trains are being added. High-speed train formations heading toward East, South, and North China are also being coupled to expand seating capacity.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RpWnKibqN)
+
+---
+
 ### November 4, 2026 &bull; 20:50 CST
 #### Special Tourism Train Connects Guizhou, Chongqing, and Sichuan Between Guiyang and Panzhihua South
 
@@ -1394,6 +1407,3 @@ The ninth Winter Tibet campaign opens on October 15 and offers free admission at
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
 
 > **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RmJoHqUjs)
-
----
-
