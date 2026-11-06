@@ -19,6 +19,32 @@ The Zhujiajian Strait Bridge will be occupied for works from 11 to 18 November, 
 
 ---
 
+### November 6, 2026 &bull; 15:00 CST
+#### Quzhou Promotes Its Global Free-Tour Campaign Around the Longyou Caves
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 全球免费游衢州！今天和浙浙 ~✨龙游石窟是中国乃至世界上迄今发现的规模最大、最神奇的古代地下人工建筑群。踏入这片地底空间，赴一场和姑蔑古文明的探秘之约。 （来源 ）衢州文旅微博的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Quzhou is promoting its global free-tour campaign around the Longyou Caves, which the post describes as the largest and most extraordinary group of ancient underground man-made structures discovered so far in China or anywhere in the world. The post invites visitors to go underground and follow the remains of the Gumie civilisation. It does not state the campaign's dates, the full list of participating sites, or what a visitor must present to qualify, so travelers should confirm those points with the Quzhou authorities before counting on free admission.
+
+> **Verified Source**: [Zhejiang Provincial Department of Culture and Tourism (浙江文旅, Sina Weibo)](https://weibo.com/2273048547/Rq7Ws1OpN)
+
+---
+
+### November 6, 2026 &bull; 08:31 CST
+#### Quzhou Free-Tour Campaign Waives Gate Tickets at Yaowang Mountain and Tianji Longmen
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 全球免费游衢州｜衢江2天1夜短线 衢江95号公路环线🚗速速码住 1⃣️文脉寻踪・考古研学📍高家镇+杜泽镇 ✅适合：历史党｜亲子研学 姑蔑博物馆→盈川古城→杜泽老街 体验拓印、考古互动，打卡千年姑蔑文化 🥢品尝桂花饼 2⃣️针圣故里・山水康养📍黄坛口乡茶坪古村 ✅适合：放松洗肺｜康养 药王山→天脊龙门 看瀑布走栈道，感受针灸文化、药膳养生 🥢品尝黄精土鸡｜住茶坪民宿 3⃣️云端天路自驾线📍湖南镇+举村乡翁源、洋坑村 ✅适合：自驾｜摄影 仙霞湖+盘山公路，逛畲族古村，等晨雾 🥢品尝乌溪江鱼头 4⃣️0 元遛娃专线📍黄坛口乡 ✅适合：徒步吸氧遛娃 全球免费游期间，药王山、天脊龙门免大门票🆓 ✅爬山看瀑布、喂小猴 农家菜实惠，停车10元 / 天 💡贴士：景点之间建议自驾，沿途风景超美
+
+**🇬🇧 Actionable Travel Intel**:  
+During Quzhou's global free-tour campaign, Yaowang Mountain and Tianji Longmen in Qujiang district waive their main gate tickets. The Quzhou culture and tourism authority's post adds that parking costs 10 yuan per day and recommends self-driving between the stops, with good scenery along the way. It lays out short routes on the Qujiang 95 Road loop: the Gumie Museum, Yingchuan old town and Duze old street for archaeology, rubbing workshops and Gumie culture; Chaping old village in Huangtankou township for the Yaowang Mountain to Tianji Longmen walk, with waterfalls and boardwalks; and Xianxia Lake with its winding mountain road, Wengyuan and Yangkeng villages in Jucun township, and a She ethnic old village for drivers and photographers. It also names local dishes including osmanthus cake, Huangjing chicken and Wuxi River fish head, and notes inexpensive farmhouse meals plus monkey feeding and clean-air walking on the mountain route.
+
+> **Verified Source**: [Quzhou Municipal Bureau of Culture and Tourism (衢州文旅微博, Sina Weibo)](https://weibo.com/2119851590/Rq5oyoKUw)
+
+---
+
 ### November 4, 2026 &bull; 12:25 CST
 #### Wuxi Offers 50% Scenic Spot Discount and 20% Hotel Discount for Inbound and Domestic Travelers
 
