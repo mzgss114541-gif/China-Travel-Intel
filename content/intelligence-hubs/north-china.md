@@ -19,6 +19,19 @@ A direct shuttle between Harbin Taiping International Airport and the Yabuli res
 
 ---
 
+### November 6, 2026 &bull; 14:33 CST
+#### Heilongjiang Builds One-Stop Inbound Services at Its Airport and Border Ports
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今年1至10月，接待入境游客180.5万人次、实现入境游客花费198.1亿元，同比分别增长35.6%、36.7%。入境游的火热，对配套服务提出了更高要求。11月5日，在省政府新闻办举行的“2026—2027年黑龙江冬季冰雪旅游百日行动”新闻发布会上，黑龙江省文化和旅游厅副厅长沈广春表示，近年来，黑龙江抢抓对俄免签、过境免签等政策机遇，坚持“省级统筹、市级落地、多方联动”，聚焦支付、语言、首站衔接三个环节，构建全链条入境旅游便利化服务体系，让外国朋友沉浸式感受黑龙江的国际范儿。 沈广春 在入境旅游支付服务上，黑龙江积极推进“大额刷卡、小额扫码、现金兜底”。全省布设外卡取现自助设备7263台，其中牡丹江通过11家外汇银行布设外卡POS机和外币ATM机，基本实现全域覆盖，双鸭山市7个4A级景区外卡POS机全覆盖，哈尔滨、齐齐哈尔、佳木斯、鹤岗、黑河等重点入境旅游城市也在不断完善重点景区外币兑换和线上支付。 在入境旅游语言服务上，我省持续推进“平台化、多语种”服务。全省统一打造入境游服务平台“Joy Longjiang”，聚焦五国语言互译和智能伴游，目前正在进行三期升级；国家移民管理局12367出入境服务热线开通中英俄日韩法多语种服务，齐齐哈尔、牡丹江、佳木斯、双鸭山等地重点景区通过兼职翻译、双语志愿者队伍、智能翻译平台等多种方式提供多语种服务；同时，省内重点A级旅游景区均积极布设外语标识，齐齐哈尔市、牡丹江市、佳木斯市在重点景区布设英、俄、日、韩等外文标识超1400块。 在入境旅游首站衔接上，我省全力推动“一站式”顺畅服务。目前，哈尔滨太平国际机场建设入境旅客综合服务中心，提供支付、通信、文旅、交通、移民出入境、文创展示六大板块“一站式”服务；黑河口岸打造智能翻译屏、AI对话屏、全场景机器人等7大入境智能化服务场景，构建“数据驱动、智能支撑、服务闭环”的智慧文旅服务体系；牡丹江市在口岸推出“免签旅客即到即检”“免签入境+落地自驾”、跨境旅游专列等多项措施，畅通口岸客流向市区导入渠道，实现从“入境”到“入景”无缝衔接。同时，我们也全力协助推进东南亚等旅游直航包机旅游落地签证等事宜，打通旅游“前端”通道。 沈广春表示，下一步，我省将用好对俄免签政策红利，加快省内各层级智慧平台升级推广，把首站服务拓展为全程服务，进一步优化入境旅游便利化措施，不断提升入境游客满意度。
+
+**🇬🇧 Actionable Travel Intel**:  
+At the 5 November press conference for the province's 2026-2027 winter ice-and-snow tourism campaign, the Heilongjiang culture and tourism department set out its inbound travel service build-out across payment, language and first-stop connections. Harbin Taiping International Airport is building an inbound visitor service centre offering one-stop services in six areas: payment, communications, culture and tourism, transport, immigration and exit-entry, and cultural-creative display. The province has installed 7,263 self-service machines for cash withdrawal with foreign cards, and Mudanjiang has deployed foreign-card POS terminals and foreign-currency ATMs through 11 foreign-exchange banks. The national immigration service hotline 12367 takes calls in Chinese, English, Russian, Japanese, Korean and French. The province's inbound service platform Joy Longjiang, focused on translation among five languages and smart companion guiding, is in its third upgrade. More than 1,400 foreign-language signs have been installed at key scenic areas in Qiqihar, Mudanjiang and Jiamusi. At its port, Mudanjiang runs measures including inspection on arrival for visa-free passengers, visa-free entry combined with self-drive, and cross-border tourist trains.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (黑龙江省文化和旅游厅, Gov.cn)](http://wlt.hlj.gov.cn/wlt/c114161/202611/c00_31992160.shtml)
+
+---
+
 ### November 6, 2026 &bull; 11:46 CST
 #### Hebei Issues Orange Blizzard Warning for 7-8 November
 
