@@ -6,6 +6,19 @@
 
 ---
 
+### November 6, 2026 &bull; 00:00 CST
+#### China Renumbers Slow Trains From 25 November; First Tickets On Sale 11 November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 随着全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车4700余列。变更后，新车次列车的开行区段、运行时刻基本保持不变，第一批实行新车次的列车车票将于11月11日起陆续发售，其中试点预约购票服务的京沪铁路新车次的车票将于11月6日起陆续兑现。动车组列车车次此次变更暂时保持不变，将于12月下旬实施变更。
+
+**🇬🇧 Actionable Travel Intel**:  
+Under the revised 2026 train numbering rules, the first batch of renumbered services takes effect from 00:00 on 25 November. Slow passenger trains will use the letters Z, N or V, slow tourist trains the letter Y, and freight block trains the letter B, with about 4,700 passenger and freight trains involved in total. The running sections and departure and arrival times of the renumbered trains stay essentially unchanged. Tickets for the first batch of renumbered trains go on sale from 11 November; on the Beijing-Shanghai corridor, which is piloting reserved booking, the new-number tickets are being fulfilled from 6 November. High-speed train numbers are unchanged for now and will be revised in late December. Travelers holding an existing booking should check the train number shown on their ticket against the number displayed at the station.
+
+> **Verified Source**: [China State Railway Group (中国国家铁路集团, Official Portal)](http://www.china-railway.com.cn/xwzx/ywsl/202611/t20261106_161244.html)
+
+---
+
 ### November 5, 2026 &bull; 17:00 CST
 #### China Railway Overhauls Conventional Train Numbering Under 2026 Rules Starting November 25
 

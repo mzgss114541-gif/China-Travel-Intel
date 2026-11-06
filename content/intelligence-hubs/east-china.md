@@ -6,6 +6,19 @@
 
 ---
 
+### November 6, 2026 &bull; 18:00 CST
+#### Zhujiajian Strait Bridge Lane Works 11-18 November, Weekdays Only
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 因桥梁检测作业需要，朱家尖海峡大桥将于11月11日至11月18日（双休日除外）进行占道作业。期间，作业路段将实行交通组织措施 https://mp.weixin.qq.com/s/JvmAUwtSmhUm10qwTMO3ng 来源：舟山交警
+
+**🇬🇧 Actionable Travel Intel**:  
+The Zhujiajian Strait Bridge will be occupied for works from 11 to 18 November, excluding weekends, because of bridge inspection work. Traffic management measures will be applied to the works section during that period. The notice, sourced from the Zhoushan traffic police, does not state the specific restrictions. Travelers crossing the bridge on weekdays within that window should allow extra time for the affected section.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/Rq97vAjEw)
+
+---
+
 ### November 4, 2026 &bull; 12:25 CST
 #### Wuxi Offers 50% Scenic Spot Discount and 20% Hotel Discount for Inbound and Domestic Travelers
 

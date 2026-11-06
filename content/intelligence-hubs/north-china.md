@@ -6,6 +6,32 @@
 
 ---
 
+### November 6, 2026 &bull; 17:09 CST
+#### Direct Shuttle Opens Between Harbin Airport and Yabuli Resort, 260 km in About Three Hours
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 好消息！哈尔滨机场与亚布力直达专线开通！全程260公里，运行时间3小时左右。 发车时间🕙 机场至亚布力方向：每日9时、10时、13时、14时30分各发一班；亚布力至机场方向：每日7时30分、9时30分、13时30分、14时30分各发一班。 线下购票地点📍 机场至亚布力方向：哈尔滨太平国际机场三号与五号出口中间位置，龙运旅游集散中心。亚布力至机场方向：亚布力度假区游客服务中心 线上购票🎫 “龙悦出行”
+
+**🇬🇧 Actionable Travel Intel**:  
+A direct shuttle between Harbin Taiping International Airport and the Yabuli resort area has opened, covering 260 km with a journey time of about three hours. Airport-to-Yabuli departures run daily at 09:00, 10:00, 13:00 and 14:30; Yabuli-to-airport departures run daily at 07:30, 09:30, 13:30 and 14:30. For the airport direction, tickets are bought in person at the Longyun tourist transport centre located between the third and fifth exits at Harbin Taiping International Airport; for the Yabuli direction, at the Yabuli resort visitor service centre. Online sales run through the official Longyue Chuxing WeChat mini-programme.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/Rq8N4bfi8)
+
+---
+
+### November 6, 2026 &bull; 11:46 CST
+#### Hebei Issues Orange Blizzard Warning for 7-8 November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 河北省气象台2026年11月06日11时04分发布暴雪橙色预警信号：预计7日白天到8日白天，保定、廊坊以北的大部分地区有大到暴雪，过程累计降雪量达到8毫米以上，其中张家口南部、承德南部、唐山北部、秦皇岛北部等地的部分地区有大暴雪（20～30毫米），6小时降雪量可能达到10毫米以上。请注意防范。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Hebei Provincial Meteorological Observatory issued an orange blizzard warning signal at 11:04 on 6 November. From the daytime of 7 November to the daytime of 8 November, most areas north of Baoding and Langfang are expected to see heavy snow to blizzard conditions, with cumulative snowfall of 8 mm or more. Parts of southern Zhangjiakou, southern Chengde, northern Tangshan and northern Qinhuangdao may see severe blizzards of 20 to 30 mm, with six-hour snowfall possibly reaching 10 mm or more. The observatory asks the public to take precautions.
+
+> **Verified Source**: [Qinhuangdao Bureau of Culture and Tourism (秦皇岛旅游文化发布, Sina Weibo)](https://weibo.com/2119650641/Rq6FZ6eve)
+
+---
+
 ### November 4, 2026 &bull; 11:00 CST
 #### Severe Cold Wave and Snowstorm Warning Issued for Northern and Northeastern China
 

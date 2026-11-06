@@ -6,6 +6,45 @@
 
 ---
 
+### November 6, 2026 &bull; 19:47 CST
+#### Qinghai Scenic Areas Enter Winter Closure and Maintenance Period
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 准备近期来青海打卡游玩的朋友，先看这里！📢📢📢 即将入冬，青海部分景区陆续进入闭园休整期——具体名单和时间，详见下图👇 出发前多看一眼，行程顺顺利利，祝大家在青海的冬天，也玩得开心、来得尽兴！✨
+
+**🇬🇧 Actionable Travel Intel**:  
+The Qinghai culture and tourism authorities say several scenic areas in the province are successively entering their winter closure and rest period as the season turns. The post does not name the sites or give the dates in its text; it states that the list and timing are shown in an attached image, and asks travelers to take a look before setting out.
+
+> **Verified Source**: [Qinghai Provincial Department of Culture and Tourism (青海文旅, Sina Weibo)](https://weibo.com/7484515916/Rq9Pa4zql)
+
+---
+
+### November 6, 2026 &bull; 19:00 CST
+#### Four Shaanxi Scenic Areas Close for Winter; Tickets Refundable via Original Channel
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 打算来陕西游玩的朋友注意啦！近日多家景区发布闭园公告，陕西黄陵国家森林公园：11月1日起闭园休整，预计2027年春季开园；关山草原景区：11月1日起闭园，开园时间另行通知；陕西黑河国家森林公园：11月4日闭园，道路维修，禁止游客、车辆进入；野河山景区：11月2日起进入冬季闭园期。已经购票的游客，可以走原渠道申请退款。快报提醒：计划出游一定要提前看官方通知，避免白跑一趟！ （via. ）陕西都市快报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Four scenic areas in Shaanxi have announced closures. Huangling National Forest Park is closed from 1 November for seasonal rest, with reopening expected in spring 2027. Guanshan Grassland closed from 1 November, with its reopening date to be announced separately. Heihe National Forest Park closed on 4 November for road repairs, with visitors and vehicles barred from entry. Yehe Mountain entered its winter closure on 2 November. Visitors who already bought tickets may apply for a refund through the original purchase channel. Travelers planning Shaanxi itineraries in the coming weeks should check the official notice for each site before setting out.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/Rq9vRAo0y)
+
+---
+
+### November 6, 2026 &bull; 18:56 CST
+#### Ninth China Intangible Cultural Heritage Expo Opens in Chongqing, 6-10 November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 10日，第九届中国非物质文化遗产博览会在重庆国际会议展览中心（南岸）举行。 看什么、吃什么，一起去看看！ 时间：11月6日10:30开展，11月7日—10日每日9:30 地点：重庆国际会议展览中心（南岸） 预约入场。 主展馆（新时代非遗系统性保护成果展、非遗时尚生活展、科技赋能非遗展）实行每日限额实名预约。 微信登录“第九届中国非物质文化遗产博览会”小程序或扫描图二的二维码免费预约，无纸质票，观众凭预约码扫码入场。 特别提醒：展会期间，展馆周边道路将实施临时交通管制，停车资源非常紧张，强烈建议公共交通出行。 乘坐轨道3号线，至工贸站，3B出口即到 江北机场T2：直接坐3号线，直达 江北机场T3：先坐10号线到北站南广场，换3号线 重庆北站：3号线直达 重庆西站：环线到四公里，换3号线 公交线路 115、121、145、149、0301、308、313、319、321、322、338、361、372、382、398、620、808、809、819、841、872等线路均可到达。 具体以站牌信息为准，也可拨打重庆公交热线023-61686168咨询。 【气象万千】新时代非遗系统性保护成果展 主展馆这一站，是本届博览会的“总纲”。从山歌号子到戏曲唱腔，从千年技艺到当代表达，全国各省（区、市）的非遗保护成果，在这里铺陈开卷。 【国风雅韵】非遗时尚生活展 谁说非遗只能进博物馆？这个展区，直接把千年技艺穿在了身上。宋锦、香云纱、苏绣、马面裙。 【匠心智造】科技赋能非遗展 这一站，古与今，在同一个展厅相遇。挥动木梭，亲手“织”出汉晋蜀锦上的纹样——“五星出东方利中国”。 【守护健康】传统医药非遗展 全国60余项传统医药非遗项目齐聚。同仁堂、宏济堂、片仔癀、桐君阁，这些响当当的老字号，都派了非遗代表性传承人驻场。 【百味山河】非遗美食风物集 逛了大半天，腿也酸了，肚子也空了。正好，最后一站，交给胃。118项非遗美食，从全国各地赶来。 非遗从来不是橱窗里的旧物,它是爷爷哼过的调子,是母亲手上的针脚,是一方水土养出来的一日三餐、婚丧嫁娶、岁时节令,是你我骨子里那点改不掉的讲究。 11月6日—10日，重庆国际会议展览中心（南岸），共赴烟火绵长的千年之约。 详情点击： https://mp.weixin.qq.com/s/EUUeZQpV084DP0bgy-qg8A 来源：第1眼TV-华龙网
+
+**🇬🇧 Actionable Travel Intel**:  
+The ninth China Intangible Cultural Heritage Expo is held from 6 to 10 November at the Chongqing International Convention and Exhibition Centre in Nan'an district. Doors open at 10:30 on 6 November and at 09:30 daily from 7 to 10 November. Entry is by reservation: the main halls admit a limited number of visitors per day under real-name advance booking, made free of charge through the official expo mini-programme. There is no paper ticket; visitors scan their booking code to enter. During the expo, roads around the venue are under temporary traffic control and parking is very tight, so public transport is strongly advised. Metro Line 3 stops at Gongmao station, exit 3B, at the venue. From Jiangbei Airport Terminal 2, Line 3 runs direct; from Terminal 3, take Line 10 to North Railway Station South Square and change to Line 3; Chongqing North Railway Station is served directly by Line 3; from Chongqing West Railway Station, take the Loop Line to Sigongli and change to Line 3. Numerous local bus routes also reach the venue.
+
+> **Verified Source**: [Jiulongpo District Culture and Tourism Bureau (九龙坡文旅, Sina Weibo)](https://weibo.com/3077531287/Rq9ul0ZFx)
+
+---
+
 ### November 5, 2026 &bull; 21:34 CST
 #### Shaanxi Heihe National Forest Park Temporarily Closed for Road Maintenance
 

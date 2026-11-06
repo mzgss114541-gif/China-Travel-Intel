@@ -6,6 +6,32 @@
 
 ---
 
+### November 6, 2026 &bull; 15:45 CST
+#### Cross-Border Trains Run Direct From Guangxi to Hong Kong West Kowloon
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 从广西出发，乘跨境动车可直达香港西九龙站，南宁东出发约3小时57分，桂林西出发约3小时11分。旅客需备好港澳通行证、有效香港签注及购票证件，抵达西九龙站后按“一地两检”办理出入境手续。出站后可游维港、尖沙咀、旺角，或前往博物馆、主题乐园，周末轻松开启香港之旅。（张玥云、邓慧之） https://mp.weixin.qq.com/s/xU2Ot2uTlJn3RUCzS-wRSw
+
+**🇬🇧 Actionable Travel Intel**:  
+Cross-border high-speed trains run direct from Guangxi to Hong Kong West Kowloon station, taking about 3 hours 57 minutes from Nanning East and about 3 hours 11 minutes from Guilin West. The railway notice states that travelers must have ready the Exit-Entry Permit for Travelling to and from Hong Kong and Macao, a valid Hong Kong endorsement and the document used to purchase the ticket, and that immigration and customs procedures are handled at West Kowloon station under the co-location arrangement.
+
+> **Verified Source**: [China Railway Nanning Group (南宁铁路, Sina Weibo)](https://weibo.com/1869124960/Rq8eImivP)
+
+---
+
+### November 6, 2026 &bull; 14:43 CST
+#### Yongzhou Station Switches to Platforms 4-7 From 6 November
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月5日2时15分，永州站场内灯火通明。中铁二十五局邵永铁路项目400余名建设者迅速进入既有线作业区，在235分钟的封锁天窗点内完成9号道岔拆除、L9号道岔插铺及岔间渡线连通作业，为11月6日永州站正式转场打通了关键通道。11月6日转场完成后，永州站将启用新建4至7站台，停用既有1至3站台，后续正式转入站改第三阶段施工。 邵永高铁是国家“八纵八横”高铁网呼南通道的重要组成部分，线路全长约96公里，设计时速350公里，自邵阳站引出向南接入永州站。项目建成通车后，邵阳至永州通行时间将从2小时缩短至30分钟左右，对完善区域铁路网布局、促进中部地区高质量发展具有重要意义。 来源：三湘都市报的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+Yongzhou railway station completed its switchover on 6 November, bringing the newly built platforms 4 to 7 into use and taking the existing platforms 1 to 3 out of service, after which the station rebuild moves into its third stage. The station work is part of the Shaoyang-Yongzhou high-speed rail project, a line of about 96 km designed for 350 km/h; once the line opens to traffic, the Shaoyang-Yongzhou journey is expected to fall from 2 hours to about 30 minutes. The line is still under construction and the announcement gives no opening date. Passengers boarding at Yongzhou in the meantime should check the platform shown for their service.
+
+> **Verified Source**: [Hunan Provincial Department of Culture and Tourism (文旅湖南, Sina Weibo)](https://weibo.com/2061840907/Rq7PIx5Re)
+
+---
+
 ### November 5, 2026 &bull; 17:10 CST
 #### Direct Flights Between Nanning and Haiphong Launch on November 10
 
