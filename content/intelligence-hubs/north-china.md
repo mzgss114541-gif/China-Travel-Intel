@@ -10,7 +10,7 @@
 #### Wuyuezhai Scenic Area in Shijiazhuang Closes Early for Winter from November 8 Due to Heavy Snowfall
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受极端天气影响，五岳寨景区突降大雪，景区登山步道积雪结冰，游览存在较大安全隐患，已不具备正常开放条件。为切实保障广大游客安全，经综合研判，原定于2026年11月9日的年度闭园时间，提前至2026年11月8日起正式闭园。已购买景区门票的游客，可通过原购票渠道申请全额退款。 https://mp.weixin.qq.com/s/dV4ihbp9ON_kC6Rwuu35Dw
+> 受极端天气影响，五岳寨景区突降大雪，景区登山步道积雪结冰，游览存在较大安全隐患，已不具备正常开放条件。为切实保障广大游客安全，经综合研判，原定于2026年11月9日的年度闭园时间，提前至2026年11月8日起正式闭园。已购买景区门票的游客，可通过原购票渠道申请全额退款。
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to extreme weather and sudden heavy snowfall causing snow and ice accumulation on hiking trails, Wuyuezhai Scenic Area in Shijiazhuang has advanced its annual winter closure from the original November 9 date to November 8, 2026. Visitors who have already purchased admission tickets can apply for a full refund through their original booking channel.
@@ -23,7 +23,7 @@ Due to extreme weather and sudden heavy snowfall causing snow and ice accumulati
 #### Beijing Issues Yellow Alerts for Blizzard and Road Icing Across Suburban Districts
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【北京多区发布暴雪、道路结冰预警！30秒搞懂暴雪应对】昨日，本市发布分区暴雪黄色预警。预计11月7日中午至8日上午，延庆、怀柔、密云、平谷、昌平、门头沟、房山等区的部分地区有大雪到暴雪，12小时降雪量将达到6毫米以上。 此外，北京多区发布道路结冰黄色预警。 暴雪来袭，该注意什么30秒搞懂这些安全提醒→ https://mp.weixin.qq.com/s/DhS5eMWB0CvJCLmGuvDh5A （北京应急）
+> 【北京多区发布暴雪、道路结冰预警！30秒搞懂暴雪应对】昨日，本市发布分区暴雪黄色预警。预计11月7日中午至8日上午，延庆、怀柔、密云、平谷、昌平、门头沟、房山等区的部分地区有大雪到暴雪，12小时降雪量将达到6毫米以上。 此外，北京多区发布道路结冰黄色预警。 暴雪来袭，该注意什么30秒搞懂这些安全提醒→
 
 **🇬🇧 Actionable Travel Intel**:  
 Beijing authorities have issued district-level Yellow Alerts for blizzards and road icing. From noon on November 7 to the morning of November 8, parts of Yanqing, Huairou, Miyun, Pinggu, Changping, Mentougou, and Fangshan districts are forecast to experience heavy snow to blizzard conditions, with 12-hour snowfall reaching 6 mm or more. Travelers heading to northern and western suburban districts should anticipate icy roads and winter travel disruptions.
@@ -114,7 +114,7 @@ China Express Airlines inaugurated a direct scheduled air service connecting Ton
 #### Zhangjiakou Airport Launches Free Dedicated Shuttle Service to Chongli Ski Resorts
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月25日，张家口宁远机场至崇礼各大雪场专属免费直通车正式开通，为各地滑雪爱好者提供一站式点对点接驳服务，助力全市冰雪经济升温。 https://mp.weixin.qq.com/s/4_xokFRpHGqy8NpMd55fPw
+> 10月25日，张家口宁远机场至崇礼各大雪场专属免费直通车正式开通，为各地滑雪爱好者提供一站式点对点接驳服务，助力全市冰雪经济升温。
 
 **🇬🇧 Actionable Travel Intel**:  
 Zhangjiakou Ningyuan Airport in Hebei Province inaugurated a dedicated free shuttle bus service on October 25, 2026, offering point-to-point transit connecting arriving passengers directly with major ski resorts across Chongli. The direct connection facilitates access for winter sports visitors heading into the Olympic skiing cluster.
@@ -127,7 +127,7 @@ Zhangjiakou Ningyuan Airport in Hebei Province inaugurated a dedicated free shut
 #### Shenyang Museums and Palace Announce Extended Autumn Holiday Opening Schedules
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 又要放假啦！ 沈阳首个中小学秋假即将抵达！ 10月29日—11月2日，连休5天，与周末无缝衔接。 比假期更贴心的是，沈阳多家文博场馆集体“加班”～ 11月2日（周一）不闭馆，部分场馆秋假期间延时开放。 🏛️ 先存好这张“秋假开放表” 时间：10月29日—11月2日 ✔沈阳故宫博物院 9:00开馆，15:45停止售票，16:30闭馆；11月2日周一不闭馆。 秋假活动👇 入宫阙探文脉，做小小“故宫大学士”——沈阳故宫沉浸式文化体验营 ▪活动时间：11月1日 ▪活动地点：沈阳故宫博物院 烧蓝工艺主题研学活动 ▪活动时间：10月29日 ▪活动地点：沈阳故宫博物院+沈阳故宫文化博物馆 ✔张学良旧居陈列馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 秋假活动👇 百年旧居文博研学探秘 ▪活动时间：10月29日—11月2日 “秋染旧居·非遗寻韵”非遗互动活动 ▪活动时间：10月29日—11月2日 ✔沈阳金融博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 ✔沈阳博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动👇 “布艺拾遗”研学活动 ▪活动时间：10月29日10:00—12:00 ▪活动地点：沈阳博物馆 “金秋纳福 烙绘福禄”研学活动 ▪活动时间：11月2日10:00—12:00 ▪活动地点：沈阳博物馆 少年述先贤，稚语话春秋 ▪活动时间：10月29日至11月2日 每天13:30 ▪活动地点：沈阳博物馆 沈阳历史陈列展览公益讲解 ▪活动时间：10月29日至11月2日 每天10:30 ▪活动地点：沈阳博物馆 “发现沈阳”秋假主题活动 ▪活动时间：10月29日至11月2日 每日9:00—17:30 ▪活动地点：沈阳博物馆 《华夏礼仪手势舞》表演 ▪活动时间：10月30日、10月31日、11月1日13:25 ▪活动地点：沈阳博物馆 《星火照征途》表演 ▪活动时间：10月29日—10月31日 10:20 ▪活动地点：沈阳博物馆 “灯映来时路 声诵少年心”研学活动 ▪活动时间：10月29日13:00—15:00、10月31日9:00—11:00 ▪活动地点：沈阳博物馆 “秋印寻踪”集章活动 ▪活动时间：10月29日—11月2日 ▪活动地点：沈阳博物馆 ✔沈阳“九·一八”历史博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动👇 “小小勇士·红色足迹”——亲子互动秋假活动 ▪活动时间：10月29日—11月2日 ▪活动地点：沈阳“九·一八”历史博物馆 ✔二战盟军战俘营旧址陈列馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动👇 志愿者公益讲解活动 ▪活动时间：10月29日—11月2日 ▪活动地点：沈阳二战盟军战俘营旧址陈列馆 ✔北大营营房旧址 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动👇 志愿者公益讲解活动 ▪活动时间：10月29日—11月2日 ▪活动地点：北大营营房旧址 ✔东北陆军讲武堂旧址陈列馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 ✔沈阳新乐遗址博物馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 秋假活动👇 新乐秋假托管营 ▪活动时间：10月30日 ▪活动地点：新乐遗址博物馆 ✔中共满洲省委旧址纪念馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 秋假活动👇 《我的秋假在满委》专题展演活动 ▪活动时间：10月30日 ▪活动地点：中共满洲省委旧址纪念馆 ✔郑家洼子青铜短剑遗址博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 ✔盛京碑林陈列馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 
+> 又要放假啦！ 沈阳首个中小学秋假即将抵达！ 10月29日—11月2日，连休5天，与周末无缝衔接。 比假期更贴心的是，沈阳多家文博场馆集体“加班”～ 11月2日（周一）不闭馆，部分场馆秋假期间延时开放。 🏛 先存好这张“秋假开放表” 时间：10月29日—11月2日 ✔沈阳故宫博物院 9:00开馆，15:45停止售票，16:30闭馆；11月2日周一不闭馆。 秋假活动 入宫阙探文脉，做小小“故宫大学士”——沈阳故宫沉浸式文化体验营 ▪活动时间：11月1日 ▪活动地点：沈阳故宫博物院 烧蓝工艺主题研学活动 ▪活动时间：10月29日 ▪活动地点：沈阳故宫博物院+沈阳故宫文化博物馆 ✔张学良旧居陈列馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 秋假活动 百年旧居文博研学探秘 ▪活动时间：10月29日—11月2日 “秋染旧居·非遗寻韵”非遗互动活动 ▪活动时间：10月29日—11月2日 ✔沈阳金融博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 ✔沈阳博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动 “布艺拾遗”研学活动 ▪活动时间：10月29日10:00—12:00 ▪活动地点：沈阳博物馆 “金秋纳福 烙绘福禄”研学活动 ▪活动时间：11月2日10:00—12:00 ▪活动地点：沈阳博物馆 少年述先贤，稚语话春秋 ▪活动时间：10月29日至11月2日 每天13:30 ▪活动地点：沈阳博物馆 沈阳历史陈列展览公益讲解 ▪活动时间：10月29日至11月2日 每天10:30 ▪活动地点：沈阳博物馆 “发现沈阳”秋假主题活动 ▪活动时间：10月29日至11月2日 每日9:00—17:30 ▪活动地点：沈阳博物馆 《华夏礼仪手势舞》表演 ▪活动时间：10月30日、10月31日、11月1日13:25 ▪活动地点：沈阳博物馆 《星火照征途》表演 ▪活动时间：10月29日—10月31日 10:20 ▪活动地点：沈阳博物馆 “灯映来时路 声诵少年心”研学活动 ▪活动时间：10月29日13:00—15:00、10月31日9:00—11:00 ▪活动地点：沈阳博物馆 “秋印寻踪”集章活动 ▪活动时间：10月29日—11月2日 ▪活动地点：沈阳博物馆 ✔沈阳“九·一八”历史博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动 “小小勇士·红色足迹”——亲子互动秋假活动 ▪活动时间：10月29日—11月2日 ▪活动地点：沈阳“九·一八”历史博物馆 ✔二战盟军战俘营旧址陈列馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动 志愿者公益讲解活动 ▪活动时间：10月29日—11月2日 ▪活动地点：沈阳二战盟军战俘营旧址陈列馆 ✔北大营营房旧址 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 秋假活动 志愿者公益讲解活动 ▪活动时间：10月29日—11月2日 ▪活动地点：北大营营房旧址 ✔东北陆军讲武堂旧址陈列馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 ✔沈阳新乐遗址博物馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 秋假活动 新乐秋假托管营 ▪活动时间：10月30日 ▪活动地点：新乐遗址博物馆 ✔中共满洲省委旧址纪念馆 8:30—17:00（16:30停止入馆）；11月2日周一不闭馆。 秋假活动 《我的秋假在满委》专题展演活动 ▪活动时间：10月30日 ▪活动地点：中共满洲省委旧址纪念馆 ✔郑家洼子青铜短剑遗址博物馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。 ✔盛京碑林陈列馆 9:00—17:30（17:00停止入馆）；11月2日周一不闭馆。
 
 **🇬🇧 Actionable Travel Intel**:  
 From October 29 through November 2, major cultural institutions across Shenyang will remain fully open for 5 consecutive days without their usual Monday closure on November 2. The Shenyang Palace Museum opens from 9:00 to 16:30 (ticket sales close at 15:45). Marshal Zhang's Mansion (Zhang Xueliang's Former Residence) operates from 8:30 to 17:00 (last entry at 16:30). The Shenyang Museum, Shenyang Financial Museum, and 9.18 Historical Museum will all remain open daily from 9:00 to 17:30 (last entry at 17:00) including Monday, November 2.
@@ -153,7 +153,7 @@ The Heihe waterway passenger inspection port concluded its open-water passenger 
 #### China Great Wall Museum Reopens with Free Entry at Badaling
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【中国长城博物馆焕新免费开放！咋玩最实惠？超全攻略来啦——】 历时三年多改造提升，中国长城博物馆2026年10月24日，在八达岭长城脚下正式试运行开放。这座承载中华文明千年印记的国家级长城专题博物馆，以全新面貌迎接八方来客。划重点：免费参观、试运行期间免预约，但每日限流4000人，额满即止！这篇攻略带你摸清展馆看点、周边打卡路线，文末还有互动福利，建议先收藏！查看详情 >> https://mp.weixin.qq.com/s/CKmI4hk1sJb_gjzNy9fKog 
+> 【中国长城博物馆焕新免费开放！咋玩最实惠？超全攻略来啦——】 历时三年多改造提升，中国长城博物馆2026年10月24日，在八达岭长城脚下正式试运行开放。这座承载中华文明千年印记的国家级长城专题博物馆，以全新面貌迎接八方来客。划重点：免费参观、试运行期间免预约，但每日限流4000人，额满即止！这篇攻略带你摸清展馆看点、周边打卡路线，文末还有互动福利，建议先收藏！查看详情 >>
 
 **🇬🇧 Actionable Travel Intel**:  
 Following a three-year renovation, the China Great Wall Museum at the foot of the Badaling Great Wall opened for trial operations on October 24, 2026. Admission is free with no advance reservation required during the trial period, but daily visitor capacity is strictly capped at 4,000 visitors on a first-come, first-served basis.
@@ -179,7 +179,7 @@ Through December 31, 2026, passengers traveling on the China Railway Bohai Ferry
 #### Beijing Transit Deploys Autumn Foliage Shuttle Lines to Fragrant Hills and Suburbs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 随着红叶渐入最佳观赏期，为应对赏秋客流高峰、方便市民游客便捷赏秋、错峰出行，北京市交通部门统筹地铁、有轨6电车、地面公交等多元运力，优化推出多条香山赏叶专线及京郊赏秋通游专线，搭建多层次公共交通出行体系，全方位护航市民错峰赏秋、安全畅行。交通部门倡导市民错峰游园、预约出行，有序返程。 北京交通部门推出多条“赏叶专线”（ 编辑｜思朦 斯浓）
+> 随着红叶渐入最佳观赏期，为应对赏秋客流高峰、方便市民游客便捷赏秋、错峰出行，北京市交通部门统筹地铁、有轨6电车、地面公交等多元运力，优化推出多条香山赏叶专线及京郊赏秋通游专线，搭建多层次公共交通出行体系，全方位护航市民错峰赏秋、安全畅行。交通部门倡导市民错峰游园、预约出行，有序返程。 北京交通部门推出多条“赏叶专线”
 
 **🇬🇧 Actionable Travel Intel**:  
 To manage peak visitor flows during the autumn foliage season, Beijing municipal transport departments have coordinated subway, tram, and surface bus networks to operate dedicated foliage shuttle lines to Fragrant Hills (Xiangshan) and suburban touring routes. Visitors are advised to make advance scenic area reservations and stagger departure times to avoid congestion.
@@ -205,7 +205,7 @@ A direct passenger air route between Harbin, Heilongjiang Province, and Kamchatk
 #### Beijing Launches Dedicated Tourist Bus Lines for Autumn Foliage Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月25日，记者从北京市交通委获悉，随着红叶渐入最佳观赏期，为方便市民游客便捷赏秋、错峰出行，本市交通部门统筹地铁、有轨电车、地面公交等多元运力，优化推出多条香山赏叶专线及京郊赏秋通游专线。 10月16日起，2026年香山红叶观赏期正式开启，将持续至11月15日，历时31天、横跨5个周末。随着红叶渐入最佳观赏期，香山地区公共交通总客运量预计达310万人次，预计10月25日、31日和11月1日为客流高峰日。 前往香山，市民游客可选择三条公共交通线路。一是乘地铁10号线到巴沟站，换乘“赏叶专线”有轨电车西郊线直达香山。二是乘地铁4号线到西苑站，换乘通游专线26路前往香山，全程避开旱河路等拥堵路段。三是本市新增通游专线40路。10月24日起，乘地铁1号线到苹果园站，可换乘新开的通游专线40路到达香山，周末每15至20分钟一班，执行常规公交票价。此外，318路、360路等8条公交线路同步加密班次、增发区间车，乘客可就近选择。 其实，市民游客也不必扎堆香山，乘通游专线即可就近赏景。 前往房山坡峰岭，市民可乘地铁14号线到七里庄站，换乘通游专线41路直达，10月23日至11月15日逢周六、周日、周一运营，一人一座、提前预约、满员即发。 前往慕田峪长城，市民可在望京西枢纽乘通游专线31路，一站直达，节假日发车，往返票价80元。 前往喇叭沟原始森林公园，在望京西枢纽乘通游专线34路，线路将运营至11月8日。 上述通游专线实行一人一座、提前预约、市场化定价，市民可通过“一路同行”App、北京旅游集散中心官方渠道查询班次、票价并预约。（北京日报） 
+> 随着红叶渐入最佳观赏期，为方便市民游客便捷赏秋、错峰出行，本市交通部门统筹地铁、有轨电车、地面公交等多元运力，优化推出多条香山赏叶专线及京郊赏秋通游专线。 10月16日起，2026年香山红叶观赏期正式开启，将持续至11月15日，历时31天、横跨5个周末。随着红叶渐入最佳观赏期，香山地区公共交通总客运量预计达310万人次，预计10月25日、31日和11月1日为客流高峰日。 前往香山，市民游客可选择三条公共交通线路。一是乘地铁10号线到巴沟站，换乘“赏叶专线”有轨电车西郊线直达香山。二是乘地铁4号线到西苑站，换乘通游专线26路前往香山，全程避开旱河路等拥堵路段。三是本市新增通游专线40路。10月24日起，乘地铁1号线到苹果园站，可换乘新开的通游专线40路到达香山，周末每15至20分钟一班，执行常规公交票价。此外，318路、360路等8条公交线路同步加密班次、增发区间车，乘客可就近选择。 其实，市民游客也不必扎堆香山，乘通游专线即可就近赏景。 前往房山坡峰岭，市民可乘地铁14号线到七里庄站，换乘通游专线41路直达，10月23日至11月15日逢周六、周日、周一运营，一人一座、提前预约、满员即发。 前往慕田峪长城，市民可在望京西枢纽乘通游专线31路，一站直达，节假日发车，往返票价80元。 前往喇叭沟原始森林公园，在望京西枢纽乘通游专线34路，线路将运营至11月8日。 上述通游专线实行一人一座、提前预约、市场化定价，市民可通过“一路同行”App、北京旅游集散中心官方渠道查询班次、票价并预约。
 
 **🇬🇧 Actionable Travel Intel**:  
 Beijing transport authorities have introduced dedicated transit services for the autumn foliage season running through November 15, 2026. For Fragrant Hills (Xiangshan), visitors can take Subway Line 10 to Bagou Station for the Xijiao Line tram, take Tourist Line 26 from Line 4 Xiyuan Station, or take newly opened Tourist Line 40 from Line 1 Pingguoyuan Station (running every 15 to 20 minutes on weekends at regular bus fare). For Pofengling in Fangshan, Tourist Line 41 operates from Line 14 Qilizhuang Station on Saturdays, Sundays, and Mondays through November 15. For Mutianyu Great Wall, Tourist Line 31 operates direct from Wangjing West Hub on holidays for 80 RMB round-trip. For Labagou Primitive Forest Park, Tourist Line 34 operates from Wangjing West Hub through November 8. Seat reservations are required via the Yilu Tongxing App or Beijing Tourism Distribution Center official channels.
@@ -244,7 +244,7 @@ China Railway Beijing Bureau has published an official passenger advisory outlin
 #### China Railway Outlines Official Three-Step Free Return Protocol for High-Speed Rail Missed Stations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 刷着视频、打个盹，一抬头，坐过站了！先别急，正确操作只有三步↓↓ ① 发现坐过站，立刻找列车工作人员，出示身份证说明是“误降”； ② 列车长核对后开具客运记录，到前方站和车站办理交接； ③ 车站安排最近一趟列车，走站内通道把你免费送回票面到站，返程票不用自己买。（求助一定要在出站前，一旦刷票出站，免费返程就不再受理）
+> 刷着、打个盹，一抬头，坐过站了！先别急，正确操作只有三步↓↓ ① 发现坐过站，立刻找列车工作人员，出示身份证说明是“误降”； ② 列车长核对后开具客运记录，到前方站和车站办理交接； ③ 车站安排最近一趟列车，走站内通道把你免费送回票面到站，返程票不用自己买。（求助一定要在出站前，一旦刷票出站，免费返程就不再受理）
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Zhengzhou Bureau has highlighted the standard 3-step procedure for passengers who mistakenly overshoot their ticketed destination on high-speed rail: (1) Notify train staff immediately upon discovering the overshoot and present valid identification to report accidental overrun; (2) The train conductor verifies ticket details, issues an official Passenger Transport Record, and arranges station handover at the next scheduled stop; (3) Station staff guide the passenger through internal transfer corridors onto the earliest available train back to their original ticketed destination free of charge. Crucially, travelers must seek assistance onboard or before scanning out through ticket barriers, as exiting the arrival gates forfeits eligibility for free return transit.
@@ -257,7 +257,7 @@ China Railway Zhengzhou Bureau has highlighted the standard 3-step procedure for
 #### China Great Wall Museum at Badaling Completes Expansion to 16,000 Square Meters
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 长城脚下，一座“藏”在山里的博物馆焕新亮相！改造后的中国长城博物馆，面积大了，从4000平方米扩大至1.6万平方米，却通过外幕墙定制等手法，将建筑更巧妙地融于山势之中。走进馆内，可看的细节也不少：和平厅里，一轮直径33.2米的巨型吊顶犹如“圆月”高悬；长城厅内，37米无柱空间视野开阔，透过巨大的玻璃幕墙，八达岭长城成了“最大的展品”。此外，展陈里还有“崇祯款捷胜飞空灭虏安边发熕神炮”等700多件展品，带您走进长城历史。（北京日报） 
+> 长城脚下，一座“藏”在山里的博物馆焕新亮相！改造后的中国长城博物馆，面积大了，从4000平方米扩大至1.6万平方米，却通过外幕墙定制等手法，将建筑更巧妙地融于山势之中。走进馆内，可看的细节也不少：和平厅里，一轮直径33.2米的巨型吊顶犹如“圆月”高悬；长城厅内，37米无柱空间视野开阔，透过巨大的玻璃幕墙，八达岭长城成了“最大的展品”。此外，展陈里还有“崇祯款捷胜飞空灭虏安边发熕神炮”等700多件展品，带您走进长城历史。
 
 **🇬🇧 Actionable Travel Intel**:  
 The revamped China Great Wall Museum, located at the foot of Badaling Great Wall in Beijing, has completed its major expansion, quadrupling its exhibition space from 4,000 to 16,000 square meters. The upgraded facility houses over 700 historical artifacts across specialized exhibition halls, featuring a 37-meter column-free Great Wall Hall with floor-to-ceiling panoramic glass walls looking out onto Badaling Great Wall.
@@ -309,7 +309,7 @@ Cultural relic restoration on Watchtower 20 at Mutianyu Great Wall was completed
 #### Badaling Great Wall: China Great Wall Museum Officially Reopens with Over 700 Cultural Artifacts
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 今天（10月24日），中国长城博物馆在八达岭长城脚下焕新开馆。中国长城博物馆从长城历史、长城文化、长城精神三个层面，推出一系列重磅展览。基本陈列上展文物700余件（套），来自全国二十多家博物馆的展品汇聚于此，讲述长城何以成为中华文明的重要标识。跟随北京交通广播记者毛嘉惠的镜头，听重磅文物如何讲述长城故事？
+> 今天（10月24日），中国长城博物馆在八达岭长城脚下焕新开馆。中国长城博物馆从长城历史、长城文化、长城精神三个层面，推出一系列重磅展览。基本陈列上展文物700余件（套），来自全国二十多家博物馆的展品汇聚于此，讲述长城何以成为中华文明的重要标识。
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 24, the renovated China Great Wall Museum officially reopened at the foot of Badaling Great Wall in Beijing. The upgraded venue showcases a permanent exhibition featuring over 700 cultural artifacts assembled from museums across China, offering in-depth historical displays for international visitors touring the Badaling section.
@@ -335,7 +335,7 @@ From now until December 31, 2026, passengers travelling between Yantai and Dalia
 #### Hetou Old Street Scenic Area in Tangshan to Offer Free Admission from November 10 to December 10, 2026
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 唐山市丰南区河头老街景区2026年度游客接待量已突破1000万人次，为感谢全国游客的支持，更好落实文化惠民要求，景区将于2026年11月10日至12月10日实行免费入园政策，诚邀广大游客前来体验。现就有关事宜提示如下： 1.在此期间，所有游客均需提前预约方可入园。具体预约流程及规则请关注景区公众号“丰南文发”获取。 https://mp.weixin.qq.com/s/g-w3F4Cu1kD5sD6fBkffug
+> 唐山市丰南区河头老街景区2026年度游客接待量已突破1000万人次，为感谢全国游客的支持，更好落实文化惠民要求，景区将于2026年11月10日至12月10日实行免费入园政策，诚邀广大游客前来体验。现就有关事宜提示如下： 1.在此期间，所有游客均需提前预约方可入园。具体预约流程及规则请关注景区公众号“丰南文发”获取。
 
 **🇬🇧 Actionable Travel Intel**:  
 The Hetou Old Street scenic area in Fengnan District, Tangshan, will implement a free admission policy from November 10 to December 10, 2026. All visitors must make advance reservations before entering the scenic area.
@@ -452,7 +452,7 @@ A new cold wave will affect most of central and eastern China from October 20 to
 #### Blizzard and Heavy Snow Forecast for Northeast China as Cold Air Persists
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~ 
+> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 19, frequent precipitation is forecast for Northeast China and the middle and lower Yangtze region. Parts of northeastern Inner Mongolia and northwestern Heilongjiang may see blizzards or heavy blizzards, with adverse effects on transport. Cold air will continue to affect China, keeping temperatures below normal across much of the area north of the Yangtze, with many locations expected to record their lowest temperatures so far in the second half of the year.
@@ -543,7 +543,7 @@ Heilongjiang's meteorological observatory forecasts heavy snow and local blizzar
 #### Cold Wave and Three Meteorological Warnings Affect China; Temperature Drops of 4–10°C
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 
+> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is currently affecting China, with the main temperature drops concentrated in the northwest and north, where maximum temperatures may fall by 4 to 10 degrees Celsius. Tomorrow, maximum temperatures will also drop in Inner Mongolia, the northeast and much of the middle and lower Yangtze, with maximum drops of 4 to 10 degrees. Around October 21, the 0°C line will push south to central Shaanxi, southern Shanxi and northern Hebei. The Central Meteorological Observatory continued to issue blue warnings for rainstorms, severe convection and gales, with heavy to torrential rain in parts of 15 provinces and regions, local heavy rainstorms in Shandong and Liaoning, and thunderstorms with winds of force 10 or above in parts of Henan, Hubei and Hunan.
@@ -582,7 +582,7 @@ Some down-direction trains on the Tianjin-Qinhuangdao high-speed line are runnin
 #### Beijing Marathon Road Controls and Fragrant Hills Autumn Traffic Restrictions This Weekend
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 本周末将迎来一次明显降雨天气，同时2026北京马拉松比赛定于10月18日（周日）举行，比赛期间将对部分道路分时、分段采取临时交通管理措施，加上本周香山红叶节开幕，坡峰岭等景区也将迎来客流高峰。受多重因素叠加影响，本周末部分区域和路段通行压力明显增加。交管部门将启动高等级上勤方案，同时提醒市民规划好外出安排，提前选择出行路线。 周日“北马”开跑请避开比赛路线，10时至12时交通压力大 2026北京马拉松比赛起点设在天安门广场，终点设在奥林匹克公园中心区景观大道。 为保障比赛顺利进行及比赛期间道路交通安全畅通，根据道路交通安全法律法规有关规定，10月17日22时开始至比赛结束，对相关道路分时分段采取临时交通管理措施，除持有2026北京马拉松比赛专用证件的车辆和人员外，禁止其他车辆、行人通行。 行经比赛沿线各交叉路口的车辆和行人，请服从交通民警和工作人员指挥，不随意进入、横穿比赛道路。比赛沿线和周边道路禁止车辆停放及堆放物品，沿线单位和广大市民请提前安排好绕行路线，以免影响出行。 从历年情况看，比赛当天10时—12时，比赛路线周边交通压力较大，预计长安街东向西方向、前三门大街东西双向、西三环南向北方向、北四环西向东方向等较为突出；下午13时左右比赛整体结束后至17时，疏散客流与周边商圈出行交织叠加，将对奥林匹克中心区周边道路车辆通行造成一定影响。 交通管理措施具体实施时间请点击通告链接：网页链接 部分公园景区周边交通压力增加 本市已进入秋季出游高峰期，市民观花赏秋热情高涨。本周末，香山、坡峰岭、八达岭、古北水镇、喇叭沟门、妙峰山、百望山、金海湖等景区景点热度较高，故宫、天坛、颐和园、北海、雍和宫、香山、国家植物园、环球度假区等地标景区以及部分公园举行的秋季主题游园活动将吸引大量客流，周边道路通行和停车压力尤为突出，建议市民选择公共交通前往。 特别提示：香山红叶节将于本周开幕，香山红叶观赏季期间，游客数量将大幅增加，为保证香山地区交通安全顺畅，2026年10月17日、18日、24日、25日、31日及11月1日、7日、8日、14日、15日，每日7时30分至17时30分，将对南辛村街（香山南路至红枫路段）采取禁止机动车由东向西方向行驶的交通管理措施；对香山路与卧佛寺东路交叉口采取禁止机动车由东向西方向行驶（公共电汽车除外）的交通管理措施，届时将禁止游客自驾车沿香山路向上山方向通行。同时，将在红叶观赏季期间，根据周边道路通行和停车场饱和情况，视情况对区域内及周边道路采取单向通行、封闭出入口等临时交通管理措施，全力保障区域交通运行顺畅。 建议乘坐地铁公交绿色出行 据气象部门预报，本周六迎来一次明显降雨天气，且雨量较大，预计对交通运行产生一定影响。交管部门将启动高等级上勤方案，全力保障雨天交通运行安全有序。同时，交管部门将在公园景区周边增派维护警力，码放临时交通指示引导标志，并发挥铁骑交警灵活优势，加强交通秩序疏导，指挥车辆有序通行和停放。 马拉松活动涉及路线、时间跨度均较长，活动时间与2026年国家统一法律职业资格考试（法考）、成人高等学校招生全国统一考试的部分场次重叠，对周日城区出行将产生一定影响，交管部门建议市民及考生提前了解比赛安排，及时规划出行路线，关注交管部门发布的实时路况信息，避开比赛路线和周边交通压力较大的区域，或乘坐地铁出行。 观叶赏景建议错开周末出游高峰，乘坐地铁公交绿色出行。自驾车辆前往请文明驾驶、守法行车，特别是行经流量大的路段，遇车辆排队或临时交通管理措施时，驾驶人要克制急躁情绪，顺序通行并主动配合现场民警的指挥疏导，不盲目超车、不争道抢行。如发生剐蹭、追尾等轻微交通事故，尽量选择远程处理、自行协商等方式快速解决，减少对正常通行的影响。
+> 本周末将迎来一次明显降雨天气，同时2026北京马拉松比赛定于10月18日（周日）举行，比赛期间将对部分道路分时、分段采取临时交通管理措施，加上本周香山红叶节开幕，坡峰岭等景区也将迎来客流高峰。受多重因素叠加影响，本周末部分区域和路段通行压力明显增加。交管部门将启动高等级上勤方案，同时提醒市民规划好外出安排，提前选择出行路线。 周日“北马”开跑请避开比赛路线，10时至12时交通压力大 2026北京马拉松比赛起点设在天安门广场，终点设在奥林匹克公园中心区景观大道。 为保障比赛顺利进行及比赛期间道路交通安全畅通，根据道路交通安全法律法规有关规定，10月17日22时开始至比赛结束，对相关道路分时分段采取临时交通管理措施，除持有2026北京马拉松比赛专用证件的车辆和人员外，禁止其他车辆、行人通行。 行经比赛沿线各交叉路口的车辆和行人，请服从交通民警和工作人员指挥，不随意进入、横穿比赛道路。比赛沿线和周边道路禁止车辆停放及堆放物品，沿线单位和广大市民请提前安排好绕行路线，以免影响出行。 从历年情况看，比赛当天10时—12时，比赛路线周边交通压力较大，预计长安街东向西方向、前三门大街东西双向、西三环南向北方向、北四环西向东方向等较为突出；下午13时左右比赛整体结束后至17时，疏散客流与周边商圈出行交织叠加，将对奥林匹克中心区周边道路车辆通行造成一定影响。 交通管理措施具体实施 部分公园景区周边交通压力增加 本市已进入秋季出游高峰期，市民观花赏秋热情高涨。本周末，香山、坡峰岭、八达岭、古北水镇、喇叭沟门、妙峰山、百望山、金海湖等景区景点热度较高，故宫、天坛、颐和园、北海、雍和宫、香山、国家植物园、环球度假区等地标景区以及部分公园举行的秋季主题游园活动将吸引大量客流，周边道路通行和停车压力尤为突出，建议市民选择公共交通前往。 特别提示：香山红叶节将于本周开幕，香山红叶观赏季期间，游客数量将大幅增加，为保证香山地区交通安全顺畅，2026年10月17日、18日、24日、25日、31日及11月1日、7日、8日、14日、15日，每日7时30分至17时30分，将对南辛村街（香山南路至红枫路段）采取禁止机动车由东向西方向行驶的交通管理措施；对香山路与卧佛寺东路交叉口采取禁止机动车由东向西方向行驶（公共电汽车除外）的交通管理措施，届时将禁止游客自驾车沿香山路向上山方向通行。同时，将在红叶观赏季期间，根据周边道路通行和停车场饱和情况，视情况对区域内及周边道路采取单向通行、封闭出入口等临时交通管理措施，全力保障区域交通运行顺畅。 建议乘坐地铁公交绿色出行 据气象部门预报，本周六迎来一次明显降雨天气，且雨量较大，预计对交通运行产生一定影响。交管部门将启动高等级上勤方案，全力保障雨天交通运行安全有序。同时，交管部门将在公园景区周边增派维护警力，码放临时交通指示引导标志，并发挥铁骑交警灵活优势，加强交通秩序疏导，指挥车辆有序通行和停放。 马拉松活动涉及路线、时间跨度均较长，活动时间与2026年国家统一法律职业资格考试（法考）、成人高等学校招生全国统一考试的部分场次重叠，对周日城区出行将产生一定影响，交管部门建议市民及考生提前了解比赛安排，及时规划出行路线，关注交管部门发布的实时路况信息，避开比赛路线和周边交通压力较大的区域，或乘坐地铁出行。 观叶赏景建议错开周末出游高峰，乘坐地铁公交绿色出行。自驾车辆前往请文明驾驶、守法行车，特别是行经流量大的路段，遇车辆排队或临时交通管理措施时，驾驶人要克制急躁情绪，顺序通行并主动配合现场民警的指挥疏导，不盲目超车、不争道抢行。如发生剐蹭、追尾等轻微交通事故，尽量选择远程处理、自行协商等方式快速解决，减少对正常通行的影响。
 
 **🇬🇧 Actionable Travel Intel**:  
 The 2026 Beijing Marathon will be held on Sunday, October 18, starting at Tiananmen Square and finishing at the central landscape avenue of the Olympic Park. From 10 p.m. on October 17 until the race ends, temporary traffic management measures will be applied to the affected roads in stages; except for vehicles and people holding 2026 Beijing Marathon special credentials, other vehicles and pedestrians are prohibited from passing. On race day, traffic pressure is expected to be highest between 10 and 12, especially on Chang'an Avenue in the east-to-west direction, Qiansanmen Street in both directions, the West Third Ring Road in the south-to-north direction and the North Fourth Ring Road in the west-to-east direction. From early afternoon to late afternoon, departing crowds and surrounding commercial traffic are expected to affect roads around the Olympic Center area. Heavy rain is forecast for this Saturday. During the Fragrant Hills red-leaf season, on October 17, 18, 24, 25 and 31 and on November 1, 7, 8, 14 and 15, from 7:30 to 17:30, motor vehicles are prohibited from travelling east-to-west on Nanxincun Street between Xiangshan South Road and Hongfeng Road, and from travelling east-to-west at the intersection of Xiangshan Road and Wolofosi East Road, with public buses excepted; visitors are also barred from driving up Xiangshan Road. Crowds are expected at Xiangshan, Pofengling, Badaling, Gubei Water Town, Labagoumen, Miaofengshan, Baiwangshan and Jinhai Lake, as well as at the Forbidden City, Temple of Heaven, Summer Palace, Beihai, Yonghe Temple, the National Botanical Garden and Universal Resort. The authorities recommend using public transport.
@@ -595,7 +595,7 @@ The 2026 Beijing Marathon will be held on Sunday, October 18, starting at Tianan
 #### Fragrant Hills Park Closes Steep Sections After Rain
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> :温馨提示：因降雨园内道路湿滑，部分陡峭路段临时封闭，请在园的游客合理规划游园路线，注意安全。计划来园游客，请关注交通部门信息。
+> 温馨提示：因降雨园内道路湿滑，部分陡峭路段临时封闭，请在园的游客合理规划游园路线，注意安全。计划来园游客，请关注交通部门信息。
 
 **🇬🇧 Actionable Travel Intel**:  
 Fragrant Hills Park has temporarily closed some steep sections because rain has made paths slippery. Visitors already in the park should plan their routes carefully and take care; those planning to visit should check transport information.
@@ -647,7 +647,7 @@ Beijing will be overcast with heavy rain and local rainstorms during the daytime
 #### Cold Wave and Heavy Rain to Affect Most of China
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 
+> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave will move from west to east across most of China, bringing temperature drops of 4 to 8 degrees Celsius, with local drops above 10 degrees, and northerly winds of force 4 to 6 with gusts of force 7 to 9 in some areas. Moderate to heavy rain is forecast along the Yangtze River and areas to its north, including eastern Northwest China, North China, Northeast China, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, with local rainstorms or heavy rainstorms. High-altitude areas of northern Xinjiang, Gansu and Qinghai, as well as northeastern Inner Mongolia and northern Heilongjiang, will see rain and snow.
@@ -673,7 +673,7 @@ China's national meteorological authority forecasts that strong cold air will af
 #### Tibet Airlines to Add Two Lhasa Round-Trip Routes, Including Hong Kong via Chengdu Shuangliu from November 29
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 
+> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！
 
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
@@ -686,7 +686,7 @@ Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Che
 #### Xinxiang East Railway Station Opens a Convenience Shuttle Bus Link
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #近日，新乡东站开通便民接驳专线。结合列车到发动态调整发车时刻，采用大站快车模式，实现铁路与公交无缝接驳。（张腾鸣）
+> 近日，新乡东站开通便民接驳专线。结合列车到发动态调整发车时刻，采用大站快车模式，实现铁路与公交无缝接驳。
 
 **🇬🇧 Actionable Travel Intel**:  
 Xinxiang East Railway Station has opened a convenience shuttle bus link. Departure times are adjusted dynamically according to train arrivals and departures, using an express-stop model to provide a seamless rail-to-bus connection.
@@ -699,7 +699,7 @@ Xinxiang East Railway Station has opened a convenience shuttle bus link. Departu
 #### China Southern Adds Five New Xinjiang Routes for the Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
+> ✈南航新疆冬春航季焕新出发，5条新航线通达四方！🌶乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
 
 **🇬🇧 Actionable Travel Intel**:  
 China Southern Airlines' Xinjiang branch has added five new routes for the winter-spring season. Urumqi-Chongqing-Jieyang (CZ8235/6) operates daily; Urumqi-Taiyuan-Lianyungang (CZ8633/4) operates on Mondays, Tuesdays, Thursdays and Saturdays; Urumqi-Taiyuan-Jiaxing (CZ5195/6) operates on Wednesdays, Fridays and Sundays; Urumqi-Chengdu Shuangliu (CZ6945/6) operates daily; and Urumqi-Shanghai Pudong (CZ6993/4) operates daily.
@@ -764,7 +764,7 @@ The main scenic area of Baiyangdian in Anxin will be closed for maintenance star
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
@@ -1011,7 +1011,7 @@ Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service acros
 #### Changbai Mountain: North & South Scenic Zones Suspended All Day Following Blizzard Warning
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【长白山北景区、南景区10月5日全天暂停开放】长白山气象台发布景区暴雪蓝色预警，长白山景区持续降雪，气温-7至-1℃，公路、栈道积雪结冰。为保障游客安全，北景区、南景区车辆全天停运、暂停开放。未检门票、车票，当日自动退回原购票账户。由此给您带来的不便，敬请谅解。 
+> 【长白山北景区、南景区10月5日全天暂停开放】长白山气象台发布景区暴雪蓝色预警，长白山景区持续降雪，气温-7至-1℃，公路、栈道积雪结冰。为保障游客安全，北景区、南景区车辆全天停运、暂停开放。未检门票、车票，当日自动退回原购票账户。由此给您带来的不便，敬请谅解。
 
 **🇬🇧 Actionable Travel Intel**:  
 Changbaishan Meteorological Observatory issued a blue blizzard warning with continuous snowfall, temperatures between -7°C and -1°C, and snow and ice accumulation on roads and boardwalks. For visitor safety, the North and South Scenic Zones of Changbaishan are closed all day on October 5, and all vehicle transport is suspended. Unchecked admission and vehicle tickets are automatically refunded to the original purchasing account on the same day.
@@ -1024,7 +1024,7 @@ Changbaishan Meteorological Observatory issued a blue blizzard warning with cont
 #### Shanghai Forbidden City Treasures Exhibition: Final Days Ahead of October 7 Conclusion
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【倒计时！故宫珍宝特展即将结束！】国庆赏国风古韵，国采特展进入收官倒计时。10月7日，“国采 —— 故宫藏清代帝后服饰展”将在上海迎来最后一天展出，101件故宫珍稀织绣文物也将结束沪上之旅，悉数离沪回京。本次展品大多极少外展，难得一见，不少市民游客抢抓国庆假期走进展馆，沉浸式感受清代皇家服饰承载的东方美学与深厚传统文化底蕴。 @上海黄浦
+> 【倒计时！故宫珍宝特展即将结束！】国庆赏国风古韵，国采特展进入收官倒计时。10月7日，“国采 —— 故宫藏清代帝后服饰展”将在上海迎来最后一天展出，101件故宫珍稀织绣文物也将结束沪上之旅，悉数离沪回京。本次展品大多极少外展，难得一见，不少市民游客抢抓国庆假期走进展馆，沉浸式感受清代皇家服饰承载的东方美学与深厚传统文化底蕴。
 
 **🇬🇧 Actionable Travel Intel**:  
 The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Museum" in Shanghai enters its final days, with the last day of exhibition on October 7. The exhibition features 101 rare textile and embroidery artifacts from the Palace Museum before they conclude their display in Shanghai and return to Beijing.
@@ -1037,7 +1037,7 @@ The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Mus
 #### Beijing West Railway Station Expands Platform 18 Exit Channels for Disembarking Passengers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 国铁北京局北京西站结合新增线路开通高铁列车增多的实际，扩增18站台出站通道，缓解旅客出站压力。 [图片][图片][图片]
+> 国铁北京局北京西站结合新增线路开通高铁列车增多的实际，扩增18站台出站通道，缓解旅客出站压力。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Beijing Bureau expanded exit channels at Platform 18 of Beijing West Station to relieve egress pressure for arriving passengers, responding to increased high-speed train services following the opening of new rail routes.

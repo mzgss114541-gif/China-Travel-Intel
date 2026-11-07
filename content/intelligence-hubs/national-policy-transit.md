@@ -23,7 +23,7 @@ The National Meteorological Center has issued four concurrent weather warnings f
 #### Tickets for Z, N, V, and Y Passenger Trains on Sale from November 11 Ahead of Numbering Adjustments
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 铁路普速旅客列车和旅游列车车次变更将于11月25日0时实施，相关列车火车票将于11月11日起陆续发售。 
+> 铁路普速旅客列车和旅游列车车次变更将于11月25日0时实施，相关列车火车票将于11月11日起陆续发售。
 
 **🇬🇧 Actionable Travel Intel**:  
 According to the Ministry of Transport, schedule and numbering changes for conventional passenger trains and tourist trains will take effect at 00:00 on November 25. Train tickets for the affected services, including Z-, N-, V-, and Y-prefix trains, will go on sale progressively starting November 11.
@@ -49,7 +49,7 @@ Under the revised 2026 train numbering rules, the first batch of renumbered serv
 #### China Railway Overhauls Conventional Train Numbering Under 2026 Rules Starting November 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车4700余列。变更后，新车次列车的开行区段、运行时刻基本保持不变，第一批实行新车次的列车车票将于11月11日起陆续发售，其中试点预约购票服务的京沪铁路新车次的车票将于11月6日起陆续兑现。动车组列车车次此次变更暂时保持不变，将于12月下旬实施变更。 国铁集团聚焦服务经济社会发展和人民群众美好出行，启动全国铁路列车车次编排改革工作，在专业调研、系统测算和充分论证基础上，坚持车次唯一性原则，对现行2014版《列车车次编排规定》中字头字母、数字号段的整体编排规则进行了系统修订，形成了2026版《列车车次编排规定》，将动车组旅客列车车次的字头字母由原来的4个增加至7个，可编排的列车车次数量增长近40%，货物列车新增“DH”字头字母，丰富和拓展了车次编排可使用的号段资源，为未来客货列车开行规模扩大和新线路、新装备、新产品投用预留了充足空间，推动构建分类清晰、层次分明、直观易记的客货列车车次编码体系，方便旅客货主通过规范的字头字母、数字号段快速了解运输产品内容。 为确保新旧列车车次变更顺利过渡，国铁集团组织相关部门和单位对列车车次变更涉及的规章制度进行了全面修订，升级了信号软件和信息系统，优化完善了铁路12306和95306系统功能，经系统测试、模拟验证和安全评估，第一批列车车次变更已经具备实施条件，即将正式实施，主要涉及普速旅客列车、旅游列车和货物列车等，变更后的新车次重新编排了字头字母和数字号段，客货运输产品分类更加清晰、辨识度更高。 普速旅客列车方面，将原有T字头调整为N字头，原有K字头及无字头的数字号段车次调整为V字头，Z字头保持不变、仅调整读音和部分数字号段。变更后，普速旅客列车车次使用Z、N、V三个字母字头：Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998；N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次为N1-N1998；V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次为V6001-V6998、普通旅客慢车车次为V7001-V7998。 旅游列车方面，Y字头保持不变，是普速旅游列车专属字头，通过数字号段区分旅游专线和旅游专列两类产品，其中，普速旅游专线列车车次编排为Y1-Y998，普速旅游专列列车车次编排为Y1001-Y9998，旅客选择旅游产品时可以一目了然。 此外，跨境旅客列车在境内段运行时，相关车次将根据2026版《列车车次编排规定》并结合实际进行相应调整。承接临时旅客运输任务的各类列车，车次编排使用同类产品的字头字母和预留的数字号段。车次变更后，原车次配置的轻装行、铁路畅行码、互联网订餐等在途服务，标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。 货物列车方面，货运班列车次字母由“X”（原意为行包，读“行”）全部改为“B”（意为班列，读“班”），与既有货运班列号段基本对应，其他货物列车车次仍然采用无字头字母的编排方式，但是将数字号段进行了细分表达，形成中欧中亚班列、多式联运班列、城际班列、大宗直达货物列车等产品类别，每类产品按运行速度由小到大编排数字号段，实现车次与物流产品功能属性的精准匹配。其中，中欧中亚班列方面，快速中欧班列车次为B2001-B2998，快速中亚班列车次为B3001-B3998，最高运行时速120公里；普快中欧班列车次为B8001-B8998，普快中亚班列车次为B9001-B9998，最高运行时速90公里。多式联运班列方面，快速多式联运班列车次为B201-B998，最高运行时速120公里；普快多式联运班列车次为B4001-B5998，最高运行时速90公里。城际班列方面，特快城际班列车次为B1-B198，最高运行时速160公里；快速城际班列车次为B1001-B1998，最高运行时速120公里；普快城际班列车次为B6001-B7998，最高运行时速90公里。大宗直达货物列车仍为无字头字母的5位纯数字号段，其中重载货物列车车次为71001-77998，煤炭直达列车车次为80001-84998，石油直达列车车次为85001-85998，最高运行时速均为90公里。 此外，对轨道车、接触网作业车、大型养路机械、路内通勤列车、救援列车等路用列车车次进行了优化调整，车次为5位纯数字，通过数字号段细化区分路用列车的类型。 在新旧列车车次变更过渡期间，国铁集团将加强安全督导检查，做好新车次宣传推广和信息服务，持续为旅客货主提供高品质的铁路运输服务，铁路12306、95306平台的相关车次信息与车票发售等同步切换。铁路12306平台以新车次旅客列车起始开行日为基准，在15天预售期内展示变更后的新列车车次，第一批实行新车次的新车票将于11月11日起陆续起售，试点预约购票服务的京沪铁路新车次的车票将于11月6日起陆续兑现；铁路95306平台以新车次货物列车起始开行日为基准，在班列预订期内显示变更后的新列车车次，不影响在途运行的货物列车，各项服务保持不变。 由于火车票有15天预售期，部分旅客列车过渡期内在铁路12306平台可能出现“同一列车在不同日期有两种表达”情况。铁路12306平台将在APP首页及车票查询页面增加信息提示，同时加大信息推送力度，各大车站将通过广播、站内公告、电子显示屏等方式及时公告新车次列车开行动态和旅客出行指引。有出行需求的旅客请务必详细核对列车车次、到发车站、运行时刻等信息，以免误购误乘、影响行程。 铁路部门提示，第一批变更后的列车车次信息，可通过铁路12306、95306网站、手机客户端、微信公众号及拨打12306、95306客服热线等渠道查询，或关注各地铁路部门发布的动态信息、车站公告，以便合理安排行程和货物运输事宜。第二批列车车次变更将于12月下旬实施，包括高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车，届时铁路部门将及时向社会发布相关信息。 https://weibo.com/2549511007/RpWM6Flp3
+> 11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车4700余列。变更后，新车次列车的开行区段、运行时刻基本保持不变，第一批实行新车次的列车车票将于11月11日起陆续发售，其中试点预约购票服务的京沪铁路新车次的车票将于11月6日起陆续兑现。动车组列车车次此次变更暂时保持不变，将于12月下旬实施变更。 国铁集团聚焦服务经济社会发展和人民群众美好出行，启动全国铁路列车车次编排改革工作，在专业调研、系统测算和充分论证基础上，坚持车次唯一性原则，对现行2014版《列车车次编排规定》中字头字母、数字号段的整体编排规则进行了系统修订，形成了2026版《列车车次编排规定》，将动车组旅客列车车次的字头字母由原来的4个增加至7个，可编排的列车车次数量增长近40%，货物列车新增“DH”字头字母，丰富和拓展了车次编排可使用的号段资源，为未来客货列车开行规模扩大和新线路、新装备、新产品投用预留了充足空间，推动构建分类清晰、层次分明、直观易记的客货列车车次编码体系，方便旅客货主通过规范的字头字母、数字号段快速了解运输产品内容。 为确保新旧列车车次变更顺利过渡，国铁集团组织相关部门和单位对列车车次变更涉及的规章制度进行了全面修订，升级了信号软件和信息系统，优化完善了铁路12306和95306系统功能，经系统测试、模拟验证和安全评估，第一批列车车次变更已经具备实施条件，即将正式实施，主要涉及普速旅客列车、旅游列车和货物列车等，变更后的新车次重新编排了字头字母和数字号段，客货运输产品分类更加清晰、辨识度更高。 普速旅客列车方面，将原有T字头调整为N字头，原有K字头及无字头的数字号段车次调整为V字头，Z字头保持不变、仅调整读音和部分数字号段。变更后，普速旅客列车车次使用Z、N、V三个字母字头：Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998；N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次为N1-N1998；V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次为V6001-V6998、普通旅客慢车车次为V7001-V7998。 旅游列车方面，Y字头保持不变，是普速旅游列车专属字头，通过数字号段区分旅游专线和旅游专列两类产品，其中，普速旅游专线列车车次编排为Y1-Y998，普速旅游专列列车车次编排为Y1001-Y9998，旅客选择旅游产品时可以一目了然。 此外，跨境旅客列车在境内段运行时，相关车次将根据2026版《列车车次编排规定》并结合实际进行相应调整。承接临时旅客运输任务的各类列车，车次编排使用同类产品的字头字母和预留的数字号段。车次变更后，原车次配置的轻装行、铁路畅行码、互联网订餐等在途服务，标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。 货物列车方面，货运班列车次字母由“X”（原意为行包，读“行”）全部改为“B”（意为班列，读“班”），与既有货运班列号段基本对应，其他货物列车车次仍然采用无字头字母的编排方式，但是将数字号段进行了细分表达，形成中欧中亚班列、多式联运班列、城际班列、大宗直达货物列车等产品类别，每类产品按运行速度由小到大编排数字号段，实现车次与物流产品功能属性的精准匹配。其中，中欧中亚班列方面，快速中欧班列车次为B2001-B2998，快速中亚班列车次为B3001-B3998，最高运行时速120公里；普快中欧班列车次为B8001-B8998，普快中亚班列车次为B9001-B9998，最高运行时速90公里。多式联运班列方面，快速多式联运班列车次为B201-B998，最高运行时速120公里；普快多式联运班列车次为B4001-B5998，最高运行时速90公里。城际班列方面，特快城际班列车次为B1-B198，最高运行时速160公里；快速城际班列车次为B1001-B1998，最高运行时速120公里；普快城际班列车次为B6001-B7998，最高运行时速90公里。大宗直达货物列车仍为无字头字母的5位纯数字号段，其中重载货物列车车次为71001-77998，煤炭直达列车车次为80001-84998，石油直达列车车次为85001-85998，最高运行时速均为90公里。 此外，对轨道车、接触网作业车、大型养路机械、路内通勤列车、救援列车等路用列车车次进行了优化调整，车次为5位纯数字，通过数字号段细化区分路用列车的类型。 在新旧列车车次变更过渡期间，国铁集团将加强安全督导检查，做好新车次宣传推广和信息服务，持续为旅客货主提供高品质的铁路运输服务，铁路12306、95306平台的相关车次信息与车票发售等同步切换。铁路12306平台以新车次旅客列车起始开行日为基准，在15天预售期内展示变更后的新列车车次，第一批实行新车次的新车票将于11月11日起陆续起售，试点预约购票服务的京沪铁路新车次的车票将于11月6日起陆续兑现；铁路95306平台以新车次货物列车起始开行日为基准，在班列预订期内显示变更后的新列车车次，不影响在途运行的货物列车，各项服务保持不变。 由于火车票有15天预售期，部分旅客列车过渡期内在铁路12306平台可能出现“同一列车在不同日期有两种表达”情况。铁路12306平台将在APP首页及车票查询页面增加信息提示，同时加大信息推送力度，各大车站将通过广播、站内公告、电子显示屏等方式及时公告新车次列车开行动态和旅客出行指引。有出行需求的旅客请务必详细核对列车车次、到发车站、运行时刻等信息，以免误购误乘、影响行程。 铁路部门提示，第一批变更后的列车车次信息，可通过铁路12306、95306网站、手机客户端、微信公众号及拨打12306、95306客服热线等渠道查询，或关注各地铁路部门发布的动态信息、车站公告，以便合理安排行程和货物运输事宜。第二批列车车次变更将于12月下旬实施，包括高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车，届时铁路部门将及时向社会发布相关信息。 https://weibo.com/2549511007/RpWM6Flp3
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway will implement the first phase of its 2026 train numbering regulations starting at 0:00 on November 25. Conventional passenger trains will use letter prefixes Z, N, and V, while tourist trains retain the Y prefix. Existing operating sections and schedules will remain largely unchanged. Ticket sales for newly numbered services begin November 11 (with Beijing-Shanghai Railway pilot reservation tickets issued starting November 6). High-speed and EMU train numbers remain unchanged until late December.
@@ -62,7 +62,7 @@ China Railway will implement the first phase of its 2026 train numbering regulat
 #### Customs Currency Control Alert: Strict Foreign Cash Export Limit for Frequent Travelers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，西九龙站海关在一名出境旅客的裙子两侧内袋中查获未申报美元现钞2万元，折合人民币约13.4万元。当日，海关关员在对出境旅客进行监管时，发现一名旅客进入海关监管区未主动申报，且该旅客过关时神色紧张、步伐加快，试图快速通过海关监管区，关员随即对其进行拦截检查。经进一步检查，关员在该旅客穿着的裙子两侧内袋中各发现美元现钞1万元，共计美元现钞2万元，折合人民币约13.4万元。该旅客属于15天内多次出境人员，其所携带的美元现钞超出规定限额，且该旅客年内曾有两次违规携带货币出境记录。目前，该案已移交海关缉私部门处理。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 
+> 近日，西九龙站海关在一名出境旅客的裙子两侧内袋中查获未申报美元现钞2万元，折合人民币约13.4万元。当日，海关关员在对出境旅客进行监管时，发现一名旅客进入海关监管区未主动申报，且该旅客过关时神色紧张、步伐加快，试图快速通过海关监管区，关员随即对其进行拦截检查。经进一步检查，关员在该旅客穿着的裙子两侧内袋中各发现美元现钞1万元，共计美元现钞2万元，折合人民币约13.4万元。该旅客属于15天内多次出境人员，其所携带的美元现钞超出规定限额，且该旅客年内曾有两次违规携带货币出境记录。目前，该案已移交海关缉私部门处理。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。
 
 **🇬🇧 Actionable Travel Intel**:  
 Customs officers at West Kowloon Station intercepted 20000 USD in undeclared cash from an exiting traveler. Under official customs regulations, travelers departing China for the second time or more within 15 days are legally permitted to carry foreign currency cash equivalent to no more than 1000 USD. Any excess currency will not be cleared by customs, and travelers requiring larger sums must obtain an official foreign exchange export permit from foreign exchange authorities or banks prior to departure.
@@ -75,7 +75,7 @@ Customs officers at West Kowloon Station intercepted 20000 USD in undeclared cas
 #### China Customs Enforces Strict Criminal Liability on Cannabis at Inbound Checkpoints
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，罗湖海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报，且其身上散发出一股浓烈的疑似大麻气味，海关关员随即对其进行拦截检查。经进一步检查，关员在其裤子右侧口袋内发现半支燃烧后熄灭的疑似大麻烟。经现场检测，该疑似大麻烟呈四氢大麻酚（THC）阳性反应。后经专业机构鉴定，该半支卷烟中检出四氢大麻酚成分，确认为大麻，半支烟重0.22克，烟丝净重0.08克。目前，该案已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。 
+> 近日，罗湖海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报，且其身上散发出一股浓烈的疑似大麻气味，海关关员随即对其进行拦截检查。经进一步检查，关员在其裤子右侧口袋内发现半支燃烧后熄灭的疑似大麻烟。经现场检测，该疑似大麻烟呈四氢大麻酚（THC）阳性反应。后经专业机构鉴定，该半支卷烟中检出四氢大麻酚成分，确认为大麻，半支烟重0.22克，烟丝净重0.08克。目前，该案已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。
 
 **🇬🇧 Actionable Travel Intel**:  
 Luohu Customs intercepted an incoming passenger carrying a partially burned cannabis cigarette testing positive for THC, with a tobacco weight of 0.08 grams. Under China Criminal Law and the Narcotics Control Law, cannabis is strictly classified as an illicit narcotic drug. Smuggling, transporting, or trafficking drugs in any quantity whatsoever incurs full criminal prosecution and statutory penalties under Chinese law.
@@ -88,7 +88,7 @@ Luohu Customs intercepted an incoming passenger carrying a partially burned cann
 #### Nanning Airport Winter-Spring Schedule Expands ASEAN Flight Network and Air-Rail Transfers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 南宁机场新增、恢复多条航线航班】 2026年10月25日至2027年3月27日，全国民航将执行2026年冬春航季航班计划，共计154天。10月24日，记者了解到，新航季，南宁吴圩国际机场（以下简称南宁机场）共有31家国内外航空公司计划运营客运航线101条，其中，国内航线86条，国际地区航线15条。通达国内外城市82个，其中国内城市69个，国际地区城市13个，进一步满足旅客多样化出行需求。 本航季，南宁机场新增、恢复南宁—长沙—榆林、南宁—长沙—万州、南宁—盐城、南宁—重庆—天津等多条航线航班。 同比加密南宁至北京首都、上海浦东、南京、武汉、哈尔滨、西双版纳、海口等重点省会城市、经贸城市及热门旅游城市航线，优化成都、西安等西部陆海新通道共建省份城市航线航班时刻，持续稳定广州、深圳、香港、澳门等粤港澳大湾区航线，进一步提升南宁至国内城市的通达性。 在国际地区客运方面，计划开通至曼谷、金边、新加坡、吉隆坡、斯里巴加湾、万象、雅加达、河内、海防、仰光、马尼拉等国际航线，香港、澳门等地区航线，航线网络基本覆盖东盟国家主要城市。 在出行服务方面，南宁机场立足旅客多元化出行需求，持续推出“经邕飞·东盟行”系列中转服务，全新打造“邕易联·空铁通”空铁便捷换乘服务品牌，为旅客提供“11免11优”及“3免3优”系列增值服务，涵盖免费住宿、免费餐食、免费机场巴士等权益，以及优享快捷值机、便捷安检通道等专享权益，全面提升旅客在食、住、行、游、购等各环节的服务体验。
+> 2026年10月25日至2027年3月27日，全国民航将执行2026年冬春航季航班计划，共计154天。新航季，南宁吴圩国际机场（以下简称南宁机场）共有31家国内外航空公司计划运营客运航线101条，其中，国内航线86条，国际地区航线15条。通达国内外城市82个，其中国内城市69个，国际地区城市13个，进一步满足旅客多样化出行需求。 本航季，南宁机场新增、恢复南宁—长沙—榆林、南宁—长沙—万州、南宁—盐城、南宁—重庆—天津等多条航线航班。 同比加密南宁至北京首都、上海浦东、南京、武汉、哈尔滨、西双版纳、海口等重点省会城市、经贸城市及热门旅游城市航线，优化成都、西安等西部陆海新通道共建省份城市航线航班时刻，持续稳定广州、深圳、香港、澳门等粤港澳大湾区航线，进一步提升南宁至国内城市的通达性。 在国际地区客运方面，计划开通至曼谷、金边、新加坡、吉隆坡、斯里巴加湾、万象、雅加达、河内、海防、仰光、马尼拉等国际航线，香港、澳门等地区航线，航线网络基本覆盖东盟国家主要城市。 在出行服务方面，南宁机场立足旅客多元化出行需求，持续推出“经邕飞·东盟行”系列中转服务，全新打造“邕易联·空铁通”空铁便捷换乘服务品牌，为旅客提供“11免11优”及“3免3优”系列增值服务，涵盖免费住宿、免费餐食、免费机场巴士等权益，以及优享快捷值机、便捷安检通道等专享权益，全面提升旅客在食、住、行、游、购等各环节的服务体验。
 
 **🇬🇧 Actionable Travel Intel**:  
 Under the 2026–2027 civil aviation winter-spring flight season running for 154 days from October 25, 2026, to March 27, 2027, Nanning Wuxu International Airport operates 101 passenger routes across 82 destinations, including 15 international routes covering key ASEAN cities such as Bangkok, Singapore, Kuala Lumpur, Jakarta, Hanoi, and Manila. Nanning Airport also expanded its air-rail transit transfer services, offering convenient connections and transfer amenities for multimodal travelers.
@@ -153,7 +153,7 @@ China's civil aviation network officially commenced the 2026/2027 winter-spring 
 #### China Railway Train Numbering Reform: New X-Prefix Introduced for 350 km/h Fuxing Services
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 全国铁路列车车次将于11月下旬、12月下旬分两批调整，其中新增X字头，X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车。 （中国铁路）
+> 全国铁路列车车次将于11月下旬、12月下旬分两批调整，其中新增X字头，X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1-X9998，主要用于未来更高速度等级运行的动车组列车。
 
 **🇬🇧 Actionable Travel Intel**:  
 China State Railway Group is launching a nationwide train numbering adjustment in two phases scheduled for late November and late December. The reform introduces a new 'X' prefix (pronounced 'Xin') for Fuxing bullet trains operating at maximum speeds of 350 km/h and above, numbered from X1 to X9998, designated for future higher-speed trainsets.
@@ -244,7 +244,7 @@ A new cold wave will affect most of central and eastern China from October 20 to
 #### Blizzard and Heavy Snow Forecast for Northeast China as Cold Air Persists
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~ 
+> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 19, frequent precipitation is forecast for Northeast China and the middle and lower Yangtze region. Parts of northeastern Inner Mongolia and northwestern Heilongjiang may see blizzards or heavy blizzards, with adverse effects on transport. Cold air will continue to affect China, keeping temperatures below normal across much of the area north of the Yangtze, with many locations expected to record their lowest temperatures so far in the second half of the year.
@@ -309,7 +309,7 @@ Typhoon Champi intensified from a severe typhoon into a super typhoon on the nig
 #### Cold Wave and Three Meteorological Warnings Affect China; Temperature Drops of 4–10°C
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 
+> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is currently affecting China, with the main temperature drops concentrated in the northwest and north, where maximum temperatures may fall by 4 to 10 degrees Celsius. Tomorrow, maximum temperatures will also drop in Inner Mongolia, the northeast and much of the middle and lower Yangtze, with maximum drops of 4 to 10 degrees. Around October 21, the 0°C line will push south to central Shaanxi, southern Shanxi and northern Hebei. The Central Meteorological Observatory continued to issue blue warnings for rainstorms, severe convection and gales, with heavy to torrential rain in parts of 15 provinces and regions, local heavy rainstorms in Shandong and Liaoning, and thunderstorms with winds of force 10 or above in parts of Henan, Hubei and Hunan.
@@ -374,7 +374,7 @@ China Railway will change train numbers in two stages: conventional passenger an
 #### China Railway to Change Train Numbers in Two Batches from Late November
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。 （中国铁路）
+> 为确保新旧版列车车次变更顺利过渡、全国铁路运输安全有序，列车车次变更工作分2批进行。第一批列车车次变更工作将在11月下旬具体实施，对普速旅客列车、旅游列车、货物列车等类型列车车次进行变更。第二批列车车次变更工作将在12月下旬具体实施，对高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车车次进行变更。铁路12306平台以新车次旅客列车开行日为基准，在15天预售期内展示变更后的新列车车次，同时，第一次过渡后新车次列车的开行区段、运行时刻按现行运行图执行，既有的静音车厢、爱宠行、轻装行、自行车随身行、铁路畅行码、互联网订餐等在途服务标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。铁路95306平台以新车次货物列车开行日为基准，在班列预订期内显示变更后的新列车车次，同时继续为客户提供稳定高效的铁路物流线上服务。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway will change train numbers in two batches. The first batch will be implemented in late November for conventional passenger trains, tourist trains and freight trains. The second batch will be implemented in late December for high-speed passenger trains, power-concentrated EMU passenger trains, intercity passenger trains, suburban and regional passenger trains, and EMU express freight trains. The 12306 platform will display the new train numbers within the 15-day pre-sale period based on the first operating day of the new-numbered passenger trains. After the first transition, the operating sections and timetables of the new-numbered trains will follow the current timetable. Existing onboard services such as quiet carriages, pet transport, light travel, bicycle carry-on, the railway pass code and online meal ordering will remain unchanged.
@@ -387,7 +387,7 @@ China Railway will change train numbers in two batches. The first batch will be 
 #### Cold Wave and Heavy Rain to Affect Most of China
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 
+> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave will move from west to east across most of China, bringing temperature drops of 4 to 8 degrees Celsius, with local drops above 10 degrees, and northerly winds of force 4 to 6 with gusts of force 7 to 9 in some areas. Moderate to heavy rain is forecast along the Yangtze River and areas to its north, including eastern Northwest China, North China, Northeast China, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, with local rainstorms or heavy rainstorms. High-altitude areas of northern Xinjiang, Gansu and Qinghai, as well as northeastern Inner Mongolia and northern Heilongjiang, will see rain and snow.
@@ -491,7 +491,7 @@ Over the next three days, precipitation affecting China will increase and intens
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
@@ -556,7 +556,7 @@ The Central Meteorological Observatory continued to issue a blue-level alert for
 #### Heavy Rain Warning Across Southwest and Central-South China Through October 17
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！
 
 **🇬🇧 Actionable Travel Intel**:  
 A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
@@ -569,7 +569,7 @@ A round of intense rainfall is affecting southwest and central-south China. From
 #### Anhui Xuancheng Station: Updated Railway Timetable Operates 94 Pairs of High-Speed Trains From October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月11日零时起，全国铁路实行新的列车运行图，从宣城站获悉，调图后，宣城站安排开行图定旅客列车116.，5对其中高速列车94对，普速列车22.5对。戳图了解↓↓
+> 10月11日零时起，全国铁路实行新的列车运行图，从宣城站获悉，调图后，宣城站安排开行图定旅客列车116.，5对其中高速列车94对，普速列车22.5对。
 
 **🇬🇧 Actionable Travel Intel**:  
 Following the national railway timetable adjustment effective at midnight on October 11, Xuancheng Station operates 94 pairs of high-speed trains and 22.5 pairs of conventional-speed trains.
@@ -642,7 +642,7 @@ Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service acros
 #### Ministry of Transport: Golden Week Return Surge Mobilizes 300,000,000+ Inter-Regional Passenger Journeys
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【升级交通服务 强化返程保障】记者从交通运输部了解到，10月5日全社会跨区域人员流动量超3亿人次。全国交通出行陆续迎来返程客流，交通运输部门多措并举，优化服务，强化保障。铁路方面，全国铁路加开旅客列车强化热门方向运力，主要车站联动城市地铁、地面公交延长运营时间，确保抵离旅客顺畅接驳。各地针对枢纽大客流，加密公共交通班次，全力保障中外旅客平安有序出行。
+> 【升级交通服务 强化返程保障】10月5日全社会跨区域人员流动量超3亿人次。全国交通出行陆续迎来返程客流，交通运输部门多措并举，优化服务，强化保障。铁路方面，全国铁路加开旅客列车强化热门方向运力，主要车站联动城市地铁、地面公交延长运营时间，确保抵离旅客顺畅接驳。各地针对枢纽大客流，加密公共交通班次，全力保障中外旅客平安有序出行。
 
 **🇬🇧 Actionable Travel Intel**:  
 The Ministry of Transport reported that inter-regional passenger movements surpassed 300,000,000 journeys on October 5 as return travel commenced. Railway bureaus operated additional passenger trains on popular routes, and major transport hubs coordinated with urban subways and buses to extend operating hours to facilitate passenger transfers.
