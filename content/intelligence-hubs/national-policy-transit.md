@@ -10,7 +10,7 @@
 #### Tickets for Z, N, V, and Y Passenger Trains on Sale from November 11 Ahead of Numbering Adjustments
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 铁路普速旅客列车和旅游列车车次变更将于11月25日0时实施，相关列车火车票将于11月11日起陆续发售。 交通运输部的微博视频
+> 铁路普速旅客列车和旅游列车车次变更将于11月25日0时实施，相关列车火车票将于11月11日起陆续发售。 
 
 **🇬🇧 Actionable Travel Intel**:  
 According to the Ministry of Transport, schedule and numbering changes for conventional passenger trains and tourist trains will take effect at 00:00 on November 25. Train tickets for the affected services, including Z-, N-, V-, and Y-prefix trains, will go on sale progressively starting November 11.
@@ -49,7 +49,7 @@ China Railway will implement the first phase of its 2026 train numbering regulat
 #### Customs Currency Control Alert: Strict Foreign Cash Export Limit for Frequent Travelers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，西九龙站海关在一名出境旅客的裙子两侧内袋中查获未申报美元现钞2万元，折合人民币约13.4万元。当日，海关关员在对出境旅客进行监管时，发现一名旅客进入海关监管区未主动申报，且该旅客过关时神色紧张、步伐加快，试图快速通过海关监管区，关员随即对其进行拦截检查。经进一步检查，关员在该旅客穿着的裙子两侧内袋中各发现美元现钞1万元，共计美元现钞2万元，折合人民币约13.4万元。该旅客属于15天内多次出境人员，其所携带的美元现钞超出规定限额，且该旅客年内曾有两次违规携带货币出境记录。目前，该案已移交海关缉私部门处理。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 海关发布的微博视频
+> 近日，西九龙站海关在一名出境旅客的裙子两侧内袋中查获未申报美元现钞2万元，折合人民币约13.4万元。当日，海关关员在对出境旅客进行监管时，发现一名旅客进入海关监管区未主动申报，且该旅客过关时神色紧张、步伐加快，试图快速通过海关监管区，关员随即对其进行拦截检查。经进一步检查，关员在该旅客穿着的裙子两侧内袋中各发现美元现钞1万元，共计美元现钞2万元，折合人民币约13.4万元。该旅客属于15天内多次出境人员，其所携带的美元现钞超出规定限额，且该旅客年内曾有两次违规携带货币出境记录。目前，该案已移交海关缉私部门处理。根据相关规定，15天内第二次及以上出境旅客允许携带等值不超过1000美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Customs officers at West Kowloon Station intercepted 20000 USD in undeclared cash from an exiting traveler. Under official customs regulations, travelers departing China for the second time or more within 15 days are legally permitted to carry foreign currency cash equivalent to no more than 1000 USD. Any excess currency will not be cleared by customs, and travelers requiring larger sums must obtain an official foreign exchange export permit from foreign exchange authorities or banks prior to departure.
@@ -62,7 +62,7 @@ Customs officers at West Kowloon Station intercepted 20000 USD in undeclared cas
 #### China Customs Enforces Strict Criminal Liability on Cannabis at Inbound Checkpoints
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，罗湖海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报，且其身上散发出一股浓烈的疑似大麻气味，海关关员随即对其进行拦截检查。经进一步检查，关员在其裤子右侧口袋内发现半支燃烧后熄灭的疑似大麻烟。经现场检测，该疑似大麻烟呈四氢大麻酚（THC）阳性反应。后经专业机构鉴定，该半支卷烟中检出四氢大麻酚成分，确认为大麻，半支烟重0.22克，烟丝净重0.08克。目前，该案已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。 海关发布的微博视频
+> 近日，罗湖海关关员在对进境旅客进行监管时，发现一名男性旅客进入海关监管区未主动申报，且其身上散发出一股浓烈的疑似大麻气味，海关关员随即对其进行拦截检查。经进一步检查，关员在其裤子右侧口袋内发现半支燃烧后熄灭的疑似大麻烟。经现场检测，该疑似大麻烟呈四氢大麻酚（THC）阳性反应。后经专业机构鉴定，该半支卷烟中检出四氢大麻酚成分，确认为大麻，半支烟重0.22克，烟丝净重0.08克。目前，该案已移交海关缉私部门处理。根据《中华人民共和国刑法》《中华人民共和国禁毒法》等相关法律规定，毒品是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Luohu Customs intercepted an incoming passenger carrying a partially burned cannabis cigarette testing positive for THC, with a tobacco weight of 0.08 grams. Under China Criminal Law and the Narcotics Control Law, cannabis is strictly classified as an illicit narcotic drug. Smuggling, transporting, or trafficking drugs in any quantity whatsoever incurs full criminal prosecution and statutory penalties under Chinese law.
@@ -127,7 +127,7 @@ Railway passenger regulations specify that once a free child passenger declarati
 #### China Civil Aviation 2026/2027 Winter-Spring Flight Season Begins October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 2026年10月25日起至2027年3月27日，全国民航正式执行2026/2027年冬春航季航班计划。换季不是简单的时刻表微调，航班时刻、班期都可能变化，部分航线还会增班、减班甚至停飞。 这两种情况出行要格外注意：如果购买了10月25日之后的机票，出行前重新核对一遍出发的机场、航站楼和航班时刻；经常乘坐低频次支线航班的话，这类航线换季时变动更大，建议多核对一次。 本次换季后，热门航线特价票供给可能收缩，但支线航班取消调整可能会减少，新的直飞航线也可能会增加。 换季初期是购票的利好窗口期，目前国内多条航线机票折扣力度可观。央视财经的微博视频
+> 2026年10月25日起至2027年3月27日，全国民航正式执行2026/2027年冬春航季航班计划。换季不是简单的时刻表微调，航班时刻、班期都可能变化，部分航线还会增班、减班甚至停飞。 这两种情况出行要格外注意：如果购买了10月25日之后的机票，出行前重新核对一遍出发的机场、航站楼和航班时刻；经常乘坐低频次支线航班的话，这类航线换季时变动更大，建议多核对一次。 本次换季后，热门航线特价票供给可能收缩，但支线航班取消调整可能会减少，新的直飞航线也可能会增加。 换季初期是购票的利好窗口期，目前国内多条航线机票折扣力度可观。
 
 **🇬🇧 Actionable Travel Intel**:  
 China's civil aviation network officially commenced the 2026/2027 winter-spring flight schedule on October 25, 2026, which will run through March 27, 2027. Flight timings, frequencies, and operating routes across domestic airports may be adjusted, added, or suspended under the seasonal schedule change. Inbound and transit passengers traveling on or after October 25 are advised to double-check their departure airport, terminal building, and flight departure time before heading to the airport, especially when connecting on low-frequency regional routes.
@@ -166,7 +166,7 @@ Over the next three days, parts of northern and western regions—including most
 #### Typhoon Champi: Path Remains Uncertain as Strong Coastal Winds and Rain Approach
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 目前，今年第30号台风“蔷琵”维持超强台风级已超80个小时。中央气象台预计“蔷琵”有可能24日前后在我国台湾东部沿海登陆，并在福建二次登陆；也可能在台湾东北部海面转向东北方向移动，强度逐渐减弱。 “蔷琵”的路径预报仍有较大不确定性，后期路径和影响预计在22日趋于明朗。受其影响，我国东南部海域及浙江沿海、福建沿海、台湾沿海、上海沿海将有强风雨天气，提前做好台风防御措施。 今后几天，随着冷空气南下，南方多地炎热天气将会迅速收敛，其中江南多地气温波动较大，体感将明显转凉。华南多地受冷空气影响有限，气温波动不大，要注意防暑降温。央视新闻的微博视频
+> 目前，今年第30号台风“蔷琵”维持超强台风级已超80个小时。中央气象台预计“蔷琵”有可能24日前后在我国台湾东部沿海登陆，并在福建二次登陆；也可能在台湾东北部海面转向东北方向移动，强度逐渐减弱。 “蔷琵”的路径预报仍有较大不确定性，后期路径和影响预计在22日趋于明朗。受其影响，我国东南部海域及浙江沿海、福建沿海、台湾沿海、上海沿海将有强风雨天气，提前做好台风防御措施。 今后几天，随着冷空气南下，南方多地炎热天气将会迅速收敛，其中江南多地气温波动较大，体感将明显转凉。华南多地受冷空气影响有限，气温波动不大，要注意防暑降温。
 
 **🇬🇧 Actionable Travel Intel**:  
 Typhoon Champi (the 30th typhoon of the year) is forecast to possibly make landfall around Taiwan's east coast on October 24 and a second landfall in Fujian, or to turn northeast near northeastern Taiwan. The path remains uncertain and is expected to become clearer on October 22. Strong wind and rain are forecast for the southeastern coastal waters and coastal Zhejiang, Fujian, Taiwan and Shanghai. Typhoon precautions should be taken in advance.
@@ -205,7 +205,7 @@ Over the next two days, cold air will affect most of central and eastern China, 
 #### Super Typhoon Champi Nears China; Coastal Wind and Rain Expected
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 今早5时，超强台风“蔷琵”的中心位于距离台湾台北市东偏南方向约2300公里，将以每小时20-25公里的速度向西偏北方向移动，强度还将有所增强。预计本周，台风“蔷琵”会逐渐逼近我国，后面是否会登陆我国，关键是要看周三、周四冷空气对副热带高压的削弱情况，如果副热带高压不断开，后续它登陆的可能性就会提升。如果副高断开，台风就会北上日本。 今后3天，中东部普遍会有4-8℃降温；西北地区东部、华北和东北地区南部的部分地区，降温10-12℃，长江以北大部地区伴有4-5级偏北风，阵风6-8级。 周一周二，降水主要集中在西北地区东部到长江流域以及西南一带；周三，新疆北部雨雪会明显加强；周四开始，东南沿海风雨渐起。央视新闻的微博视频
+> 今早5时，超强台风“蔷琵”的中心位于距离台湾台北市东偏南方向约2300公里，将以每小时20-25公里的速度向西偏北方向移动，强度还将有所增强。预计本周，台风“蔷琵”会逐渐逼近我国，后面是否会登陆我国，关键是要看周三、周四冷空气对副热带高压的削弱情况，如果副热带高压不断开，后续它登陆的可能性就会提升。如果副高断开，台风就会北上日本。 今后3天，中东部普遍会有4-8℃降温；西北地区东部、华北和东北地区南部的部分地区，降温10-12℃，长江以北大部地区伴有4-5级偏北风，阵风6-8级。 周一周二，降水主要集中在西北地区东部到长江流域以及西南一带；周三，新疆北部雨雪会明显加强；周四开始，东南沿海风雨渐起。
 
 **🇬🇧 Actionable Travel Intel**:  
 At 5 a.m. local time, Super Typhoon Champi was centered about 2,300 kilometers east-southeast of Taipei and was moving west-northwest at 20–25 kilometers per hour; it may strengthen further. Whether it approaches China depends on cold air weakening the subtropical high on Wednesday and Thursday. Coastal wind and rain are expected to increase from Thursday.
@@ -231,7 +231,7 @@ A new cold wave will affect most of central and eastern China from October 20 to
 #### Blizzard and Heavy Snow Forecast for Northeast China as Cold Air Persists
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~ 应急管理部的微博视频
+> 东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。 深秋晴燥，风物渐清。家中电暖、插座、厨房用火都要多看一眼。人走断电，火灭关阀。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 19, frequent precipitation is forecast for Northeast China and the middle and lower Yangtze region. Parts of northeastern Inner Mongolia and northwestern Heilongjiang may see blizzards or heavy blizzards, with adverse effects on transport. Cold air will continue to affect China, keeping temperatures below normal across much of the area north of the Yangtze, with many locations expected to record their lowest temperatures so far in the second half of the year.
@@ -244,7 +244,7 @@ On October 19, frequent precipitation is forecast for Northeast China and the mi
 #### New Cold Air Mass to Bring 10-12°C Temperature Drops on October 20-21
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 最近，北方接连受冷空气影响，遭遇了同期少见的强降雨，大风降温也在同步进行。预计20日至21日（下周二、周三），新一股冷空气将影响我国。西北、华北和东北局地降温10℃到12℃，长江中下游一带的气温将会迅速下滑，秋意明显。此外，西南、长江中下游以及东北局地还将迎来明显降水。关注气温变化，及时增添衣物！央视新闻的微博视频
+> 最近，北方接连受冷空气影响，遭遇了同期少见的强降雨，大风降温也在同步进行。预计20日至21日（下周二、周三），新一股冷空气将影响我国。西北、华北和东北局地降温10℃到12℃，长江中下游一带的气温将会迅速下滑，秋意明显。此外，西南、长江中下游以及东北局地还将迎来明显降水。关注气温变化，及时增添衣物！
 
 **🇬🇧 Actionable Travel Intel**:  
 A new cold air mass is expected to affect China from October 20 to 21. Parts of Northwest, North, and Northeast China may see temperature drops of 10°C to 12°C, while temperatures in the middle and lower Yangtze River region will fall quickly. Parts of Southwest, the middle and lower Yangtze River region, and Northeast China may also see notable precipitation. Travelers should monitor temperature changes and add clothing promptly.
@@ -296,7 +296,7 @@ Typhoon Champi intensified from a severe typhoon into a super typhoon on the nig
 #### Cold Wave and Three Meteorological Warnings Affect China; Temperature Drops of 4–10°C
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 转发周知！ 央视新闻的微博视频
+> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is currently affecting China, with the main temperature drops concentrated in the northwest and north, where maximum temperatures may fall by 4 to 10 degrees Celsius. Tomorrow, maximum temperatures will also drop in Inner Mongolia, the northeast and much of the middle and lower Yangtze, with maximum drops of 4 to 10 degrees. Around October 21, the 0°C line will push south to central Shaanxi, southern Shanxi and northern Hebei. The Central Meteorological Observatory continued to issue blue warnings for rainstorms, severe convection and gales, with heavy to torrential rain in parts of 15 provinces and regions, local heavy rainstorms in Shandong and Liaoning, and thunderstorms with winds of force 10 or above in parts of Henan, Hubei and Hunan.
@@ -374,7 +374,7 @@ China Railway will change train numbers in two batches. The first batch will be 
 #### Cold Wave and Heavy Rain to Affect Most of China
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 应急管理部的微博视频
+> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave will move from west to east across most of China, bringing temperature drops of 4 to 8 degrees Celsius, with local drops above 10 degrees, and northerly winds of force 4 to 6 with gusts of force 7 to 9 in some areas. Moderate to heavy rain is forecast along the Yangtze River and areas to its north, including eastern Northwest China, North China, Northeast China, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, with local rainstorms or heavy rainstorms. High-altitude areas of northern Xinjiang, Gansu and Qinghai, as well as northeastern Inner Mongolia and northern Heilongjiang, will see rain and snow.
@@ -478,7 +478,7 @@ Over the next three days, precipitation affecting China will increase and intens
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
@@ -543,7 +543,7 @@ The Central Meteorological Observatory continued to issue a blue-level alert for
 #### Heavy Rain Warning Across Southwest and Central-South China Through October 17
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
@@ -655,7 +655,7 @@ China Customs issued a reminder regarding currency restrictions for inbound and 
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+> 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.

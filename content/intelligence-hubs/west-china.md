@@ -23,7 +23,7 @@ The Qinghai culture and tourism authorities say several scenic areas in the prov
 #### Four Shaanxi Scenic Areas Close for Winter; Tickets Refundable via Original Channel
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 打算来陕西游玩的朋友注意啦！近日多家景区发布闭园公告，陕西黄陵国家森林公园：11月1日起闭园休整，预计2027年春季开园；关山草原景区：11月1日起闭园，开园时间另行通知；陕西黑河国家森林公园：11月4日闭园，道路维修，禁止游客、车辆进入；野河山景区：11月2日起进入冬季闭园期。已经购票的游客，可以走原渠道申请退款。快报提醒：计划出游一定要提前看官方通知，避免白跑一趟！ （via. ）陕西都市快报的微博视频
+> 打算来陕西游玩的朋友注意啦！近日多家景区发布闭园公告，陕西黄陵国家森林公园：11月1日起闭园休整，预计2027年春季开园；关山草原景区：11月1日起闭园，开园时间另行通知；陕西黑河国家森林公园：11月4日闭园，道路维修，禁止游客、车辆进入；野河山景区：11月2日起进入冬季闭园期。已经购票的游客，可以走原渠道申请退款。：计划出游一定要提前看官方通知，避免白跑一趟！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Four scenic areas in Shaanxi have announced closures. Huangling National Forest Park is closed from 1 November for seasonal rest, with reopening expected in spring 2027. Guanshan Grassland closed from 1 November, with its reopening date to be announced separately. Heihe National Forest Park closed on 4 November for road repairs, with visitors and vehicles barred from entry. Yehe Mountain entered its winter closure on 2 November. Visitors who already bought tickets may apply for a refund through the original purchase channel. Travelers planning Shaanxi itineraries in the coming weeks should check the official notice for each site before setting out.
@@ -36,7 +36,7 @@ Four scenic areas in Shaanxi have announced closures. Huangling National Forest 
 #### Ninth China Intangible Cultural Heritage Expo Opens in Chongqing, 6-10 November
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10日，第九届中国非物质文化遗产博览会在重庆国际会议展览中心（南岸）举行。 看什么、吃什么，一起去看看！ 时间：11月6日10:30开展，11月7日—10日每日9:30 地点：重庆国际会议展览中心（南岸） 预约入场。 主展馆（新时代非遗系统性保护成果展、非遗时尚生活展、科技赋能非遗展）实行每日限额实名预约。 微信登录“第九届中国非物质文化遗产博览会”小程序或扫描图二的二维码免费预约，无纸质票，观众凭预约码扫码入场。 特别提醒：展会期间，展馆周边道路将实施临时交通管制，停车资源非常紧张，强烈建议公共交通出行。 乘坐轨道3号线，至工贸站，3B出口即到 江北机场T2：直接坐3号线，直达 江北机场T3：先坐10号线到北站南广场，换3号线 重庆北站：3号线直达 重庆西站：环线到四公里，换3号线 公交线路 115、121、145、149、0301、308、313、319、321、322、338、361、372、382、398、620、808、809、819、841、872等线路均可到达。 具体以站牌信息为准，也可拨打重庆公交热线023-61686168咨询。 【气象万千】新时代非遗系统性保护成果展 主展馆这一站，是本届博览会的“总纲”。从山歌号子到戏曲唱腔，从千年技艺到当代表达，全国各省（区、市）的非遗保护成果，在这里铺陈开卷。 【国风雅韵】非遗时尚生活展 谁说非遗只能进博物馆？这个展区，直接把千年技艺穿在了身上。宋锦、香云纱、苏绣、马面裙。 【匠心智造】科技赋能非遗展 这一站，古与今，在同一个展厅相遇。挥动木梭，亲手“织”出汉晋蜀锦上的纹样——“五星出东方利中国”。 【守护健康】传统医药非遗展 全国60余项传统医药非遗项目齐聚。同仁堂、宏济堂、片仔癀、桐君阁，这些响当当的老字号，都派了非遗代表性传承人驻场。 【百味山河】非遗美食风物集 逛了大半天，腿也酸了，肚子也空了。正好，最后一站，交给胃。118项非遗美食，从全国各地赶来。 非遗从来不是橱窗里的旧物,它是爷爷哼过的调子,是母亲手上的针脚,是一方水土养出来的一日三餐、婚丧嫁娶、岁时节令,是你我骨子里那点改不掉的讲究。 11月6日—10日，重庆国际会议展览中心（南岸），共赴烟火绵长的千年之约。 详情点击： https://mp.weixin.qq.com/s/EUUeZQpV084DP0bgy-qg8A 来源：第1眼TV-华龙网
+> 10日，第九届中国非物质文化遗产博览会在重庆国际会议展览中心（南岸）举行。 看什么、吃什么，一起去看看！ 时间：11月6日10:30开展，11月7日—10日每日9:30 地点：重庆国际会议展览中心（南岸） 预约入场。 主展馆（新时代非遗系统性保护成果展、非遗时尚生活展、科技赋能非遗展）实行每日限额实名预约。 微信登录“第九届中国非物质文化遗产博览会”小程序或扫描图二的二维码免费预约，无纸质票，观众凭预约码扫码入场。 特别提醒：展会期间，展馆周边道路将实施临时交通管制，停车资源非常紧张，强烈建议公共交通出行。 乘坐轨道3号线，至工贸站，3B出口即到 江北机场T2：直接坐3号线，直达 江北机场T3：先坐10号线到北站南广场，换3号线 重庆北站：3号线直达 重庆西站：环线到四公里，换3号线 公交线路 115、121、145、149、0301、308、313、319、321、322、338、361、372、382、398、620、808、809、819、841、872等线路均可到达。 具体以站牌信息为准，也可拨打重庆公交热线023-61686168咨询。 【气象万千】新时代非遗系统性保护成果展 主展馆这一站，是本届博览会的“总纲”。从山歌号子到戏曲唱腔，从千年技艺到当代表达，全国各省（区、市）的非遗保护成果，在这里铺陈开卷。 【国风雅韵】非遗时尚生活展 谁说非遗只能进博物馆？这个展区，直接把千年技艺穿在了身上。宋锦、香云纱、苏绣、马面裙。 【匠心智造】科技赋能非遗展 这一站，古与今，在同一个展厅相遇。挥动木梭，亲手“织”出汉晋蜀锦上的纹样——“五星出东方利中国”。 【守护健康】传统医药非遗展 全国60余项传统医药非遗项目齐聚。同仁堂、宏济堂、片仔癀、桐君阁，这些响当当的老字号，都派了非遗代表性传承人驻场。 【百味山河】非遗美食风物集 逛了大半天，腿也酸了，肚子也空了。正好，最后一站，交给胃。118项非遗美食，从全国各地赶来。 非遗从来不是橱窗里的旧物,它是爷爷哼过的调子,是母亲手上的针脚,是一方水土养出来的一日三餐、婚丧嫁娶、岁时节令,是你我骨子里那点改不掉的讲究。 11月6日—10日，重庆国际会议展览中心（南岸），共赴烟火绵长的千年之约。  
 
 **🇬🇧 Actionable Travel Intel**:  
 The ninth China Intangible Cultural Heritage Expo is held from 6 to 10 November at the Chongqing International Convention and Exhibition Centre in Nan'an district. Doors open at 10:30 on 6 November and at 09:30 daily from 7 to 10 November. Entry is by reservation: the main halls admit a limited number of visitors per day under real-name advance booking, made free of charge through the official expo mini-programme. There is no paper ticket; visitors scan their booking code to enter. During the expo, roads around the venue are under temporary traffic control and parking is very tight, so public transport is strongly advised. Metro Line 3 stops at Gongmao station, exit 3B, at the venue. From Jiangbei Airport Terminal 2, Line 3 runs direct; from Terminal 3, take Line 10 to North Railway Station South Square and change to Line 3; Chongqing North Railway Station is served directly by Line 3; from Chongqing West Railway Station, take the Loop Line to Sigongli and change to Line 3. Numerous local bus routes also reach the venue.
@@ -49,7 +49,7 @@ The ninth China Intangible Cultural Heritage Expo is held from 6 to 10 November 
 #### Shaanxi Heihe National Forest Park Temporarily Closed for Road Maintenance
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #三秦四季 畅旅欢歌# 黑河国家森林公园即日起闭园！景区道路施工维修，开园时间待定，已购票可退款！ 11月4日，陕西黑河国家森林公园发布公告，因开展道路维修作业，公园即日起临时闭园，禁止游客及旅游车辆入园，恢复开园时间另行通告。已购票游客可在原购票渠道办理退款。 西安广播电视台的微博视频
+> 黑河国家森林公园即日起闭园！景区道路施工维修，开园时间待定，已购票可退款！ 11月4日，陕西黑河国家森林公园发布公告，因开展道路维修作业，公园即日起临时闭园，禁止游客及旅游车辆入园，恢复开园时间另行通告。已购票游客可在原购票渠道办理退款。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Shaanxi Heihe National Forest Park announced an immediate temporary closure due to road repair and maintenance work. Entry is prohibited for all visitors and tourist vehicles until further notice. Travelers who have already purchased tickets can obtain refunds through their original booking channels.
@@ -62,7 +62,7 @@ Shaanxi Heihe National Forest Park announced an immediate temporary closure due 
 #### Kunming Jiaozishan Cableway Suspends Operations for Maintenance November 5 to 12
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 注意！11月5日至12日停运，昆明轿子山旅游索道暂停运营，将进行安全检查维修，预计11月13日恢复运营！ 昆明日报掌上春城的微博视频
+> 注意！11月5日至12日停运，昆明轿子山旅游索道暂停运营，将进行安全检查维修，预计11月13日恢复运营！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 The Jiaozishan Tourist Cableway in Kunming is suspending operations from November 5 to 12 for safety inspection and maintenance. Service is expected to resume on November 13.
@@ -114,7 +114,7 @@ Starting December 3, 2026, Sichuan Airlines will resume direct passenger service
 #### Chengdu Railway Adds Extra Trains to Jiuzhaigou and Mount Emei Through November 29
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 成都铁路部门将在11月2日至29日加开部分列车，涉及成都、黄龙九寨、峨眉山、松潘等方向，为旅客赏秋出游提供更多便利。与此同时，11月11日（秋假首日）成都前往西安、西昌、北京等方向的部分列车已出现余票紧张的情况。 （四川观察） 四川观察的微博视频
+> 成都铁路部门将在11月2日至29日加开部分列车，涉及成都、黄龙九寨、峨眉山、松潘等方向，为旅客赏秋出游提供更多便利。与此同时，11月11日（秋假首日）成都前往西安、西昌、北京等方向的部分列车已出现余票紧张的情况。 （四川观察） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Chengdu railway authorities are operating additional passenger train services between November 2 and November 29, 2026, covering routes toward Chengdu, Huanglong Jiuzhai, Mount Emei, and Songpan to accommodate autumn travel demand. In addition, railway officials noted that tickets on certain departures from Chengdu toward Xi'an, Xichang, and Beijing are already running low for November 11. Travelers planning journeys along these corridors should secure bookings early.
@@ -153,7 +153,7 @@ The Lake Namtso Scenic Area in Tibet resumed operations and ticket sales on Nove
 #### Altay Habahe County Introduces Lifetime Free Admission Policy for Core Scenic Areas
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 📣注意~阿勒泰哈巴河县推出“一次购票、终身免票”惠民政策，覆盖白哈巴村、白桦林、彩虹布拉克景区等县域核心景区。 🙌这个冬天，来阿勒泰哈巴河县吧，雪原辽阔，白桦静立，走进其中，沉浸式感受这片土地独有的冬日韵味。（来源 | 阿勒泰地区融媒体中心）
+> 📣注意~阿勒泰哈巴河县推出“一次购票、终身免票”惠民政策，覆盖白哈巴村、白桦林、彩虹布拉克景区等县域核心景区。 🙌这个冬天，来阿勒泰哈巴河县吧，雪原辽阔，白桦静立，走进其中，沉浸式感受这片土地独有的冬日韵味。
 
 **🇬🇧 Actionable Travel Intel**:  
 Habahe County in Altay, Xinjiang has introduced a policy where a single ticket purchase grants lifetime free admission to core scenic attractions across the county. The policy covers key scenic destinations including Baihaba Village, Birch Forest, and Rainbow Bulake Scenic Area. Visitors planning winter travel in Habahe County can access these designated sites on subsequent visits following an initial ticket purchase.
@@ -179,7 +179,7 @@ Effective November 1, 2026, the Tianshan Tianchi Scenic Area enters its winter-s
 #### Capital Airlines Launches Xi'an–Yongzhou–Xiamen Flight Route for Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #千年古都 常来长安# 【西安新开一条航线！】自2026年10月25日起，全国民航正式切换至2026-2027冬春航季。新航季，首都航空以北京大兴、杭州、西安、武汉、沈阳为核心枢纽，深挖文旅支线市场潜力，计划新开国内航线24条，加密热门旅游航线5条，充分释放多枢纽协同运营优势，打通多座旅游城市空中通道。 据悉，首都航空新开西安-永州-厦门航线，航线每周四班，班期为周一、周三、周五、周日，去程航班JD5305，07：25从西安咸阳国际机场起飞，09：20落地湖南永州，10：05从永州出发，11：55抵达厦门；回程航班JD5306，13：00从厦门起飞，15：10落地永州，16：05从永州出发，18：15抵达西安（以上为计划时刻和班期，具体航班信息，以航司系统实际执行为准）。 此外，首都航空将在华东地区，依托杭州枢纽拓展杭州-文山、杭州-唐山等航线，布局武汉-宁波、武汉-福州、大理-福州等线路；华中做强武汉枢纽，新开通武汉-南充-西昌、武汉-玉林等航线，并串联西安、北京大兴至永州等中转航线；西南、华南、华北、东北等地区同步布局海口-泸州、广州-大理、三亚-长沙-东营，串联海岛度假、冰雪体验、山地观光、康养休闲等多元旅游目的地。
+> 【西安新开一条航线！】自2026年10月25日起，全国民航正式切换至2026-2027冬春航季。新航季，首都航空以北京大兴、杭州、西安、武汉、沈阳为核心枢纽，深挖文旅支线市场潜力，计划新开国内航线24条，加密热门旅游航线5条，充分释放多枢纽协同运营优势，打通多座旅游城市空中通道。 据悉，首都航空新开西安-永州-厦门航线，航线每周四班，班期为周一、周三、周五、周日，去程航班JD5305，07：25从西安咸阳国际机场起飞，09：20落地湖南永州，10：05从永州出发，11：55抵达厦门；回程航班JD5306，13：00从厦门起飞，15：10落地永州，16：05从永州出发，18：15抵达西安（以上为计划时刻和班期，具体航班信息，以航司系统实际执行为准）。 此外，首都航空将在华东地区，依托杭州枢纽拓展杭州-文山、杭州-唐山等航线，布局武汉-宁波、武汉-福州、大理-福州等线路；华中做强武汉枢纽，新开通武汉-南充-西昌、武汉-玉林等航线，并串联西安、北京大兴至永州等中转航线；西南、华南、华北、东北等地区同步布局海口-泸州、广州-大理、三亚-长沙-东营，串联海岛度假、冰雪体验、山地观光、康养休闲等多元旅游目的地。
 
 **🇬🇧 Actionable Travel Intel**:  
 Following the nationwide transition to the 2026–2027 winter-spring civil aviation flight schedule on October 25, Capital Airlines has launched a new Xi'an–Yongzhou–Xiamen air route. Operating four times weekly on Mondays, Wednesdays, Fridays, and Sundays, flight JD5305 departs Xi'an Xianyang International Airport at 07:25, lands in Yongzhou at 09:20, departs Yongzhou at 10:05, and reaches Xiamen at 11:55. Return flight JD5306 departs Xiamen at 13:00, lands in Yongzhou at 15:10, departs at 16:05, and arrives in Xi'an at 18:15. Flight times remain subject to airline operational updates.
@@ -192,7 +192,7 @@ Following the nationwide transition to the 2026–2027 winter-spring civil aviat
 #### Four Ngari Heritage and Scenic Sites in Tibet Reopen Following Snow Closures
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 恢复开放！受前期降雪天气影响临时闭园的古格文化遗址公园、皮央东嘎洞窟遗址、香孜五彩土林、穹窿银城遗址景区，现已具备开园条件，正式恢复对外开放。 来源：西藏阿里文旅 西藏文旅的微博视频
+> 恢复开放！受前期降雪天气影响临时闭园的古格文化遗址公园、皮央东嘎洞窟遗址、香孜五彩土林、穹窿银城遗址景区，现已具备开园条件，正式恢复对外开放。  
 
 **🇬🇧 Actionable Travel Intel**:  
 The Ngari Prefecture cultural tourism authorities announced that four scenic destinations—the Guge Kingdom Cultural Heritage Site Park, Piyang Donggar Cave Ruins, Xiangzi Colorful Earth Forest, and Khyunglung Silver Castle Ruins—have officially reopened to visitors. The sites were previously closed due to adverse snowfall weather and have now met safety standards for reopening. Inbound visitors planning journeys to western Tibet must arrange travel via certified agencies with required regional permits.
@@ -205,7 +205,7 @@ The Ngari Prefecture cultural tourism authorities announced that four scenic des
 #### Sichuan Airlines Resumes Chengdu–Jiuzhai Huanglong Flights Starting November 7
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 11月7日起，九寨黄龙机场将恢复成都航线。10月31日，记者查询四川航空官方网站发现，成都天府至九寨黄龙的航班已开始上线售票。 该航线航班在成都天府国际机场起降，由川航执飞，每周一班，每周六执行。去程航班号3U6675，计划12:50从天府机场起飞，13:45降落九黄机场；返程航班号3U6676，计划14:25从九黄机场起飞，15:20返回天府机场。单程计划空中飞行时间55分钟，复航首班经济舱票价（不含税）为300元。（川观新闻）四川日报的微博视频 阿坝 网页链接
+> 11月7日起，九寨黄龙机场将恢复成都航线。10月31日，记者查询四川航空官方网站发现，成都天府至九寨黄龙的航班已开始上线售票。 该航线航班在成都天府国际机场起降，由川航执飞，每周一班，每周六执行。去程航班号3U6675，计划12:50从天府机场起飞，13:45降落九黄机场；返程航班号3U6676，计划14:25从九黄机场起飞，15:20返回天府机场。单程计划空中飞行时间55分钟，复航首班经济舱票价（不含税）为300元。（川观新闻）阿坝 网页链接
 
 **🇬🇧 Actionable Travel Intel**:  
 Direct scheduled flights between Chengdu Tianfu International Airport and Jiuzhai Huanglong Airport will resume on November 7, operated by Sichuan Airlines once weekly on Saturdays. Outbound flight 3U6675 departs Chengdu Tianfu at 12:50 and lands at Jiuzhai Huanglong at 13:45. Return flight 3U6676 departs Jiuzhai Huanglong at 14:25 and reaches Chengdu Tianfu at 15:20. The scheduled air travel time is 55 minutes, with initial one-way economy tickets priced from 300 RMB before tax.
@@ -231,7 +231,7 @@ Dunhuang traffic authorities announced traffic diversion measures from 08:00 on 
 #### New Chengdu Longquanyi Railway Station Commences Passenger Rail Operations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 新站首发！10月31日，新建成都龙泉驿站首趟列车开往深圳。开通运营初期，车站将承担至北京西、上海、杭州、深圳东、温州、长沙等地的34列旅客列车始发终到作业。 （来源： ）四川观察的微博视频
+> 新站首发！10月31日，新建成都龙泉驿站首趟列车开往深圳。开通运营初期，车站将承担至北京西、上海、杭州、深圳东、温州、长沙等地的34列旅客列车始发终到作业。 
 
 **🇬🇧 Actionable Travel Intel**:  
 The newly constructed Chengdu Longquanyi Railway Station commenced commercial operations on October 31, with its inaugural passenger service bound for Shenzhen. During its initial operational phase, the station handles departures and arrivals for 34 passenger train services, connecting Chengdu with destinations including Beijing West, Shanghai, Hangzhou, Shenzhen East, Wenzhou, and Changsha. Travelers should verify the designated railway station name on their tickets when booking trains across Chengdu.
@@ -257,7 +257,7 @@ According to meteorological forecasts, heavy rainfall across southern Guizhou fr
 #### Snow and Icing Trigger Two-Way Traffic Control on Highway G219 in Saga County
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️萨嘎临时交通管制 受降雪结冰影响，今日07:30分起，萨嘎县两处路段实施双向临时交通管制： ▪️G219（老马泉河边境检查站）— G349（萨嘎昂仁交界） ▪️G219突击拉山 — G219萨嘎汽修厂 管制解除时间另行通知，请大家合理规划路线，非必要不前往，途经请服从现场民警指挥。 #日喀则路况 # #西藏出行提示 #
+> ⚠️萨嘎临时交通管制 受降雪结冰影响，今日07:30分起，萨嘎县两处路段实施双向临时交通管制： ▪️G219（老马泉河边境检查站）— G349（萨嘎昂仁交界） ▪️G219突击拉山 — G219萨嘎汽修厂 管制解除时间另行通知，请大家合理规划路线，非必要不前往，途经请服从现场民警指挥。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to snow accumulation and icing, temporary two-way traffic controls were imposed in Saga County starting at 07:30 on designated highway sections: Highway G219 between Laomaquanhe Border Checkpoint and Highway G349 at the Saga-Ngamring border, as well as Highway G219 between Tujila Mountain and Saga Auto Repair Plant. Reopening times will be announced separately, and travelers must follow on-site police instructions.
@@ -270,7 +270,7 @@ Due to snow accumulation and icing, temporary two-way traffic controls were impo
 #### Orange Blizzard Warning Issued for Mount Everest Region and Southern Shigatse
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️【暴雪橙色预警】日喀则市气象台 10 月 30 日 16 时 20 分发布暴雪橙色预警！ 聂拉木、亚东、定日、定结已出现暴雪、局地特大暴雪。未来 12 小时南部强雨雪持续，聂拉木、亚东局地特大暴雪，多地新增积雪 10-20 厘米；雨雪后降温 3-8℃，伴有大风。 高海拔路段易积雪结冰，请注意道路交通、旅游出行安全，防范次生灾害，做好防寒防冻。 （来源：云端珠峰）
+> ⚠️【暴雪橙色预警】日喀则市气象台 10 月 30 日 16 时 20 分发布暴雪橙色预警！ 聂拉木、亚东、定日、定结已出现暴雪、局地特大暴雪。未来 12 小时南部强雨雪持续，聂拉木、亚东局地特大暴雪，多地新增积雪 10-20 厘米；雨雪后降温 3-8℃，伴有大风。 高海拔路段易积雪结冰，请注意道路交通、旅游出行安全，防范次生灾害，做好防寒防冻。 
 
 **🇬🇧 Actionable Travel Intel**:  
 The Shigatse Meteorological Observatory issued an orange blizzard warning as heavy snow hit Tingri, Nyalam, Yadong, and Dinggye. Forecasts indicate continued intense snow across southern areas over the next 12 hours, with new snow accumulation reaching 10 to 20 cm, followed by temperature drops of 3 to 8 degrees Celsius and strong winds. High-altitude mountain passes face severe icing risks.
@@ -283,7 +283,7 @@ The Shigatse Meteorological Observatory issued an orange blizzard warning as hea
 #### Bilateral Road Closures Enacted Across Southern Shigatse and Border Ports Due to Snow
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️路况提醒｜受降雪影响，日喀则定日、聂拉木、亚东、定结、吉隆、聂拉木口岸多条道路临时双向交通管制，暂不具备通行条件，解除管制时间另行发布。 请市民、游客合理规划出行路线，途经管控路段服从现场民警指挥。恶劣天气行车牢记 “降速、控距、亮尾”，安全文明驾驶！ （来源：日喀则交警）
+> ⚠️路况提醒｜受降雪影响，日喀则定日、聂拉木、亚东、定结、吉隆、聂拉木口岸多条道路临时双向交通管制，暂不具备通行条件，解除管制时间另行发布。 请市民、游客合理规划出行路线，途经管控路段服从现场民警指挥。恶劣天气行车牢记 “降速、控距、亮尾”，安全文明驾驶！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to heavy snowfall and hazardous road conditions, traffic police in Shigatse have implemented temporary two-way traffic controls across multiple roadways in Tingri, Nyalam, Yadong, Dinggye, Gyirong, and the Nyalam border port area. These routes are currently impassable, with lifting times to be announced separately. Travelers on high-altitude routes must adjust travel plans and follow instructions from on-site police.
@@ -335,7 +335,7 @@ The 3A-rated Millennium Walnut King Scenic Area in Nyingchi has suspended operat
 #### Shigatse Road Alert: Snowfall Prompts Temporary Closures Across Four Counties
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️路况提醒｜受降雪影响，日喀则定日、聂拉木、亚东、定结多条道路实行临时双向交通管制，暂不具备通行条件，解除时间另行通知。 请市民、游客合理规划出行路线，途经管控区域服从现场民警指挥。恶劣天气行车，牢记降速、控距、亮尾，安全文明驾驶！ （来源：日喀则交警）
+> ⚠️路况提醒｜受降雪影响，日喀则定日、聂拉木、亚东、定结多条道路实行临时双向交通管制，暂不具备通行条件，解除时间另行通知。 请市民、游客合理规划出行路线，途经管控区域服从现场民警指挥。恶劣天气行车，牢记降速、控距、亮尾，安全文明驾驶！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Traffic police in Shigatse have implemented temporary two-way traffic control on multiple roads across Tingri, Nyalam, Yadong, and Dinggye counties due to snowfall. The affected roadways currently do not meet safe transit conditions, and the reopening schedule will be announced separately. Travelers and drivers must adjust travel itineraries and follow on-site police guidance.
@@ -348,7 +348,7 @@ Traffic police in Shigatse have implemented temporary two-way traffic control on
 #### Sichuan Opens Tianpu Railway: Ya'an Direct to Chengdu Tianfu Airport in 80 Minutes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 新建天蒲铁路将于10月30日开通运营，雅安至天府机场站最快80分钟可达。雅安至宜宾首开动车组，全程2小时39分钟，为区域经济社会高质量发展注入新动能。 成都发布的微博视频
+> 新建天蒲铁路将于10月30日开通运营，雅安至天府机场站最快80分钟可达。雅安至宜宾首开动车组，全程2小时39分钟，为区域经济社会高质量发展注入新动能。 
 
 **🇬🇧 Actionable Travel Intel**:  
 The newly built Tianpu Railway officially opened for commercial operation on October 30 in Sichuan Province. High-speed rail travel between Ya'an and Chengdu Tianfu International Airport Station now takes as fast as 80 minutes. In addition, new direct EMU trains are launched between Ya'an and Yibin, connecting the two cities in 2 hours and 39 minutes.
@@ -361,7 +361,7 @@ The newly built Tianpu Railway officially opened for commercial operation on Oct
 #### Xi'an Han Yang Ling Museum Autumn Season: Discounted Tickets, Metro Shuttles, and Museum Direct Buses
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #三秦四季 畅旅欢歌# 即将于10月29日启幕，门票优惠至40元。 第十二届汉阳陵“金秋踏古·银杏季”系列文化活动将于2026年10月29日至11月30日举办。活动期间，成人票优惠为40元/人（原价70元），半票35元/人，记者节当天持记者证可免票参观；惠民门票为汉阳陵国家考古遗址通票，可参观帝陵遗址保护展示厅、考古陈列馆、银杏林及其他开放区域。 10月29日10时，启动仪式将在汉阳陵银杏林举行，现场将带来民乐演奏、魔术表演及周边群众文艺汇演。银杏季期间，第五届陕西文博创意直播周及文创集市活动同步开展，汉阳陵联合陕西历史博物馆、秦始皇帝陵博物院、西安碑林博物馆、西安博物院等五家国家级文创试点单位，线上线下推广文博文创产品；“当年万里觅封侯——关中地区汉代列侯墓考古成果展”在考古陈列馆临展厅试开展，汇集印章、封泥、青铜礼乐器、金玉饰件、陶俑等珍贵文物，分四大单元解读汉代列侯制度、功业、生活与丧葬世界。 此外，活动还推出“阳陵秋韵·生态寻美”五感美育公益活动（面向6—14周岁亲子家庭）、车友会跨界联合活动、“寻踪汉阳陵”大汉紫道文物主题游径定向赛（拟定11月11日）及2026汉风雅集—“迎幸”集市，涵盖特色美食、亲子游乐、围炉煮茶、文创展销等体验。 公共交通方面，周末及法定节假日开通汉景帝阳陵博物院—西安市行政中心地铁口公交摆渡车；10月29日至11月30日运行文物旅游直通车，串联陕历博、秦汉馆与汉阳陵。汉阳陵实行“限量、预约、错峰”开放政策，每日最大观众承载量5.45万人次。咨询电话：029—62657530/62657569。
+> 即将于10月29日启幕，门票优惠至40元。 第十二届汉阳陵“金秋踏古·银杏季”系列文化活动将于2026年10月29日至11月30日举办。活动期间，成人票优惠为40元/人（原价70元），半票35元/人，记者节当天持记者证可免票参观；惠民门票为汉阳陵国家考古遗址通票，可参观帝陵遗址保护展示厅、考古陈列馆、银杏林及其他开放区域。 10月29日10时，启动仪式将在汉阳陵银杏林举行，现场将带来民乐演奏、魔术表演及周边群众文艺汇演。银杏季期间，第五届陕西文博创意直播周及文创集市活动同步开展，汉阳陵联合陕西历史博物馆、秦始皇帝陵博物院、西安碑林博物馆、西安博物院等五家国家级文创试点单位，线上线下推广文博文创产品；“当年万里觅封侯——关中地区汉代列侯墓考古成果展”在考古陈列馆临展厅试开展，汇集印章、封泥、青铜礼乐器、金玉饰件、陶俑等珍贵文物，分四大单元解读汉代列侯制度、功业、生活与丧葬世界。 此外，活动还推出“阳陵秋韵·生态寻美”五感美育公益活动（面向6—14周岁亲子家庭）、车友会跨界联合活动、“寻踪汉阳陵”大汉紫道文物主题游径定向赛（拟定11月11日）及2026汉风雅集—“迎幸”集市，涵盖特色美食、亲子游乐、围炉煮茶、文创展销等体验。 公共交通方面，周末及法定节假日开通汉景帝阳陵博物院—西安市行政中心地铁口公交摆渡车；10月29日至11月30日运行文物旅游直通车，串联陕历博、秦汉馆与汉阳陵。汉阳陵实行“限量、预约、错峰”开放政策，每日最大观众承载量5.45万人次。咨询电话：029—62657530/62657569。
 
 **🇬🇧 Actionable Travel Intel**:  
 During the Han Yang Ling Gingko Season from October 29 to November 30, 2026, adult tickets are discounted to 40 RMB per person (regular 70 RMB), granting access to the underground protection hall, archaeology exhibition hall, and gingko forest. Free weekend and holiday shuttle buses operate between the museum and the Administrative Center Metro Station in Xi'an. Additionally, a cultural heritage bus runs between October 29 and November 30 connecting Shaanxi History Museum, Qin Han Museum, and Han Yang Ling. Daily visitor capacity is capped at 54,500 under an advance reservation policy.
@@ -374,7 +374,7 @@ During the Han Yang Ling Gingko Season from October 29 to November 30, 2026, adu
 #### Shigatse Mount Everest Access Traffic Control: Tingri Mountain Passes Closed Due to Heavy Snow
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 📢【出行提示】 受降雪影响，定日县野江拉山、加乌拉山路段积雪。自10月29日18:30起，措果乡—曲当乡通门检查站、扎西宗镇—珠峰北大门检查站实施临时双向交通管制。请合理规划行程，非必要不前往，途经请服从现场民警指挥，注意行车安全！ （来源：定日交警） #日喀则出行提示 #
+> 📢【出行提示】 受降雪影响，定日县野江拉山、加乌拉山路段积雪。自10月29日18:30起，措果乡—曲当乡通门检查站、扎西宗镇—珠峰北大门检查站实施临时双向交通管制。请合理规划行程，非必要不前往，途经请服从现场民警指挥，注意行车安全！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Following snowfall and road accumulation across Yajiangla and Gawula mountain passes in Tingri County, traffic authorities implemented temporary two-way traffic controls starting October 29 at 18:30. Traffic controls apply to the Tongmen checkpoint (Cuoguo Township to Qudang Township) and the Mount Everest North Gate checkpoint (Zhaxizong Town to Everest North Gate). Travelers are advised to adjust travel itineraries, avoid non-essential travel to the area, and strictly follow police instructions.
@@ -400,7 +400,7 @@ Jiuzhaigou National Park tickets are sold out at the maximum daily capacity of 4
 #### Gyirong Port Border Transit Alert: Nepal Border County Enforces Outbound-Only Traffic Control Due to Snow
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 31日吉隆县道路积雪结冰风险极高。自10月29日16:47起实施分级交通管控，全域执行「只出不进」，外来车辆禁止入县，请大家合理规划行程，非必要不前往吉隆，配合卡点劝返。待通行条件达标后及时解除管制。 （来源：吉隆县公安局交通管理大队） #日喀则出行提示 #
+> 31日吉隆县道路积雪结冰风险极高。自10月29日16:47起实施分级交通管控，全域执行「只出不进」，外来车辆禁止入县，请大家合理规划行程，非必要不前往吉隆，配合卡点劝返。待通行条件达标后及时解除管制。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to severe snowfall and elevated road icing hazards expected between October 30 and 31, Gyirong County traffic police enforced tiered traffic controls beginning October 29 at 16:47. The county has implemented an outbound-only rule prohibiting external vehicles from entering. Non-essential visits to Gyirong are discouraged, and motorists are instructed to comply with checkpoint turnarounds until safe driving conditions are restored.
@@ -413,7 +413,7 @@ Due to severe snowfall and elevated road icing hazards expected between October 
 #### Shigatse Himalayan Region Blizzard Alert: Bay of Bengal Storm Triggers Avalanche and Travel Warnings
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️紧急天气提示！10 月 29 日 —31 日，受孟加拉湾风暴影响，日喀则南部高海拔区域将出现暴雪、局地特大暴雪，河谷地带有大到暴雨，易引发雪崩、泥石流等次生灾害。 新一轮冷空气来袭，多地降温明显。请广大游客、市民密切关注气象预警，谨慎前往山区、边境沿线，不贸然进山徒步；自驾注意道路结冰，减速慢行，合理调整出行及旅游行程，注意防寒避险。 （来源：央视新闻）
+> ⚠️紧急天气提示！10 月 29 日 —31 日，受孟加拉湾风暴影响，日喀则南部高海拔区域将出现暴雪、局地特大暴雪，河谷地带有大到暴雨，易引发雪崩、泥石流等次生灾害。 新一轮冷空气来袭，多地降温明显。请广大游客、市民密切关注气象预警，谨慎前往山区、边境沿线，不贸然进山徒步；自驾注意道路结冰，减速慢行，合理调整出行及旅游行程，注意防寒避险。 
 
 **🇬🇧 Actionable Travel Intel**:  
 From October 29 to 31, a Bay of Bengal storm system will bring blizzards and localized severe blizzards across southern high-altitude areas of Shigatse, alongside heavy rain in river valleys, elevating secondary risks of avalanches and landslides. Travelers are urged to heed weather warnings, exercise extreme caution before visiting southern alpine and border areas, avoid alpine trekking, reduce driving speeds due to icy roadways, and prepare cold-weather gear.
@@ -439,7 +439,7 @@ From October 27 to November 30, 2026, Jinfo Mountain Scenic Area in Nanchuan Dis
 #### Temporary Traffic Control Imposed on Roads Entering and Exiting Nyalam County Starting October 29
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受大暴雪天气影响，为保障道路交通安全，聂拉木县自2026年10月29日11时起，对进出县相关路段实施临时交通管制，解除时间将根据天气变化及道路通行情况另行通知。 请广大司乘人员及时调整出行路线和时间，密切关注官方通告，途经管控路段时自觉听从现场交警指挥。 来源：聂拉木发布
+> 受大暴雪天气影响，为保障道路交通安全，聂拉木县自2026年10月29日11时起，对进出县相关路段实施临时交通管制，解除时间将根据天气变化及道路通行情况另行通知。 请广大司乘人员及时调整出行路线和时间，密切关注官方通告，途经管控路段时自觉听从现场交警指挥。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to severe blizzard conditions, temporary traffic control has been implemented on roads entering and exiting Nyalam County in Shigatse starting at 11:00 on October 29, 2026, to ensure road traffic safety. The reopening schedule will be announced based on weather and road conditions. Drivers and passengers are advised to adjust travel routes and timing and follow the directions of on-site traffic police when passing through controlled sections.
@@ -452,7 +452,7 @@ Due to severe blizzard conditions, temporary traffic control has been implemente
 #### All Scenic Attractions in Namling County, Shigatse Temporarily Closed Amid Severe Weather
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️公告｜南木林县全县景区临时关停 受暴雪、暴雨极端天气影响，为保障游客安全，10 月 29 日 —31 日南木林县所有景区临时关停，恢复开放时间另行通知。 请大家及时调整行程，关停期间不要前往景区及周边逗留。 应急咨询：18208014681 给您带来不便，敬请谅解！ （来源：南木林县文旅局）
+> ⚠️公告｜南木林县全县景区临时关停 受暴雪、暴雨极端天气影响，为保障游客安全，10 月 29 日 —31 日南木林县所有景区临时关停，恢复开放时间另行通知。 请大家及时调整行程，关停期间不要前往景区及周边逗留。 应急咨询：18208014681 给您带来不便，敬请谅解！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to extreme blizzard and rainstorm weather, all scenic attractions across Namling County in Shigatse are temporarily closed from October 29 to October 31, 2026, to protect visitor safety. Reopening dates will be announced separately. Travelers should adjust itineraries and avoid staying around scenic spots and surrounding areas during the closure. Emergency inquiry hotline: 18208014681.
@@ -465,7 +465,7 @@ Due to extreme blizzard and rainstorm weather, all scenic attractions across Nam
 #### Multiple Inter-County Passenger Bus Routes in Shigatse Temporarily Suspended Due to Extreme Snow and Rain
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️出行提示｜受雨雪极端天气影响，10 月 29 日 —10 月 31 日，日喀则多条客运班线临时停运。 停运线路：日喀则至阿里、那曲（申扎）、仲巴、萨嘎、吉隆、聂拉木、定日、定结、亚东等方向班线。 已购票旅客可免费全额退票、改签，无手续费。恢复运营时间另行通知。请大家合理调整行程，切勿冒险出行，注意出行安全！ （来源：珠峰交运）
+> ⚠️出行提示｜受雨雪极端天气影响，10 月 29 日 —10 月 31 日，日喀则多条客运班线临时停运。 停运线路：日喀则至阿里、那曲（申扎）、仲巴、萨嘎、吉隆、聂拉木、定日、定结、亚东等方向班线。 已购票旅客可免费全额退票、改签，无手续费。恢复运营时间另行通知。请大家合理调整行程，切勿冒险出行，注意出行安全！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to extreme rain and snow conditions, multiple passenger bus lines departing Shigatse are temporarily suspended from October 29 to October 31, 2026. Suspended routes include services from Shigatse to Ngari, Nagqu (Shenzha), Zhongba, Saga, Gyirong, Nyalam, Tingri, Dinggye, and Yadong. Passengers who have already purchased tickets can obtain full refunds or rebook free of charge without handling fees. Resumption schedules will be announced separately.
@@ -478,7 +478,7 @@ Due to extreme rain and snow conditions, multiple passenger bus lines departing 
 #### Hanzhong Offers Half-Price Park Admission and Hotel Discounts for Transit Travelers
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 汉中 带着微博去旅行 红叶 汉中秋冬季票根经济福利来啦【汉台篇】✨ 外地游客凭机票、高铁票、高速收费凭证，即可享受： ✅天台森林公园门票半价 ✅多家酒店住宿 8 折起 ✅多家餐饮店全场折扣 ✅商场领消费券、影院低价观影 景区、住宿、美食、购物、观影一券通享！ 优惠持续至年底，带上票根畅游汉台秋色🍂 温馨提示：优惠以商家现场核验为准，注意活动时限。(来源：汉中市文化和旅游局)
+> 汉中 带着微博去旅行 红叶 汉中秋冬季票根经济福利来啦【汉台篇】✨ 外地游客凭机票、高铁票、高速收费凭证，即可享受： ✅天台森林公园门票半价 ✅多家酒店住宿 8 折起 ✅多家餐饮店全场折扣 ✅商场领消费券、影院低价观影 景区、住宿、美食、购物、观影一券通享！ 优惠持续至年底，带上票根畅游汉台秋色🍂 温馨提示：优惠以商家现场核验为准，注意活动时限。
 
 **🇬🇧 Actionable Travel Intel**:  
 Through the end of the year, out-of-town visitors arriving in Hantai District, Hanzhong can present an incoming flight boarding pass, high-speed rail ticket, or highway toll receipt to receive half-price admission to Tiantai Forest Park and room discounts starting from 20% off at participating hotels, alongside dining and shopping benefits. Promotional rates are subject to on-site merchant verification.
@@ -491,7 +491,7 @@ Through the end of the year, out-of-town visitors arriving in Hantai District, H
 #### Shigatse Implements Highway Traffic Controls Across Himalayan Border Corridors
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #出行提示 # 日喀则路况通告 【⚠️暴雪恶劣天气｜日喀则辖区道路实施临时交通管控】 根据气象暴雪（雨）预警，为保障群众及游客出行安全，日喀则市公安局交通管理支队将对受影响区域道路实施交通管制： ✅10月29日9时起 对受天气影响路段车辆开展远端分流劝返 ✅10月29日11时起 在主要检查站设卡，对前往亚东、仲巴、聂拉木、吉隆、定结、定日、萨嘎等区域车辆实施远端交通管制 同时，全市积雪结冰、不具备通行条件路段将视情临时封闭，管制动态实时更新。 请广大游客、市民密切关注路况及天气信息，合理调整行程、暂缓前往高风险区域。出行务必减速慢行、服从现场交警指挥，安全出行！ （来源：日喀则交警） #日喀则暴雪天气出行提示 #
+> 日喀则路况通告 【⚠️暴雪恶劣天气｜日喀则辖区道路实施临时交通管控】 根据气象暴雪（雨）预警，为保障群众及游客出行安全，日喀则市公安局交通管理支队将对受影响区域道路实施交通管制： ✅10月29日9时起 对受天气影响路段车辆开展远端分流劝返 ✅10月29日11时起 在主要检查站设卡，对前往亚东、仲巴、聂拉木、吉隆、定结、定日、萨嘎等区域车辆实施远端交通管制 同时，全市积雪结冰、不具备通行条件路段将视情临时封闭，管制动态实时更新。 请广大游客、市民密切关注路况及天气信息，合理调整行程、暂缓前往高风险区域。出行务必减速慢行、服从现场交警指挥，安全出行！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Shigatse traffic management authorities announced emergency highway traffic controls due to severe blizzard warnings. Starting from 9:00 on October 29, vehicles on weather-affected sections face diversion and advisory turnarounds. From 11:00 on October 29, checkpoints are set up on major routes to restrict vehicles traveling to Yadong, Zhongba, Nyalam, Gyirong, Dinggye, Tingri, and Saga counties. Icy and impassable sections across the prefecture are temporarily closed as conditions warrant.
@@ -517,7 +517,7 @@ China Railway Xi'an Group has launched multi-ride and periodic ticket products f
 #### Jiuzhaigou Peak Foliage Tickets Fully Sold Out Through October 31
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 进入最佳观赏期，九寨沟10月31日及之前门票已全部售罄。旺季最大游客承载量为41000人次/天，售罄即止。享受免票、优惠票政策的游客同样需要实名制预约。（四川观察） 四川观察的微博视频
+> 进入最佳观赏期，九寨沟10月31日及之前门票已全部售罄。旺季最大游客承载量为41000人次/天，售罄即止。享受免票、优惠票政策的游客同样需要实名制预约。（四川观察） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Jiuzhaigou National Park has entered its peak autumn viewing period, and all entrance tickets through October 31 are completely sold out. The scenic area enforces a maximum peak-season carrying capacity of 41,000 visitors per day, stopping ticket issuance once capacity is reached. Visitors eligible for ticket waivers or discounted rates must also complete real-name reservations in advance.
@@ -530,7 +530,7 @@ Jiuzhaigou National Park has entered its peak autumn viewing period, and all ent
 #### Mount Everest Scenic Area Closes Temporarily Due to Severe Blizzard Warning
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️游客注意！珠峰景区临时闭园 【 】 根据气象预警信息，10月29日至31日，珠峰景区预计出现大暴雪、雨夹雪等恶劣天气。受极端天气影响，景区道路极易积雪结冰、能见度下降，道路交通、观光转运、游览设施等方面安全风险较高。 为切实保障广大游客人身安全，珠峰景区将自2026年10月29日起临时闭园，暂停接待游客。 开园时间将结合气象变化、道路通行条件综合研判后，通过官方渠道另行通知。 咨询电话：0892-8263013、19889228848、15962925678 （来源：珠峰旅游）
+> ⚠️游客注意！珠峰景区临时闭园 根据气象预警信息，10月29日至31日，珠峰景区预计出现大暴雪、雨夹雪等恶劣天气。受极端天气影响，景区道路极易积雪结冰、能见度下降，道路交通、观光转运、游览设施等方面安全风险较高。 为切实保障广大游客人身安全，珠峰景区将自2026年10月29日起临时闭园，暂停接待游客。 开园时间将结合气象变化、道路通行条件综合研判后，通过官方渠道另行通知。 咨询电话：0892-8263013、19889228848、15962925678 
 
 **🇬🇧 Actionable Travel Intel**:  
 Mount Everest Scenic Area in Shigatse is temporarily closed starting October 29, 2026, due to forecast blizzards, heavy snow, and sleet from October 29 to 31. Extreme weather creates severe risks of road icing, reduced visibility, and transport disruptions. Reopening dates will be announced through official channels following weather and road safety assessments. Tourist inquiry contacts are 0892-8263013, 19889228848, and 15962925678.
@@ -556,7 +556,7 @@ Following dropping temperatures across Xinjiang, several scenic areas have annou
 #### Tibet Airports Launch Winter-Spring Flight Schedules with Increased Kathmandu Services
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月25日起，西藏辖区各机场正式执行2026—2027年冬春航季航班时刻，至2027年3月27日结束，共154天。新航季区内多座支线机场新增或加密航班，国际及地区航线也有相应调整，其中加德满都航线加密至每周一至周五。计划出行的旅客请提前查询航班信息，合理安排出行时间，具体航班以航空公司官方发布为准。 来源：民航西藏自治区管理局
+> 10月25日起，西藏辖区各机场正式执行2026—2027年冬春航季航班时刻，至2027年3月27日结束，共154天。新航季区内多座支线机场新增或加密航班，国际及地区航线也有相应调整，其中加德满都航线加密至每周一至周五。计划出行的旅客请提前查询航班信息，合理安排出行时间，具体航班以航空公司官方发布为准。 
 
 **🇬🇧 Actionable Travel Intel**:  
 According to the Civil Aviation Administration of China Tibet Regional Administration, all civil airports across the Tibet Autonomous Region commenced the 2026–2027 Winter-Spring flight schedules on October 25, running for 154 days through March 27, 2027. Regional feeder airports have added or increased flight frequencies, and international services have been adjusted, including flights on the Kathmandu route which are now increased to operate every Monday through Friday. Travelers should verify flight statuses directly with operating airlines prior to departure.
@@ -569,7 +569,7 @@ According to the Civil Aviation Administration of China Tibet Regional Administr
 #### Hanzhong Liping Scenic Area Issues Autumn Foliage Transit Schedules and Ticketing Rules
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 汉中登上《中国国家地理》🍂 中国国家地理 秋天 汉中 航拍镜头俯瞰米仓山腹地，一幅秋日调色盘徐徐展开！ 《中国国家地理》上新黎坪红叶航拍大片，秦巴深秋的惊艳，被全国看见。 2026 第十四届黎坪炫彩红叶季正在盛放，主题「黎坪红叶，红动中国」 森林覆盖率超 98%，近百平方公里红叶林海，枫、槭、黄栌依海拔次第换色，红橙黄绿层层交织。 ✅最佳观赏期：10 月下旬 —11 月上旬 ✅看点：红尘峡幽谷、中华龙山亿年岩壁、枫林瀑布溪流，徒步、自驾、摄影、亲子都合适 💡出行贴士 ▫️山区比市区低 6-10℃，备好防风厚外套、雨具，穿防滑鞋 ▫️沿步道游览，勿翻越护栏，林区全域禁火 ▫️周末客流大，观光车可能排队，有序等候 ▫️15:00 后入园登记，次日免门票，仅购观光车票 ▫️禁止携带宠物入园 🚌交通参考 ✔️高铁枢纽站直通车 09:30 发车 ✔️南郑东大街班车：08:00、14:00 ✔️5–11 座定制包车，上门接送 📞景区咨询：0916-5691111 赴米仓山之约，来黎坪，邂逅秦巴最浓烈的秋！（来源：黎坪旅游）
+> 汉中登上《中国国家地理》🍂 中国国家地理 秋天 汉中 航拍镜头俯瞰米仓山腹地，一幅秋日调色盘徐徐展开！ 《中国国家地理》上新黎坪红叶航拍大片，秦巴深秋的惊艳，被全国看见。 2026 第十四届黎坪炫彩红叶季正在盛放，主题「黎坪红叶，红动中国」 森林覆盖率超 98%，近百平方公里红叶林海，枫、槭、黄栌依海拔次第换色，红橙黄绿层层交织。 ✅最佳观赏期：10 月下旬 —11 月上旬 ✅看点：红尘峡幽谷、中华龙山亿年岩壁、枫林瀑布溪流，徒步、自驾、摄影、亲子都合适 💡出行贴士 ▫️山区比市区低 6-10℃，备好防风厚外套、雨具，穿防滑鞋 ▫️沿步道游览，勿翻越护栏，林区全域禁火 ▫️周末客流大，观光车可能排队，有序等候 ▫️15:00 后入园登记，次日免门票，仅购观光车票 ▫️禁止携带宠物入园 🚌交通参考 ✔️高铁枢纽站直通车 09:30 发车 ✔️南郑东大街班车：08:00、14:00 ✔️5–11 座定制包车，上门接送 📞景区咨询：0916-5691111 赴米仓山之约，来黎坪，邂逅秦巴最浓烈的秋！
 
 **🇬🇧 Actionable Travel Intel**:  
 Hanzhong Liping Scenic Area has entered its peak autumn red leaf season from late October through early November. Mountain temperatures run 6 to 10 degrees lower than urban districts. Dedicated direct shuttles from Hanzhong High-Speed Railway Hub Station depart daily at 09:30, alongside Nanzheng East Street buses departing at 08:00 and 14:00. Under current ticketing rules, visitors entering and registering after 15:00 receive free scenic admission for the following day, requiring only the purchase of the internal sightseeing bus ticket. Pets are prohibited throughout the forest reserve.
@@ -595,7 +595,7 @@ China Railway Kunming Group reminds cross-border passengers that Mohan Railway P
 #### Direct High-Speed Trains Added Between Chengdu East and Chongqing Jiangbei Airport
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 更方便了！重庆江北机场往返成都东动车班次+1！成都局集团公司优化列车运行方案出炉，G8665和G8664次列车运行区段调整为成都东往返江北机场。（via. ）上游新闻的微博视频
+> 更方便了！重庆江北机场往返成都东动车班次+1！成都局集团公司优化列车运行方案出炉，G8665和G8664次列车运行区段调整为成都东往返江北机场。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Chengdu Group has updated train operating schedules to improve intercity air-rail connectivity. High-speed train services G8665 and G8664 have been adjusted to operate directly between Chengdu East Railway Station and Chongqing Jiangbei International Airport, offering travelers convenient transit between the regional rail network and airport terminals.
@@ -608,7 +608,7 @@ China Railway Chengdu Group has updated train operating schedules to improve int
 #### Tibet Highway Hazard Alert and Scenic Area Closures Following Baqen Earthquake
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受巴青县7.0级地震及后续余震影响，G317、G558、G345国道部分路段存在落石、滑坡等次生地质灾害风险。前往巴青县、索县、比如县方向的游客请密切关注路况及预警信息，遇道路管制、交通拥堵时，请听从现场管控，切勿在山脚、路边停留观景。那曲市部分A级景区已临时暂停开放，广大游客朋友出行时请提前咨询确认景区开放情况及交通信息。 来源：那曲文旅
+> 受巴青县7.0级地震及后续余震影响，G317、G558、G345国道部分路段存在落石、滑坡等次生地质灾害风险。前往巴青县、索县、比如县方向的游客请密切关注路况及预警信息，遇道路管制、交通拥堵时，请听从现场管控，切勿在山脚、路边停留观景。那曲市部分A级景区已临时暂停开放，广大游客朋友出行时请提前咨询确认景区开放情况及交通信息。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Following a magnitude 7.0 earthquake and subsequent aftershocks in Baqen County, sections of National Highways G317, G558, and G345 face risks of rockfalls and landslides. Travelers headed toward Baqen, Sog, and Biru counties in Nagqu must monitor official traffic advisories and avoid stopping along mountain roads. Several A-level tourist attractions in Nagqu have temporarily closed.
@@ -647,7 +647,7 @@ Effective October 26, 2026, Helan Mountain National Forest Park in Ningxia has i
 #### Shigatse Issues Weather Alert for Heavy Snow and Rapid Temperature Drop from October 29 to 31
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️暴雪 + 暴雨 + 降温！日喀则重要天气提醒 10 月 29 日 —31 日，我市大部出现雨雪天气，吉隆、聂拉木、定日、定结、亚东等地降水强度大，局地暴雪、大暴雪，低海拔乡镇有暴雨。 雪后降温 3～6℃，高海拔区域降幅超 8℃，多地伴有 7 级左右大风。 请大家警惕山洪、滑坡、泥石流、雪崩等次生灾害；高海拔路段路况复杂，出行谨慎，游客尽量避开沟谷陡坡等危险区域，密切关注预警信息！ （来源：日喀则市气象台）
+> ⚠️暴雪 + 暴雨 + 降温！日喀则重要天气提醒 10 月 29 日 —31 日，我市大部出现雨雪天气，吉隆、聂拉木、定日、定结、亚东等地降水强度大，局地暴雪、大暴雪，低海拔乡镇有暴雨。 雪后降温 3～6℃，高海拔区域降幅超 8℃，多地伴有 7 级左右大风。 请大家警惕山洪、滑坡、泥石流、雪崩等次生灾害；高海拔路段路况复杂，出行谨慎，游客尽量避开沟谷陡坡等危险区域，密切关注预警信息！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 From October 29 to 31, rainy and snowy weather is forecast across most of Shigatse. Precipitation intensity will be heavy in Gyirong, Nyalam, Tingri, Dinggye, and Yadong, with localized heavy blizzards and torrential rain in low-elevation townships. Post-snow temperatures will decline by 3 to 6 degrees Celsius, with drops exceeding 8 degrees Celsius in high-altitude zones, accompanied by force 7 gale winds. Travelers to high-altitude passes and valley areas should remain alert to flash floods, landslides, mudslides, and avalanches.
@@ -660,7 +660,7 @@ From October 29 to 31, rainy and snowy weather is forecast across most of Shigat
 #### Tibet Airlines Launches Lhasa-Xi'an-Changchun Direct Route on October 27
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 拉萨直达长春，出行再添新选择！10月27日，由西藏航空执飞的拉萨=西安=长春往返航线将正式开通，每周二、四、六各一班。新航线进一步连接雪域高原与东北城市，为两地旅客往来提供更多便利，也为冬游西藏增添出行选择。具体航班信息请以官方销售系统为准。 来源：西藏卫视+，西藏航空
+> 拉萨直达长春，出行再添新选择！10月27日，由西藏航空执飞的拉萨=西安=长春往返航线将正式开通，每周二、四、六各一班。新航线进一步连接雪域高原与东北城市，为两地旅客往来提供更多便利，也为冬游西藏增添出行选择。具体航班信息请以官方销售系统为准。 +，西藏航空
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 27, Tibet Airlines will launch a scheduled round-trip passenger air route connecting Lhasa, Xi'an, and Changchun. The flight operates three times weekly on Tuesdays, Thursdays, and Saturdays, providing a direct air link between Tibet, Shaanxi, and Northeast China. Operating flight details are available through official ticketing systems.
@@ -699,7 +699,7 @@ Following the nationwide civil aviation transition to the 2026/2027 winter-sprin
 #### Guiyang Longdongbao Airport Cuts Domestic Flight Check-In Cut-off to 30 Minutes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 记者从贵阳龙洞堡国际机场获悉，为深入践行“人民航空为人民”理念，进一步提升机场运行效率，优化旅客航空出行体验，自2026年10月25日零时起，贵阳龙洞堡国际机场国内客运航班截载时间将由航班计划起飞时间前35分钟调整为30分钟。 据机场方面介绍，航班截载时间通常是指航班停止办理值机手续的时间。旅客须在该时间节点前完成航班值机、行李托运等手续；超过该时间节点，将无法办理值机手续，可能影响顺利乘机。此次调整后，国内客运航班停止办理值机、行李托运等手续的时间较此前延后5分钟。 贵阳机场提醒广大旅客，请把握好航班停止办理值机手续时间，合理安排出行计划，以免因误机带来不便。如需咨询详情，可拨打贵阳机场客服热线0851-96967或相关航空公司客服电话。（来源：贵阳网·贵阳新闻）
+> 记者从贵阳龙洞堡国际机场获悉，为深入践行“人民航空为人民”理念，进一步提升机场运行效率，优化旅客航空出行体验，自2026年10月25日零时起，贵阳龙洞堡国际机场国内客运航班截载时间将由航班计划起飞时间前35分钟调整为30分钟。 据机场方面介绍，航班截载时间通常是指航班停止办理值机手续的时间。旅客须在该时间节点前完成航班值机、行李托运等手续；超过该时间节点，将无法办理值机手续，可能影响顺利乘机。此次调整后，国内客运航班停止办理值机、行李托运等手续的时间较此前延后5分钟。 贵阳机场提醒广大旅客，请把握好航班停止办理值机手续时间，合理安排出行计划，以免因误机带来不便。如需咨询详情，可拨打贵阳机场客服热线0851-96967或相关航空公司客服电话。
 
 **🇬🇧 Actionable Travel Intel**:  
 Effective 00:00 on October 25, 2026, Guiyang Longdongbao International Airport has adjusted the domestic passenger flight check-in and baggage drop closure time from 35 minutes to 30 minutes prior to scheduled departure. Passengers must complete check-in and baggage drop before this 30-minute deadline, after which check-in systems close. Inquiries can be directed to the airport service hotline at 0851-96967 or operating airlines.
@@ -712,7 +712,7 @@ Effective 00:00 on October 25, 2026, Guiyang Longdongbao International Airport h
 #### Qinghai-Tibet Railway Lhasa-Nagqu Section Resumes Normal Operations Following Post-Earthquake Inspections
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【拉萨前往那曲的游客注意!（青藏铁路受地震影响区段）恢复正常！】地震发生后，铁路部门迅速行动，第一时间启动应急响应，组织各专业力量开展线路巡查、设备检修和安全隐患排查。工务、机务、电务、供电、通信、客运等部门协同配合，连夜检查铁路线路、桥隧设施及信号供电设备，强化列车运行监控与运输组织，全力保障铁路运输安全有序。 从线路巡检到设备排查，从调度指挥到旅客服务，各岗位工作人员坚守一线，以责任守护出行安全，以协作保障运输畅通，为抗震救灾和群众平安出行提供有力支撑。 来源：青藏集团公司党委宣传部
+> 【拉萨前往那曲的游客注意!（青藏铁路受地震影响区段）恢复正常！】地震发生后，铁路部门迅速行动，第一时间启动应急响应，组织各专业力量开展线路巡查、设备检修和安全隐患排查。工务、机务、电务、供电、通信、客运等部门协同配合，连夜检查铁路线路、桥隧设施及信号供电设备，强化列车运行监控与运输组织，全力保障铁路运输安全有序。 从线路巡检到设备排查，从调度指挥到旅客服务，各岗位工作人员坚守一线，以责任守护出行安全，以协作保障运输畅通，为抗震救灾和群众平安出行提供有力支撑。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Following the earthquake in Baqing County, China Railway Qinghai-Tibet Group completed overnight emergency inspections and safety checks of tracks, bridges, tunnels, communication, and power systems. Normal railway operations have fully resumed along the affected Lhasa-to-Nagqu section. Foreign passport holders entering Tibet are reminded that autonomous region regulations require traveling with an organized tour group and holding an approved Tibet Travel Permit (TTB Permit).
@@ -725,7 +725,7 @@ Following the earthquake in Baqing County, China Railway Qinghai-Tibet Group com
 #### Direct Flights Inaugurated Between Qamdo Bangda Airport and Kunming
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 昌都至昆明航线今日起正式通航 据昌都邦达机场消息，为进一步促进区域经济文化交流、满足群众出行需求，昌都邦达机场于10月25日正式开通昌都至昆明的直飞航线！据了解，本次航线由西藏航空执飞，航班号为TV9883/84，执行拉萨=昌都=昆明航线，计划每日1班。 来源： （图源：昌都邦达机场分公司）
+> 昌都至昆明航线今日起正式通航 据昌都邦达机场消息，为进一步促进区域经济文化交流、满足群众出行需求，昌都邦达机场于10月25日正式开通昌都至昆明的直飞航线！据了解，本次航线由西藏航空执飞，航班号为TV9883/84，执行拉萨=昌都=昆明航线，计划每日1班。 来源： 
 
 **🇬🇧 Actionable Travel Intel**:  
 Qamdo Bangda Airport in Tibet launched direct commercial flights connecting Qamdo and Kunming on October 25, 2026. Operated daily by Tibet Airlines under flight numbers TV9883/84 along the Lhasa=Qamdo=Kunming routing, the service establishes direct aerial connectivity between eastern Tibet and Yunnan. Foreign travelers visiting Tibet must arrange travel via authorized tour groups and secure a Tibet Travel Permit (TTB Permit) in advance.
@@ -751,7 +751,7 @@ China Railway Chengdu Bureau has adjusted the operation section of high-speed tr
 #### Xinjiang Nalati: Panlong Valley Route Closed for Winter Starting October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 🔈受强冷空气影响，那拉提景区盘龙谷道沿线出现大面积降雪，道路出现积雪结冰现象，路面湿滑，已不具备车辆安全通行条件。 🔔为确保冬季旅游安全，自10月25日起，那拉提景区盘龙谷道实施季节性封闭。在此期间，区间车和自驾车将禁止通行。（来源 | 新疆那拉提国家旅游度假区）
+> 🔈受强冷空气影响，那拉提景区盘龙谷道沿线出现大面积降雪，道路出现积雪结冰现象，路面湿滑，已不具备车辆安全通行条件。 🔔为确保冬季旅游安全，自10月25日起，那拉提景区盘龙谷道实施季节性封闭。在此期间，区间车和自驾车将禁止通行。
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to heavy snowfall, road icing, and slick driving conditions brought by strong cold air, the Panlong Valley route in Nalati Scenic Area will be closed for the winter season starting October 25. During this closure period, sightseeing shuttle buses and private self-driving vehicles are strictly prohibited from entering this section.
@@ -777,7 +777,7 @@ China Railway Chengdu Bureau has announced temporary additional train services a
 #### Chang an Airlines Launches 2026 Winter-Spring Flight Schedule with New Routes from Xi an
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #千年古都 常来长安# 冬春航季上新～西安新开恢复多条文旅航线！暖冬海岛、北国冰雪一键直达！ 10月25日起，新海航长安航空正式执行2026冬春航季航班计划。本次换季新开西安—荔波—珠海、西安—井冈山—三亚，恢复西安—珠海等航线，保留多条热门与文旅特色航线。航季共覆盖41座城市，适配冰雪游、暖冬度假等季节性出行需求。（via. ）西安广播电视台的微博视频
+> 冬春航季上新～西安新开恢复多条文旅航线！暖冬海岛、北国冰雪一键直达！ 10月25日起，新海航长安航空正式执行2026冬春航季航班计划。本次换季新开西安—荔波—珠海、西安—井冈山—三亚，恢复西安—珠海等航线，保留多条热门与文旅特色航线。航季共覆盖41座城市，适配冰雪游、暖冬度假等季节性出行需求。
 
 **🇬🇧 Actionable Travel Intel**:  
 Beginning October 25, Chang an Airlines executes its 2026 winter-spring flight schedule covering 41 cities. The seasonal schedule launches new routes including Xi an to Libo to Zhuhai and Xi an to Jinggangshan to Sanya, while resuming the direct Xi an to Zhuhai service alongside other cultural tourism routes. Inbound travelers connecting between Shaanxi, Guizhou, Jiangxi, and southern destinations can utilize these flight connections.
@@ -803,7 +803,7 @@ China Railway operates the Jinxiu Shanhe Duocai Guizhou special tourist train co
 #### Held Qinghai-Tibet Railway Trains Resume with Speed Restrictions Following Nagqu Earthquake
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受那曲地震影响扣停的青藏铁路部分列车今早已陆续恢复，目前限速运行。地震波及格拉段部分区段，铁路部门第一时间扣停列车、启动预案，备好应急物资保障旅客，并对车站、车辆开展全面安全巡检，排查隐患。请出行旅客留意列车动态。 （来源：西藏卫视）
+> 受那曲地震影响扣停的青藏铁路部分列车今早已陆续恢复，目前限速运行。地震波及格拉段部分区段，铁路部门第一时间扣停列车、启动预案，备好应急物资保障旅客，并对车站、车辆开展全面安全巡检，排查隐患。请出行旅客留意列车动态。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Trains on the Qinghai-Tibet Railway that were held due to the Nagqu earthquake have begun resuming service this morning under speed restrictions. The earthquake affected sections of the Golmud-Lhasa line, where railway departments halted trains, activated emergency contingency plans, prepared supplies for passengers, and conducted comprehensive safety inspections of stations and rolling stock. Passengers should stay alert to train operation updates.
@@ -816,7 +816,7 @@ Trains on the Qinghai-Tibet Railway that were held due to the Nagqu earthquake h
 #### Tibet Earthquake Suspends Multiple Passenger Trains on October 23
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受西藏巴青 7.0 级地震影响，10 月 23 日多趟进出藏及区内列车停运： ✅出藏：Z22、Z224、Z8982、Y84 次 ✅拉日：C883、C885/C887、C884、C886/C888 次 ✅拉林：K6831、K6833、K6832、K6834 次 请出行旅客通过 12306APP、客服电话等官方渠道核实车次信息，妥善调整行程。由此带来不便，敬请谅解。 （来源：西藏发布） #西藏巴青 7.0 级地震#
+> 受西藏巴青 7.0 级地震影响，10 月 23 日多趟进出藏及区内列车停运： ✅出藏：Z22、Z224、Z8982、Y84 次 ✅拉日：C883、C885/C887、C884、C886/C888 次 ✅拉林：K6831、K6833、K6832、K6834 次 请出行旅客通过 12306APP、客服电话等官方渠道核实车次信息，妥善调整行程。由此带来不便，敬请谅解。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Following a magnitude 7.0 earthquake in Baqing, Tibet, multiple inbound, outbound and regional trains are suspended on October 23. Outbound trains affected include Z22, Z224, Z8982 and Y84. On the Lhasa-Shigatse line, affected trains include C883, C885/C887, C884 and C886/C888. On the Lhasa-Nyingchi line, affected trains include K6831, K6833, K6832 and K6834. Passengers are advised to verify train status through the 12306 app, customer service hotlines or other official channels, and adjust their travel plans accordingly.
@@ -842,7 +842,7 @@ Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 2
 #### Tingri Airport Adjusts Tourist Shuttle Bus Schedule from October 23
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> / 人 📍乘车点：定日县客运站、定日机场航站楼出口客运候车区 💴购票：现金、移动支付均可 ⚠️温馨提醒：提前 20 分钟到乘车点，凭身份证乘车；航班起飞前 40 分钟停止值机，建议至少提前 2 小时抵达机场，避免误机 ☎咨询：15962925678、13034742269（10:00-18:00） （来源：珠峰旅游）
+> / 人 📍乘车点：定日县客运站、定日机场航站楼出口客运候车区 💴购票：现金、移动支付均可 ⚠️温馨提醒：提前 20 分钟到乘车点，凭身份证乘车；航班起飞前 40 分钟停止值机，建议至少提前 2 小时抵达机场，避免误机 ☎咨询：15962925678、13034742269（10:00-18:00） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Effective October 23, 2026, the tourist shuttle bus service between Tingri Airport and Tingri County Town operates on Mondays, Wednesdays, and Saturdays, with 1 round trip daily. The one-way fare is 35 yuan per person. Boarding locations are Tingri County Passenger Transport Station and the passenger waiting area at the Tingri Airport terminal exit. Cash and mobile payment are accepted. Passengers are advised to arrive at the boarding point 20 minutes in advance, and arrive at the airport at least 2 hours before departure as check-in closes 40 minutes prior to takeoff.
@@ -868,7 +868,7 @@ Following a magnitude 7.0 earthquake in Baqing County, Nagqu, Tibet on October 2
 #### Chang'an Airlines Launches and Resumes Seasonal Routes from Xi'an from October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #千年古都 常来长安# 【长安航空冬春航季新开恢复西安—荔波—珠海等多条航线】10月25日起，新海航长安航空将开始执行2026年冬春航季航班计划。换季后，新海航长安航空将新开西安—荔波—珠海、西安—井冈山—三亚航线，恢复西安—珠海等航线，继续执行西安至三亚、北海、哈尔滨、喀什等热门航线，以及西安—凯里—海口、西安—铜仁—厦门、西安—景德镇—宁波等文旅特色航线，覆盖城市41座，重点满足冰雪旅游与暖冬度假等季节性客流需求。 https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Fxafbapp.xiancn.com%2Fapp%2Ftemplate%2FdisplayTemplate%2Fnews%2FnewsDetail%2F104%2F7541280.html%3FisShare%3Dtrue&action=appmsg_redirect&uin=Mjk5MzUxMjU4MQ%3D%3D&biz=MzA5NDUxMDkxMQ==&mid=2651116103&idx=1&type=1&scene=0 （via. ）
+> 【长安航空冬春航季新开恢复西安—荔波—珠海等多条航线】10月25日起，新海航长安航空将开始执行2026年冬春航季航班计划。换季后，新海航长安航空将新开西安—荔波—珠海、西安—井冈山—三亚航线，恢复西安—珠海等航线，继续执行西安至三亚、北海、哈尔滨、喀什等热门航线，以及西安—凯里—海口、西安—铜仁—厦门、西安—景德镇—宁波等文旅特色航线，覆盖城市41座，重点满足冰雪旅游与暖冬度假等季节性客流需求。 https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Fxafbapp.xiancn.com%2Fapp%2Ftemplate%2FdisplayTemplate%2Fnews%2FnewsDetail%2F104%2F7541280.html%3FisShare%3Dtrue&action=appmsg_redirect&uin=Mjk5MzUxMjU4MQ%3D%3D&biz=MzA5NDUxMDkxMQ==&mid=2651116103&idx=1&type=1&scene=0 
 
 **🇬🇧 Actionable Travel Intel**:  
 Starting October 25, Chang'an Airlines will operate its winter-spring flight schedule, covering 41 cities. The airline will introduce new routes connecting Xi'an with Libo and Zhuhai, and Xi'an with Jinggangshan and Sanya, while resuming direct Xi'an to Zhuhai service. Flights from Xi'an to Sanya, Beihai, Harbin, and Kashgar will continue operating.
@@ -881,7 +881,7 @@ Starting October 25, Chang'an Airlines will operate its winter-spring flight sch
 #### Multiple Sichuan Scenic Areas Announce Free Admission Policies Through November
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近期，四川21市（州）秋假时间已全部确定。从各市州公布方案看，3天秋假衔接周末形成5天连休是普遍安排。金秋风景正好，四川多个景区也推出免票福利。西岭雪山后山滑雪场、瓦屋山景区11月30日前面向所有游客免门票，11月1日—11月30日期间，毕棚沟、二郎山喇叭河等景区也有免门票政策。 （来源： ）四川观察的微博视频
+> 近期，四川21市（州）秋假时间已全部确定。从各市州公布方案看，3天秋假衔接周末形成5天连休是普遍安排。金秋风景正好，四川多个景区也推出免票福利。西岭雪山后山滑雪场、瓦屋山景区11月30日前面向所有游客免门票，11月1日—11月30日期间，毕棚沟、二郎山喇叭河等景区也有免门票政策。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Multiple scenic attractions in Sichuan have announced free admission policies for tourists. Xiling Snow Mountain back-mountain ski resort and Wawu Mountain Scenic Area offer free entrance for all visitors before November 30. From November 1 to November 30, Bipenggou and Erlang Mountain Laba River scenic areas also offer free ticket policies.
@@ -894,7 +894,7 @@ Multiple scenic attractions in Sichuan have announced free admission policies fo
 #### Hanzhong Airport Adjusts Flight Schedule for Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ✈️10 月 25 日起执行！汉中机场冬春航季航线上新汉中 带着微博去旅行 2026-2027 冬春航季来啦（至 2027.3.28） 8 家航司通达 13 城，周航班 120 架次，同比增 30.4% ✅北京、深圳、贵阳实现每日直飞 ✅新增贵阳 — 汉中 — 兰州、汉中直飞海口 ✅加密乌鲁木齐 — 汉中 — 温州至每周 4 班 ✅杭州、上海等航线时刻优化，航班集中日间 还有首乘、特殊旅客专属服务、机场约巴、航旅优惠线路，出行更省心！（来源：汉中机场）
+> ✈️10 月 25 日起执行！汉中机场冬春航季航线上新汉中 带着微博去旅行 2026-2027 冬春航季来啦（至 2027.3.28） 8 家航司通达 13 城，周航班 120 架次，同比增 30.4% ✅北京、深圳、贵阳实现每日直飞 ✅新增贵阳 — 汉中 — 兰州、汉中直飞海口 ✅加密乌鲁木齐 — 汉中 — 温州至每周 4 班 ✅杭州、上海等航线时刻优化，航班集中日间 还有首乘、特殊旅客专属服务、机场约巴、航旅优惠线路，出行更省心！
 
 **🇬🇧 Actionable Travel Intel**:  
 From October 25, 2026 to March 28, 2027, Hanzhong Airport will operate its new winter-spring flight schedule connecting 13 cities. Daily direct flights are available to Beijing, Shenzhen, and Guiyang. New routes include Guiyang-Hanzhong-Lanzhou and direct Hanzhong-Haikou services. The Urumqi-Hanzhong-Wenzhou route increases to 4 flights per week, while schedules for routes to Hangzhou and Shanghai are optimized with daytime flight concentrations.
@@ -933,7 +933,7 @@ Heavy rain is forecast in southwestern and northeastern Guizhou from 20 to 21 Oc
 #### Heavy Rain and Snow Warning for Chongqing and Hubei
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 你感觉到降温了吗？新一股冷空气来了! 10月19日起，重庆、湖北等地部分地区有暴雨或大暴雨，北方部分地区有降雪，21日早晨最低气温0℃线将向南推进。（via.重庆广电第1眼） 重庆广电第1眼的微博视频
+> 你感觉到降温了吗？新一股冷空气来了! 10月19日起，重庆、湖北等地部分地区有暴雨或大暴雨，北方部分地区有降雪，21日早晨最低气温0℃线将向南推进。
 
 **🇬🇧 Actionable Travel Intel**:  
 From 19 October, parts of Chongqing and Hubei may experience heavy to torrential rain, while some northern areas may see snow. The 0°C line is forecast to move south by the morning of 21 October.
@@ -972,7 +972,7 @@ The G3979/3982 train from Chengdu East to Hankou began operating on 11 October a
 #### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。（来源：汉中城固机场）
+> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。
 
 **🇬🇧 Actionable Travel Intel**:  
 Hanzhong Airport will begin its 2026 winter-spring flight schedule on October 25. Hanzhong-Shenzhen and Hanzhong-Guiyang services will increase to one flight daily; a new Hanzhong-Lanzhou route will operate on Tuesdays, Thursdays and Saturdays; and schedules for Shenzhen, Hangzhou and Shanghai will be adjusted, including a new afternoon departure from Shenzhen. Flight times are for reference, and travelers should confirm details through live booking systems.
@@ -1037,7 +1037,7 @@ Chengdu Research Base of Giant Panda Breeding will switch to its winter opening 
 #### Chengdu-Altay Direct Flights to Increase from October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月18日，记者从相关航司获悉，10月25日起，成都直飞阿勒泰航线加密，最多时一天将有三班直飞。在新航季，国内航司还将在成都新开、加密其他航线，成都计划航班量仅次于北京、上海，位居全国第三。 （来源：成都日报）
+> 10月18日，记者从相关航司获悉，10月25日起，成都直飞阿勒泰航线加密，最多时一天将有三班直飞。在新航季，国内航司还将在成都新开、加密其他航线，成都计划航班量仅次于北京、上海，位居全国第三。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Starting October 25, direct flights from Chengdu to Altay will be increased, with up to three direct flights per day at peak. Other domestic routes from Chengdu will also be newly opened or increased in the new flight season.
@@ -1050,7 +1050,7 @@ Starting October 25, direct flights from Chengdu to Altay will be increased, wit
 #### Eight Lhasa Bus Routes Temporarily Rerouted for 122-Day Road Works
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 因色拉北路至当热路路口娘热北路进行道路管网施工，相关路段实行全封闭管理，自2026年10月15日起，拉萨市6路、16路、20路、21路、24路、28路、29路、31路公交线路将临时绕行调整，施工工期暂定为122天。 此次调整涉及部分线路的行驶路线、停靠站点，部分原站点将临时取消，并增设相应临时停靠站点。施工期间，各线路将结合现场围挡设置及实际道路通行情况动态调整。请广大市民及时关注线路变化，提前规划出行路线，合理安排乘车时间，以免耽误行程。 待施工结束、道路具备通行条件后，相关公交线路将第一时间恢复原线路运行。 来源：拉萨公交
+> 因色拉北路至当热路路口娘热北路进行道路管网施工，相关路段实行全封闭管理，自2026年10月15日起，拉萨市6路、16路、20路、21路、24路、28路、29路、31路公交线路将临时绕行调整，施工工期暂定为122天。 此次调整涉及部分线路的行驶路线、停靠站点，部分原站点将临时取消，并增设相应临时停靠站点。施工期间，各线路将结合现场围挡设置及实际道路通行情况动态调整。请广大市民及时关注线路变化，提前规划出行路线，合理安排乘车时间，以免耽误行程。 待施工结束、道路具备通行条件后，相关公交线路将第一时间恢复原线路运行。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Because of road and pipe-network construction from Sela North Road to the Niangre North Road intersection at Dangre Road, the affected section is under full closure. From October 15, 2026, Lhasa bus routes 6, 16, 20, 21, 24, 28, 29 and 31 are temporarily rerouted. The construction period is provisionally 122 days. Some routes and stops are affected, some original stops are temporarily cancelled and temporary stops are added. Riders should follow route changes and plan their journeys in advance. The routes will return to their original alignment once construction ends and the road is passable.
@@ -1063,7 +1063,7 @@ Because of road and pipe-network construction from Sela North Road to the Niangr
 #### Several Sichuan Scenic Areas Waive Tickets for the Double Ninth Festival and Beyond
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月18日重阳恰逢周末，成都熊猫海洋公园、兴文石海、嘉阳桫椤湖等景区对60岁及以上游客免票。稻城雪山、西岭雪山和瓦屋山仍处于限时免门票期间，所有游客均可免票进入观山赏雪看彩林。 （来源： ）四川观察的微博视频
+> 10月18日重阳恰逢周末，成都熊猫海洋公园、兴文石海、嘉阳桫椤湖等景区对60岁及以上游客免票。稻城雪山、西岭雪山和瓦屋山仍处于限时免门票期间，所有游客均可免票进入观山赏雪看彩林。 
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 18, the Double Ninth Festival, which falls on a weekend this year, scenic areas including Chengdu Panda Ocean Park, Xingwen Stone Sea and Jiayang Suoluo Lake waive tickets for visitors aged 60 and above. Daocheng Snow Mountain, Xiling Snow Mountain and Wawu Mountain remain in a limited-time free-ticket period, and all visitors can enter without a ticket to view the mountains, snow and autumn foliage.
@@ -1089,7 +1089,7 @@ Heavy rain is forecast for northeastern and southeastern Chongqing from October 
 #### China Eastern to Launch Daily Xi'an–Zhanjiang Flight
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 记者获悉，2026年冬航季，中国东方航空（以下简称“东航”）将于10月25日起，新开西安至湛江航线，往返航班号MU2357/8，每日一班。 具体航班时刻为： ・去程MU2357，每日7:30从西安咸阳国际机场起飞，10:20抵达湛江吴川国际机场； ・返程MU2358，每日11:20从湛江吴川国际机场起飞，14:05抵达西安咸阳国际机场。航线时刻兼顾商务与休闲出行需求，实现“早出午达、午间返程”，方便旅客高效安排行程。 详情戳链接➡️ https://mp.weixin.qq.com/s/1imQHvZPHjCr1igzR_bGkA （via. ）
+> 记者获悉，2026年冬航季，中国东方航空（以下简称“东航”）将于10月25日起，新开西安至湛江航线，往返航班号MU2357/8，每日一班。 具体航班时刻为： ・去程MU2357，每日7:30从西安咸阳国际机场起飞，10:20抵达湛江吴川国际机场； ・返程MU2358，每日11:20从湛江吴川国际机场起飞，14:05抵达西安咸阳国际机场。航线时刻兼顾商务与休闲出行需求，实现“早出午达、午间返程”，方便旅客高效安排行程。  
 
 **🇬🇧 Actionable Travel Intel**:  
 From 25 October, China Eastern will operate a daily Xi'an–Zhanjiang service for the 2026 winter season. Flight MU2357 departs Xi'an Xianyang International Airport at 7:30 and arrives at Zhanjiang Wuchuan International Airport at 10:20. Return flight MU2358 departs Zhanjiang at 11:20 and arrives in Xi'an at 14:05.
@@ -1115,7 +1115,7 @@ Passengers who buy a quiet-carriage ticket, usually in car 3, agree to follow qu
 #### Xi'an Metro Advances First-Train Times for the Xi'an Marathon
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 2026年西安马拉松赛将于10月18日(周日)上午07:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。（via. ）西安地铁的微博视频
+> 2026年西安马拉松赛将于10月18日(周日)上午07:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。
 
 **🇬🇧 Actionable Travel Intel**:  
 The 2026 Xi'an Marathon will start at 07:30 on October 18 at the east side of Yongningmen South Square. To meet the travel needs of participants, residents and visitors, Xi'an Metro will advance first-train times, increase capacity on key lines, deploy additional staff and strengthen emergency coordination.
@@ -1128,7 +1128,7 @@ The 2026 Xi'an Marathon will start at 07:30 on October 18 at the east side of Yo
 #### Cold Wave and Three Meteorological Warnings Affect China; Temperature Drops of 4–10°C
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 转发周知！ 央视新闻的微博视频
+> 目前，一股冷空气正影响我国。今天，降温主要集中在西北到华北等地，最高气温降幅在4-10℃。明天，内蒙古、东北、长江中下游多地的最高气温都将下降，最大降幅4-10℃。21日前后，最低气温0℃线最南压至陕西中部、山西南部和河北北部一线，北方会有更多地方进入气象学意义上的冬天。 今日6时，中央气象台继续发布暴雨蓝色预警、强对流天气蓝色预警、大风蓝色预警。15省区市部分地区有大到暴雨，山东、辽宁局地大暴雨；河南、湖北、湖南等地部分地区将有10级以上雷暴大风。详→ https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14803027226216871855&source=50001&sub_source=50001_006 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is currently affecting China, with the main temperature drops concentrated in the northwest and north, where maximum temperatures may fall by 4 to 10 degrees Celsius. Tomorrow, maximum temperatures will also drop in Inner Mongolia, the northeast and much of the middle and lower Yangtze, with maximum drops of 4 to 10 degrees. Around October 21, the 0°C line will push south to central Shaanxi, southern Shanxi and northern Hebei. The Central Meteorological Observatory continued to issue blue warnings for rainstorms, severe convection and gales, with heavy to torrential rain in parts of 15 provinces and regions, local heavy rainstorms in Shandong and Liaoning, and thunderstorms with winds of force 10 or above in parts of Henan, Hubei and Hunan.
@@ -1141,7 +1141,7 @@ A cold wave is currently affecting China, with the main temperature drops concen
 #### Xi'an Metro to Start Eight Lines Earlier for Marathon
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 2026年西安马拉松赛将于10月18日(周日)上午07:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。 西安地铁的微博视频
+> 2026年西安马拉松赛将于10月18日(周日)上午07:30在永宁门南广场东侧盘道鸣枪开赛。为进一步满足广大参赛选手、市民游客出行需求，西安地铁采取提前首班车时间、提升关键线路运力供给、增派人员引导、强化应急联动等多项措施，确保比赛期间地铁运营组织安全有序。 
 
 **🇬🇧 Actionable Travel Intel**:  
 On 18 October, eight Xi'an Metro lines will begin service half an hour earlier for the Xi'an Marathon. Additional capacity, staff guidance and emergency coordination will be in place during the event.
@@ -1154,7 +1154,7 @@ On 18 October, eight Xi'an Metro lines will begin service half an hour earlier f
 #### Hanzhong Liping Scenic Area Offers Free Admission on October 17–18
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 🍂一叶知秋，秦巴染丹！2026 汉中黎坪炫彩红叶季 10 月 17 日启幕✨ 红叶 汉中 带着微博去旅行 👉10.17-18 黎坪全民免门票，仅购观光车票，赴 377 平方公里巴山彩林之约。 龙头山云海彩林、留坝晒秋盛宴、略阳羌韵徒步、城固桔园丰收…… 山南山北，各县秋色次第登场。 春赏花、夏纳凉、秋观叶、冬嬉雪。汉中凭绿水青山，做到文旅四季不冷场。赛事、民歌、非遗、票根惠民，风景变好日子，秦巴长卷正翻至色彩最浓一页。（来源：群众新闻）
+> 🍂一叶知秋，秦巴染丹！2026 汉中黎坪炫彩红叶季 10 月 17 日启幕✨ 红叶 汉中 带着微博去旅行 👉10.17-18 黎坪全民免门票，仅购观光车票，赴 377 平方公里巴山彩林之约。 龙头山云海彩林、留坝晒秋盛宴、略阳羌韵徒步、城固桔园丰收…… 山南山北，各县秋色次第登场。 春赏花、夏纳凉、秋观叶、冬嬉雪。汉中凭绿水青山，做到文旅四季不冷场。赛事、民歌、非遗、票根惠民，风景变好日子，秦巴长卷正翻至色彩最浓一页。
 
 **🇬🇧 Actionable Travel Intel**:  
 The 2026 Hanzhong Liping Autumn Foliage Season opens on October 17. On October 17 and 18, Liping Scenic Area offers free admission to all visitors, with only the sightseeing bus ticket required. The scenic area covers 377 square kilometres of autumn foliage in the Bashan mountains.
@@ -1167,7 +1167,7 @@ The 2026 Hanzhong Liping Autumn Foliage Season opens on October 17. On October 1
 #### Cold Wave and Heavy Rain to Affect Most of China
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 应急管理部的微博视频
+> 我国沿长江及以北地区有降水过程，西北地区东部、华北、东北地区、黄淮、江淮、江汉、江南北部及重庆等地有中到大雨，局地暴雨或大暴雨；新疆北部、甘肃、青海等高海拔地区及内蒙古东北部、黑龙江北部有雨雪天气。 较强冷空气自西向东影响我国大部地区，大部降温4～8℃、局地10℃以上，部分地区伴有4～6级偏北风，阵风7～9级。 秋风起，记得照顾好自己。秋燥容易伤身体，多喝温水，早晚注意保暖。雨天路滑，出行注意安全。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave will move from west to east across most of China, bringing temperature drops of 4 to 8 degrees Celsius, with local drops above 10 degrees, and northerly winds of force 4 to 6 with gusts of force 7 to 9 in some areas. Moderate to heavy rain is forecast along the Yangtze River and areas to its north, including eastern Northwest China, North China, Northeast China, Huanghuai, Jianghuai, Jianghan, northern Jiangnan and Chongqing, with local rainstorms or heavy rainstorms. High-altitude areas of northern Xinjiang, Gansu and Qinghai, as well as northeastern Inner Mongolia and northern Heilongjiang, will see rain and snow.
@@ -1180,7 +1180,7 @@ A cold wave will move from west to east across most of China, bringing temperatu
 #### Sichuan Autumn Foliage Season: Free Admission at Walwu Mountain, Xiling Snow Mountain and Daocheng Yading
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 彩林季开启，多家景区推出免票福利。瓦屋山、西岭雪山免门票至11月30日，稻城亚丁免票持续到10月31日。此外，巴中光雾山、广元、黑水等地红叶彩林陆续进入观赏期，趁着免票窗口期，一起来四川邂逅秋日美景。 （来源： 、各景区综合）四川观察的微博视频
+> 彩林季开启，多家景区推出免票福利。瓦屋山、西岭雪山免门票至11月30日，稻城亚丁免票持续到10月31日。此外，巴中光雾山、广元、黑水等地红叶彩林陆续进入观赏期，趁着免票窗口期，一起来四川邂逅秋日美景。 （来源： 、各景区综合）
 
 **🇬🇧 Actionable Travel Intel**:  
 With the autumn foliage season under way, several scenic areas in Sichuan are offering free admission. Walwu Mountain and Xiling Snow Mountain are waiving admission tickets until November 30, and Daocheng Yading is waiving admission through October 31. Autumn foliage is also entering its viewing season in Guangwu Mountain in Bazhong, Guangyuan and Heishui.
@@ -1193,7 +1193,7 @@ With the autumn foliage season under way, several scenic areas in Sichuan are of
 #### Shaanxi Issues Joint Tourism Meteorological Risk Warning No. 76 for Heavy Rain
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 时间：2026-10-16 来源：市场管理处 分享： 
+> 时间：2026-10-16  分享： 
 
 **🇬🇧 Actionable Travel Intel**:  
 The Shaanxi Provincial Department of Culture and Tourism and the Shaanxi Meteorological Bureau jointly issued tourism meteorological risk warning No. 76 on October 16. From the afternoon of October 16 to the afternoon of October 17, heavy rain of 25 to 50 mm is expected in southern Xi'an, parts of Baoji, northern Xianyang, western Tongchuan, parts of Weinan, parts of Yan'an, western Yulin, parts of Hanzhong, parts of Ankang and parts of Shangluo. Torrential rain of 50 to 90 mm is expected in local areas including Lantian County in eastern Xi'an, Hancheng and Huazhou in Weinan, Yichuan County in Yan'an, Dingbian County in Yulin, Zhenba County in southeastern Hanzhong, Hanbin District, Ziyang County, Langao County, Pingli County and Zhenping County in southern Ankang, and Shangzhou District, Luonan County, Shangnan County and Zhashui County in Shangluo. Maximum hourly rainfall will be 10 to 30 mm. The warning states that heavy rainfall will mainly affect northern Shaanxi, northern Guanzhong, parts of southern Shaanxi and the Qinba mountain area, and asks local authorities to step up inspection of geological hazard points and take disaster prevention measures. It instructs scenic areas and guesthouses to check high-risk projects and outdoor facilities, to remind visitors about safety and emergency evacuation, to watch flood gullies and road sections next to water, cliffs, slopes and narrow river channels, and to suspend cableways and cruise boats where necessary. The public is advised to reduce unnecessary travel and avoid mountain and valley scenic areas.
@@ -1219,7 +1219,7 @@ China's national meteorological authority forecasts that strong cold air will af
 #### Chongqing Adds Extra Trains on Multiple Routes for the Weekend
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 本周末将迎来重阳佳节，重庆市内文体活动与家庭旅游、往返通勤等客流叠加，旅客出行需求集中释放。10月16日，重庆火车站发布消息，针对渝昆、兰渝、宁蓉、渝贵、郑渝等线路加开列车，涵盖重庆至兰州、兴义、荔波、贵阳、成都、遂宁、万州、巫山等热门方向，覆盖多个出行时段和热门线路，满足周末旅客出行需求。 本周末文体活动结束后将迎来旅客夜间集中返程高峰，重庆火车站对接活动主办方摸排返程客流信息，同步加开成都方向列车，满足歌迷旅客观演后夜间返程需求。10月19日加开重庆西—成都东G8658次，重庆西0:29开、成都东1:33到，一小时重庆快速直达成都。（via.上游新闻）
+> 本周末将迎来重阳佳节，重庆市内文体活动与家庭旅游、往返通勤等客流叠加，旅客出行需求集中释放。10月16日，重庆火车站发布消息，针对渝昆、兰渝、宁蓉、渝贵、郑渝等线路加开列车，涵盖重庆至兰州、兴义、荔波、贵阳、成都、遂宁、万州、巫山等热门方向，覆盖多个出行时段和热门线路，满足周末旅客出行需求。 本周末文体活动结束后将迎来旅客夜间集中返程高峰，重庆火车站对接活动主办方摸排返程客流信息，同步加开成都方向列车，满足歌迷旅客观演后夜间返程需求。10月19日加开重庆西—成都东G8658次，重庆西0:29开、成都东1:33到，一小时重庆快速直达成都。
 
 **🇬🇧 Actionable Travel Intel**:  
 Chongqing Railway Station announced extra trains on the Yukun, Lanyu, Ningrong, Yugu and Zhengyu lines for this weekend, when the Double Ninth Festival brings together sports and cultural events, family trips and commuting. The added services cover popular directions including Lanzhou, Xingyi, Libo, Guiyang, Chengdu, Suining, Wanzhou and Wushan. As a late-night return peak is expected after the weekend events, extra Chengdu-bound trains are also being added; on October 19, train G8658 runs Chongqing West departing 0:29 and arriving at Chengdu East at 1:33.
@@ -1232,7 +1232,7 @@ Chongqing Railway Station announced extra trains on the Yukun, Lanyu, Ningrong, 
 #### Xiling Snow Mountain Rear Ski Area Waives Scenic Ticket Until November 30
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受冷空气影响，西岭雪山海拔3250米的日月坪观景台日前迎来今秋初雪。西岭雪山后山滑雪场景区，面向所有游客免景区门票（鸳鸯池索道、日月坪索道及体验项目另购），免票时间执行至2026年11月30日。 （成都发布） 成都发布的微博视频
+> 受冷空气影响，西岭雪山海拔3250米的日月坪观景台日前迎来今秋初雪。西岭雪山后山滑雪场景区，面向所有游客免景区门票（鸳鸯池索道、日月坪索道及体验项目另购），免票时间执行至2026年11月30日。 （成都发布） 
 
 **🇬🇧 Actionable Travel Intel**:  
 The rear ski-area scenic zone of Xiling Snow Mountain waives the scenic-area ticket for all visitors. The waiver is in effect until November 30, 2026. The Yuanyangchi cableway, the Riyueping cableway and experience activities are paid separately. The Riyueping viewing platform, at an elevation of 3,250 metres, recently received the first snow of this autumn after a cold air mass moved in.
@@ -1245,7 +1245,7 @@ The rear ski-area scenic zone of Xiling Snow Mountain waives the scenic-area tic
 #### Tibet Airlines to Add Two Lhasa Round-Trip Routes, Including Hong Kong via Chengdu Shuangliu from November 29
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 来源：西藏航空
+> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
@@ -1284,7 +1284,7 @@ Keketuohai International Ski Resort opens its 2026-2027 season on October 20, wi
 #### China Southern Adds Five New Xinjiang Routes for the Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！（来源 | 南航新疆分公司） 🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
+> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
 
 **🇬🇧 Actionable Travel Intel**:  
 China Southern Airlines' Xinjiang branch has added five new routes for the winter-spring season. Urumqi-Chongqing-Jieyang (CZ8235/6) operates daily; Urumqi-Taiyuan-Lianyungang (CZ8633/4) operates on Mondays, Tuesdays, Thursdays and Saturdays; Urumqi-Taiyuan-Jiaxing (CZ5195/6) operates on Wednesdays, Fridays and Sundays; Urumqi-Chengdu Shuangliu (CZ6945/6) operates daily; and Urumqi-Shanghai Pudong (CZ6993/4) operates daily.
@@ -1310,7 +1310,7 @@ The 2026 Xi'an Marathon will start at 7:30 on the morning of Sunday, October 18 
 #### Chongqing Olympic Sports Center to Have Temporary Traffic Controls from October 16 to 18
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月16日至18日，凤凰传奇重庆演唱会将在重庆奥体中心举行。为保障活动期间奥体中心周边道路通行有序，预防交通事故发生，重庆市公安局九龙坡区分局交通管理支队将依法对奥体中心周边道路实施临时交通管制措施，请观演市民、驾车出行人员和周边居民提前安排行程。 https://wap.cqrb.cn/xcq/NewsDetail?classId=606&newsId=2796870&staticUrl=https%3A%2F%2Ft.cqrb.cn%2F5aQr3 （via.新重庆-重庆日报）
+> 10月16日至18日，凤凰传奇重庆演唱会将在重庆奥体中心举行。为保障活动期间奥体中心周边道路通行有序，预防交通事故发生，重庆市公安局九龙坡区分局交通管理支队将依法对奥体中心周边道路实施临时交通管制措施，请观演市民、驾车出行人员和周边居民提前安排行程。 https://wap.cqrb.cn/xcq/NewsDetail?classId=606&newsId=2796870&staticUrl=https%3A%2F%2Ft.cqrb.cn%2F5aQr3 
 
 **🇬🇧 Actionable Travel Intel**:  
 The Phoenix Legend concert will be held at the Chongqing Olympic Sports Center from October 16 to 18. To keep roads around the sports center orderly during the event and to prevent traffic accidents, the traffic management detachment of the Jiulongpo District branch of the Chongqing Public Security Bureau will impose temporary traffic control measures on roads around the sports center in accordance with the law. Concert-goers, drivers and nearby residents are advised to plan their trips in advance.
@@ -1336,7 +1336,7 @@ China's national meteorological authority forecasts a stronger cold wave moving 
 #### Shaanxi Publishes First Batch of Designated Qinling Outdoor Hiking Routes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 共白道峪线、小峪线、大峪线三条路线可选择！】9月23日，为整治秦岭违规穿越探险，规范登山徒步活动，陕西省体育局发布《秦岭户外登山徒步开放线路（第一批）》公告。公告明确两条管控规定，一是登山者须提前评估体能，仅限开放线路活动，二是要做好安全防护，保护生态，杜绝违规行为。此外，公告还公布了白道峪线、小峪线、大峪线三条徒步路线的详细情况。（via. ）华商网的微博视频
+> 共白道峪线、小峪线、大峪线三条路线可选择！】9月23日，为整治秦岭违规穿越探险，规范登山徒步活动，陕西省体育局发布《秦岭户外登山徒步开放线路（第一批）》公告。公告明确两条管控规定，一是登山者须提前评估体能，仅限开放线路活动，二是要做好安全防护，保护生态，杜绝违规行为。此外，公告还公布了白道峪线、小峪线、大峪线三条徒步路线的详细情况。
 
 **🇬🇧 Actionable Travel Intel**:  
 On September 23, the Shaanxi Provincial Sports Bureau published a notice on the first batch of designated open outdoor hiking routes in the Qinling mountains, aimed at regulating mountaineering and hiking and curbing illegal off-route trekking. The notice sets two control rules: hikers must assess their physical fitness in advance and may only use the designated open routes, and must take safety precautions, protect the ecology, and avoid violations. Three routes were published: the Baidaoyu route, the Xiaoyu route, and the Dayu route.
@@ -1362,7 +1362,7 @@ Hailuogou authorities announced a prohibition on mountaineering, hiking, travers
 #### Xiling Snow Mountain: Back-Mountain Ski Area Offers Free Admission Through November 30
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 倘若我告诉你，西岭雪山后山滑雪场免！票！你还能忍得住不去吗？🥰🥰🥰这次西岭雪山免票时间持续至11月30日，快抓紧时间去耍！去日月坪看日出，去映雪广场赏彩林，去索道俯瞰万物，去把秋雪、云海、彩林一次耍够！ （图源：西岭雪山景区） ⏰免票时间：免票时间执行至11月30日 📍免票区域：西岭雪山后山滑雪场，包含日月坪、映雪广场、阴阳界、鸳鸯池、云懒懒牧场、鸽子花广场等（鸳鸯池索道、日月坪索道及体验项目另购） 🚡索道费用：鸳鸯池索道往返66元、单程35元；日月坪索道往返77元；双索道套票118元（索道特惠至10月30日） ❗️注意： 1、前山大飞水景区不参与免票，成人30元。 2、免票信息来自景区官方，具体政策以景区公示为准，最终解释权归景区官方所有。
+> 倘若我告诉你，西岭雪山后山滑雪场免！票！你还能忍得住不去吗？🥰🥰🥰这次西岭雪山免票时间持续至11月30日，快抓紧时间去耍！去日月坪看日出，去映雪广场赏彩林，去索道俯瞰万物，去把秋雪、云海、彩林一次耍够！ ⏰免票时间：免票时间执行至11月30日 📍免票区域：西岭雪山后山滑雪场，包含日月坪、映雪广场、阴阳界、鸳鸯池、云懒懒牧场、鸽子花广场等（鸳鸯池索道、日月坪索道及体验项目另购） 🚡索道费用：鸳鸯池索道往返66元、单程35元；日月坪索道往返77元；双索道套票118元（索道特惠至10月30日） ❗️注意： 1、前山大飞水景区不参与免票，成人30元。 2、免票信息来自景区官方，具体政策以景区公示为准，最终解释权归景区官方所有。
 
 **🇬🇧 Actionable Travel Intel**:  
 Xiling Snow Mountain's back-mountain ski area is waiving admission through November 30. The free-admission zone covers Riyueping, Yingxue Square, Yinyangjie, Yuanyangchi, Yunlanlan Pasture and Gezihua Square, among others. Cableways and experience activities are charged separately: the Yuanyangchi cableway costs 66 yuan round trip or 35 yuan one way, the Riyueping cableway costs 77 yuan round trip, and a combined two-cableway package costs 118 yuan (the cableway discount runs through October 30). The front-mountain Dafeishui scenic area is not included in the free-admission offer and charges 30 yuan for adults.
@@ -1375,7 +1375,7 @@ Xiling Snow Mountain's back-mountain ski area is waiving admission through Novem
 #### Tibet Airlines Winter Sun Multi-Trip Pass: One-Way Economy Fares from 209 Yuan
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 西藏航空“冬日暖阳”次卡温暖上线！单程经济舱209元起，往返398元起（均不含机建燃油费），次卡覆盖多条热门航线。销售日期即日起至11月27日，适用旅行日期为10月25日至11月30日的朋友，需要在旅行日期前3天（含3天）兑换，名额有限，先兑先得！ 趁冬游西藏之际，赴一场高原之约，让冬日的阳光与沿途的风景温暖旅程！详情及适用航线请以西藏航空官方信息为准。（西藏航空原文链接： https://mp.weixin.qq.com/s/vuzTNKj9Tz25sTrCI902Zw ） 来源：西藏航空
+> 西藏航空“冬日暖阳”次卡温暖上线！单程经济舱209元起，往返398元起（均不含机建燃油费），次卡覆盖多条热门航线。销售日期即日起至11月27日，适用旅行日期为10月25日至11月30日的朋友，需要在旅行日期前3天（含3天）兑换，名额有限，先兑先得！ 趁冬游西藏之际，赴一场高原之约，让冬日的阳光与沿途的风景温暖旅程！详情及适用航线请以西藏航空官方信息为准。（西藏航空原文链接： https://mp.weixin.qq.com/s/vuzTNKj9Tz25sTrCI902Zw ） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines has launched a Winter Sun multi-trip pass, with one-way economy fares starting at 209 yuan and round-trip fares starting at 398 yuan, both excluding airport construction and fuel surcharges. The pass covers several popular routes. Sales run from now through November 27, valid travel dates are October 25 to November 30, and bookings must be redeemed at least three days before the travel date. Availability is limited and allocated on a first-come, first-served basis; details and applicable routes follow Tibet Airlines' official information. Per current official policy for foreign visitors, arrangements are subject to change.
@@ -1401,7 +1401,7 @@ China Railway Qinghai-Tibet Group will add temporary passenger trains to meet re
 #### Chongqing Airport Opens Transit Service Hall Offering Free Meals, Rest and Showers Within 48 Hours
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 免费吃饭、休息、沐浴！重庆机场中转服务厅正式启用，48小时内中转旅客均可申请。（来源：重庆发布） 交通运输部的微博视频
+> 免费吃饭、休息、沐浴！重庆机场中转服务厅正式启用，48小时内中转旅客均可申请。
 
 **🇬🇧 Actionable Travel Intel**:  
 Chongqing Airport has officially opened a transit service hall. Transit passengers within 48 hours can apply for free meals, rest and shower facilities.
@@ -1427,7 +1427,7 @@ The ninth Winter Tibet campaign opens on October 15 and offers free admission at
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
@@ -1440,7 +1440,7 @@ A cold wave is forecast to affect most of China from October 15 to 19, bringing 
 #### Yala Snow Mountain Opens Autumn-Winter Self-Drive Entry with Daily Vehicle Quota
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，亚拉雪山景区发布通知，每年10月中旬至次年4月底，景区开放私家车自驾入园。 自驾入园仅限7座及以下非营运私家车，营运车辆、摩托车不可入园。每日入园车辆限额20台，订满即止，需提前1天预约。入园时段为预约当日10:30-16:30，当日18:00前须驶出景区。5座车自驾票60元/车，7座车自驾票90元/车。 自驾入园后，车辆全程限速30km/h，游客需遵守景区管理规定，保护高原生态，禁止驶入未开放区域。 via：牧师、
+> 近日，亚拉雪山景区发布通知，每年10月中旬至次年4月底，景区开放私家车自驾入园。 自驾入园仅限7座及以下非营运私家车，营运车辆、摩托车不可入园。每日入园车辆限额20台，订满即止，需提前1天预约。入园时段为预约当日10:30-16:30，当日18:00前须驶出景区。5座车自驾票60元/车，7座车自驾票90元/车。 自驾入园后，车辆全程限速30km/h，游客需遵守景区管理规定，保护高原生态，禁止驶入未开放区域。、
 
 **🇬🇧 Actionable Travel Intel**:  
 The Yala Snow Mountain scenic area has announced that from mid-October to the end of April each year, the scenic area opens self-drive entry for private cars. Only non-commercial private cars with 7 seats or fewer are permitted; commercial vehicles and motorcycles may not enter. The daily quota is 20 vehicles on a first-come basis, and bookings must be made at least 1 day in advance. The entry window is 10:30 to 16:30 on the booked day, and vehicles must leave the scenic area before 18:00. The self-drive ticket costs 60 yuan for a 5-seat car and 90 yuan for a 7-seat car. Once inside, vehicles must observe the scenic area speed limit, and visitors must follow management rules, protect the high-altitude ecosystem and stay out of closed areas.
@@ -1505,7 +1505,7 @@ The Gansu Provincial Meteorological Bureau announced a major weather notice: aff
 #### Kunming-Daegu Direct Charter Route to Open on October 15
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 昆明首条直飞韩国大邱国际航线将于10月15日开通，该航线现阶段按每两周三班安排：首周周四执飞，次周周二、周六执飞。据了解，昆明⇌大邱为包机航线，不开放散客公开销售，官网及各票务平台无法购票。有出行需求的旅客，可通过官方或合作方办理团队机票预订。 云南日报的微博视频
+> 昆明首条直飞韩国大邱国际航线将于10月15日开通，该航线现阶段按每两周三班安排：首周周四执飞，次周周二、周六执飞。据了解，昆明⇌大邱为包机航线，不开放散客公开销售，官网及各票务平台无法购票。有出行需求的旅客，可通过官方或合作方办理团队机票预订。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Kunming's first direct international route to Daegu, South Korea, will open on October 15. At this stage the route operates three flights every two weeks: on Thursday in the first week, and on Tuesday and Saturday in the following week. The Kunming-Daegu service is a charter route not open to individual public sales, and tickets cannot be purchased on official websites or ticketing platforms. Travelers with travel needs can arrange group ticket bookings through the operator or its partners, according to Yunnan Daily.
@@ -1570,7 +1570,7 @@ On October 11, the G3979 high-speed train, operated by the Chengdu Passenger Tra
 #### Heavy Rain Warning Across Southwest and Central-South China Through October 17
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
@@ -1609,7 +1609,7 @@ China Railway Chengdu Group issued a travel advisory regarding a heavy rainfall 
 #### Hubei Yichang-Xingshan High-Speed Railway Opens, Cutting Xingshan-Wuhan Travel Time to 100 Minutes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 湖北宜昌至兴山高铁开通运营，兴山至武汉最快100分钟可达。全长101公里的宜兴高铁穿行鄂西山区，全线桥隧比高达94.4%。宜兴高铁形成了“兴山—宜昌—荆门—襄阳—神农架—兴山”的鄂西环线高铁路径。武汉至重庆间部分高铁列车经由宜兴高铁运行后，最快3小时54分钟可达。山乡与城市、长江中上游地区的联系更加紧密。 （文旅+交通） （光明日报全媒体记者王建宏、张锐 通讯员杨璨） 
+> 湖北宜昌至兴山高铁开通运营，兴山至武汉最快100分钟可达。全长101公里的宜兴高铁穿行鄂西山区，全线桥隧比高达94.4%。宜兴高铁形成了“兴山—宜昌—荆门—襄阳—神农架—兴山”的鄂西环线高铁路径。武汉至重庆间部分高铁列车经由宜兴高铁运行后，最快3小时54分钟可达。山乡与城市、长江中上游地区的联系更加紧密。 （文旅+交通） 
 
 **🇬🇧 Actionable Travel Intel**:  
 The 101-km Yichang-Xingshan High-Speed Railway has officially opened for passenger operation in western Hubei, with bridges and tunnels accounting for 94.4% of the route. The new line establishes a regional high-speed rail loop linking Xingshan, Yichang, Jingmen, Xiangyang, and Shennongjia, enabling fastest travel times of 100 minutes between Xingshan and Wuhan and 3 hours 54 minutes on select Wuhan-Chongqing high-speed trains routing via the Yichang-Xingshan corridor.
@@ -1648,7 +1648,7 @@ From October 14 to December 15, 2026, Chengdu Museum will carry out escalator re
 #### Chongqing Two Rivers Ferry: Loop Line Schedule Adjusted to 18:30 Daily Starting October 12, 2026
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ✨打卡两江夜景的朋友注意啦！两江小渡环线（弹子石↔江北嘴）航线从2026年10月12日（周一）起做出调整 ⏰发班时间：调整为每晚18:30 🚢始发码头：弹子石轮渡码头 📍终点码头：江北嘴码头 出行前记得看好登船码头和时间，别跑空，安心打卡两江绝美夜景🌃 （via.重庆发布）
+> ✨打卡两江夜景的朋友注意啦！两江小渡环线（弹子石↔江北嘴）航线从2026年10月12日（周一）起做出调整 ⏰发班时间：调整为每晚18:30 🚢始发码头：弹子石轮渡码头 📍终点码头：江北嘴码头 出行前记得看好登船码头和时间，别跑空，安心打卡两江绝美夜景🌃 
 
 **🇬🇧 Actionable Travel Intel**:  
 Effective October 12, 2026 (Monday), the Chongqing Two Rivers Ferry loop route (Danzishi to Jiangbeizui) has adjusted its operating schedule. Evening departures are now scheduled at 18:30 daily, departing from Danzishi Ferry Terminal and terminating at Jiangbeizui Terminal. Passengers planning evening river views should verify the boarding terminal and departure time before traveling.
@@ -1674,7 +1674,7 @@ Lhamo La-tso Scenic Area in Shannan announced a temporary suspension of operatio
 #### Chongqing Yuzhong Police: Traffic Organization Adjustments at Liziba Monorail Viewing Platform Starting October 13, 2026
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 为进一步规范李子坝正街单轨穿楼观景平台路段人车行停秩序，提升旅游出行品质，打造安全、畅通、文明、和谐、有序的城市交通环境，保障群众出行安全，根据《中华人民共和国道路交通安全法》第三十九条规定，重庆市公安局渝中区分局决定自2026年10月13日起对该路段实施交通组织调整。（via.渝中文旅）
+> 为进一步规范李子坝正街单轨穿楼观景平台路段人车行停秩序，提升旅游出行品质，打造安全、畅通、文明、和谐、有序的城市交通环境，保障群众出行安全，根据《中华人民共和国道路交通安全法》第三十九条规定，重庆市公安局渝中区分局决定自2026年10月13日起对该路段实施交通组织调整。
 
 **🇬🇧 Actionable Travel Intel**:  
 In accordance with the Road Traffic Safety Law of the People's Republic of China, the Yuzhong District Branch of Chongqing Municipal Public Security Bureau has announced traffic organization adjustments along the road section of the Liziba Main Street Monorail-Through-Building Viewing Platform, taking effect from October 13, 2026. The measures aim to regulate pedestrian and vehicular traffic and parking order around the popular viewing area. Travelers visiting the site should follow on-site police guidance and traffic signage. The source announcement does not specify further details.
@@ -1772,8 +1772,8 @@ Effective October 10, 2026 through April 30 of the following year, Hailuogou Sce
 #### Mount Kailash Scenic Area: Closed from October 20, 2026 Due to Severe Blizzard and Icing
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【#西藏一景区发布闭园公告#】受暴雪天气影响，巴嘎镇城区和环山沿线气温骤降，大部分路段特别是卓玛拉垭口两侧积雪结冰严重。气象预报显示后续仍有持续降雪降温，存在一定安全风险。经综合研判，冈仁波齐景区自2026年10月20日起闭园，2027年开园时间另行通知。闭园期间严禁进入封闭区域，感谢大家理解配合。#西藏文旅资讯#
-> 来源：普兰文旅微信公众号
+> 受暴雪天气影响，巴嘎镇城区和环山沿线气温骤降，大部分路段特别是卓玛拉垭口两侧积雪结冰严重。气象预报显示后续仍有持续降雪降温，存在一定安全风险。经综合研判，冈仁波齐景区自2026年10月20日起闭园，2027年开园时间另行通知。闭园期间严禁进入封闭区域，感谢大家理解配合。
+> 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to severe blizzard conditions and sharp temperature drops, road sections across Baga Township and surrounding mountain routes—particularly both sides of Drolma La Pass—are experiencing heavy snow accumulation and icing. With continued snowfall and freezing temperatures forecast, Mount Kailash Scenic Area will be closed starting October 20, 2026. Reopening in 2027 will be announced separately. Entering the closed zone during this period is strictly prohibited.
@@ -1786,7 +1786,7 @@ Due to severe blizzard conditions and sharp temperature drops, road sections acr
 #### Taiping National Forest Park: Temporary One-Day Closure for Bridge Maintenance on October 9
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 因太平峪八亩场桥面进行维修，车辆无法通行。太平国家森林公园将于2026年10月9日临时闭园1天，10月10日恢复正常营业。（来源：太平国家森林公园）
+> 因太平峪八亩场桥面进行维修，车辆无法通行。太平国家森林公园将于2026年10月9日临时闭园1天，10月10日恢复正常营业。
 
 **🇬🇧 Actionable Travel Intel**:  
 Shaanxi authorities announced that Taiping National Forest Park implemented a temporary closure on October 9, 2026, due to bridge surface maintenance preventing vehicular access at Bamuchang in Taipingyu. Normal operations resume on October 10.
@@ -1799,7 +1799,7 @@ Shaanxi authorities announced that Taiping National Forest Park implemented a te
 #### Wulong Karst: Tian Sheng San Qiao Exit Sightseeing Shuttle Suspended for Construction from October 9
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 尊敬的游客朋友：为进一步提升景区通行条件，改善游览配套设施，给广大游客提供更加安全、舒适的游览环境，景区于2026年10月9日起，对天生三桥景区出口观光车道路实施全封闭施工。施工期间景区观光车业务暂停运营，请各位游客朋友按照现场工作人员指引、标识标牌提示，通过步游道（约800米）步行至景区出口（中转车换乘点）。待道路施工完毕、具备通行条件后，即刻恢复正常运营，恢复运营时间另行通知。由此给您带来的不便，我们深表歉意，感谢广大游客的理解、支持与配合。（via.武隆文旅） 武隆景区官方咨询电话：400-023-5666 天生三桥景区咨询电话：023-77710118 特此公告 重庆武隆旅游产业（集团）有限公司 2026年10月8日
+> 尊敬的游客朋友：为进一步提升景区通行条件，改善游览配套设施，给广大游客提供更加安全、舒适的游览环境，景区于2026年10月9日起，对天生三桥景区出口观光车道路实施全封闭施工。施工期间景区观光车业务暂停运营，请各位游客朋友按照现场工作人员指引、标识标牌提示，通过步游道（约800米）步行至景区出口（中转车换乘点）。待道路施工完毕、具备通行条件后，即刻恢复正常运营，恢复运营时间另行通知。由此给您带来的不便，我们深表歉意，感谢广大游客的理解、支持与配合。武隆景区官方咨询电话：400-023-5666 天生三桥景区咨询电话：023-77710118 特此公告 重庆武隆旅游产业（集团）有限公司 2026年10月8日
 
 **🇬🇧 Actionable Travel Intel**:  
 Chongqing Wulong Tourism Industry Group announced that road construction at the exit of Tian Sheng San Qiao scenic area begins October 9, 2026. Sightseeing shuttle services are temporarily suspended during construction. Visitors must follow on-site staff directions and signage to walk approximately 800 meters along the pedestrian trail to reach the scenic area exit transfer bus point. Normal shuttle operations will resume once roadwork is complete.
@@ -1851,7 +1851,7 @@ The Mount Emei Scenic Area Management Committee announced that the Jinding No. 1
 #### China State Railway Group: Chengdu–Dazhou–Wanzhou High-Speed Rail Track-Laying Commences Across Yangtze Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #2026铁路建设进展#10月1日8时18分，在四川省南充市南充北站的施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路铺轨施工正式启动。成达万高铁是我国“八纵八横”高铁网沿江通道的重要组成部分，线路西起四川省成都市天府站，途经四川省资阳市、遂宁市、南充市、达州市及重庆市开州区、万州区，接入既有郑渝高铁万州北站，正线全长477公里，设计时速350公里。@西南铁路
+> 10月1日8时18分，在四川省南充市南充北站的施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路铺轨施工正式启动。成达万高铁是我国“八纵八横”高铁网沿江通道的重要组成部分，线路西起四川省成都市天府站，途经四川省资阳市、遂宁市、南充市、达州市及重庆市开州区、万州区，接入既有郑渝高铁万州北站，正线全长477公里，设计时速350公里。@西南铁路
 
 **🇬🇧 Actionable Travel Intel**:  
 China State Railway Group announced the start of track-laying operations for the Chengdu–Dazhou–Wanzhou High-Speed Railway at Nanchong North Station on October 1. The line forms a key component of the Yangtze River corridor in the national high-speed railway grid, running 477 kilometers from Chengdu Tianfu Station to Wanzhou North Station with a design speed of 350 km/h.
@@ -1916,7 +1916,7 @@ China Railway Chengdu Bureau issued an operational advisory regarding strong rai
 #### Xinjiang High-Speed Rail: 16 Additional "Hexie" Bullet Trains Deployed on Urumqi-Turpan Corridor
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #加油铁路人# 新疆铁路部门在东疆方向计划增开乌鲁木齐至吐鲁番北站间“和谐号”动车组16列。
+> 新疆铁路部门在东疆方向计划增开乌鲁木齐至吐鲁番北站间“和谐号”动车组16列。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train services between Urumqi and Turpan North Station in eastern Xinjiang to support holiday passenger travel.
@@ -1929,7 +1929,7 @@ China Railway Urumqi Bureau scheduled 16 additional "Hexie" bullet train service
 #### Tibet Highway: Road Controls Imposed on Nyima-Gerze Sector from Oct 4 to Oct 14
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【 #西藏交通管制# | G317尼玛至改则方向路段管制】自驾G317的市民游客注意了！ 国道317线尼玛县往改则县方向K2627+000至K2628+000路段，因路面沉降、空洞施工，交通管制期自2026年10月4日至10月14日。施工期间主路面全封闭，所有过往车辆统一通过临时便道通行。 #自驾G317# 来源：那曲公路事业发展和应急保障中心
+> 【 | G317尼玛至改则方向路段管制】自驾G317的市民游客注意了！ 国道317线尼玛县往改则县方向K2627+000至K2628+000路段，因路面沉降、空洞施工，交通管制期自2026年10月4日至10月14日。施工期间主路面全封闭，所有过往车辆统一通过临时便道通行。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Highway authorities implemented traffic control along National Highway 317 between Nyima and Gerze (K2627+000 to K2628+000) from October 4 to October 14, 2026, due to roadbed subsidence and void repair construction. The main roadway is fully closed during construction, with all passing vehicles diverted via a temporary detour.
@@ -1955,7 +1955,7 @@ Huangguoshu Scenic Area announced that Shuiliandong (Water Curtain Cave) enforce
 #### Terracotta Warriors Museum: Admission Quotas Fully Exhausted for October 5
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #秦始皇帝陵博物院# #约会博物馆# 【10月5日门票已售罄。请观众提前规划行程安排，错峰出行[话筒]】
+> 【10月5日门票已售罄。请观众提前规划行程安排，错峰出行[话筒]】
 
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission tickets for October 5 were completely sold out, advising visitors to plan their travel arrangements in advance and travel during off-peak periods.
@@ -1968,7 +1968,7 @@ Emperor Qinshihuang's Mausoleum Site Museum in Xi'an announced that admission ti
 #### Zhongnan Mountain Nanwutai Halts Same-Day Ticket Sales and Enforces Flow Controls
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 】今天（10月4日）终南山南五台景区发布停票限流公告:今日天气晴好，终南山南五台景区客流量较大，为提升广大游客的游览体验，景区将于10月4日13:00采取限流措施。请已预约的游客按预约时间前来参观游览；未预约到门票的游客可选择其他日期进行预约和游览。 望各位游客合理规划出行路线，错峰出游，感谢您的支持与理解！景区咨询电话：4009949234 终南山南五台景区 2026年10月4日
+> 今天（10月4日）终南山南五台景区发布停票限流公告:今日天气晴好，终南山南五台景区客流量较大，为提升广大游客的游览体验，景区将于10月4日13:00采取限流措施。请已预约的游客按预约时间前来参观游览；未预约到门票的游客可选择其他日期进行预约和游览。 望各位游客合理规划出行路线，错峰出游，感谢您的支持与理解！景区咨询电话：4009949234 终南山南五台景区 2026年10月4日
 
 **🇬🇧 Actionable Travel Intel**:  
 The Zhongnan Mountain Nanwutai Scenic Area announced an immediate halt to on-site ticket sales and implemented visitor flow controls starting at 13:00 on October 4, 2026. Only visitors with advance bookings are permitted to enter during their reserved time slots. Unreserved travelers must reschedule for alternate dates. Official inquiry line is 4009949234.
@@ -1994,7 +1994,7 @@ Mount Emei Scenic Area Management Committee confirmed that as of 17:30 on Octobe
 #### Xinjiang Railway Deploys 340+ Additional Trains for Return Peak (Ili, Kashgar, Turpan)
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #加油铁路人# 新疆铁路部门在北疆方向计划增开普速旅客列车138列、南疆方向171列、出疆方向34列，合计增开旅客列车超340列，全力应对国庆黄金周伊犁、喀什、吐鲁番方向返程与秋收客流高峰。
+> 新疆铁路部门在北疆方向计划增开普速旅客列车138列、南疆方向171列、出疆方向34列，合计增开旅客列车超340列，全力应对国庆黄金周伊犁、喀什、吐鲁番方向返程与秋收客流高峰。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway Urumqi Bureau scheduled more than 340 additional passenger trains for the Golden Week return rush, including 138 conventional trains in Northern Xinjiang, 171 in Southern Xinjiang, and 34 outbound trains, serving travel peaks toward Ili, Kashgar, and Turpan.
@@ -2033,7 +2033,7 @@ The Leshan Giant Buddha Cultural Heritage Management Committee announced that al
 #### Xi'an Terracotta Warriors: October 4 Admission Sold Out & October 5 Approaching Capacity
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #秦始皇帝陵博物院# #约会博物馆# 【10月4日门票已售罄，5日门票即将售罄。请观众提前规划行程安排，错峰出行[话筒]】
+> 【10月4日门票已售罄，5日门票即将售罄。请观众提前规划行程安排，错峰出行[话筒]】
 
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum announced that all admission tickets for October 4 are sold out and tickets for October 5 are nearly sold out, advising visitors to plan their schedules in advance and travel during off-peak periods.
@@ -2059,7 +2059,7 @@ Highway authorities issued a 4-day countdown for the seasonal winter closure of 
 #### Railway 12306 In-App Lost Property Tracking & Station Retrieval Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【 #假期出行物品遗失应对指南# 】 #12306可在线找回遗失物品# 假期出行物品遗失时有发生，万一行李错拿漏拿，请第一时间向民警或工作人员求助。在火车站或列车上，还可用铁路12306APP里的遗失物品查找功能在线找回：打开12306，首页找到温馨服务，选择遗失物品查找，按提示填写信息，提交后等待反馈，工作人员找到会尽快送回。
+> 假期出行物品遗失时有发生，万一行李错拿漏拿，请第一时间向民警或工作人员求助。在火车站或列车上，还可用铁路12306APP里的遗失物品查找功能在线找回：打开12306，首页找到温馨服务，选择遗失物品查找，按提示填写信息，提交后等待反馈，工作人员找到会尽快送回。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway highlighted the lost property tracking service available on the Railway 12306 app. Passengers who misplace belongings on trains or at railway stations can navigate to "Warm Service" on the app home screen, select "Lost Property Search", fill in trip details, and submit for staff assistance.
@@ -2072,7 +2072,7 @@ China Railway highlighted the lost property tracking service available on the Ra
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+> 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
@@ -2085,7 +2085,7 @@ China Railway handled 20,765,000 passenger journeys on October 2 and projected 1
 #### Terracotta Warriors Pit Two Reopens with Dual North/South Viewing Circuits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #文化西安# #千年古都 常来长安# 【 #秦兵马俑二号坑焕新迎客# 今起全面开放】记者了解到，秦始皇帝陵博物院二号兵马俑坑部分展陈提升工作全面完成，展厅经过系统性改陈优化，将于2026年10月1日起全面开放。此前提升改造期间，二号坑仍对游客开放。国庆假期，兵马俑历来是热门参观地，全新升级的二号坑展厅也将迎接观众。 #秦兵马俑二号坑展陈提升完成# 从军阵细节读懂大秦文明 二号兵马俑坑自1994年10月14日正式对公众开放以来，始终是研究秦代军事制度、军阵体系、工艺科技与时代精神的核心遗址现场。30余年来，围绕二号坑的考古发掘、文物保护、综合研究等持续推进、成果丰硕，为本次展陈升级奠定了扎实的学术基础。 相关专家介绍，近年来，随着社会公众文化素养、审美能力与参观需求不断提升，传统展陈内容、展示形式与服务体系已难以适配新时代文博传播需要；同时，现代博物馆展示理念、数字展示技术与叙事手法持续迭代，为遗址价值的深度阐释提供了全新路径。此前，秦始皇帝陵博物院已相继完成K9901（百戏俑坑）、K0006（文官俑坑）、铜车马博物馆、兵马俑三号坑的展陈提升改造，持续优化遗址展示体系、完善公共服务功能。 此次展示全面增加了1994年以来的考古、保护与科研成果，尤其是近几年多学科融合下科技考古与保护的成果。该博物院工作人员表示，展示内容结合展厅空间格局与二号坑军阵编列特征，通过分组叙事、分层解读，整体设置“二号坑的考古历程”“二号坑的建筑结构”“二号坑军阵的编列”“弓弩步兵方阵”“战车方阵”“战车、步兵、骑兵混合方阵”“骑兵方阵”“秦兵马俑坑出土的典型陶俑”“秦兵马俑坑出土的建筑构件和工具”等内容，立足遗址本体、延伸历史维度、升华文明内涵，形成多层次阐释体系。以“组”为叙事单元，不仅契合遗址布局特征，也把参观自由度还给观众，让观众在任何参观路线和参观点，都能浏览到一组或几组完整信息。 展示形式上，展览坚持以遗址保护与阐释为核心，动静结合、虚实互补，构建多维立体化阐释场景。记者了解到，展览通过静态图文展板系统梳理学术脉络和遗址内涵，依托动态多媒体屏解读关键知识点，结合XR场景复原、遗址坑内动态光影投影演示，将抽象军阵编列、考古研究、遗址保护成果可视化、场景化，让静态遗址可看、可感、可读、可悟。 作为三座兵马俑坑中展示空间最大的遗址展厅，二号坑展厅以军阵体系为切入点，辐射阐释整个兵马俑军阵的设计思想、时代背景与精神内核，系统揭示秦兵马俑承载的大一统格局、制度与秩序以及开拓进取的民族精神。 南北两线参观 快看慢看都行 本次展陈提升还同步优化了参观动线、硬件设施与服务功能。该博物院工作人员介绍，展览结合展厅空间特点与观众参观习惯，科学划分南北参观流线：北区打造深度参观流线，侧重学术阐释、文物细节与科研成果展示，适合深度研学与专业观展需求；南区设置快速参观流线，优化灯箱布设与多媒体点位，结合遗址实况、军阵特点进行轻量化科普展示，满足大众快速观览、直观认知需求。 展厅还全面升级展示环境、安全防护体系、展陈硬件设备、专业照明系统与导览标识体系，优化公共休息空间，增设科普漫画、趣味解读等轻量化内容，兼顾展览学术性与公共性。 相关专家表示，本次二号兵马俑坑展陈提升，不仅是物理空间与展陈设备的更新迭代，更是博物院在新时代文化传承视域下的文化传播创新与遗产利用模式升级。展览施工全程严格对标国家文物局大遗址保护利用相关要求，坚持理论研究与实践应用相结合、本体保护与公众展示相统一，探索大遗址本体保护、学术阐释、活化传播的标准化路径，着力打造全国大遗址保护展示与活化利用的国家范本。 全新升级的二号兵马俑坑展厅将长期对公众开放。（文/西安报业全媒体记者 张潇 图/通讯员 张天柱 西安报业全媒体记者 李明）via. @西安新闻网
+> 【 今起全面开放】记者了解到，秦始皇帝陵博物院二号兵马俑坑部分展陈提升工作全面完成，展厅经过系统性改陈优化，将于2026年10月1日起全面开放。此前提升改造期间，二号坑仍对游客开放。国庆假期，兵马俑历来是热门参观地，全新升级的二号坑展厅也将迎接观众。 从军阵细节读懂大秦文明 二号兵马俑坑自1994年10月14日正式对公众开放以来，始终是研究秦代军事制度、军阵体系、工艺科技与时代精神的核心遗址现场。30余年来，围绕二号坑的考古发掘、文物保护、综合研究等持续推进、成果丰硕，为本次展陈升级奠定了扎实的学术基础。 相关专家介绍，近年来，随着社会公众文化素养、审美能力与参观需求不断提升，传统展陈内容、展示形式与服务体系已难以适配新时代文博传播需要；同时，现代博物馆展示理念、数字展示技术与叙事手法持续迭代，为遗址价值的深度阐释提供了全新路径。此前，秦始皇帝陵博物院已相继完成K9901（百戏俑坑）、K0006（文官俑坑）、铜车马博物馆、兵马俑三号坑的展陈提升改造，持续优化遗址展示体系、完善公共服务功能。 此次展示全面增加了1994年以来的考古、保护与科研成果，尤其是近几年多学科融合下科技考古与保护的成果。该博物院工作人员表示，展示内容结合展厅空间格局与二号坑军阵编列特征，通过分组叙事、分层解读，整体设置“二号坑的考古历程”“二号坑的建筑结构”“二号坑军阵的编列”“弓弩步兵方阵”“战车方阵”“战车、步兵、骑兵混合方阵”“骑兵方阵”“秦兵马俑坑出土的典型陶俑”“秦兵马俑坑出土的建筑构件和工具”等内容，立足遗址本体、延伸历史维度、升华文明内涵，形成多层次阐释体系。以“组”为叙事单元，不仅契合遗址布局特征，也把参观自由度还给观众，让观众在任何参观路线和参观点，都能浏览到一组或几组完整信息。 展示形式上，展览坚持以遗址保护与阐释为核心，动静结合、虚实互补，构建多维立体化阐释场景。记者了解到，展览通过静态图文展板系统梳理学术脉络和遗址内涵，依托动态多媒体屏解读关键知识点，结合XR场景复原、遗址坑内动态光影投影演示，将抽象军阵编列、考古研究、遗址保护成果可视化、场景化，让静态遗址可看、可感、可读、可悟。 作为三座兵马俑坑中展示空间最大的遗址展厅，二号坑展厅以军阵体系为切入点，辐射阐释整个兵马俑军阵的设计思想、时代背景与精神内核，系统揭示秦兵马俑承载的大一统格局、制度与秩序以及开拓进取的民族精神。 南北两线参观 快看慢看都行 本次展陈提升还同步优化了参观动线、硬件设施与服务功能。该博物院工作人员介绍，展览结合展厅空间特点与观众参观习惯，科学划分南北参观流线：北区打造深度参观流线，侧重学术阐释、文物细节与科研成果展示，适合深度研学与专业观展需求；南区设置快速参观流线，优化灯箱布设与多媒体点位，结合遗址实况、军阵特点进行轻量化科普展示，满足大众快速观览、直观认知需求。 展厅还全面升级展示环境、安全防护体系、展陈硬件设备、专业照明系统与导览标识体系，优化公共休息空间，增设科普漫画、趣味解读等轻量化内容，兼顾展览学术性与公共性。 相关专家表示，本次二号兵马俑坑展陈提升，不仅是物理空间与展陈设备的更新迭代，更是博物院在新时代文化传承视域下的文化传播创新与遗产利用模式升级。展览施工全程严格对标国家文物局大遗址保护利用相关要求，坚持理论研究与实践应用相结合、本体保护与公众展示相统一，探索大遗址本体保护、学术阐释、活化传播的标准化路径，着力打造全国大遗址保护展示与活化利用的国家范本。 全新升级的二号兵马俑坑展厅将长期对公众开放。@西安新闻网
 
 **🇬🇧 Actionable Travel Intel**:  
 Emperor Qinshihuang's Mausoleum Site Museum completed exhibition improvements for Pit Two, opening fully to the public on October 1, 2026. The upgraded hall introduces scientific North/South viewing circuits: a North Route dedicated to in-depth archaeological and artifact research, and a South Route featuring rapid viewing with multimedia displays and XR reconstructions.

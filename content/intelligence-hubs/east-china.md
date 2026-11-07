@@ -10,7 +10,7 @@
 #### Zhujiajian Strait Bridge Lane Works 11-18 November, Weekdays Only
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 因桥梁检测作业需要，朱家尖海峡大桥将于11月11日至11月18日（双休日除外）进行占道作业。期间，作业路段将实行交通组织措施 https://mp.weixin.qq.com/s/JvmAUwtSmhUm10qwTMO3ng 来源：舟山交警
+> 因桥梁检测作业需要，朱家尖海峡大桥将于11月11日至11月18日（双休日除外）进行占道作业。期间，作业路段将实行交通组织措施 https://mp.weixin.qq.com/s/JvmAUwtSmhUm10qwTMO3ng 
 
 **🇬🇧 Actionable Travel Intel**:  
 The Zhujiajian Strait Bridge will be occupied for works from 11 to 18 November, excluding weekends, because of bridge inspection work. Traffic management measures will be applied to the works section during that period. The notice, sourced from the Zhoushan traffic police, does not state the specific restrictions. Travelers crossing the bridge on weekdays within that window should allow extra time for the affected section.
@@ -23,7 +23,7 @@ The Zhujiajian Strait Bridge will be occupied for works from 11 to 18 November, 
 #### Quzhou Promotes Its Global Free-Tour Campaign Around the Longyou Caves
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 全球免费游衢州！今天和浙浙 ~✨龙游石窟是中国乃至世界上迄今发现的规模最大、最神奇的古代地下人工建筑群。踏入这片地底空间，赴一场和姑蔑古文明的探秘之约。 （来源 ）衢州文旅微博的微博视频
+> 全球免费游衢州！今天和浙浙 ~✨龙游石窟是中国乃至世界上迄今发现的规模最大、最神奇的古代地下人工建筑群。踏入这片地底空间，赴一场和姑蔑古文明的探秘之约。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Quzhou is promoting its global free-tour campaign around the Longyou Caves, which the post describes as the largest and most extraordinary group of ancient underground man-made structures discovered so far in China or anywhere in the world. The post invites visitors to go underground and follow the remains of the Gumie civilisation. It does not state the campaign's dates, the full list of participating sites, or what a visitor must present to qualify, so travelers should confirm those points with the Quzhou authorities before counting on free admission.
@@ -62,7 +62,7 @@ From now through November 22, inbound and domestic visitors can enjoy a 50 perce
 #### Shanghai Pudong Airport Opens Dedicated Inspection Lanes for Inbound Influx Ahead of 9th CIIE
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 第九届中国国际进口博览会（进博会）将于11月5日至10日在上海举办。11月3日，上海浦东国际机场口岸迎来首轮入境客流高峰。上海边检总站上海机场边检站加强口岸客流动态研判，开设专用通道，联合多家单位组成“通关+”青年志愿服务联盟，确保参展客商高效顺畅通关。（文：曹乃文/图：李宇航）
+> 第九届中国国际进口博览会（进博会）将于11月5日至10日在上海举办。11月3日，上海浦东国际机场口岸迎来首轮入境客流高峰。上海边检总站上海机场边检站加强口岸客流动态研判，开设专用通道，联合多家单位组成“通关+”青年志愿服务联盟，确保参展客商高效顺畅通关。
 
 **🇬🇧 Actionable Travel Intel**:  
 Ahead of the 9th China International Import Expo held in Shanghai from November 5 to 10, Shanghai Pudong International Airport border inspection has activated dedicated clearance channels to manage peak inbound passenger flows. Participating exhibitors and incoming international travelers passing through Pudong Airport can utilize these designated lanes for streamlined immigration and border procedures.
@@ -75,7 +75,7 @@ Ahead of the 9th China International Import Expo held in Shanghai from November 
 #### Fuzhou Offers Free Airport Express Shuttle Transfer Between Fuzhou South Station and Changle Airport
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 即日起至12月31日，乘坐高铁/动车/火车（福州及平潭地区除外）与福州机场航班联运的旅客，可享受1趟福州火车南站往返福州机场的机场专线车辆免费接驳服务。旅客出示身份证、动车票与机票即可快捷办理，乘车地点已公布→ https://share.fznews.com.cn/pub/template/displayTemplate/news/newsDetail/159/663798.html Via：
+> 即日起至12月31日，乘坐高铁/动车/火车（福州及平潭地区除外）与福州机场航班联运的旅客，可享受1趟福州火车南站往返福州机场的机场专线车辆免费接驳服务。旅客出示身份证、动车票与机票即可快捷办理，乘车地点已公布→ https://share.fznews.com.cn/pub/template/displayTemplate/news/newsDetail/159/663798.html
 
 **🇬🇧 Actionable Travel Intel**:  
 From now through December 31, transit passengers connecting between train or high-speed rail services (excluding Fuzhou and Pingtan origins) and flights at Fuzhou Airport are eligible for one complimentary transfer on the express shuttle line operating between Fuzhou South Railway Station and Fuzhou Changle International Airport. Travelers can redeem the service by presenting an ID card, railway ticket, and flight itinerary.
@@ -88,7 +88,7 @@ From now through December 31, transit passengers connecting between train or hig
 #### Shanghai Port Border Inspection: Direct Flights Between Shanghai and Algiers Commenced
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月27日，上海首条直飞阿尔及利亚首都阿尔及尔航线开通。上海边检总站上海机场边检站提前对接相关航司，严密勤务组织，圆满完成首航通关保障任务。据悉，该航线去程每周二、四、日各执飞一班，回程每周一、三、六各执飞一班。（文：黄晓东/图：郭晓洁）
+> 10月27日，上海首条直飞阿尔及利亚首都阿尔及尔航线开通。上海边检总站上海机场边检站提前对接相关航司，严密勤务组织，圆满完成首航通关保障任务。据悉，该航线去程每周二、四、日各执飞一班，回程每周一、三、六各执飞一班。
 
 **🇬🇧 Actionable Travel Intel**:  
 Shanghai Airport Border Inspection confirmed the commencement of the first direct commercial air route between Shanghai and Algiers on October 27. The flight route operates three weekly services in each direction: outbound departures from Shanghai take place on Tuesdays, Thursdays, and Sundays, while inbound return flights arrive on Mondays, Wednesdays, and Saturdays.
@@ -101,7 +101,7 @@ Shanghai Airport Border Inspection confirmed the commencement of the first direc
 #### Three 350 km/h High-Speed Rail Lines in Anhui Enter Joint Trial Operations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月26日，新建淮北至宿州至蚌埠城际铁路、新建阜阳至蒙城至宿州（淮北）铁路、新建巢湖至马鞍山城际铁路，三条时速350公里高铁同日试运行，开通运营进入倒计时。 中国铁路的微博视频
+> 10月26日，新建淮北至宿州至蚌埠城际铁路、新建阜阳至蒙城至宿州（淮北）铁路、新建巢湖至马鞍山城际铁路，三条时速350公里高铁同日试运行，开通运营进入倒计时。 
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 26, 2026, trial operations commenced simultaneously on three newly constructed 350 km/h high-speed rail lines in Anhui: the Huaibei–Suzhou–Bengbu Intercity Railway, the Fuyang–Mengcheng–Suzhou (Huaibei) Railway, and the Chaohu–Ma'anshan Intercity Railway. The three routes have entered the final countdown toward official commercial opening.
@@ -114,7 +114,7 @@ On October 26, 2026, trial operations commenced simultaneously on three newly co
 #### Qiandao Lake Waives Main Admission Fees Across Central and Southeast Zones
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 📢好消息！千岛湖放大招了，自2026年11月1日至2027年3月31日，千岛湖景区（含中心湖区、东南湖区）大门票实行全免，更多优惠福利一起来看↓↓ ✅2026.11.1–2027.3.31，中心+东南湖区大门票全免 ✅游船艇费用7折，8家运营企业参与 ✅全新水上观光巴士7条线路，随坐随下，告别固定游船 ✅畅游一票通，打包项目更省钱 不用再被游船时间束缚，梅峰、黄山尖等热门岛屿随心打卡！秋冬绝美湖景已经备好，快约上你的家人朋友安排起来吧👉 （来源 ）
+> 📢好消息！千岛湖放大招了，自2026年11月1日至2027年3月31日，千岛湖景区（含中心湖区、东南湖区）大门票实行全免，更多优惠福利一起来看↓↓ ✅2026.11.1–2027.3.31，中心+东南湖区大门票全免 ✅游船艇费用7折，8家运营企业参与 ✅全新水上观光巴士7条线路，随坐随下，告别固定游船 ✅畅游一票通，打包项目更省钱 不用再被游船时间束缚，梅峰、黄山尖等热门岛屿随心打卡！秋冬绝美湖景已经备好，快约上你的家人朋友安排起来吧👉 
 
 **🇬🇧 Actionable Travel Intel**:  
 Qiandao Lake Scenic Area in Zhejiang Province is waiving entrance tickets for its Central and Southeast lake areas for five months from November 1, 2026, to March 31, 2027. In addition, boat cruise fares from 8 operating companies are discounted to 70% of standard rates, and 7 new hop-on hop-off water sightseeing bus routes have been launched to connect island attractions such as Meifeng and Huangshanjian.
@@ -179,7 +179,7 @@ Public tour reservations for the Shanghai Grand Opera House officially opened at
 #### Zhoushan Suspends Shenjiawan to Dongji Island Ferry Route Starting November 1
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 2026年11月1日起，沈家湾至东极航线暂停营运 来源：东极海运
+> 2026年11月1日起，沈家湾至东极航线暂停营运 
 
 **🇬🇧 Actionable Travel Intel**:  
 Dongji Maritime Transport announced that passenger ferry services on the route between Shenjiawan and Dongji Island will be suspended starting November 1, 2026. Travelers planning journeys across the Zhoushan Archipelago should verify island transit timetables and alternative port arrangements.
@@ -192,7 +192,7 @@ Dongji Maritime Transport announced that passenger ferry services on the route b
 #### Zhujiajian to Mount Putuo Passenger Ferries Resume Morning of October 26
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 朱家尖到普陀山普通客船明天（10月26日）上午复航，首班时间明天另告。请各位游客合理规划行程。 来源：舟山旅游集团
+> 朱家尖到普陀山普通客船明天（10月26日）上午复航，首班时间明天另告。请各位游客合理规划行程。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Regular passenger ferry services between Zhujiajian and Mount Putuo (Putuoshan) will resume on the morning of October 26, 2026. The departure time of the first morning ferry will be announced separately by Zhoushan Tourism Group. Visitors planning travel to the island are advised to monitor official departure notices.
@@ -205,7 +205,7 @@ Regular passenger ferry services between Zhujiajian and Mount Putuo (Putuoshan) 
 #### Four Major Scenic Spots in Zhujiajian Reopen at 08:00 on October 26
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 朱家尖南沙景点、东沙景点、白山景区、乌石塘景区将于明天（10月26日）8:00恢复对外开放 来源：普陀山文化旅游
+> 朱家尖南沙景点、东沙景点、白山景区、乌石塘景区将于明天（10月26日）8:00恢复对外开放 
 
 **🇬🇧 Actionable Travel Intel**:  
 According to Putuoshan Cultural Tourism, four major outdoor tourist areas in Zhujiajian—Nansha, Dongsha, Baishan, and Wushitang—will resume normal public operations starting at 08:00 on October 26, 2026.
@@ -218,7 +218,7 @@ According to Putuoshan Cultural Tourism, four major outdoor tourist areas in Zhu
 #### Zhoushan Zhujiajian Daqingshan Scenic Area Reopens October 26 as Typhoon Champi Weakens
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 台风影响减弱，朱家尖大青山景区 10 月 26 日 7:45 起恢复开放🌿 来源：朱家尖大青山旅游
+> 台风影响减弱，朱家尖大青山景区 10 月 26 日 7:45 起恢复开放🌿 
 
 **🇬🇧 Actionable Travel Intel**:  
 As the maritime influence of Typhoon Champi subsides, Daqingshan Scenic Area in Zhujiajian, Zhoushan, will reopen to visitors starting at 07:45 on October 26, 2026.
@@ -244,7 +244,7 @@ As Typhoon Champi moved northeastward over the East China Sea with weakening int
 #### Typhoon Champi Departs; Shanghai Lifts Coastal Typhoon Alert but Issues Citywide Blue Gale Warning
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 台风“蔷琵”正在逐渐远离申城。虽说它的中心即将奔着日本去，但在它和冷空气的“默契配合”下，刚刚过去的这几天，申城的天气舞台有点不平静。不可因台风走远、雨停就放松警惕，持续关注大风预警。上午10时，浦东、奉贤、金山、崇明、宝山、青浦六个区解除台风蓝色预警信号，全市各区发布大风蓝色预警信号。via新民晚报 新民晚报新民网的微博视频
+> 台风“蔷琵”正在逐渐远离申城。虽说它的中心即将奔着日本去，但在它和冷空气的“默契配合”下，刚刚过去的这几天，申城的天气舞台有点不平静。不可因台风走远、雨停就放松警惕，持续关注大风预警。上午10时，浦东、奉贤、金山、崇明、宝山、青浦六个区解除台风蓝色预警信号，全市各区发布大风蓝色预警信号。via新民晚报 
 
 **🇬🇧 Actionable Travel Intel**:  
 At 10:00 on October 25, Shanghai meteorological authorities lifted the Typhoon Blue Warning for six coastal and suburban districts (Pudong, Fengxian, Jinshan, Chongming, Baoshan, and Qingpu) as Typhoon Champi moves away toward Japan. However, in combination with incoming cold air, a Blue Gale Warning has been issued across all districts citywide. Travelers are advised to remain alert to gusty conditions along waterfronts and open outdoor attractions despite the cessation of rainfall.
@@ -283,7 +283,7 @@ From now through December 31, 2026, passengers traveling on the China Railway Bo
 #### Typhoon Champi Forces Flight Adjustments and 46 Cancellations at Zhoushan Putuoshan Airport
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ⚠️受台风“蔷琵”影响，舟山普陀山国际机场部分航班调整 截至10月24日18时，今年第30号台风“蔷琵”预计将以每小时15公里左右的速度向北偏东方向移动，强度逐渐减弱，将于25日前后沿浙江东部近海转向东北方向移动。受台风“蔷琵”影响，舟山普陀山国际机场10月25日航班有所调整，预计取消46架次。 来源：舟山普陀山国际机场
+> ⚠️受台风“蔷琵”影响，舟山普陀山国际机场部分航班调整 截至10月24日18时，今年第30号台风“蔷琵”预计将以每小时15公里左右的速度向北偏东方向移动，强度逐渐减弱，将于25日前后沿浙江东部近海转向东北方向移动。受台风“蔷琵”影响，舟山普陀山国际机场10月25日航班有所调整，预计取消46架次。 
 
 **🇬🇧 Actionable Travel Intel**:  
 As of 18:00 on October 24, Typhoon Champi (No. 30) is tracking north-northeast along the offshore waters of eastern Zhejiang. In response, Zhoushan Putuoshan International Airport has adjusted flight schedules for October 25, with an estimated 46 flights canceled. Passengers scheduled to travel through Zhoushan on October 25 should check their flight status with airlines or airport customer service prior to departure.
@@ -361,7 +361,7 @@ Due to the combined impact of Super Typhoon Champi and cold air, the State Flood
 #### Multiple Scenic Areas in Zhejiang Closed as Typhoon Champi Approaches
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 浙江省气象台预计，“蔷琵”将以每小时20公里左右的速度向西北方向移动，强度缓慢减弱。有可能在23日夜里到24日上午擦过台湾东北部沿海，尔后紧擦浙江沿海北上（不能完全排除登陆浙江的可能）。浙江多个景区关闭，部分活动延期，请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源 ）
+> 浙江省气象台预计，“蔷琵”将以每小时20公里左右的速度向西北方向移动，强度缓慢减弱。有可能在23日夜里到24日上午擦过台湾东北部沿海，尔后紧擦浙江沿海北上（不能完全排除登陆浙江的可能）。浙江多个景区关闭，部分活动延期，请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 
 
 **🇬🇧 Actionable Travel Intel**:  
 According to the Zhejiang Provincial Meteorological Observatory, Typhoon Champi is forecast to move northwest at around 20 kilometers per hour, potentially brushing the northeastern coast of Taiwan between the night of October 23 and the morning of October 24 before moving northward along the Zhejiang coast. In response to the severe weather, multiple scenic attractions in Zhejiang have suspended operations and several scheduled activities have been postponed. Travelers are advised to adjust itineraries, avoid coastal zones during the typhoon, and monitor local safety announcements.
@@ -413,7 +413,7 @@ Due to the impact of Typhoon Champi, several coastal attractions in Shanghai—i
 #### Shanghai Districts Issue Blue Typhoon Warning with Rain Expected Through Tomorrow
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受台风“蔷琵”外围云系影响，本市大部已出现阵雨，预计主要的降雨时段是在今天傍晚到明天。今天9时浦东新区、奉贤区、崇明区、金山区、宝山区和青浦区气象台已发布台风蓝色预警信号。（来源：上海市天气）
+> 受台风“蔷琵”外围云系影响，本市大部已出现阵雨，预计主要的降雨时段是在今天傍晚到明天。今天9时浦东新区、奉贤区、崇明区、金山区、宝山区和青浦区气象台已发布台风蓝色预警信号。
 
 **🇬🇧 Actionable Travel Intel**:  
 Affected by outer cloud bands of Typhoon Champi, meteorological stations in Shanghai's Pudong New Area, Fengxian, Chongming, Jinshan, Baoshan, and Qingpu districts issued blue typhoon warnings at 9 a.m. today. Most of Shanghai has experienced scattered showers, with the main rainfall period forecast from Friday evening through tomorrow.
@@ -426,7 +426,7 @@ Affected by outer cloud bands of Typhoon Champi, meteorological stations in Shan
 #### Zhoushan Activates Level III Emergency Response for Typhoon Champi
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 舟山启动防台风Ⅲ级应急响应！ 来源：舟山应急管理
+> 舟山启动防台风Ⅲ级应急响应！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Zhoushan has initiated a Level III emergency response in preparation for Typhoon Champi.
@@ -439,7 +439,7 @@ Zhoushan has initiated a Level III emergency response in preparation for Typhoon
 #### Zhoushan Suspends Operations at Multiple Attractions and Venues Due to Typhoon Champi
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受今年第30号台风 “蔷琵”（超强台风级）外围环流影响，舟山多家景区及场馆暂停开放，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源 ）
+> 受今年第30号台风 “蔷琵”（超强台风级）外围环流影响，舟山多家景区及场馆暂停开放，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to the outer circulation of this year's No. 30 typhoon Champi (super typhoon grade), multiple scenic spots and cultural venues in Zhoushan have temporarily suspended operations. Reopening times will be announced separately. Travelers are advised to adjust travel plans, stay away from the coastline during the typhoon, and prioritize travel safety.
@@ -465,7 +465,7 @@ Wind and rain impacts have begun. Over the past 24 hours, Typhoon Champi brought
 #### Shanghai and Coastal East China Issue Typhoon Champi Rain and Gale Alerts from October 23
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 据央视新闻报道，台风“蔷琵”继续靠近我国，将会在今天稍晚些时候进入24小时警戒圈，虽然其未来路径还有不确定性，但台湾、浙江、上海、江苏等地都将有明显风雨。 据上观新闻，受台风“蔷琵”外围环流和冷空气共同影响，23日下午至25日白天本市将有明显风雨天气。其中较明显风雨影响时段为23日傍晚到24日，本市有暴雨，雨量分布不均，累积雨量50～70毫米，东部和南部沿海地区90～120毫米，个别站点可达150毫米左右，最大小时雨强30～40毫米；陆地最大阵风6～7级，长江口区和沿江沿海地区8～9级，洋山港区9～10级，25日上午起风雨逐渐减弱。 今年第30号台风“蔷琵”（超强台风级）中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级（55米每秒）。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北方向移动，也不排除在台湾东北部沿海擦过的可能性。受其影响，23日至26日，上海、浙江、福建等地有大到暴雨，局地大暴雨。中央气象台22日6时发布台风蓝色预警。 根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于22日8时针对上海、浙江、福建启动防汛防台风四级应急响应，并派出工作组赴浙江协助指导防汛防台风工作。（东方网 ） 东方网的微博视频
+> 据央视新闻报道，台风“蔷琵”继续靠近我国，将会在今天稍晚些时候进入24小时警戒圈，虽然其未来路径还有不确定性，但台湾、浙江、上海、江苏等地都将有明显风雨。 据上观新闻，受台风“蔷琵”外围环流和冷空气共同影响，23日下午至25日白天本市将有明显风雨天气。其中较明显风雨影响时段为23日傍晚到24日，本市有暴雨，雨量分布不均，累积雨量50～70毫米，东部和南部沿海地区90～120毫米，个别站点可达150毫米左右，最大小时雨强30～40毫米；陆地最大阵风6～7级，长江口区和沿江沿海地区8～9级，洋山港区9～10级，25日上午起风雨逐渐减弱。 今年第30号台风“蔷琵”（超强台风级）中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级（55米每秒）。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北方向移动，也不排除在台湾东北部沿海擦过的可能性。受其影响，23日至26日，上海、浙江、福建等地有大到暴雨，局地大暴雨。中央气象台22日6时发布台风蓝色预警。 根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于22日8时针对上海、浙江、福建启动防汛防台风四级应急响应，并派出工作组赴浙江协助指导防汛防台风工作。（东方网 ） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Influenced by Typhoon Champi and a cold air mass, Shanghai and coastal East China will experience heavy rain and strong winds from the afternoon of October 23 through October 25, with peak impact from the evening of October 23 to October 24. Inland areas may experience gusts of force 6 to 7, while coastal areas and the Yangtze River estuary could see gusts of force 8 to 9. A Level IV flood and typhoon emergency response has been activated for Shanghai, Zhejiang, and Fujian. Travelers should monitor weather advisories and exercise caution.
@@ -478,7 +478,7 @@ Influenced by Typhoon Champi and a cold air mass, Shanghai and coastal East Chin
 #### Putuoshan to Zhujiajian Passenger Ferries Suspended from October 23 Due to Typhoon Champi
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受30台风“蔷琵”影响，普陀山至朱家尖航线客船明天（10月23日）起停航，预计停航3-4天，请各位相互转告！ 来源：舟山旅游集团
+> 受30台风“蔷琵”影响，普陀山至朱家尖航线客船明天（10月23日）起停航，预计停航3-4天，请各位相互转告！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to Typhoon Champi, passenger ferry services on the Putuoshan to Zhujiajian route will be suspended starting October 23 for an expected 3 to 4 days. Travelers are advised to adjust their travel plans accordingly.
@@ -504,7 +504,7 @@ To support a local sailing regatta, Jinji Lake water tourism operations in Suzho
 #### Suzhou Shishan Cultural Square Announces Temporary Closures and Suspensions
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 关于狮山文化广场部分区域及设施临时封闭、暂停运营的公告 尊敬的各位市民、游客： 因近期活动需要，狮山文化广场部分区域及设施将临时封闭、暂停运营，现将具体事项公告如下： 一、地下车行通道及停车场封闭 封闭范围：狮山文化广场地下车行通道（金山路—长江路、汾湖路双向）；地下停车场全部区域及相关出入口。封闭期间不再提供社会车辆停放服务，请勿驶入、停放。 封闭时间：2026年10月22日12:00（星期四）至10月23日24:00（星期五）。 10月22日6:00起地下停车场实行只出不进管控，当日12:00起整体封闭 。 二、广场地面及环路部分封闭 封闭范围：狮子山、天狮湖，广场及环路部分区域（具体根据现场工作需要）。 封闭时间：2026年10月22日17:00至10月23日24:00。 三、游乐设施暂停运营 停运范围：天狮湖游船、观光自行车、电瓶车等设施。 停运时间：2026年10月22日至23日全天。 四、温馨提示 1.请广大车主及时检查车辆停放情况，务必于10月22日12:00前将车辆驶离地下停车场。 2.本次封闭及停运期间，请广大市民游客提前规划出行、游览及停车路线，合理安排行程。 给您带来不便，敬请谅解，感谢您的理解与配合！ 狮山文化广场 2026年10月21日 来源：狮山文化广场、苏州发布
+> 关于狮山文化广场部分区域及设施临时封闭、暂停运营的公告 尊敬的各位市民、游客： 因近期活动需要，狮山文化广场部分区域及设施将临时封闭、暂停运营，现将具体事项公告如下： 一、地下车行通道及停车场封闭 封闭范围：狮山文化广场地下车行通道（金山路—长江路、汾湖路双向）；地下停车场全部区域及相关出入口。封闭期间不再提供社会车辆停放服务，请勿驶入、停放。 封闭时间：2026年10月22日12:00（星期四）至10月23日24:00（星期五）。 10月22日6:00起地下停车场实行只出不进管控，当日12:00起整体封闭 。 二、广场地面及环路部分封闭 封闭范围：狮子山、天狮湖，广场及环路部分区域（具体根据现场工作需要）。 封闭时间：2026年10月22日17:00至10月23日24:00。 三、游乐设施暂停运营 停运范围：天狮湖游船、观光自行车、电瓶车等设施。 停运时间：2026年10月22日至23日全天。 四、温馨提示 1.请广大车主及时检查车辆停放情况，务必于10月22日12:00前将车辆驶离地下停车场。 2.本次封闭及停运期间，请广大市民游客提前规划出行、游览及停车路线，合理安排行程。 给您带来不便，敬请谅解，感谢您的理解与配合！ 狮山文化广场 2026年10月21日 、苏州发布
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to scheduled event activities, parts of Shishan Cultural Square in Suzhou are temporarily closed. The underground vehicular passage and entire underground parking area are closed from 12:00 on October 22 to 24:00 on October 23, 2026. Surface areas around Shizi Mountain, Tianshi Lake, the square, and ring road will be partially closed from 17:00 on October 22 to 24:00 on October 23. Recreational facilities, including Tianshi Lake sightseeing boats, rental bicycles, and electric battery carts, are suspended all day on October 22 and 23.
@@ -517,7 +517,7 @@ Due to scheduled event activities, parts of Shishan Cultural Square in Suzhou ar
 #### Zhoushan Baisha Island Scenic Area Temporarily Closed Due to Typhoon
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> “蔷琵”（超强台风级）外围环流影响，舟山白沙岛景区自10月21日（星期三）18:00 起临时关闭，暂停一切对外开放及游览活动，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 （来源：舟山白沙旅游）
+> “蔷琵”（超强台风级）外围环流影响，舟山白沙岛景区自10月21日（星期三）18:00 起临时关闭，暂停一切对外开放及游览活动，恢复开放时间另行通知。请各位游客及时调整出行计划，台风天远离海岸，注意出行安全🌊 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to the peripheral circulation of Typhoon Champi, Baisha Island Scenic Area in Zhoushan temporarily closed on October 21 at 18:00, suspending all public visits and tourism activities. Reopening time will be announced separately. Visitors are advised to adjust travel plans, stay away from coastlines, and mind safety during typhoon weather.
@@ -530,7 +530,7 @@ Due to the peripheral circulation of Typhoon Champi, Baisha Island Scenic Area i
 #### Typhoon Outer Clouds and Cold Air to Bring Rain and Strong Wind to Shanghai
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ，预计较大可能于周五夜间到周六进入东海，上海周五下午至周日有连续降水过程】今年第30号台风“蔷琵”外围云系将影响上海，可能出现暴雨天气。明天起，受冷空气影响，上海有一次大风降温过程，预计“蔷琵”较大可能于周五夜间到周六进入东海，之后向北偏东南方向移动。受“蔷琵”外围云系和冷空气共同影响，上海周五下午至周日有连续降水过程，并伴有6~7级阵风，沿江沿海地区风力可达8~9级，预计风雨较大时段为周五夜间至周六，期间可能出现暴雨。 021视频-新闻晨报的微博视频
+> ，预计较大可能于周五夜间到周六进入东海，上海周五下午至周日有连续降水过程】今年第30号台风“蔷琵”外围云系将影响上海，可能出现暴雨天气。明天起，受冷空气影响，上海有一次大风降温过程，预计“蔷琵”较大可能于周五夜间到周六进入东海，之后向北偏东南方向移动。受“蔷琵”外围云系和冷空气共同影响，上海周五下午至周日有连续降水过程，并伴有6~7级阵风，沿江沿海地区风力可达8~9级，预计风雨较大时段为周五夜间至周六，期间可能出现暴雨。 021视频-
 
 **🇬🇧 Actionable Travel Intel**:  
 Affected by the outer cloud system of Typhoon Champi and incoming cold air, Shanghai is forecast to experience continuous precipitation from Friday afternoon through Sunday, accompanied by gusts of force 6 to 7, and winds reaching force 8 to 9 along rivers and coastal areas. The strongest wind and rain are expected from Friday night to Saturday, with heavy rain possible. Typhoon Champi is likely to enter the East China Sea between Friday night and Saturday before moving northeastward.
@@ -543,7 +543,7 @@ Affected by the outer cloud system of Typhoon Champi and incoming cold air, Shan
 #### Zhoushan Scenic Area Temporarily Closed Due to Typhoon
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受台风影响，鹿栏晴沙景区临时关闭 来源：鹿栏晴沙景区
+> 受台风影响，鹿栏晴沙景区临时关闭 
 
 **🇬🇧 Actionable Travel Intel**:  
 Lulan Qingsha Scenic Area in Zhoushan is temporarily closed because of the typhoon.
@@ -556,7 +556,7 @@ Lulan Qingsha Scenic Area in Zhoushan is temporarily closed because of the typho
 #### Typhoon Champi: Path Remains Uncertain as Strong Coastal Winds and Rain Approach
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 目前，今年第30号台风“蔷琵”维持超强台风级已超80个小时。中央气象台预计“蔷琵”有可能24日前后在我国台湾东部沿海登陆，并在福建二次登陆；也可能在台湾东北部海面转向东北方向移动，强度逐渐减弱。 “蔷琵”的路径预报仍有较大不确定性，后期路径和影响预计在22日趋于明朗。受其影响，我国东南部海域及浙江沿海、福建沿海、台湾沿海、上海沿海将有强风雨天气，提前做好台风防御措施。 今后几天，随着冷空气南下，南方多地炎热天气将会迅速收敛，其中江南多地气温波动较大，体感将明显转凉。华南多地受冷空气影响有限，气温波动不大，要注意防暑降温。央视新闻的微博视频
+> 目前，今年第30号台风“蔷琵”维持超强台风级已超80个小时。中央气象台预计“蔷琵”有可能24日前后在我国台湾东部沿海登陆，并在福建二次登陆；也可能在台湾东北部海面转向东北方向移动，强度逐渐减弱。 “蔷琵”的路径预报仍有较大不确定性，后期路径和影响预计在22日趋于明朗。受其影响，我国东南部海域及浙江沿海、福建沿海、台湾沿海、上海沿海将有强风雨天气，提前做好台风防御措施。 今后几天，随着冷空气南下，南方多地炎热天气将会迅速收敛，其中江南多地气温波动较大，体感将明显转凉。华南多地受冷空气影响有限，气温波动不大，要注意防暑降温。
 
 **🇬🇧 Actionable Travel Intel**:  
 Typhoon Champi (the 30th typhoon of the year) is forecast to possibly make landfall around Taiwan's east coast on October 24 and a second landfall in Fujian, or to turn northeast near northeastern Taiwan. The path remains uncertain and is expected to become clearer on October 22. Strong wind and rain are forecast for the southeastern coastal waters and coastal Zhejiang, Fujian, Taiwan and Shanghai. Typhoon precautions should be taken in advance.
@@ -569,7 +569,7 @@ Typhoon Champi (the 30th typhoon of the year) is forecast to possibly make landf
 #### Shengsi Water Passenger Services May Be Disrupted from 21 October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受冷空气与台风“蔷琵”共同影响，嵊泗海域将出现大风天气。自10月21日起，嵊泗县水上客运航班或将受到影响，预计影响时长约一周。详情👉 https://mp.weixin.qq.com/s/Dbrz2TTwfK2450WKDkdiLg 来源：嵊泗旅游
+> 受冷空气与台风“蔷琵”共同影响，嵊泗海域将出现大风天气。自10月21日起，嵊泗县水上客运航班或将受到影响，预计影响时长约一周。详情👉 https://mp.weixin.qq.com/s/Dbrz2TTwfK2450WKDkdiLg 
 
 **🇬🇧 Actionable Travel Intel**:  
 Strong winds from cold air and Typhoon Champi may affect water passenger services in Shengsi County from 21 October for about one week. Travelers should check the latest service information before departure.
@@ -582,7 +582,7 @@ Strong winds from cold air and Typhoon Champi may affect water passenger service
 #### Zhujiajian Daqingshan Scenic Area to Close 24–25 October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 朱家尖大青山景区于2026年10月24日、25日临时闭园，10月26日恢复正常开放。 来源：朱家尖大青山旅游
+> 朱家尖大青山景区于2026年10月24日、25日临时闭园，10月26日恢复正常开放。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Zhujiajian Daqingshan Scenic Area will be temporarily closed on 24 and 25 October 2026 and will reopen on 26 October.
@@ -595,7 +595,7 @@ Zhujiajian Daqingshan Scenic Area will be temporarily closed on 24 and 25 Octobe
 #### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。（来源：汉中城固机场）
+> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。
 
 **🇬🇧 Actionable Travel Intel**:  
 Hanzhong Airport will begin its 2026 winter-spring flight schedule on October 25. Hanzhong-Shenzhen and Hanzhong-Guiyang services will increase to one flight daily; a new Hanzhong-Lanzhou route will operate on Tuesdays, Thursdays and Saturdays; and schedules for Shenzhen, Hangzhou and Shanghai will be adjusted, including a new afternoon departure from Shenzhen. Flight times are for reference, and travelers should confirm details through live booking systems.
@@ -634,7 +634,7 @@ A new cold wave will affect most of central and eastern China from October 20 to
 #### Railway 12306 App Supports Lost-Property Reports
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 不少旅客在乘坐火车出行时，由于大包小包赶路忙，很容易将行李物品遗忘在车站里或列车上。若不慎遗失物品，旅客可以向身边的铁路工作人员寻求帮助，或使用铁路12306App进行遗失物品登记，工作人员在接到遗失物品工单后，会第一时间帮您寻找。（视频：李创 薛雅婧 李达伟 李嘉辉）中国铁路的微博视频
+> 不少旅客在乘坐火车出行时，由于大包小包赶路忙，很容易将行李物品遗忘在车站里或列车上。若不慎遗失物品，旅客可以向身边的铁路工作人员寻求帮助，或使用铁路12306App进行遗失物品登记，工作人员在接到遗失物品工单后，会第一时间帮您寻找。
 
 **🇬🇧 Actionable Travel Intel**:  
 Passengers who leave belongings at a station or on a train can ask railway staff for help or use the Railway 12306 app to register a lost-property report. Staff will begin searching after receiving the lost-item work order.
@@ -647,7 +647,7 @@ Passengers who leave belongings at a station or on a train can ask railway staff
 #### Qingdao First Bathing Beach Closes Temporarily Due to Strong Winds and Waves
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 受天气影响，今日海上风浪较大， 为保障安全， 青岛第一海水浴场于 2026年10月17日13:00紧急关闭， 开放时间另行通知。 via：青岛汇泉湾第一海水浴场
+> 受天气影响，今日海上风浪较大， 为保障安全， 青岛第一海水浴场于 2026年10月17日13:00紧急关闭， 开放时间另行通知。
 
 **🇬🇧 Actionable Travel Intel**:  
 Qingdao First Bathing Beach was closed at 13:00 on October 17, 2026, due to strong winds and waves. The reopening time will be announced separately.
@@ -699,7 +699,7 @@ The night-time performance Qingdian Luzhi will suspend shows from October 17, 20
 #### China Southern Adds Five New Xinjiang Routes for the Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！（来源 | 南航新疆分公司） 🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
+> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
 
 **🇬🇧 Actionable Travel Intel**:  
 China Southern Airlines' Xinjiang branch has added five new routes for the winter-spring season. Urumqi-Chongqing-Jieyang (CZ8235/6) operates daily; Urumqi-Taiyuan-Lianyungang (CZ8633/4) operates on Mondays, Tuesdays, Thursdays and Saturdays; Urumqi-Taiyuan-Jiaxing (CZ5195/6) operates on Wednesdays, Fridays and Sundays; Urumqi-Chengdu Shuangliu (CZ6945/6) operates daily; and Urumqi-Shanghai Pudong (CZ6993/4) operates daily.
@@ -751,7 +751,7 @@ Over the next three days, precipitation affecting China will increase and intens
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
@@ -790,7 +790,7 @@ On October 9, a discount ticket stub linking hotels, dining, boat cruises, perfo
 #### Qingdao Zhanqiao Pier's Huilan Pavilion Suspends Visits for Renovation from October 13
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 关于栈桥回澜阁保护修缮期间暂停参观游览的公告📢 修缮工程已开工，预计12月中旬竣工 🚧自10月13日22时起 对回澜阁及周边区域实施封闭管控 施工期间暂停参观游览 请广大市民、游客合理规划游览行程 via：魅力海滨
+> 关于栈桥回澜阁保护修缮期间暂停参观游览的公告📢 修缮工程已开工，预计12月中旬竣工 🚧自10月13日22时起 对回澜阁及周边区域实施封闭管控 施工期间暂停参观游览 请广大市民、游客合理规划游览行程
 
 **🇬🇧 Actionable Travel Intel**:  
 The Huilan Pavilion at Zhanqiao Pier in Qingdao and its surrounding area were placed under closure control from 10 PM on October 13 for a conservation and renovation project. Visiting is suspended during the construction period, and the project is expected to be completed in mid-December. Visitors are advised to plan their itineraries accordingly.
@@ -803,7 +803,7 @@ The Huilan Pavilion at Zhanqiao Pier in Qingdao and its surrounding area were pl
 #### Hangzhou Launches Dedicated Autumn Osmanthus-Viewing Bus Line
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 桂花是浙江杭州的市花，眼下，杭州各处桂花陆续绽放，满城馥郁芬芳，赏桂季正式开启。杭州专门开通秋日赏桂公交专线，运营时间持续至11月11日。（来源：央视网） 交通运输部的微博视频
+> 桂花是浙江杭州的市花，眼下，杭州各处桂花陆续绽放，满城馥郁芬芳，赏桂季正式开启。杭州专门开通秋日赏桂公交专线，运营时间持续至11月11日。
 
 **🇬🇧 Actionable Travel Intel**:  
 Hangzhou has launched a dedicated autumn osmanthus-viewing bus line, with operations running through November 11. Osmanthus is the city flower of Hangzhou, and blooms across the city are marking the start of the osmanthus-viewing season.
@@ -842,7 +842,7 @@ China Railway Bohai Railway Ferry announced adjustments to the free port-entry s
 #### China Railway Nanchang Group: Newly Built Yiwu Station Building Opens for Interconnected High-Speed Rail Operations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月9日，新建义乌站站房正式启用，“世界超市”义乌迎来一座联通八方的现代化新门户。新站房投用后，沪昆高铁、杭温高铁、沪昆铁路、甬金铁路，以及在建金义三四线在此互联互通，实现“南北双进站、上进下出”的立体化组织体系，并与城市轨道交通、公交、社会车辆等无缝衔接，成为服务全城、辐射浙中的“城市客厅”。 中国铁路的微博视频
+> 10月9日，新建义乌站站房正式启用，“世界超市”义乌迎来一座联通八方的现代化新门户。新站房投用后，沪昆高铁、杭温高铁、沪昆铁路、甬金铁路，以及在建金义三四线在此互联互通，实现“南北双进站、上进下出”的立体化组织体系，并与城市轨道交通、公交、社会车辆等无缝衔接，成为服务全城、辐射浙中的“城市客厅”。 
 
 **🇬🇧 Actionable Travel Intel**:  
 The newly constructed Yiwu Railway Station building officially entered operation on October 9, interconnecting the Shanghai-Kunming High-Speed Railway, Hangzhou-Wenzhou High-Speed Railway, Shanghai-Kunming Railway, Ningbo-Jinhua Railway, and the under-construction Jinhua-Yiwu third and fourth lines. The upgraded hub implements a dual north-south station entrance and upper-level entry, lower-level exit passenger flow system with direct transfers to urban rail transit, public buses, and private vehicles.
@@ -920,7 +920,7 @@ China Railway Shanghai Station announced that passenger train tickets through Oc
 #### Holiday Travel Consumption Review: County Destinations and In-Depth Cultural Tourism Experience Surge
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 途牛联合中国移动梧桐数据发布《2026国庆出游消费盘点》：超长假期点燃文旅消费活力，境内小城游、出境长线深度游热度攀升。受“请3休13”“年度最佳拼假攻略”带动，今年国庆假期出游热潮得以提前释放，大众旅游消费需求从“7天集中爆发”转向“13天分段释放”。传统热门城市热度领跑，小城游、县域旅游加速增长；传统文化游、赏秋游、红色旅游、观赛观演游、夜游等多元需求叠加，以情绪价值和体验型消费为核心的慢节奏、长停留、深体验、高品质旅游产品成为主流之选。#国庆中秋假期出行数据图鉴#
+> 途牛联合中国移动梧桐数据发布《2026国庆出游消费盘点》：超长假期点燃文旅消费活力，境内小城游、出境长线深度游热度攀升。受“请3休13”“年度最佳拼假攻略”带动，今年国庆假期出游热潮得以提前释放，大众旅游消费需求从“7天集中爆发”转向“13天分段释放”。传统热门城市热度领跑，小城游、县域旅游加速增长；传统文化游、赏秋游、红色旅游、观赛观演游、夜游等多元需求叠加，以情绪价值和体验型消费为核心的慢节奏、长停留、深体验、高品质旅游产品成为主流之选。
 
 **🇬🇧 Actionable Travel Intel**:  
 Shanghai Municipal Administration of Culture & Tourism shared the Golden Week travel consumption review, highlighting an evolving preference for extended, segmented travel and immersive regional tourism. While traditional destination cities maintained strong interest, county-level destinations, autumn tours, and evening cultural activities experienced rapid expansion, with slow-paced, in-depth cultural itineraries becoming mainstream choices.
@@ -1006,7 +1006,7 @@ Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service acros
 #### Direct Passenger Flight Resumes: Qingdao to Vancouver Weekly Route
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月2日，山东青岛直飞加拿大温哥华客运航线正式复航。山东边检总站青岛机场边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线每周五执飞一班。（文：徐哲/图：朱杰）
+> 10月2日，山东青岛直飞加拿大温哥华客运航线正式复航。山东边检总站青岛机场边检站提前谋划部署、优化勤务方案，高效保障国际航班顺畅通关。据悉，该航线每周五执飞一班。
 
 **🇬🇧 Actionable Travel Intel**:  
 The direct passenger air route between Qingdao and Vancouver officially resumed on October 2, with international flights operating weekly on Fridays. Qingdao Airport border inspection deployed optimized duty arrangements to maintain passenger clearance for incoming and departing travelers.
@@ -1019,7 +1019,7 @@ The direct passenger air route between Qingdao and Vancouver officially resumed 
 #### Shanghai Forbidden City Treasures Exhibition: Final Days Ahead of October 7 Conclusion
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【倒计时！故宫珍宝特展即将结束！】国庆赏国风古韵，国采特展进入收官倒计时。10月7日，“国采 —— 故宫藏清代帝后服饰展”将在上海迎来最后一天展出，101件故宫珍稀织绣文物也将结束沪上之旅，悉数离沪回京。本次展品大多极少外展，难得一见，不少市民游客抢抓国庆假期走进展馆，沉浸式感受清代皇家服饰承载的东方美学与深厚传统文化底蕴。 #国采大展# #故宫# #上海世博会博物馆# #故宫博物院# #国采故宫藏清代帝后服饰展# @上海黄浦
+> 【倒计时！故宫珍宝特展即将结束！】国庆赏国风古韵，国采特展进入收官倒计时。10月7日，“国采 —— 故宫藏清代帝后服饰展”将在上海迎来最后一天展出，101件故宫珍稀织绣文物也将结束沪上之旅，悉数离沪回京。本次展品大多极少外展，难得一见，不少市民游客抢抓国庆假期走进展馆，沉浸式感受清代皇家服饰承载的东方美学与深厚传统文化底蕴。 @上海黄浦
 
 **🇬🇧 Actionable Travel Intel**:  
 The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Museum" in Shanghai enters its final days, with the last day of exhibition on October 7. The exhibition features 101 rare textile and embroidery artifacts from the Palace Museum before they conclude their display in Shanghai and return to Beijing.
@@ -1032,7 +1032,7 @@ The exhibition "Imperial Colors: Qing Dynasty Court Costumes from the Palace Mus
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+> 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.

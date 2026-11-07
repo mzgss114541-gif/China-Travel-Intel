@@ -10,7 +10,7 @@
 #### Guangxi Launches Themed Tourist Train Connecting Nanning, Liuzhou, and Guilin
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 11月7日起，“八桂嗦粉”主题专列开行，南宁、柳州、桂林串成一线，上车嗦粉、下车赏景～ 🍜 车上嗦三碗粉 老友粉、螺蛳粉、桂林米粉一次吃齐，设美食体验区，米粉非遗传承人现场讲米粉故事，打卡集章仪式感拉满 🎤 车厢不无聊 餐车+移动练歌房+休闲娱乐区；一人软包最多可带2名旅客同行；配老花镜、应急医药箱等适老用品 🏞️ 凭车票享8折 两日内车票或12306购票信息，柳州铁道大酒店、南溪花园酒店、夜游柳江、两江四湖、芦笛岩、独秀峰等合作酒店景区门市价最高8折 📅 开行信息 南宁→桂林北Y878：11月7日、15日，南宁8:00开，柳州11:22/30，桂林北14:42到 桂林北→南宁Y877：11月8日、14日，桂林北8:30开，柳州11:44/50，南宁15:10到 12306网站/APP搜“南宁→桂林北”选对应日期车次 #广西嗦粉专列 #八桂嗦粉 #南宁周边游 #桂林旅游 #柳州螺蛳粉 #老友粉 #桂林米粉 #火车旅行
+> 11月7日起，“八桂嗦粉”主题专列开行，南宁、柳州、桂林串成一线，上车嗦粉、下车赏景～ 🍜 车上嗦三碗粉 老友粉、螺蛳粉、桂林米粉一次吃齐，设美食体验区，米粉非遗传承人现场讲米粉故事，打卡集章仪式感拉满 🎤 车厢不无聊 餐车+移动练歌房+休闲娱乐区；一人软包最多可带2名旅客同行；配老花镜、应急医药箱等适老用品 🏞️ 凭车票享8折 两日内车票或12306购票信息，柳州铁道大酒店、南溪花园酒店、夜游柳江、两江四湖、芦笛岩、独秀峰等合作酒店景区门市价最高8折 📅 开行信息 南宁→桂林北Y878：11月7日、15日，南宁8:00开，柳州11:22/30，桂林北14:42到 桂林北→南宁Y877：11月8日、14日，桂林北8:30开，柳州11:44/50，南宁15:10到 12306网站/APP搜“南宁→桂林北”选对应日期车次 八桂嗦粉 桂林旅游 老友粉 火车旅行
 
 **🇬🇧 Actionable Travel Intel**:  
 Starting November 7, a themed tourist train connects Nanning, Liuzhou, and Guilin. Train Y878 departs Nanning at 8:00 on November 7 and 15, stopping in Liuzhou (11:22/11:30) and arriving at Guilin North at 14:42. Return train Y877 departs Guilin North at 8:30 on November 8 and 14, stopping in Liuzhou (11:44/11:50) and arriving in Nanning at 15:10. Tickets can be booked on the official 12306 platform by searching the Nanning to Guilin North route for designated dates. Passengers with train tickets or 12306 purchase records within 2 days can receive up to a 20% discount on rack rates at partner hotels and scenic spots including Two Rivers and Four Lakes, Reed Flute Cave, and Solitary Beauty Peak.
@@ -36,7 +36,7 @@ Cross-border high-speed trains run direct from Guangxi to Hong Kong West Kowloon
 #### Yongzhou Station Switches to Platforms 4-7 From 6 November
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 11月5日2时15分，永州站场内灯火通明。中铁二十五局邵永铁路项目400余名建设者迅速进入既有线作业区，在235分钟的封锁天窗点内完成9号道岔拆除、L9号道岔插铺及岔间渡线连通作业，为11月6日永州站正式转场打通了关键通道。11月6日转场完成后，永州站将启用新建4至7站台，停用既有1至3站台，后续正式转入站改第三阶段施工。 邵永高铁是国家“八纵八横”高铁网呼南通道的重要组成部分，线路全长约96公里，设计时速350公里，自邵阳站引出向南接入永州站。项目建成通车后，邵阳至永州通行时间将从2小时缩短至30分钟左右，对完善区域铁路网布局、促进中部地区高质量发展具有重要意义。 来源：三湘都市报的微博视频
+> 11月5日2时15分，永州站场内灯火通明。中铁二十五局邵永铁路项目400余名建设者迅速进入既有线作业区，在235分钟的封锁天窗点内完成9号道岔拆除、L9号道岔插铺及岔间渡线连通作业，为11月6日永州站正式转场打通了关键通道。11月6日转场完成后，永州站将启用新建4至7站台，停用既有1至3站台，后续正式转入站改第三阶段施工。 邵永高铁是国家“八纵八横”高铁网呼南通道的重要组成部分，线路全长约96公里，设计时速350公里，自邵阳站引出向南接入永州站。项目建成通车后，邵阳至永州通行时间将从2小时缩短至30分钟左右，对完善区域铁路网布局、促进中部地区高质量发展具有重要意义。 来源：
 
 **🇬🇧 Actionable Travel Intel**:  
 Yongzhou railway station completed its switchover on 6 November, bringing the newly built platforms 4 to 7 into use and taking the existing platforms 1 to 3 out of service, after which the station rebuild moves into its third stage. The station work is part of the Shaoyang-Yongzhou high-speed rail project, a line of about 96 km designed for 350 km/h; once the line opens to traffic, the Shaoyang-Yongzhou journey is expected to fall from 2 hours to about 30 minutes. The line is still under construction and the announcement gives no opening date. Passengers boarding at Yongzhou in the meantime should check the platform shown for their service.
@@ -62,7 +62,7 @@ GX Airlines will inaugurate direct round-trip flights between Nanning Wuxu Inter
 #### 2026 Guangzhou International Light Festival Scheduled for December 4–14 with Reservation Rules
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 官宣！2026广州国际灯光节连开11天，点亮全城✨ 📅 【光影之约】 时间：12月4日—12月14日 主题：向光而行 花城新韵 恰逢广州建城2240年、得名1800年 也是广州国际灯光节的十五周年✨ 这一次，世界的光将再次汇聚广州，照亮全城！ 💡 【一岛两轴，全域联动】 本届采用“1+2+N”空间布局： 📍 1个核心岛：海心沙亚运公园 📍 2条展示轴：新中轴、一江两岸 📍 N个分会场：流花中心、黄埔扶胥古运河、海珠广场等 ✨ 广州塔、东塔、西塔将联动上演“三塔光影秀”，多点绽放，全城赏光！ 🎨 【岭南风韵，光影佳作】 全球征集百余份创意，36组佳作最终落地。 从岭南非遗到市井烟火，用光影转译千年城脉。 🐔 更有深受喜爱的“大湾鸡”担任传播大使！专属主题曲《广州之光》也将同步唱响🎵 🎁 【全民共创，福利拉满】 灯光节期间将推出作品全民投票、小红书影像大赛等互动。优秀创作者有机会获得海心沙观展名额、广州塔登塔权益及限量周边哦🎁 🎫 【预约指南，请查收】 🎯 海心沙主会场（需预约） 免费开放，实名预约制。 12月1日中午12时起，可在“广州国际灯光节”“广州海心沙”公众号或“穗好办”等小程序预约。 🎯 其他区域（免预约） 花城广场、一江两岸及各分会场户外公共区域，无需预约，可直接前往~ 广州之光，点亮世界！ 来看一场璀璨光影，感受花城新韵🌺 来源：广州市文化广电旅游局 部分图源：Hobin-MK813
+> 官宣！2026广州国际灯光节连开11天，点亮全城✨ 📅 【光影之约】 时间：12月4日—12月14日 主题：向光而行 花城新韵 恰逢广州建城2240年、得名1800年 也是广州国际灯光节的十五周年✨ 这一次，世界的光将再次汇聚广州，照亮全城！ 💡 【一岛两轴，全域联动】 本届采用“1+2+N”空间布局： 📍 1个核心岛：海心沙亚运公园 📍 2条展示轴：新中轴、一江两岸 📍 N个分会场：流花中心、黄埔扶胥古运河、海珠广场等 ✨ 广州塔、东塔、西塔将联动上演“三塔光影秀”，多点绽放，全城赏光！ 🎨 【岭南风韵，光影佳作】 全球征集百余份创意，36组佳作最终落地。 从岭南非遗到市井烟火，用光影转译千年城脉。 🐔 更有深受喜爱的“大湾鸡”担任传播大使！专属主题曲《广州之光》也将同步唱响🎵 🎁 【全民共创，福利拉满】 灯光节期间将推出作品全民投票、小红书影像大赛等互动。优秀创作者有机会获得海心沙观展名额、广州塔登塔权益及限量周边哦🎁 🎫 【预约指南，请查收】 🎯 海心沙主会场（需预约） 免费开放，实名预约制。 12月1日中午12时起，可在“广州国际灯光节”“广州海心沙”公众号或“穗好办”等小程序预约。 🎯 其他区域（免预约） 花城广场、一江两岸及各分会场户外公共区域，无需预约，可直接前往~ 广州之光，点亮世界！ 来看一场璀璨光影，感受花城新韵🌺  
 
 **🇬🇧 Actionable Travel Intel**:  
 The 2026 Guangzhou International Light Festival will run for 11 days from December 4 to December 14, 2026. The main venue at Haixinsha Asian Games Park requires free real-name reservations, which open on December 1 at 12:00 via official WeChat mini-programs. All other outdoor public display zones—including Huacheng Square, both banks of the Pearl River, and sub-venues across the city—are open to visitors without reservation.
@@ -88,7 +88,7 @@ Tickets for the Guangxi culinary tourism train Y878/7 opened for booking on the 
 #### G4 Expressway Toll Stations in Hunan Close for Construction Through January 2027
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【注意绕行！11月4日起京港澳高速岳阳、长沙部分收费站出入口将管制】出行注意！G4京港澳高速岳阳龙湾至长沙广福段扩容施工，11月4日8时30分起至2027年1月20日12时，大荆、板仓两座收费站将封闭施工，禁止车辆通行。往返长沙、广州、武汉、北京方向的车友，记得提前规划路线，可绕行107 国道、许广高速、平洞高速等，避免耽误行程。 湖南日报的微博视频
+> 【注意绕行！11月4日起京港澳高速岳阳、长沙部分收费站出入口将管制】出行注意！G4京港澳高速岳阳龙湾至长沙广福段扩容施工，11月4日8时30分起至2027年1月20日12时，大荆、板仓两座收费站将封闭施工，禁止车辆通行。往返长沙、广州、武汉、北京方向的车友，记得提前规划路线，可绕行107 国道、许广高速、平洞高速等，避免耽误行程。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Due to lane expansion work along the G4 Beijing-Hong Kong-Macau Expressway between Yueyang Longwan and Changsha Guangfu, the Dajing and Bancang toll stations will be closed to traffic from 8:30 on November 4, 2026, until 12:00 on January 20, 2027. Road travelers traveling between Changsha, Guangzhou, Wuhan, and Beijing should plan alternative detours via National Highway 107, the Xuguang Expressway, or the Pingdong Expressway to prevent transit delays.
@@ -127,7 +127,7 @@ China Railway Nanning Group has expanded its Roam Bagui tourism multi-ride train
 #### Shenzhen Futian Port Border Advisory: Undeclared Stony Corals Intercepted Under Strict CITES Regulations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，皇岗海关关员在福田口岸旅检大厅对进境旅客及其行李物品进行监管时，发现一名女性旅客经过海关监管区域未主动申报。其身穿宽松蓬蓬裙，频频低头、神态异常，并刻意向远离关员的一侧行走，关员随即对其进行拦截检查。经进一步查验，海关关员在该旅客裙下四层特制短裤的内兜中查获用透明塑料膜包裹的疑似活体珊瑚6包，共计14株，重0.9千克。后经深圳海关动植物检验检疫技术中心鉴定，上述疑似活体珊瑚均为石珊瑚目物种，被列入《濒危野生动植物种国际贸易公约》（CITES）附录Ⅱ。根据《濒危野生动植物种国际贸易公约》及《中华人民共和国野生动物保护法》《中华人民共和国濒危野生动植物进出口管理条例》等规定，除合法持有野生动植物进出口证书外，禁止贸易、携带、邮寄濒危物种及其制品进出境，情节严重构成犯罪的将依法追究刑事责任。 海关发布的微博视频
+> 近日，皇岗海关关员在福田口岸旅检大厅对进境旅客及其行李物品进行监管时，发现一名女性旅客经过海关监管区域未主动申报。其身穿宽松蓬蓬裙，频频低头、神态异常，并刻意向远离关员的一侧行走，关员随即对其进行拦截检查。经进一步查验，海关关员在该旅客裙下四层特制短裤的内兜中查获用透明塑料膜包裹的疑似活体珊瑚6包，共计14株，重0.9千克。后经深圳海关动植物检验检疫技术中心鉴定，上述疑似活体珊瑚均为石珊瑚目物种，被列入《濒危野生动植物种国际贸易公约》（CITES）附录Ⅱ。根据《濒危野生动植物种国际贸易公约》及《中华人民共和国野生动物保护法》《中华人民共和国濒危野生动植物进出口管理条例》等规定，除合法持有野生动植物进出口证书外，禁止贸易、携带、邮寄濒危物种及其制品进出境，情节严重构成犯罪的将依法追究刑事责任。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Customs officers at Futian Port passenger checkpoint intercepted an inbound traveler attempting to smuggle 14 live stony corals weighing 0.9 kg without declaration. Authorities issue an operational reminder that all stony corals (Scleractinia) are listed under CITES Appendix II. Under Chinese wildlife protection and customs import/export laws, carrying, trading, or mailing endangered wildlife species or their derivatives across borders without valid CITES certificates is illegal and subject to criminal liability.
@@ -153,7 +153,7 @@ To facilitate cross-border passenger flow during weekend events in Hong Kong, Sh
 #### Customs Intercepts Excess Undeclared Foreign Currency at Wenjindu Port
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月16日，文锦渡海关关员对出境旅客进行监管时，发现一名女性旅客进入海关监管区后未主动申报。其随身携带的行李物品机检图像异常，关员随即对其进行拦截检查。经进一步查验，在该旅客随身携带的背包内查获港币21.3万元，超出规定限额。经查询，当事人属于15天内第二次及以上出境旅客。15天内第二次及以上出境，携带港币限额为等值1000美元，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 海关发布的微博视频
+> 10月16日，文锦渡海关关员对出境旅客进行监管时，发现一名女性旅客进入海关监管区后未主动申报。其随身携带的行李物品机检图像异常，关员随即对其进行拦截检查。经进一步查验，在该旅客随身携带的背包内查获港币21.3万元，超出规定限额。经查询，当事人属于15天内第二次及以上出境旅客。15天内第二次及以上出境，携带港币限额为等值1000美元，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Customs officers at Wenjindu Port intercepted an outbound traveler carrying undeclared currency amounting to 213,000 Hong Kong Dollars, which exceeded regulatory allowances. Customs confirmed that travelers departing China for the second time or more within 15 days are legally restricted to carrying foreign currency cash equivalent to no more than 1,000 USD. Cash exceeding the quota will be detained unless travelers present an official foreign exchange export permit obtained in advance from banks or foreign exchange authorities.
@@ -179,7 +179,7 @@ Under the 2026–2027 civil aviation winter-spring flight season running for 154
 #### Guilin Customs Intercepts Historical Cultural Relic Coins on Outbound Flights
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，南宁海关所属桂林海关在对出境航班旅客行李进行监管时，发现一名选择“绿色通道”的旅客的手提行李物品机检图像异常，现场关员随即进行拦截并开箱检查。经查验，在该旅客的行李中查获疑似古钱币31枚。经广西壮族自治区博物馆鉴定，上述物品中30枚为唐朝至民国时期铜钱，属于国家禁止出境的一般文物，1枚为工艺品。根据《中华人民共和国文物保护法》规定，文物出境，应当经国务院文物行政部门指定的文物进出境审核机构审核，凭许可证从指定口岸出境。任何单位或者个人运送、携带文物出境，应当向海关申报，海关凭文物出境许可证放行。走私文物构成犯罪的，依法追究刑事责任；构成走私行为，尚不构成犯罪的，由海关依照有关法律、行政法规的规定给予处罚。 海关发布的微博视频
+> 近日，南宁海关所属桂林海关在对出境航班旅客行李进行监管时，发现一名选择“绿色通道”的旅客的手提行李物品机检图像异常，现场关员随即进行拦截并开箱检查。经查验，在该旅客的行李中查获疑似古钱币31枚。经广西壮族自治区博物馆鉴定，上述物品中30枚为唐朝至民国时期铜钱，属于国家禁止出境的一般文物，1枚为工艺品。根据《中华人民共和国文物保护法》规定，文物出境，应当经国务院文物行政部门指定的文物进出境审核机构审核，凭许可证从指定口岸出境。任何单位或者个人运送、携带文物出境，应当向海关申报，海关凭文物出境许可证放行。走私文物构成犯罪的，依法追究刑事责任；构成走私行为，尚不构成犯罪的，由海关依照有关法律、行政法规的规定给予处罚。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Guilin Customs under Nanning Customs intercepted 31 historical coins inside the hand luggage of an outbound passenger using the green customs channel. Professional appraisal confirmed 30 pieces were copper coins spanning from the Tang Dynasty to the Republic of China period, classified as state cultural relics prohibited from unapproved export. China's Cultural Relics Protection Law requires that any cultural relics taken abroad must be approved by designated appraisal agencies, accompanied by an official export permit, and declared to Customs at designated ports.
@@ -205,7 +205,7 @@ Wuhan Metro Line 12, a 59.9-kilometer automated circular subway line with 37 sta
 #### Wuhan Metro Line 12 Loop Closes to Interconnect Hankou and Wuchang Rail Hubs
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 亚洲最长的地铁环线，今天终于在武汉首尾相接了！59.9公里、37座车站，这个武汉人等了多年的大圆，今天终于画完了！我现在就在武汉地铁汉口站北广场站，在我脚下就是即将全线开通的武汉地铁12号线！ 还记得今年五一，开通的武汉地铁12号线吗？当时开通的是一期工程，从钢都花园站到墨水湖公园站，全长35.32公里，一共23座车站。那时候我们说它是“亚洲最长”，指的是整条线路全部建成后的长度。当时真正投入运营的，其实只有大半圈。列车到了钢都花园或者墨水湖公园，还得掉头往回走，地图上这个圆，始终还差最后一笔。 今天，最后这一笔终于补上了！这次开通的是12号线二期，新开的14座车站，从十里铺站一直到科普公园站；按照工程范围来算，是从墨水湖公园站一路接到钢都花园站，全长24.64公里。它从汉阳出发，下穿汉江进入硚口，经过汉西、汉口火车站、后湖，再从二七长江大桥下游穿过长江，到达青山。这样一来，一期的两个端点被彻底接通，12号线终于可以内环、外环完整地跑上一整圈。 二期还设置了汉钢站、汉口站北广场站、丹水池站三座特色站。汉钢站最大的特点就是一个字：大。它是12号线穿越汉江的始发站，也是全线唯一一座超宽、超深的全盖挖车站，最宽处达到50.7米，几乎是普通地铁站的两倍，还为未来14号线平行换乘预留了空间。 更有意思的是，汉钢站所在的月湖片区，紧邻张之洞当年创办汉阳铁厂的工业遗址。站内专门设置了一面长约40米的《工业流光·钢铁织梦》艺术墙，把从汉阳铁厂到湖北近代工业发展的重要节点铺在了墙上。墙里还藏着真正的老钢轨，其中一段清楚地刻着“汉阳铁厂造民国三年正月”。大家来到这里，可以专门找找这个跨越百年的“彩蛋”。 汉口站北广场站延续了汉口火车站高挑的欧式拱顶风格，走进站厅，就能感受到铁路枢纽特有的空间气势。尤其是我现在所在的汉口站北广场站，12号线一期已经连接武昌火车站，这次又来到汉口火车站，两大铁路枢纽就这样被同一条地铁环线串了起来。 丹水池站整体突出城市科技感。更硬核的是，它的地下连接着丹水池站至科普公园站越江隧道，全长约4.01公里，是目前国内穿越长江距离最长的地铁隧道。 12号线还是武汉第二条全自动驾驶地铁线路。它的车头和车尾采用敞开式司机室，站在玻璃前面，就能用第一视角看着列车穿过隧道。 武汉地铁12号线为什么敢叫“亚洲最长”？把几座城市的地铁环线放在一起看就很直观了：北京10号线大约57.1公里，重庆环线约50.9公里，韩国首尔2号线主环约48.8公里，广州11号线约44.2公里，上海4号线约33.8公里。武汉12号线全长59.9公里，超过了这些地铁环线；放到全球，它也只排在莫斯科70公里的大环线之后，是亚洲最长、世界第二长的地铁环线。 长江和汉江，把武汉分成了三镇；而这条地铁，两次穿越长江、一次穿越汉江，又把三镇连成了一个整体。“亚洲最长”是它的名片，而让三镇同环、七区联动，让整个武汉运转更快！经济联系得更紧密！才是这个圆对武汉发展真正的意义。 湖北文旅的微博视频
+> 亚洲最长的地铁环线，今天终于在武汉首尾相接了！59.9公里、37座车站，这个武汉人等了多年的大圆，今天终于画完了！我现在就在武汉地铁汉口站北广场站，在我脚下就是即将全线开通的武汉地铁12号线！ 还记得今年五一，开通的武汉地铁12号线吗？当时开通的是一期工程，从钢都花园站到墨水湖公园站，全长35.32公里，一共23座车站。那时候我们说它是“亚洲最长”，指的是整条线路全部建成后的长度。当时真正投入运营的，其实只有大半圈。列车到了钢都花园或者墨水湖公园，还得掉头往回走，地图上这个圆，始终还差最后一笔。 今天，最后这一笔终于补上了！这次开通的是12号线二期，新开的14座车站，从十里铺站一直到科普公园站；按照工程范围来算，是从墨水湖公园站一路接到钢都花园站，全长24.64公里。它从汉阳出发，下穿汉江进入硚口，经过汉西、汉口火车站、后湖，再从二七长江大桥下游穿过长江，到达青山。这样一来，一期的两个端点被彻底接通，12号线终于可以内环、外环完整地跑上一整圈。 二期还设置了汉钢站、汉口站北广场站、丹水池站三座特色站。汉钢站最大的特点就是一个字：大。它是12号线穿越汉江的始发站，也是全线唯一一座超宽、超深的全盖挖车站，最宽处达到50.7米，几乎是普通地铁站的两倍，还为未来14号线平行换乘预留了空间。 更有意思的是，汉钢站所在的月湖片区，紧邻张之洞当年创办汉阳铁厂的工业遗址。站内专门设置了一面长约40米的《工业流光·钢铁织梦》艺术墙，把从汉阳铁厂到湖北近代工业发展的重要节点铺在了墙上。墙里还藏着真正的老钢轨，其中一段清楚地刻着“汉阳铁厂造民国三年正月”。大家来到这里，可以专门找找这个跨越百年的“彩蛋”。 汉口站北广场站延续了汉口火车站高挑的欧式拱顶风格，走进站厅，就能感受到铁路枢纽特有的空间气势。尤其是我现在所在的汉口站北广场站，12号线一期已经连接武昌火车站，这次又来到汉口火车站，两大铁路枢纽就这样被同一条地铁环线串了起来。 丹水池站整体突出城市科技感。更硬核的是，它的地下连接着丹水池站至科普公园站越江隧道，全长约4.01公里，是目前国内穿越长江距离最长的地铁隧道。 12号线还是武汉第二条全自动驾驶地铁线路。它的车头和车尾采用敞开式司机室，站在玻璃前面，就能用第一视角看着列车穿过隧道。 武汉地铁12号线为什么敢叫“亚洲最长”？把几座城市的地铁环线放在一起看就很直观了：北京10号线大约57.1公里，重庆环线约50.9公里，韩国首尔2号线主环约48.8公里，广州11号线约44.2公里，上海4号线约33.8公里。武汉12号线全长59.9公里，超过了这些地铁环线；放到全球，它也只排在莫斯科70公里的大环线之后，是亚洲最长、世界第二长的地铁环线。 长江和汉江，把武汉分成了三镇；而这条地铁，两次穿越长江、一次穿越汉江，又把三镇连成了一个整体。“亚洲最长”是它的名片，而让三镇同环、七区联动，让整个武汉运转更快！经济联系得更紧密！才是这个圆对武汉发展真正的意义。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Wuhan Metro Line 12 has completed its orbital ring with the opening of its 24.64 km Phase 2 section adding 14 stations. The 59.9 km, 37-station circular line crosses both the Yangtze and Han rivers, directly connecting two primary railway passenger hubs—Hankou Railway Station and Wuchang Railway Station—enabling continuous inner and outer loop transit across the city.
@@ -244,7 +244,7 @@ Nanning Railway highlighted high-speed train connections across Guangxi for autu
 #### Guangdong High-Speed Rail Launches Direct Meizhou West to Zhanjiang North Train Service
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 四季度调图后，梅州西站新增往返湛江北的直达列车，不用中转，不用换乘，省时更省心！（朱永乐，赵洺欧，钟文锋，李德民） 广州铁路的微博视频
+> 四季度调图后，梅州西站新增往返湛江北的直达列车，不用中转，不用换乘，省时更省心！（朱永乐，赵洺欧，钟文锋，李德民） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Following the fourth-quarter national rail timetable adjustment, Meizhou West Railway Station has introduced direct passenger train service to and from Zhanjiang North Railway Station. The direct connection eliminates the need for en route transfers between eastern Guangdong and western Guangdong.
@@ -257,7 +257,7 @@ Following the fourth-quarter national rail timetable adjustment, Meizhou West Ra
 #### Customs at Hong Kong-Zhuhai-Macao Bridge Enforces Outbound Foreign Currency Cash Limits
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 近日，拱北海关所属港珠澳大桥海关在出境客车通道查获一起随车旅客超量携带外币案。9月28日9时许，海关关员在港珠澳大桥珠海公路口岸出境客车通道监管时，发现一辆粤港两地牌客车行驶轨迹异常，遂将其截查。经进一步检查，在车上一旅客随身背包内查获大量未申报的外币纸币。经清点，当事人共携带面值5—500不等的美元、英镑、欧元、沙特阿拉伯里亚尔共2547张，折合人民币约143.88万元。10月13日经专业机构鉴定，上述外币全部为真钞。该名旅客属于15天内多次出境人员，所携带现钞超出规定额度。15天内首次出境旅客可携带不超过等值5000美元（含5000美元）的外币现钞；15天内第二次及以上、当天内第二次及以上出境旅客可分别携带等值不超过1000美元和500美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或相关银行申领有关证件并在出境时向海关主动申报。 海关发布的微博视频
+> 近日，拱北海关所属港珠澳大桥海关在出境客车通道查获一起随车旅客超量携带外币案。9月28日9时许，海关关员在港珠澳大桥珠海公路口岸出境客车通道监管时，发现一辆粤港两地牌客车行驶轨迹异常，遂将其截查。经进一步检查，在车上一旅客随身背包内查获大量未申报的外币纸币。经清点，当事人共携带面值5—500不等的美元、英镑、欧元、沙特阿拉伯里亚尔共2547张，折合人民币约143.88万元。10月13日经专业机构鉴定，上述外币全部为真钞。该名旅客属于15天内多次出境人员，所携带现钞超出规定额度。15天内首次出境旅客可携带不超过等值5000美元（含5000美元）的外币现钞；15天内第二次及以上、当天内第二次及以上出境旅客可分别携带等值不超过1000美元和500美元外币现钞，超出额度的海关不予放行。如确需携带超出限额的大量现钞，应事先到外汇管理部门或相关银行申领有关证件并在出境时向海关主动申报。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Gongbei Customs at the Hong Kong-Zhuhai-Macao Bridge intercepted a passenger carrying excessive undeclared foreign currency cash on an outbound coach. Customs authorities reiterate outbound cash limits: travelers departing mainland China for the first time within 15 days may carry foreign currency cash up to the equivalent of 5,000 USD; travelers departing for the second time or more within 15 days are limited to 1,000 USD; travelers departing for the second time or more within the same day are limited to 500 USD. Cash exceeding these thresholds will not be cleared by Customs without prior permit certification from foreign exchange authorities or designated banks and timely declaration.
@@ -309,7 +309,7 @@ Enshi Xujiaping International Airport will operate its winter-spring flight sche
 #### Zhuhai Railway Passengers Eligible for Ferry Ticket Discounts Through April 2027
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 2027年4月30日前，凭珠海站7日内高铁票，在九洲港、湾仔旅游码头线下窗口购票享专属优惠！（段治平，九洲港，肖倩兰） 广州铁路的微博视频
+> 2027年4月30日前，凭珠海站7日内高铁票，在九洲港、湾仔旅游码头线下窗口购票享专属优惠！（段治平，九洲港，肖倩兰） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Through April 30, 2027, passengers presenting a high-speed rail ticket to Zhuhai Station dated within seven days can enjoy special discounts when purchasing ferry tickets in person at offline ticket windows of Jiuzhou Port and Wanzai Tourist Pier.
@@ -348,7 +348,7 @@ From October 25, 2026 to March 7, 2027, Enshi Xujiaping International Airport wi
 #### Guangxi Faces Cooler, Rainy Weather Through October 22
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 预计今天至22日白天，一股弱冷空气将会自北向南影响广西，带来降温降雨天气；今天各地日平均气温下降幅度：桂北4℃～6℃、局地8℃以上；桂南2℃～4℃。雨水方面：今天白天，百色、崇左、防城港、钦州、北海、玉林等市阴天有小雨，百色局地雨势明显，有大雨或暴雨；今晚到22日白天，桂西多云为主偶尔会有分散阵雨出现。22日晚上到23日白天，全区转为多云到晴的天气，桂西北有阵雨。另外23日起受台风“蔷琵”西侧外围环流影响，各地气温逐渐回升。 广西气象的微博视频（来源：广西气象）
+> 预计今天至22日白天，一股弱冷空气将会自北向南影响广西，带来降温降雨天气；今天各地日平均气温下降幅度：桂北4℃～6℃、局地8℃以上；桂南2℃～4℃。雨水方面：今天白天，百色、崇左、防城港、钦州、北海、玉林等市阴天有小雨，百色局地雨势明显，有大雨或暴雨；今晚到22日白天，桂西多云为主偶尔会有分散阵雨出现。22日晚上到23日白天，全区转为多云到晴的天气，桂西北有阵雨。另外23日起受台风“蔷琵”西侧外围环流影响，各地气温逐渐回升。 
 
 **🇬🇧 Actionable Travel Intel**:  
 A weak cold air mass will move from north to south across Guangxi through the daytime of October 22, bringing cooler and rainy weather. Average daily temperatures are forecast to fall by 4 to 6 degrees Celsius in northern Guangxi, with local drops above 8 degrees Celsius, and by 2 to 4 degrees Celsius in southern Guangxi. Today, Baise, Chongzuo, Fangchenggang, Qinzhou, Beihai and Yulin will be cloudy with light rain, with locally heavy rain or rainstorms in Baise. From tonight through the daytime of October 22, western Guangxi will be mostly cloudy with scattered showers. From the night of October 22 through the daytime of October 23, most of Guangxi will become cloudy to clear, with showers in northwestern Guangxi. Additionally, beginning October 23, temperatures are forecast to gradually rebound under the influence of the western peripheral circulation of Typhoon Champi.
@@ -361,7 +361,7 @@ A weak cold air mass will move from north to south across Guangxi through the da
 #### Heavy Rain and Snow Warning for Chongqing and Hubei
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 你感觉到降温了吗？新一股冷空气来了! 10月19日起，重庆、湖北等地部分地区有暴雨或大暴雨，北方部分地区有降雪，21日早晨最低气温0℃线将向南推进。（via.重庆广电第1眼） 重庆广电第1眼的微博视频
+> 你感觉到降温了吗？新一股冷空气来了! 10月19日起，重庆、湖北等地部分地区有暴雨或大暴雨，北方部分地区有降雪，21日早晨最低气温0℃线将向南推进。
 
 **🇬🇧 Actionable Travel Intel**:  
 From 19 October, parts of Chongqing and Hubei may experience heavy to torrential rain, while some northern areas may see snow. The 0°C line is forecast to move south by the morning of 21 October.
@@ -374,7 +374,7 @@ From 19 October, parts of Chongqing and Hubei may experience heavy to torrential
 #### Nanning Warns of Cold Air, Rain and Thunderstorms from 21 October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【南宁要降温啦！冷空气10月21日抵达，降温+降雨双连击，注意添衣。未来五天，全市多云，局地有阵雨或雷雨。】 新闻夜班的微博视频
+> 【南宁要降温啦！冷空气10月21日抵达，降温+降雨双连击，注意添衣。未来五天，全市多云，局地有阵雨或雷雨。】 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold air mass will reach Nanning on 21 October, bringing cooler temperatures and rain. Over the next five days, the city will be mostly cloudy with local showers or thunderstorms. Travelers should add clothing and monitor conditions.
@@ -400,7 +400,7 @@ The G3979/3982 train from Chengdu East to Hankou began operating on 11 October a
 #### Hanzhong Airport to Begin 2026 Winter-Spring Flight Schedule on October 25
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。（来源：汉中城固机场）
+> 新出发！10 月 25 日起正式启用✨ 汉中 汉中 ✅汉中⇌深圳、贵阳加密至**每日一班**，告别班期限制，商务、探亲出行更灵活； ✅**新增汉中直飞兰州航线**，每周二、四、六执飞，秦巴牵手黄河之滨，西北出游新选择； ✅航班时刻优化：深圳新增下午出港航班，杭州、上海航班调整，不用深夜落地，出行更从容。 航班时刻仅供参考，购票请以系统实时查询为准。
 
 **🇬🇧 Actionable Travel Intel**:  
 Hanzhong Airport will begin its 2026 winter-spring flight schedule on October 25. Hanzhong-Shenzhen and Hanzhong-Guiyang services will increase to one flight daily; a new Hanzhong-Lanzhou route will operate on Tuesdays, Thursdays and Saturdays; and schedules for Shenzhen, Hangzhou and Shanghai will be adjusted, including a new afternoon departure from Shenzhen. Flight times are for reference, and travelers should confirm details through live booking systems.
@@ -426,7 +426,7 @@ A new cold air mass will strengthen rainfall in Hubei. Tomorrow, precipitation w
 #### China Eastern to Launch Daily Xi'an–Zhanjiang Flight
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 记者获悉，2026年冬航季，中国东方航空（以下简称“东航”）将于10月25日起，新开西安至湛江航线，往返航班号MU2357/8，每日一班。 具体航班时刻为： ・去程MU2357，每日7:30从西安咸阳国际机场起飞，10:20抵达湛江吴川国际机场； ・返程MU2358，每日11:20从湛江吴川国际机场起飞，14:05抵达西安咸阳国际机场。航线时刻兼顾商务与休闲出行需求，实现“早出午达、午间返程”，方便旅客高效安排行程。 详情戳链接➡️ https://mp.weixin.qq.com/s/1imQHvZPHjCr1igzR_bGkA （via. ）
+> 记者获悉，2026年冬航季，中国东方航空（以下简称“东航”）将于10月25日起，新开西安至湛江航线，往返航班号MU2357/8，每日一班。 具体航班时刻为： ・去程MU2357，每日7:30从西安咸阳国际机场起飞，10:20抵达湛江吴川国际机场； ・返程MU2358，每日11:20从湛江吴川国际机场起飞，14:05抵达西安咸阳国际机场。航线时刻兼顾商务与休闲出行需求，实现“早出午达、午间返程”，方便旅客高效安排行程。  
 
 **🇬🇧 Actionable Travel Intel**:  
 From 25 October, China Eastern will operate a daily Xi'an–Zhanjiang service for the 2026 winter season. Flight MU2357 departs Xi'an Xianyang International Airport at 7:30 and arrives at Zhanjiang Wuchuan International Airport at 10:20. Return flight MU2358 departs Zhanjiang at 11:20 and arrives in Xi'an at 14:05.
@@ -439,7 +439,7 @@ From 25 October, China Eastern will operate a daily Xi'an–Zhanjiang service fo
 #### Guangxi Issues Three-Day Weather and Fire-Risk Advisory
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 预计未来三天，广西受副热带高压控制，低层受偏南气流影响，全区以多云天气为主，部分地区可能会有分散阵雨、局地中到大雨，阵雨持续时间短、分布零散，对昼热夜凉的大局影响不大，午后体感闷热，需尽量减少在气温较高时段外出开展长时间的户外活动，外出时不妨随身携带晴雨伞，以备不时之需。另外，近期降水偏少，广西大部地区森林火险气象等级达到较高等级至高等级，日常需要注意用火用电安全，切勿将火种带入林区，避免引发森林火灾。广西气象的微博视频（来源：广西气象）
+> 预计未来三天，广西受副热带高压控制，低层受偏南气流影响，全区以多云天气为主，部分地区可能会有分散阵雨、局地中到大雨，阵雨持续时间短、分布零散，对昼热夜凉的大局影响不大，午后体感闷热，需尽量减少在气温较高时段外出开展长时间的户外活动，外出时不妨随身携带晴雨伞，以备不时之需。另外，近期降水偏少，广西大部地区森林火险气象等级达到较高等级至高等级，日常需要注意用火用电安全，切勿将火种带入林区，避免引发森林火灾。
 
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi is forecast to remain mostly cloudy over the next three days, with scattered showers and local moderate-to-heavy rain. Afternoons will feel hot, so travelers should reduce prolonged outdoor activity during the hottest periods and carry an umbrella. Forest-fire risk is high to very high in much of the region; do not bring fire sources into forest areas.
@@ -504,7 +504,7 @@ Travellers entering through the Luohu Port, which links the Hong Kong SAR with S
 #### Wudangshan Airport Opens Temporarily for 62 Days with Added International Routes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 武当山机场临时对外开放62天 十堰直飞首尔激活鄂西出境游 10月14日上午11时许，搭载100余名旅客的CZ5011航班从十堰武当山机场起飞，经2个多小时飞行抵达韩国首尔仁川国际机场，标志着武当山机场航空口岸开启第三次临时对外开放。 武当山机场于2024年首次临时对外开放10天（10月8日至10月17日），期间共开通十堰至香港航线10班，出入境旅客达3000人次。2025年，国家口岸办批复武当山机场临时开放32天（10月15日至11月15日），机场开通香港航线、韩国航线共计16班，累计出入境旅客4629人次。 10月14日，武当山机场航空口岸开启第三次临时对外开放，市民乘首发航班飞往韩国首尔旅游。（湖北日报全媒记者 刘天纵 摄） 今年，第九届世界太极拳健康大会、中国旅游产业发展年会、武当太极文化节等系列活动在十堰举办。为保障国内外嘉宾出行便利，国家口岸管理办公室于8月19日同意武当山机场临时开放，期限为10月14日至12月14日，共62天。 与前两年相比，2026年临开工作呈现出批复时间更早、批复时间更长、执飞航点更多、目标更为突出四个特点。其间，武当山机场计划执行国际（地区）航班24班次，在原有中国香港、韩国航线基础上，将于11月中旬新增越南河内航线，填补十堰直飞东盟国家航线的空白。 62天的窗口期，既方便外宾到访“仙山、碧水、汽车城”，也便利鄂西北市民出境游。当日上午9时许，飞猪旅行十堰公司领队吴永玲举着导游旗，协助旅客办理CZ5011航班乘机手续。“家门口就有国际航班，方便多了。”吴永玲说，平时十堰人出境游，一般要先乘国内航班到北上广深、西安、重庆，或乘高铁到武汉再换乘国际航班。现在，十堰直飞韩国的团队游报名踊跃，基本都是十堰及周边城市的市民。 为保障临时开放期间口岸高效顺畅运行，湖北边检总站、十堰海关、十堰武当山机场集团等单位将协同合作，建立航班动态共享、勤务协同联动机制，进一步提高旅客查验和通关效率，为鄂西北地区高水平对外开放提供有力保障。
+> 武当山机场临时对外开放62天 十堰直飞首尔激活鄂西出境游 10月14日上午11时许，搭载100余名旅客的CZ5011航班从十堰武当山机场起飞，经2个多小时飞行抵达韩国首尔仁川国际机场，标志着武当山机场航空口岸开启第三次临时对外开放。 武当山机场于2024年首次临时对外开放10天（10月8日至10月17日），期间共开通十堰至香港航线10班，出入境旅客达3000人次。2025年，国家口岸办批复武当山机场临时开放32天（10月15日至11月15日），机场开通香港航线、韩国航线共计16班，累计出入境旅客4629人次。 10月14日，武当山机场航空口岸开启第三次临时对外开放，市民乘首发航班飞往韩国首尔旅游。今年，第九届世界太极拳健康大会、中国旅游产业发展年会、武当太极文化节等系列活动在十堰举办。为保障国内外嘉宾出行便利，国家口岸管理办公室于8月19日同意武当山机场临时开放，期限为10月14日至12月14日，共62天。 与前两年相比，2026年临开工作呈现出批复时间更早、批复时间更长、执飞航点更多、目标更为突出四个特点。其间，武当山机场计划执行国际（地区）航班24班次，在原有中国香港、韩国航线基础上，将于11月中旬新增越南河内航线，填补十堰直飞东盟国家航线的空白。 62天的窗口期，既方便外宾到访“仙山、碧水、汽车城”，也便利鄂西北市民出境游。当日上午9时许，飞猪旅行十堰公司领队吴永玲举着导游旗，协助旅客办理CZ5011航班乘机手续。“家门口就有国际航班，方便多了。”吴永玲说，平时十堰人出境游，一般要先乘国内航班到北上广深、西安、重庆，或乘高铁到武汉再换乘国际航班。现在，十堰直飞韩国的团队游报名踊跃，基本都是十堰及周边城市的市民。 为保障临时开放期间口岸高效顺畅运行，湖北边检总站、十堰海关、十堰武当山机场集团等单位将协同合作，建立航班动态共享、勤务协同联动机制，进一步提高旅客查验和通关效率，为鄂西北地区高水平对外开放提供有力保障。
 
 **🇬🇧 Actionable Travel Intel**:  
 Wudangshan Airport in Shiyan, Hubei, is temporarily open for international and regional flights for 62 days, from October 14 to December 14, 2026. During this window the airport plans 24 international and regional flights. In addition to its existing Hong Kong and South Korea routes, a new Shiyan to Hanoi route will be added in mid-November. The first flight, CZ5011, departed Shiyan for Seoul Incheon on October 14.
@@ -517,7 +517,7 @@ Wudangshan Airport in Shiyan, Hubei, is temporarily open for international and r
 #### Tibet Airlines to Add Two Lhasa Round-Trip Routes, Including Hong Kong via Chengdu Shuangliu from November 29
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 来源：西藏航空
+> 航线上新，出行更便捷！西藏航空新增两条拉萨往返航线：香港经成都双流往返拉萨航线计划于11月29日开通，拉萨经西安往返长春航线每周二、四、六执飞。新航线串联雪域古城、繁华都市与北国春城，为旅客冬季出行提供更多选择。这个冬天，不妨搭乘航班，开启一段跨越山海的冬日旅程！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Tibet Airlines will add two round-trip routes to and from Lhasa. A Hong Kong-Chengdu Shuangliu-Lhasa service is scheduled to open on November 29, and a Lhasa-Xi'an-Changchun route will operate on Tuesdays, Thursdays and Saturdays. Per current official policy for foreign visitors, arrangements are subject to change.
@@ -543,7 +543,7 @@ Phase II of the Ezhou Airport Expressway opened for trial operation at midnight 
 #### China Southern Adds Five New Xinjiang Routes for the Winter-Spring Season
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！（来源 | 南航新疆分公司） 🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
+> ✈️南航新疆冬春航季焕新出发，5条新航线通达四方！🌶️乌鲁木齐—重庆—揭阳，（CZ8235/6）每日一班；山城火锅到潮汕工夫茶 🏔️乌鲁木齐—太原—连云港，CZ8633/4）每周一、二、四、六执行；登花果山看东海 🌊乌鲁木齐—太原—嘉兴，（ CZ5195/6）每周三、五、日执行；直抵江南水乡 🐼乌鲁木齐—成都双流，（ CZ6945/6）每日一班；宽窄巷子大熊猫天天见 🏙️乌鲁木齐—上海浦东，（ CZ6993/4）每日一班；直抵魔都连接世界 这个冬天，从天山脚下，飞往心之所向吧~
 
 **🇬🇧 Actionable Travel Intel**:  
 China Southern Airlines' Xinjiang branch has added five new routes for the winter-spring season. Urumqi-Chongqing-Jieyang (CZ8235/6) operates daily; Urumqi-Taiyuan-Lianyungang (CZ8633/4) operates on Mondays, Tuesdays, Thursdays and Saturdays; Urumqi-Taiyuan-Jiaxing (CZ5195/6) operates on Wednesdays, Fridays and Sundays; Urumqi-Chengdu Shuangliu (CZ6945/6) operates daily; and Urumqi-Shanghai Pudong (CZ6993/4) operates daily.
@@ -582,7 +582,7 @@ According to a traffic support plan issued by Hubei public security traffic auth
 #### China Railway Guangzhou Group Adds Morning Trains at Yangjiang and Zhaoqing East After Fourth-Quarter Timetable Adjustment
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 四季度调图后，阳江、肇庆东增开早班列车，便利群众出行（段凌云，张晓笑，田震，罗劲，刘涵） 广州铁路的微博视频
+> 四季度调图后，阳江、肇庆东增开早班列车，便利群众出行（段凌云，张晓笑，田震，罗劲，刘涵） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Following the fourth-quarter timetable adjustment, additional early-morning trains have been added at Yangjiang and Zhaoqing East.
@@ -595,7 +595,7 @@ Following the fourth-quarter timetable adjustment, additional early-morning trai
 #### Cold Wave and Mountain-Flood Warning Issued for Mid-October
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 应急管理部的微博视频
+> 15日至19日冷空气将影响我国大部地区，带来大风降温和降水天气。此次大范围冷空气过程中北方地区大风降温明显，公众需及时关注气温变化，适时增添衣物，做好防风御寒准备。 重庆东南部、贵州北部、湖北南部、湖南北部、江西北部以及辽宁中部等地部分地区有大到暴雨，其中，湖南北部、湖北东南部等地局地有大暴雨。水利部和中国气象局10月14日18时联合发布黄色山洪灾害气象预警：预计，10月14日20时至15日20时，湖南北部局地发生山洪灾害可能性较大。 天干物燥，防火别忘。及时清理可燃物，电动车不进楼入户。早安~ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A cold wave is forecast to affect most of China from October 15 to 19, bringing strong winds, temperature drops and precipitation, with marked wind and cooling in northern areas. Heavy to torrential rain is forecast in parts of southeastern Chongqing, northern Guizhou, southern Hubei, northern Hunan, northern Jiangxi and central Liaoning, with locally severe rainstorms in northern Hunan and southeastern Hubei. The Ministry of Water Resources and the China Meteorological Administration jointly issued a yellow mountain-flood warning, noting a relatively high risk of mountain floods in parts of northern Hunan.
@@ -608,7 +608,7 @@ A cold wave is forecast to affect most of China from October 15 to 19, bringing 
 #### Northern Hunan Braces for Heavy Rain as Provincial Authorities Issue Flood-Season Reminder
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月14日，湖南省应急委员会办公室发布汛情提醒。14日晚至16日湘北有一次强降雨过程，需做好防范应对。 据省气象部门预报，14日晚至16日湘北有一次强降雨过程。具体预报为：14日晚上至15日白天，湘北阴天有大到暴雨，其中怀化（沅陵）、常德（桃源）、岳阳（市区、临湘）有大暴雨。15日晚上至16日白天，湘北、湘中阴天有小到中等阵雨或雷阵雨，局部大雨，其中怀化（沅陵）、常德（市区）、益阳（安化、桃江）、岳阳（市区、临湘、岳阳县）有暴雨。（来源： ） 三湘都市报的微博视频
+> 10月14日，湖南省应急委员会办公室发布汛情提醒。14日晚至16日湘北有一次强降雨过程，需做好防范应对。 据省气象部门预报，14日晚至16日湘北有一次强降雨过程。具体预报为：14日晚上至15日白天，湘北阴天有大到暴雨，其中怀化（沅陵）、常德（桃源）、岳阳（市区、临湘）有大暴雨。15日晚上至16日白天，湘北、湘中阴天有小到中等阵雨或雷阵雨，局部大雨，其中怀化（沅陵）、常德（市区）、益阳（安化、桃江）、岳阳（市区、临湘、岳阳县）有暴雨。
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 14, the Office of the Hunan Provincial Emergency Committee issued a flood-season reminder warning of a period of heavy rainfall in northern Hunan from the evening of October 14 to October 16. According to the provincial meteorological department, northern Hunan will see overcast skies with heavy to torrential rain from the evening of October 14 to the daytime of October 15, with severe torrential rain in Yuanling in Huaihua, Taoyuan in Changde, and the urban area of Yueyang and Linxiang. From the evening of October 15 to the daytime of October 16, northern and central Hunan will see light to moderate showers or thunderstorms with local heavy rain, including torrential rain in Yuanling in Huaihua, the urban area of Changde, Anhua and Taojiang in Yiyang, and the urban area, Linxiang and Yueyang County in Yueyang.
@@ -634,7 +634,7 @@ With the national railway timetable for the fourth quarter of 2026 taking effect
 #### Hefeng Pingshan Scenic Area to Close Temporarily from October 15 Due to Heavy Rain
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据鹤峰县气象部门发布的最新气象预警信息，近日鹤峰县将出现强降雨天气。屏山旅游景区自2026年10月15日起采取临时闭园措施，恢复开园时间将根据天气情况确定。请游客朋友们合理安排行程。（来源：鹤峰屏山旅游景区）
+> 根据鹤峰县气象部门发布的最新气象预警信息，近日鹤峰县将出现强降雨天气。屏山旅游景区自2026年10月15日起采取临时闭园措施，恢复开园时间将根据天气情况确定。请游客朋友们合理安排行程。
 
 **🇬🇧 Actionable Travel Intel**:  
 Hefeng Pingshan Scenic Area will adopt temporary closure measures starting October 15, 2026, after Hefeng County meteorological authorities issued a weather alert warning of heavy rainfall in the coming days. The reopening date will be determined based on weather conditions. Visitors are advised to arrange their itineraries accordingly.
@@ -647,7 +647,7 @@ Hefeng Pingshan Scenic Area will adopt temporary closure measures starting Octob
 #### China Railway Guangzhou Group Opens First Taishan-Hong Kong West Kowloon High-Speed Rail Service from October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月11日起，首次开行台山往返香港西九龙高铁（段凌云，田震，罗劲，刘涵） 广州铁路的微博视频
+> 10月11日起，首次开行台山往返香港西九龙高铁（段凌云，田震，罗劲，刘涵） 
 
 **🇬🇧 Actionable Travel Intel**:  
 Starting October 11, a high-speed rail service linking Taishan and Hong Kong West Kowloon will operate for the first time.
@@ -660,7 +660,7 @@ Starting October 11, a high-speed rail service linking Taishan and Hong Kong Wes
 #### Guangzhou Museums Offer Free Admission in Mid-to-Late October, Several Requiring Advance Booking
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 金秋十月，广州这些热门场馆限时免费开放 10月中下旬 广州多家热门文博场馆 推出限时免费开放活动 重阳佳节还有古寺惠民福利 市民游客可择期打卡🔎 沉浸式品读广州千年历史🤩 🏛️文博场馆惠民活动｜10月14日免费开放 ✨广东民间工艺博物馆（陈家祠） 被誉为岭南建筑艺术明珠 砖雕、陶塑、灰塑等 “三雕两塑一彩一铸” 工艺荟萃一堂 一步一景尽显岭南古建筑之美 馆内正展出多位工艺大师及 非遗传承人的匠心之作 “薪火流彩 共织华章——当代广彩作品展” 展期将持续至12月中旬 💡参观须知：需通过官方线上渠道预约，凭预约信息排队分批入馆。 ✨南越王博物院（王墓展区） 岭南地区等级最高、保存完好的 汉代彩绘石室墓 可以实地探访古墓遗址 一睹南越国文明风采 众多人打卡的“尼罗河的赠礼”古埃及特展 延期至11月1日闭幕 💡参观须知：免费范围不含收费特展及墓室下层；墓室下层参观需另行预约 ✨广州博物馆（镇海楼展区） 1929 年建成，是华南首座公立博物馆 镇海楼雄踞越秀山 馆藏文物串联起广州两千多年城市发展史 馆内正在展出 “肩上风华——传统云肩与马尼拉披肩展" 展期将持续至12月13日 💡参观须知：需通过官方线上渠道预约 ✨荔湾博物馆 采用 “一馆四区” 布局 涵盖蒋光鼐旧居、陈廉仲旧居、陈廉伯旧居与西关民俗馆 漫步其中感受西关大宅风情与广府民俗 馆内“利通四海，义济天下——广州商人风貌展” 陈列着陈李济、王老吉、潘高寿、永安堂等老字号相关展品 💡参观须知：无需预约，可直接前往免费入馆 ✨珠江・英博国际啤酒博物馆 沿着时间线追溯啤酒发展历史 近距离观看现代化啤酒生产流程 还可以品尝新鲜啤酒 💡参观须知：无需预约，可直接前往免费入馆 🌄重阳专属福利｜10月18日免费开放 ✨光孝寺 素有 “未有羊城，先有光孝” 之说的光孝寺 是广州历史最悠久、规模宏大的佛教名刹 💡参观须知：当日对所有游客免费、免预约入园，市民游客可趁重阳佳节访古寻幽 一城秋意，千年文脉🔮 不妨趁着秋日好时光🍁 走进文博场馆读懂广州故事✨ 来源：广州市文化广电旅游局
+> 金秋十月，广州这些热门场馆限时免费开放 10月中下旬 广州多家热门文博场馆 推出限时免费开放活动 重阳佳节还有古寺惠民福利 市民游客可择期打卡🔎 沉浸式品读广州千年历史🤩 🏛️文博场馆惠民活动｜10月14日免费开放 ✨广东民间工艺博物馆（陈家祠） 被誉为岭南建筑艺术明珠 砖雕、陶塑、灰塑等 “三雕两塑一彩一铸” 工艺荟萃一堂 一步一景尽显岭南古建筑之美 馆内正展出多位工艺大师及 非遗传承人的匠心之作 “薪火流彩 共织华章——当代广彩作品展” 展期将持续至12月中旬 💡参观须知：需通过官方线上渠道预约，凭预约信息排队分批入馆。 ✨南越王博物院（王墓展区） 岭南地区等级最高、保存完好的 汉代彩绘石室墓 可以实地探访古墓遗址 一睹南越国文明风采 众多人打卡的“尼罗河的赠礼”古埃及特展 延期至11月1日闭幕 💡参观须知：免费范围不含收费特展及墓室下层；墓室下层参观需另行预约 ✨广州博物馆（镇海楼展区） 1929 年建成，是华南首座公立博物馆 镇海楼雄踞越秀山 馆藏文物串联起广州两千多年城市发展史 馆内正在展出 “肩上风华——传统云肩与马尼拉披肩展" 展期将持续至12月13日 💡参观须知：需通过官方线上渠道预约 ✨荔湾博物馆 采用 “一馆四区” 布局 涵盖蒋光鼐旧居、陈廉仲旧居、陈廉伯旧居与西关民俗馆 漫步其中感受西关大宅风情与广府民俗 馆内“利通四海，义济天下——广州商人风貌展” 陈列着陈李济、王老吉、潘高寿、永安堂等老字号相关展品 💡参观须知：无需预约，可直接前往免费入馆 ✨珠江・英博国际啤酒博物馆 沿着时间线追溯啤酒发展历史 近距离观看现代化啤酒生产流程 还可以品尝新鲜啤酒 💡参观须知：无需预约，可直接前往免费入馆 🌄重阳专属福利｜10月18日免费开放 ✨光孝寺 素有 “未有羊城，先有光孝” 之说的光孝寺 是广州历史最悠久、规模宏大的佛教名刹 💡参观须知：当日对所有游客免费、免预约入园，市民游客可趁重阳佳节访古寻幽 一城秋意，千年文脉🔮 不妨趁着秋日好时光🍁 走进文博场馆读懂广州故事✨ 
 
 **🇬🇧 Actionable Travel Intel**:  
 Guangzhou's major museums and memorial halls are offering limited-time free admission in mid-to-late October. Free entry begins on October 14 at the Guangdong Folk Art Museum (Chen Clan Ancestral Hall), the Museum of the Nanyue King (Tomb Gallery), the Guangzhou Museum (Zhenhai Tower Gallery), the Liwan Museum, and the Pearl River InBev International Beer Museum. The Guangdong Folk Art Museum, the Museum of the Nanyue King and the Guangzhou Museum require booking through official online channels; free admission at the Museum of the Nanyue King excludes paid special exhibitions and the lower tomb level, which needs a separate reservation, while the Liwan Museum and the Pearl River InBev International Beer Museum admit visitors free of charge without booking. On October 18, Guangxiao Temple opens free of charge to all visitors, with no booking required on that day.
@@ -673,7 +673,7 @@ Guangzhou's major museums and memorial halls are offering limited-time free admi
 #### China Airshow: Public-Day Tickets Go on Sale from October 19, with 23 Dedicated Shuttle Bus Routes in Zhuhai
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 第十六届中国航展将于12月7日至12月13日在珠海举办，公众日门票将于10月19日起发售，珠海将开通23条航展专线巴士直达展馆。 珠海航展 珠海特区报的微博视频
+> 第十六届中国航展将于12月7日至12月13日在珠海举办，公众日门票将于10月19日起发售，珠海将开通23条航展专线巴士直达展馆。 珠海航展 
 
 **🇬🇧 Actionable Travel Intel**:  
 The China Airshow will be held in Zhuhai from December 7 to December 13. Public-day tickets go on sale from October 19, and Zhuhai will open 23 dedicated airshow shuttle bus routes running directly to the exhibition venue.
@@ -712,7 +712,7 @@ On October 11, the G3979 high-speed train, operated by the Chengdu Passenger Tra
 #### Heavy Rain Warning Across Southwest and Central-South China Through October 17
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 央视新闻的微博视频
+> 西南到江南多地正经历一轮强降雨过程。预计，今天8时至明天8时，重庆、贵州、湖北、湖南、云南等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨。在湖北东南部及周边一带，降雨可能具有一定极端性。这轮降雨既有秋雨的绵长，也有类似夏季降雨的急促。16日（周五）开始，长江以北会有大范围降水；17日（周六），中东部很多地方都会下起雨来。注意防范，出门带好雨具！ 
 
 **🇬🇧 Actionable Travel Intel**:  
 A round of intense rainfall is affecting southwest and central-south China. From 8 a.m. today to 8 a.m. tomorrow, parts of Chongqing, Guizhou, Hubei, Hunan and Yunnan are forecast to receive heavy rain, with torrential rain in parts of southeastern Chongqing, northeastern Guizhou and northern Hunan. Rainfall in southeastern Hubei and surrounding areas may be extreme. From Friday, October 16, a broad band of precipitation is expected north of the Yangtze River, and on Saturday, October 17, rain is expected in many parts of central and eastern China. Travelers are advised to take precautions and carry rain gear.
@@ -725,7 +725,7 @@ A round of intense rainfall is affecting southwest and central-south China. From
 #### Hunan Warns of Heavy Rain and Mountain Flood Risk on October 14 and 15
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月13日，湖南省气象台预计，14日至15日受弱冷空气和中低层切变共同影响，湘北有一次较强降雨过程，其中14日湘西北有暴雨，15日湘北有暴雨，局地大暴雨，局地阵风7～9级。 未来三天湖南气象灾害风险以暴雨为主：湘西州、张家界、常德西部、怀化北部、益阳东北部和西部、岳阳中北部有暴雨中风险，其中岳阳（市区、临湘、岳阳县）有暴雨较高风险。 气象专家提醒，需防范14日至15日湘西北、湘北局地较强降雨可能造成山洪、地质灾害、城市内涝等次生灾害风险。防范局地大风对水陆交通、户外作业及农业生产等的影响，做好简易设施、户外广告牌等的防风加固。早晚气温偏低，公众需及时增添衣物，做好健康防护。关注湘南近期连晴天气森林火险等级升高风险，加强户外火源管控等工作；建议抢抓有利天气开展一季稻收晒工作。三湘都市报的微博视频
+> 10月13日，湖南省气象台预计，14日至15日受弱冷空气和中低层切变共同影响，湘北有一次较强降雨过程，其中14日湘西北有暴雨，15日湘北有暴雨，局地大暴雨，局地阵风7～9级。 未来三天湖南气象灾害风险以暴雨为主：湘西州、张家界、常德西部、怀化北部、益阳东北部和西部、岳阳中北部有暴雨中风险，其中岳阳（市区、临湘、岳阳县）有暴雨较高风险。 气象专家提醒，需防范14日至15日湘西北、湘北局地较强降雨可能造成山洪、地质灾害、城市内涝等次生灾害风险。防范局地大风对水陆交通、户外作业及农业生产等的影响，做好简易设施、户外广告牌等的防风加固。早晚气温偏低，公众需及时增添衣物，做好健康防护。关注湘南近期连晴天气森林火险等级升高风险，加强户外火源管控等工作；建议抢抓有利天气开展一季稻收晒工作。
 
 **🇬🇧 Actionable Travel Intel**:  
 Hunan Provincial Meteorological Observatory forecasts a stronger period of rainfall in northern Hunan on October 14 and 15, driven by weak cold air and a mid-to-low level shear line. Torrential rain is expected in northwestern Hunan on October 14 and in northern Hunan on October 15, with locally severe downpours and gusts of force 7 to 9 in places. Over the next three days the main meteorological hazard in Hunan is rainstorm risk: moderate risk is forecast for Xiangxi Prefecture, Zhangjiajie, western Changde, northern Huaihua, northeastern and western Yiyang, and north-central Yueyang, with higher risk in Yueyang (urban area, Linxiang and Yueyang County). Authorities advise guarding against secondary hazards such as mountain floods, geological disasters and urban waterlogging from the intense rain in northwestern and northern Hunan on October 14 and 15, and against the impact of strong winds on water and land transport, outdoor work and agriculture. Mornings and evenings will be cool, so travelers should add clothing.
@@ -738,7 +738,7 @@ Hunan Provincial Meteorological Observatory forecasts a stronger period of rainf
 #### Hubei Yichang-Xingshan High-Speed Railway Opens, Cutting Xingshan-Wuhan Travel Time to 100 Minutes
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 湖北宜昌至兴山高铁开通运营，兴山至武汉最快100分钟可达。全长101公里的宜兴高铁穿行鄂西山区，全线桥隧比高达94.4%。宜兴高铁形成了“兴山—宜昌—荆门—襄阳—神农架—兴山”的鄂西环线高铁路径。武汉至重庆间部分高铁列车经由宜兴高铁运行后，最快3小时54分钟可达。山乡与城市、长江中上游地区的联系更加紧密。 （文旅+交通） （光明日报全媒体记者王建宏、张锐 通讯员杨璨） 
+> 湖北宜昌至兴山高铁开通运营，兴山至武汉最快100分钟可达。全长101公里的宜兴高铁穿行鄂西山区，全线桥隧比高达94.4%。宜兴高铁形成了“兴山—宜昌—荆门—襄阳—神农架—兴山”的鄂西环线高铁路径。武汉至重庆间部分高铁列车经由宜兴高铁运行后，最快3小时54分钟可达。山乡与城市、长江中上游地区的联系更加紧密。 （文旅+交通） 
 
 **🇬🇧 Actionable Travel Intel**:  
 The 101-km Yichang-Xingshan High-Speed Railway has officially opened for passenger operation in western Hubei, with bridges and tunnels accounting for 94.4% of the route. The new line establishes a regional high-speed rail loop linking Xingshan, Yichang, Jingmen, Xiangyang, and Shennongjia, enabling fastest travel times of 100 minutes between Xingshan and Wuhan and 3 hours 54 minutes on select Wuhan-Chongqing high-speed trains routing via the Yichang-Xingshan corridor.
@@ -764,7 +764,7 @@ Multiple scenic areas in Qingyuan have suspended seasonal rafting operations and
 #### Haikou Meilan International Airport: Direct Passenger Flights Launched to Penang and Kota Kinabalu, Malaysia
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 10月11日，海口美兰国际机场（以下简称“美兰机场”）正式开通海口⇌槟城、海口⇌亚庇两条马来西亚直飞客运航线。两条航线开通后，旅客从海口出发无需中转，即可直抵槟城南洋老城与亚庇落日海岸。 海口美兰机场新开两条马来西亚客运航线 via.南海网
+> 10月11日，海口美兰国际机场（以下简称“美兰机场”）正式开通海口⇌槟城、海口⇌亚庇两条马来西亚直飞客运航线。两条航线开通后，旅客从海口出发无需中转，即可直抵槟城南洋老城与亚庇落日海岸。 海口美兰机场新开两条马来西亚客运航线
 
 **🇬🇧 Actionable Travel Intel**:  
 On October 11, Haikou Meilan International Airport officially launched two direct passenger air routes to Malaysia: Haikou to Penang and Haikou to Kota Kinabalu, allowing travelers to fly nonstop between Haikou and both Malaysian destinations without transit.
@@ -803,7 +803,7 @@ China Railway Kunming Group reminds passengers that Mohan Railway Port does not 
 #### Wuhan Metro Sets Up Free Self-Service Luggage Storage at Key Stations
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 为方便八方来客轻松游玩武汉，武汉地铁在司门口黄鹤楼站、梨园站、武昌火车站等站点设大件行李临时存放点。游客可在站内免费自助寄存大件行李，卸下负担轻装玩武汉。 湖北文旅的微博视频
+> 为方便八方来客轻松游玩武汉，武汉地铁在司门口黄鹤楼站、梨园站、武昌火车站等站点设大件行李临时存放点。游客可在站内免费自助寄存大件行李，卸下负担轻装玩武汉。 
 
 **🇬🇧 Actionable Travel Intel**:  
 Wuhan Metro has set up temporary oversized luggage storage points at stations including Simenkou Yellow Crane Tower Station, Liyuan Station, and Wuchang Railway Station. Travelers can store their large baggage inside these stations using free self-service facilities.
@@ -842,7 +842,7 @@ An underground corridor connecting the P3 underground parking garage at Wuhan Ra
 #### Wuhan Intercity Railway Timetable Adjusted with Early Morning Service from October 11
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 根据最新列车时刻表，新增的D5876次列车（仙桃-黄冈东）将于早上6:52从仙桃站准时发车。该趟列车沿途经停汉川、武昌、武汉东、黄冈西。这趟早班车的开行，意味着在武汉武昌、光谷（武汉东站）等片区上班的仙桃“早八人”，可以在家门口吃完早餐后从容出发，预计7点半左右即可抵达武汉，完美赶上正常上班时间。与此同时，清晨6:33，由汉口开来的D5871次列车也将抵达仙桃站，极大方便了在汉过夜的仙桃人一早返乡。#知音湖北乐享金秋# #湖北的秋天有亿点点好玩# 
+> 根据最新列车时刻表，新增的D5876次列车（仙桃-黄冈东）将于早上6:52从仙桃站准时发车。该趟列车沿途经停汉川、武昌、武汉东、黄冈西。这趟早班车的开行，意味着在武汉武昌、光谷（武汉东站）等片区上班的仙桃“早八人”，可以在家门口吃完早餐后从容出发，预计7点半左右即可抵达武汉，完美赶上正常上班时间。与此同时，清晨6:33，由汉口开来的D5871次列车也将抵达仙桃站，极大方便了在汉过夜的仙桃人一早返乡。
 除了备受瞩目的清晨首班车，本次调图后，仙桃站的列车线路和时间分布更加科学密集，为武仙同城化提供了全方位的交通支撑：
 上午时段：10:50，D5768次（仙桃-阳新）经停武昌、武汉东、葛店南等站；11:05，D5220次前往汉口。
 午后至晚间：13:14（D5204）、17:03（D5202）、20:06（D5208）、20:43（D5826）均有前往汉口方向的列车；19:13更有D5240次前往云梦东（经停汉口、孝感东）。
@@ -1047,7 +1047,7 @@ Guangxi has expanded its "Buy-Now Refund-Now" departure tax refund service acros
 #### Guangxi Weather Alert: Moderate to Heavy Rain and Gale Warnings Across Coastal & Eastern Cities
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #广西天气# 【近期广西有雨 假期出行多留意】10月4日白天，崇左、南宁、贵港、梧州、玉林、北海、钦州、防城港等市有中雨、局地大雨或暴雨并伴有短时雷暴大风等强对流天气，其他地区多云到阴天有阵雨或雷雨、局地大雨。 森林火险气象等级：全区1-2级，低到较低火险。 5日晚上到6日白天，全区多云到晴天。 3日晚上到5日，受冷空气影响，各地日平均气温下降4～6℃、局地8℃以上，桂东部分地区和沿海有5～6级、阵风7～8级偏北风。 4日起，桂北大部有3-5天日平均气温≤22℃的寒露风天气。（来源：广西气象）
+> 【近期广西有雨 假期出行多留意】10月4日白天，崇左、南宁、贵港、梧州、玉林、北海、钦州、防城港等市有中雨、局地大雨或暴雨并伴有短时雷暴大风等强对流天气，其他地区多云到阴天有阵雨或雷雨、局地大雨。 森林火险气象等级：全区1-2级，低到较低火险。 5日晚上到6日白天，全区多云到晴天。 3日晚上到5日，受冷空气影响，各地日平均气温下降4～6℃、局地8℃以上，桂东部分地区和沿海有5～6级、阵风7～8级偏北风。 4日起，桂北大部有3-5天日平均气温≤22℃的寒露风天气。
 
 **🇬🇧 Actionable Travel Intel**:  
 Guangxi Meteorological Bureau issued weather advisories for moderate rain and localized downpours accompanied by short-term convective gales on October 4 across Chongzuo, Nanning, Guigang, Wuzhou, Yulin, Beihai, Qinzhou, and Fangchenggang. Cold air is forecast to reduce daily average temperatures by 4–6°C (locally exceeding 8°C), with coastal and eastern areas experiencing northerly winds of force 5–6 and gusts of force 7–8.
@@ -1073,7 +1073,7 @@ China Railway Wuhan Bureau announced that starting September 29, 2026, the forme
 #### Golden Week Transit Peaks: Top 10 Transit Hubs & 910 Added Passenger Trains
 
 > **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> #铁路中秋国庆假期运输# 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
+> 【10月3日全国铁路预计发送旅客1890万人次】10月2日，全国铁路发送旅客2076.5万人次，运输安全平稳有序。10月3日，铁路客流继续保持高位运行，中短途客流增多，全国铁路预计发送旅客1890万人次，计划加开旅客列车910列。从铁路12306预售情况来看，今日热门出发城市主要有北京、广州、上海、成都、杭州、深圳、武汉、南京、西安、郑州；热门到达城市主要有广州、北京、成都、上海、杭州、深圳、南京、武汉、西安、郑州；武汉往返长沙，南宁往返广州，西安往返成都，北京至济南、沈阳等热门区间客流相对集中。
 
 **🇬🇧 Actionable Travel Intel**:  
 China Railway handled 20,765,000 passenger journeys on October 2 and projected 18,900,000 journeys on October 3, scheduling 910 additional passenger trains. Top departure hubs identified via Railway 12306 included Beijing, Guangzhou, Shanghai, Chengdu, Hangzhou, Shenzhen, Wuhan, Nanjing, Xi'an, and Zhengzhou, with passenger concentrations on corridors including Wuhan–Changsha, Nanning–Guangzhou, and Xi'an–Chengdu.
