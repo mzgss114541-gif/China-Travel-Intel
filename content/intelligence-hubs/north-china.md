@@ -6,6 +6,32 @@
 
 ---
 
+### November 7, 2026 &bull; 14:30 CST
+#### Beijing Issues Yellow Alerts for Blizzard and Road Icing Across Suburban Districts
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【北京多区发布暴雪、道路结冰预警！30秒搞懂暴雪应对】昨日，本市发布分区暴雪黄色预警。预计11月7日中午至8日上午，延庆、怀柔、密云、平谷、昌平、门头沟、房山等区的部分地区有大雪到暴雪，12小时降雪量将达到6毫米以上。 此外，北京多区发布道路结冰黄色预警。 暴雪来袭，该注意什么30秒搞懂这些安全提醒→ https://mp.weixin.qq.com/s/DhS5eMWB0CvJCLmGuvDh5A （北京应急）
+
+**🇬🇧 Actionable Travel Intel**:  
+Beijing authorities have issued district-level Yellow Alerts for blizzards and road icing. From noon on November 7 to the morning of November 8, parts of Yanqing, Huairou, Miyun, Pinggu, Changping, Mentougou, and Fangshan districts are forecast to experience heavy snow to blizzard conditions, with 12-hour snowfall reaching 6 mm or more. Travelers heading to northern and western suburban districts should anticipate icy roads and winter travel disruptions.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RqhaLAYZR)
+
+---
+
+### November 7, 2026 &bull; 08:54 CST
+#### National Blizzard Yellow Warning Covers Northern Provinces with Snow Accumulations up to 20 cm
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中央气象台今晨6时发布暴雪黄色预警：预计11月7日08时至8日08时，内蒙古东南部、辽宁西部、山西北部、河北中北部、北京西部和北部、天津北部等地部分地区有大到暴雪，其中，辽宁西部、河北东北部等地部分地区有大暴雪（20～29毫米）。上述部分地区新增积雪深度5～15厘米，局地可达20厘米以上。 暴雪来袭，这份防御指南请查收↓↓↓
+
+**🇬🇧 Actionable Travel Intel**:  
+The National Meteorological Center issued a Yellow Warning for Blizzards. From 08:00 on November 7 to 08:00 on November 8, heavy snow to blizzards are forecast across southeastern Inner Mongolia, western Liaoning, northern Shanxi, central-northern Hebei, western and northern Beijing, and northern Tianjin. Western Liaoning and northeastern Hebei face severe blizzards with 20 to 29 mm of precipitation. Newly accumulated snow depth is forecast at 5 to 15 cm, with localized areas exceeding 20 cm. Cross-regional road and rail travelers across northern China should prepare for winter weather delays.
+
+> **Verified Source**: [Ministry of Emergency Management of the PRC (应急管理部, Sina Weibo)](https://weibo.com/5342220662/RqeYrBdQP)
+
+---
+
 ### November 6, 2026 &bull; 17:09 CST
 #### Direct Shuttle Opens Between Harbin Airport and Yabuli Resort, 260 km in About Three Hours
 

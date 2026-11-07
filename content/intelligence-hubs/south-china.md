@@ -6,6 +6,19 @@
 
 ---
 
+### November 7, 2026 &bull; 12:00 CST
+#### Guangxi Launches Themed Tourist Train Connecting Nanning, Liuzhou, and Guilin
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月7日起，“八桂嗦粉”主题专列开行，南宁、柳州、桂林串成一线，上车嗦粉、下车赏景～ 🍜 车上嗦三碗粉 老友粉、螺蛳粉、桂林米粉一次吃齐，设美食体验区，米粉非遗传承人现场讲米粉故事，打卡集章仪式感拉满 🎤 车厢不无聊 餐车+移动练歌房+休闲娱乐区；一人软包最多可带2名旅客同行；配老花镜、应急医药箱等适老用品 🏞️ 凭车票享8折 两日内车票或12306购票信息，柳州铁道大酒店、南溪花园酒店、夜游柳江、两江四湖、芦笛岩、独秀峰等合作酒店景区门市价最高8折 📅 开行信息 南宁→桂林北Y878：11月7日、15日，南宁8:00开，柳州11:22/30，桂林北14:42到 桂林北→南宁Y877：11月8日、14日，桂林北8:30开，柳州11:44/50，南宁15:10到 12306网站/APP搜“南宁→桂林北”选对应日期车次 #广西嗦粉专列 #八桂嗦粉 #南宁周边游 #桂林旅游 #柳州螺蛳粉 #老友粉 #桂林米粉 #火车旅行
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting November 7, a themed tourist train connects Nanning, Liuzhou, and Guilin. Train Y878 departs Nanning at 8:00 on November 7 and 15, stopping in Liuzhou (11:22/11:30) and arriving at Guilin North at 14:42. Return train Y877 departs Guilin North at 8:30 on November 8 and 14, stopping in Liuzhou (11:44/11:50) and arriving in Nanning at 15:10. Tickets can be booked on the official 12306 platform by searching the Nanning to Guilin North route for designated dates. Passengers with train tickets or 12306 purchase records within 2 days can receive up to a 20% discount on rack rates at partner hotels and scenic spots including Two Rivers and Four Lakes, Reed Flute Cave, and Solitary Beauty Peak.
+
+> **Verified Source**: [Nanning Municipal Bureau of Culture and Tourism (南宁文旅, Sina Weibo)](https://weibo.com/1971263622/RqgbT0jIP)
+
+---
+
 ### November 6, 2026 &bull; 15:45 CST
 #### Cross-Border Trains Run Direct From Guangxi to Hong Kong West Kowloon
 

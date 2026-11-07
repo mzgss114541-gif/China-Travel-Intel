@@ -6,6 +6,19 @@
 
 ---
 
+### November 7, 2026 &bull; 10:00 CST
+#### Tickets for Z, N, V, and Y Passenger Trains on Sale from November 11 Ahead of Numbering Adjustments
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 铁路普速旅客列车和旅游列车车次变更将于11月25日0时实施，相关列车火车票将于11月11日起陆续发售。 交通运输部的微博视频
+
+**🇬🇧 Actionable Travel Intel**:  
+According to the Ministry of Transport, schedule and numbering changes for conventional passenger trains and tourist trains will take effect at 00:00 on November 25. Train tickets for the affected services, including Z-, N-, V-, and Y-prefix trains, will go on sale progressively starting November 11.
+
+> **Verified Source**: [Ministry of Transport of the PRC (交通运输部, Sina Weibo)](https://weibo.com/7073634525/RqfpbpueY)
+
+---
+
 ### November 6, 2026 &bull; 00:00 CST
 #### China Renumbers Slow Trains From 25 November; First Tickets On Sale 11 November
 
