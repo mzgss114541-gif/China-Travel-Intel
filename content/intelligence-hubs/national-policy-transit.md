@@ -6,6 +6,19 @@
 
 ---
 
+### November 7, 2026 &bull; 20:32 CST
+#### National Meteorological Center Issues Yellow and Blue Alerts for Nationwide Blizzards, Rainstorms, Cold Wave, and Gales
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 中东部地区将有大范围雨雪寒潮天气 预计11月7日20时至8日20时，北京西部和北部、天津北部、河北北部、辽宁西部和南部、内蒙古东南部、山西东北部以及甘肃中西部、青海东北部等地部分地区有大到暴雪，其中，辽宁西部、河北东北部等地部分地区有大暴雪，局地特大暴雪（30～32毫米）。上述部分地区新增积雪深度5～15厘米，局地可达20厘米以上。中央气象台11月7日18时继续发布暴雪黄色预警。 预计，11月7日20时至8日20时，安徽东部和南部、江苏西部和南部、浙江中西部、江西北部、湖北东南部、湖南北部和西部、四川盆地西部、贵州中东部和南部、云南东部和南部、广西南部、广东西南部等地的部分地区有大雨，其中安徽南部、湖北东南部、湖南北部、江西北部等地的部分地区有暴雨(50～90毫米)。上述部分地区伴有短时强降水（最大小时降雨量20～30毫米，局地可超过40毫米），局地有雷暴大风等强对流天气。中央气象台11月7日18时继续发布暴雨蓝色预警。 受寒潮影响，预计，2026年11月7日20时至10日08时，西北地区中东部、东北地区北部、华北大部、黄淮、江淮、江汉、西南地区东部和南部、江南、华南等地将先后降温6～10℃，其中，陕西北部、河北东北部、山东西部和南部、江苏北部和西南部、安徽大部、湖北东部、浙江中西部、江西大部、福建中西部、广东北部、四川西南部、云南东部、贵州西部等地的部分地区降温10～12℃，局地降温可达14℃以上；11月10日早晨，最低温度0℃线将南压至陕西南部到华北南部至黄淮东南部一带。中央气象台11月7日18时发布寒潮蓝色预警。 预计，11月7日20时至8日20时，新疆东部、内蒙古中西部、宁夏、陕西北部、山西南部、天津、河北东部和南部、山东中西部、河南北部和东部、湖北中东部、湖南中北部、苏皖中北部以及四川盆地西部等地的部分地区有5~6级风，阵风7~8级；渤海、渤海海峡、黄海西部海域、东海西南部海域、台湾海峡、巴士海峡、南海东北部海域将有7~8级、阵风9级的大风，其中渤海西部和台湾海峡的部分海域风力可达9级、阵风10~11级。中央气象台11月7日18时继续发布大风蓝色预警。
+
+**🇬🇧 Actionable Travel Intel**:  
+The National Meteorological Center has issued four concurrent weather warnings for central and eastern China: a Yellow Alert for Blizzards, alongside Blue Alerts for Rainstorms, Cold Waves, and Gales. From 20:00 on November 7 to 20:00 on November 8, heavy snow to blizzards are forecast across western and northern Beijing, northern Tianjin, northern Hebei, western and southern Liaoning, southeastern Inner Mongolia, northeastern Shanxi, central-western Gansu, and northeastern Qinghai, with localized extreme blizzards (30 to 32 mm) in western Liaoning and northeastern Hebei, and snow depths reaching 5 to 15 cm (over 20 cm locally). Meanwhile, heavy rain to rainstorms (50 to 90 mm) affect parts of Anhui, Jiangsu, Zhejiang, Jiangxi, Hubei, Hunan, Sichuan Basin, Guizhou, Yunnan, Guangxi, and Guangdong. A cold wave from 20:00 on November 7 to 08:00 on November 10 will lower temperatures across northwest, northeast, north, central, southwest, and southern China by 6 to 10°C, with localized drops reaching 10 to 12°C and over 14°C, pushing the 0°C freezing line to southern Shaanxi and southern North China by the morning of November 10. Inland regions face scale 5 to 6 winds with gusts of 7 to 8, while maritime basins including Bohai and Taiwan Strait experience scale 7 to 8 winds with gusts up to scale 9 to 11. Cross-regional road, rail, flight, and maritime travelers across China should anticipate delays.
+
+> **Verified Source**: [National Meteorological Centre of China (中央气象台, Sina Weibo)](https://weibo.com/2015108055/RqjxS1cqR)
+
+---
+
 ### November 7, 2026 &bull; 10:00 CST
 #### Tickets for Z, N, V, and Y Passenger Trains on Sale from November 11 Ahead of Numbering Adjustments
 

@@ -6,6 +6,19 @@
 
 ---
 
+### November 7, 2026 &bull; 22:43 CST
+#### Wuyuezhai Scenic Area in Shijiazhuang Closes Early for Winter from November 8 Due to Heavy Snowfall
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受极端天气影响，五岳寨景区突降大雪，景区登山步道积雪结冰，游览存在较大安全隐患，已不具备正常开放条件。为切实保障广大游客安全，经综合研判，原定于2026年11月9日的年度闭园时间，提前至2026年11月8日起正式闭园。已购买景区门票的游客，可通过原购票渠道申请全额退款。 https://mp.weixin.qq.com/s/dV4ihbp9ON_kC6Rwuu35Dw
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to extreme weather and sudden heavy snowfall causing snow and ice accumulation on hiking trails, Wuyuezhai Scenic Area in Shijiazhuang has advanced its annual winter closure from the original November 9 date to November 8, 2026. Visitors who have already purchased admission tickets can apply for a full refund through their original booking channel.
+
+> **Verified Source**: [Shijiazhuang Municipal Bureau of Culture and Tourism (石家庄文旅之声, Sina Weibo)](https://weibo.com/2516150701/RqkoZyd81)
+
+---
+
 ### November 7, 2026 &bull; 14:30 CST
 #### Beijing Issues Yellow Alerts for Blizzard and Road Icing Across Suburban Districts
 
