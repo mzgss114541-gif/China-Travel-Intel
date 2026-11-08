@@ -6,6 +6,19 @@
 
 ---
 
+### November 8, 2026 &bull; 10:40 CST
+#### China Railway to Launch Nationwide Train Numbering Reform on November 25, 2026, Introducing "N" and "V" Prefixes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今日试点预约购票服务的京沪铁路，首批新车次的车票，已经兑现预约啦！V、N字头首次亮相。根据全国铁路列车车次编排改革工作安排，第一批车次变更即将实施，11月25日0时起始发开行的普速旅客列车，将正式启用新车次，使用Z、N、V字头字母相关车票，将于11月11日起陆续发售。 Q：普速旅客列车车次编排有哪些变化？ 普速旅客列车方面，将原有T字头调整为N字头，原有K字头及无字头的数字号段车次调整为V字头，Z字头保持不变、仅调整读音和部分数字号段。 Q：新版列车车次中的字母怎么念？代表什么意思？ Z按英文字母读音，表示最高运行时速160公里的快速旅客列车，车次编排为Z1-Z1998。 N按英文字母读音，表示最高运行时速140公里的快速旅客列车，车次为N1-N1998。 V按英文字母读音，表示最高运行时速120公里的普速旅客列车，其中，快速旅客列车车次编排为V1-V5998、普通旅客快车车次为V6001-V6998、普通旅客慢车车次为V7001-V7998。 Q：新车次列车的开行区段有变化吗？ 车次变更后，新车次列车的开行区段、运行时刻基本保持不变。 Q：原车次配置的在途服务还能使用吗？ 车次变更后，原车次配置的轻装行、铁路畅行码、互联网订餐等在途服务，标识方式、服务内容、产品体验保持稳定，旅客可以继续使用。
+
+**🇬🇧 Actionable Travel Intel**:  
+Under the nationwide passenger train numbering reform, China Railway will officially introduce updated train numbers for conventional passenger trains departing from 00:00 on November 25, 2026. Passenger tickets bearing new train prefixes Z, N, and V will go on sale starting November 11. Key numbering adjustments include: former "T" fast trains are re-designated as "N" prefix trains (operating at maximum speeds of 140 km/h, numbered N1–N1998); former "K" trains and numerical train numbers without letter prefixes are re-designated as "V" prefix trains (operating at maximum speeds of 120 km/h, categorized into fast passenger trains numbered V1–V5998, express trains V6001–V6998, and ordinary passenger trains V7001–V7998); "Z" trains (maximum speed 160 km/h, numbered Z1–Z1998) retain their prefix with letter pronunciation and specific numerical ranges adjusted. Operational sections and timetables remain fundamentally unchanged. In-transit services—including luggage forwarding (Qingzhuangxing), Railway Changxing QR codes, and online meal ordering—remain stable and available.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/Rqp5UjYsQ)
+
+---
+
 ### November 7, 2026 &bull; 20:32 CST
 #### National Meteorological Center Issues Yellow and Blue Alerts for Nationwide Blizzards, Rainstorms, Cold Wave, and Gales
 

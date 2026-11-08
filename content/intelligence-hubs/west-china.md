@@ -6,6 +6,19 @@
 
 ---
 
+### November 8, 2026 &bull; 12:22 CST
+#### Jade Dragon Snow Mountain Issues Blizzard and Severe Temperature Drop Advisory Through November 10
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 尊敬的游客朋友: 根据丽江市气象台2026年11月7日11时10分【强降温降雪消息】预计8日下午至10日，玉龙雪山区域有雨夹雪或小到中雪，冰川公园有暴雪，过程最高气温累计下降6～10℃，冰川公园最低气温将降至-3～-4℃；过程期间风速较大，平均风速4～5级，极大风速可达7～9级；雨雪天气易造成能见度下降、路面结冰、道路湿滑。请您出行前，留意气象预报，关注天气变化，提前合理做好出游规划，御寒保暖，防范高原旅游反应工作。如需咨询及帮助，请您拨打景区服务热线0888-5131068，感谢支持与配合。
+
+**🇬🇧 Actionable Travel Intel**:  
+According to weather warnings issued in Lijiang, sleet or light-to-moderate snow is forecast across Yulong Snow Mountain from the afternoon of November 8 through November 10, 2026, with blizzards expected at Glacier Park. Peak temperatures across the mountain will drop by 6–10°C, with minimum temperatures at Glacier Park falling to -3°C to -4°C. Winds will average scale 4–5 with gusts reaching scale 7–9. Snow and icy conditions may reduce visibility and make road surfaces slippery. Travelers are advised to monitor weather forecasts, dress warmly against the cold, take precautions against high-altitude sickness, and plan itineraries prudently. For inquiries or assistance, the scenic area service hotline is 0888-5131068.
+
+> **Verified Source**: [Jade Dragon Snow Mountain Scenic Area Administration (丽江玉龙雪山, Sina Weibo)](https://weibo.com/5288549152/RqpLHgSjy)
+
+---
+
 ### November 6, 2026 &bull; 19:47 CST
 #### Qinghai Scenic Areas Enter Winter Closure and Maintenance Period
 

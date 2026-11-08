@@ -6,6 +6,19 @@
 
 ---
 
+### November 8, 2026 &bull; 10:29 CST
+#### Snowfall Prompts Operational Speed Restrictions on Tianjin–Qinhuangdao High-Speed Railway
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 受河北省秦皇岛、唐山等部分地区持续降雪天气影响，为保证旅客列车运行安全，铁路部门对途经津秦高铁的旅客列车采取限速运行措施。铁路部门提醒，请广大旅客朋友及时关注中国铁路12306网站（12306手机APP）信息或车站公告，妥善安排出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to ongoing snowfall across parts of Qinhuangdao and Tangshan in Hebei Province, railway authorities have implemented operational speed restrictions on passenger trains traversing the Tianjin–Qinhuangdao High-Speed Railway (津秦高铁) to safeguard travel safety. Passengers traveling along this route should monitor real-time updates via the China Railway 12306 website or mobile app, or consult local station announcements.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/Rqp1H3RlO)
+
+---
+
 ### November 7, 2026 &bull; 22:43 CST
 #### Wuyuezhai Scenic Area in Shijiazhuang Closes Early for Winter from November 8 Due to Heavy Snowfall
 
