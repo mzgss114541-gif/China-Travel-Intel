@@ -6,6 +6,32 @@
 
 ---
 
+### November 9, 2026 &bull; 13:55 CST
+#### Namtso Shengxiang Tianmen Scenic Area Closed Due to Snow and Icy Roads
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 纳木错圣象天门景区闭园公告 各位游客朋友们，由于景区突降大雪，受大风大雪天气影响，景区道路积雪结冰，通行存在重大安全隐患，为切实保障游客的出行安全，游客及群众暂停进入景区。景区已组织工作人员全力开展除雪工作，开放时间另行通知；已经购买景区门票的游客，可申请无损退票，感谢您的理解与配合。 ❗温馨提示：本次暂停开放仅为纳木错圣象天门景区，纳木错扎西岛景区正常对外开放，请广大游客合理规划出行路线。
+
+**🇬🇧 Actionable Travel Intel**:  
+Namtso Shengxiang Tianmen Scenic Area in Tibet is temporarily closed to visitors due to sudden heavy snowfall, high winds, and road icing. Snow removal operations are in progress, and the reopening date will be announced separately. Visitors who purchased tickets are eligible for full refunds without processing fees. Namtso Zhaxi Island Scenic Area remains open as normal.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RqzNS8ECA)
+
+---
+
+### November 9, 2026 &bull; 12:55 CST
+#### Traffic Control on G216 Highway to Gyirong County Extended to November 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 吉隆县城，全长 13.315km）路面养护施工管制延期至11 月 15 日 24 时。 ✅通行安排：-- 封闭时段：8:30—12:30、13:30—17:00、18:00—23:00 开放通行：23:00— 次日 8:30；12:30-13:30、17:00-18:00 正常通行 ✅应急抢险、救护、消防、军警车辆服从现场指挥优先通行 ✅施工路段限速 10km/h，请按标识有序通行 请往来游客、司乘关注 “西藏交通”“西藏公路”“吉隆融媒” 实时路况，合理规划出行，不便敬请谅解。
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to blizzard conditions, maintenance traffic control along the 13.315 km section of National Highway G216 (from Kongtang LASHAN Tunnel entrance to Gyirong County seat) has been extended through November 15 at 24:00. The road is closed daily during three periods: 8:30–12:30, 13:30–17:00, and 18:00–23:00. Traffic is permitted from 23:00 to 8:30 the following day, as well as 12:30–13:30 and 17:00–18:00. The speed limit along the construction section is 10 km/h.
+
+> **Verified Source**: [Shigatse Bureau of Culture and Tourism (文旅日喀则, Sina Weibo)](https://weibo.com/2257962015/RqzpeanVx)
+
+---
+
 ### November 8, 2026 &bull; 12:22 CST
 #### Jade Dragon Snow Mountain Issues Blizzard and Severe Temperature Drop Advisory Through November 10
 

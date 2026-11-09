@@ -6,6 +6,19 @@
 
 ---
 
+### November 9, 2026 &bull; 17:00 CST
+#### Additional Shenzhen East–Nanchang Trains via Dongguan East Scheduled for November 12–23
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为满足赣粤两地旅客通勤、探亲出行需求，缓解跨省客流压力，11月12日起，东莞东站新增22趟深圳东⇌南昌往返临时旅客列车，补强赣粤跨省出行通道，相关车票已陆续发售。 本次临客每日开行： ✅深圳东→南昌 K4362次（夕发朝至） 11月12日—22日每日开行 深圳东18时20分始发，东莞东19时13分到、19时19分开，次日7时51分终到南昌 ✅南昌→深圳东 K4361次 11月13日—23日每日开行 南昌8时51分始发，东莞东18时50分到、18时56分开，19时34分终到深圳东 💡温馨提示：临客计划随客流动态调整，请通过12306查询信息。请预留充足时间进站安检，携带儿童出行请备好儿童有效身份证件。（罗肆安，陈东明，李德民）
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Guangzhou Group is operating 22 additional round-trip temporary passenger trains between Shenzhen East and Nanchang via Dongguan East from November 12 to 23. Overnight train K4362 departs Shenzhen East at 18:20, stops at Dongguan East from 19:13 to 19:19, and arrives in Nanchang at 7:51 the following morning (running daily November 12–22). Train K4361 departs Nanchang at 8:51, stops at Dongguan East from 18:50 to 18:56, and arrives in Shenzhen East at 19:34 (running daily November 13–23). Tickets are available through Railway 12306.
+
+> **Verified Source**: [China Railway Guangzhou Group (广州铁路, Sina Weibo)](https://weibo.com/1923237421/RqB0EdKH0)
+
+---
+
 ### November 7, 2026 &bull; 12:00 CST
 #### Guangxi Launches Themed Tourist Train Connecting Nanning, Liuzhou, and Guilin
 
