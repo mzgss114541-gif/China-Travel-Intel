@@ -6,19 +6,6 @@
 
 ---
 
-### November 9, 2026 &bull; 15:30 CST
-#### China Railway to Implement New Train Numbering System for Regular Passenger and Tourist Trains Starting November 25
-
-> **🇨🇳 官方通告原文 (Source Dispatch)**:  
-> 【普速旅客列车和旅游列车车次变更将于11月25日0时实施，相关列车火车票将于11月11日起陆续发售】全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施。11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次。 按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车4700余列。 变更后，新车次列车的开行区段、运行时刻基本保持不变。第一批实行新车次的列车车票将于11月11 日起陆续发售，其中试点预约购票服务的京沪铁路新车次的车票将于11月6日起陆续兑现。动车组列车车次此次变更暂时保持不变，将于12月下旬实施变更。 由于火车票有15天预售期，部分旅客列车过渡期内在铁路12306平台可能出现“同一列车在不同日期有两种表达”情况。铁路12306平台将在APP首页及车票查询页面增加信息提示，同时加大信息推送力度，各大车站将通过广播、站内公告、电子显示屏等方式及时公告新车次列车开行动态和旅客出行指引。有出行需求的旅客请务必详细核对列车车次、到发车站、运行时刻等信息，以免误购误乘、影响行程。 铁路部门提示，第二批列车车次变更将于12月下旬实施，包括高速旅客列车、动集旅客列车、城际旅客列车、市郊（域）旅客列车、动车组快运列车等类型列车，届时铁路部门将及时向社会发布相关信息。
-
-**🇬🇧 Actionable Travel Intel**:  
-China Railway is implementing the 2026 edition of train numbering rules. Starting November 25 at 00:00, regular passenger trains will transition to letter prefixes Z, N, and V, while tourist trains will use prefix Y. Timetables and route sections remain unchanged. Tickets under the new numbering system go on sale starting November 11. High-speed and EMU train numbers remain unchanged until late December. During the 15-day pre-sale transition window, the Railway 12306 platform may display the same train under two different numbers on different dates.
-
-> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/RqAqnzfze)
-
----
-
 ### November 8, 2026 &bull; 10:40 CST
 #### China Railway to Launch Nationwide Train Numbering Reform on November 25, 2026, Introducing "N" and "V" Prefixes
 
