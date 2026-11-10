@@ -6,6 +6,19 @@
 
 ---
 
+### November 10, 2026 &bull; 08:53 CST
+#### Jiuzhaigou National Park Enters Low Season with Adjusted Hours and Pricing
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 说明 作者：九寨沟管理局 分类：旅游公告 日期：2026年11月10日 亲爱的游客朋友们： 为做好世界自然遗产地生态保育、保障游客游览安全，九寨沟景区自2026年11月16日至2027年3月31日实施季节性轮休保育，届时将关闭部分景点及栈道，同时执行淡季旅游政策，现将有关事项通告如下： 一、淡季票价 门票：80元/人。 观光车票：80元/人。 保险费：10元/人，自愿购买。 二、淡季日承载量 根据《中华人民共和国旅游法》有关规定，九寨沟景区淡季日承载量为2.3万人次。 三、淡季运营时间 入园时间：8:30-14:00 闭园时间：18:00 四、温馨提示 1.防寒防滑与游览安全：冬季早晚温差大，请备好羽绒服、防滑保暖鞋、围巾手套；路面湿滑，建议缓步慢行，勿跑跳、推搡、追逐打闹；请勿离开栈道，攀爬或翻越栏杆，不攀树折枝，不乱刻乱画；请勿下滩踩水嬉戏，严禁游泳。 2.特殊人群与高海拔健康：未成年人须在家长监护下游览，请勿单独行动；游览海拔较高景点时，请勿大量饮水，不做剧烈运动。 3.服从管理、安全有序：入园、游览及乘坐观光车时，请在规定站点依次有序排队，听从工作人员安排，不拥挤、不插队、相互礼让；景区弯道较多，乘车时请抓好扶手；配合、服从工作人员统一指挥，注意防范次生地质灾害，保障自身和他人安全。 4.严格防火：景区属森林草原防火重点区域，除诺日朗服务中心为景区内唯一吸烟区外，景区内严禁吸烟、携带易燃易爆物品入园，严格遵守防火规定。 5.沟内游、沟外住：景区内严禁住宿，请自行选择景区外住宿。 6.环境卫生：请勿随地吐痰、乱丢垃圾。 7.动物保护：请勿大声喧哗；请勿投喂野生动物、喂鱼喂鸭；禁止携带宠物入园；严禁私自携带、放生、遗弃任何动植物及其他活体（含宠物）。 8.禁止违规携带与使用：未经允许，禁止使用无人机等飞行器。 五、咨询服务 景区游客中心有免费宣传资料发放、志愿者提供咨询服务，景区外重要交通路口和游客集散中心设有志愿者服务台。 若有其他咨询，请拨打以下电话： 票务咨询：0837-7769999 景区投诉：0837-7739309 景区救护：0837-7738818 景区观光车服务：0837-7766016 高铁直通车服务：0837-7241000 景区旅游咨询：0837-7739753 天下九寨沟，大美阿坝州。九寨沟景区将以更加优质的服务和更加完善的设施，欢迎广大游客的到来。我们期待与您共同分享九寨沟的神奇与美丽，共享美好时光！ 九寨沟风景名胜区管理局 2026年11月10日 下一页
+
+**🇬🇧 Actionable Travel Intel**:  
+The Jiuzhaigou Scenic Area Administration announced that Jiuzhaigou National Park will implement seasonal conservation rotation and low-season operating policies from November 16, 2026 to March 31, 2027. During this period, selected boardwalks and attractions will be temporarily closed for ecological protection. Low-season admission is adjusted to 80 RMB per person, with sightseeing bus tickets at 80 RMB per person, and optional insurance for 10 RMB. Daily visitor capacity is capped at 23,000 people. Operating hours run from 8:30 to 18:00, with visitor entry permitted only between 8:30 and 14:00. Park authorities enforce strict environmental rules: overnight stays inside the scenic area are prohibited, the Nuorilang Tourist Center is the only designated smoking zone, and unauthorized drone operation is strictly prohibited.
+
+> **Verified Source**: [Jiuzhaigou National Park Administration (九寨沟风景名胜区, Official Portal)](https://www.jiuzhai.com/news/notice/11554-2026-11-10-00-53-01)
+
+---
+
 ### November 9, 2026 &bull; 13:55 CST
 #### Namtso Shengxiang Tianmen Scenic Area Closed Due to Snow and Icy Roads
 

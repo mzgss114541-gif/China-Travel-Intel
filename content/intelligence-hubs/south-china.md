@@ -6,6 +6,19 @@
 
 ---
 
+### November 10, 2026 &bull; 09:50 CST
+#### Customs Emphasizes Outbound Foreign Currency Limits at Jiuzhou Port
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月4日上午9时9分许，拱北海关所属九洲海关在九洲港口岸旅检现场对出境旅客行李物品进行监管时，发现一名旅客随身携带的行李物品机检图像异常，遂进行截查。经进一步检查，关员在其背包和行李箱中查获港币51.4万元。港币现钞属于限制进出境物品。根据相关规定，15天内首次出境旅客携带港币限额为等值5000美元。如确需携带超出限额的大量现钞，应事先到外汇管理部门或银行申领携带外汇出境许可证。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiuzhou Customs under Gongbei Customs intercepted an outbound passenger at Jiuzhou Port checkpoint carrying 514,000 Hong Kong dollars in undeclared cash across personal luggage. Chinese customs authorities remind departing travelers that foreign currency banknotes, including Hong Kong dollars, are subject to strict border controls. Under current regulations, outbound travelers leaving China for the first time within 15 days are limited to carrying foreign currency cash equivalent to at most 5,000 US dollars. Any cash exceeding this regulatory limit requires advance approval and a formal foreign exchange export permit issued by foreign exchange regulatory bureaus or authorized commercial banks before departure.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RqHCCcVwG)
+
+---
+
 ### November 9, 2026 &bull; 17:00 CST
 #### Additional Shenzhen East–Nanchang Trains via Dongguan East Scheduled for November 12–23
 

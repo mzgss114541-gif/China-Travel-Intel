@@ -6,6 +6,19 @@
 
 ---
 
+### November 10, 2026 &bull; 13:00 CST
+#### China Railway Shanghai Group Adds Passenger Train Services (Nov 12–22)
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【中国铁路上海局集团有限公司关于2026年11月12日-2026年11月22日增开部分旅客列车的公告】 1.2026年11月12-16日增开杭州西-景德镇北G4313次，景德镇北-杭州西G4314次，杭州西-南昌东G4251次，南昌东-杭州西G4252次，南京南-景德镇北G4381次，景德镇北-南京南G4382次，南京南-杭州东G9425次，杭州东-南京南G9426次。 2.2026年11月13、15、17日增开阜阳-温州K8511次。 3.2026年11月13-15、20、22日增开杭州东-上海虹桥G9442次，上海虹桥-嵊州新昌G9441次，嵊州新昌-上海虹桥G9446次，上海虹桥-宁波G9443次，宁波-杭州东G9450次，上海虹桥-杭州东C3199、C3227、C3229次，杭州东-上海虹桥C3226、C3228、C3230次。 4.2026年11月14、16、18日增开温州-阜阳K8514次。 详情请以车站公告为准，若有疑问请致电铁路客服热线021-12306咨询。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Shanghai Group announced additional passenger train operations between November 12 and November 22, 2026. Added high-speed and regional rail services include Hangzhou West to Jingdezhen North (G4313/G4314), Hangzhou West to Nanchang East (G4251/G4252), Nanjing South to Jingdezhen North (G4381/G4382), Nanjing South to Hangzhou East (G9425/G9426) during November 12–16; Fuyang to Wenzhou (K8511) on November 13, 15, and 17; Shanghai Hongqiao to Hangzhou East, Ningbo, and Shengzhou Xinchang on November 13–15, 20, and 22; and Wenzhou to Fuyang (K8514) on November 14, 16, and 18. Detailed schedules are subject to railway station announcements, with inquiries available via customer service hotline 021-12306.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RqIRJeo9P)
+
+---
+
 ### November 9, 2026 &bull; 17:00 CST
 #### Additional Shenzhen East–Nanchang Trains via Dongguan East Scheduled for November 12–23
 

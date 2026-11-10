@@ -6,6 +6,19 @@
 
 ---
 
+### November 10, 2026 &bull; 12:30 CST
+#### Beijing Daxing Airport Offers Free Wildlife Park Vouchers for Transit Passengers
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据北京大兴国际机场消息，大兴机场联合北京野生动物园为国际中转旅客送上专属福利。国际中转大兴机场可免费游北京野生动物园。 2026年11月11日—12月31日，经大兴机场出入境的国际中转旅客（国内→国际/地区；国际/地区→国内；国际/地区→国际/地区）落地大兴机场后，可前往航站楼一层北京服务柜台，出示本人身份证/护照+国际中转乘机凭证（前后两段航班登机牌等），机场工作人员核验登记后，可领取北京野生动物园门票兑换券、消费券、游玩攻略。旅客可自行乘车前往北京野生动物园，持本人身份证/护照至园区售票处，换票入园。 每日名额有限，先到先得；凭本人身份证明与乘机凭证领取兑换券，仅限本人使用、不可代领，不得转让倒卖，逾期失效、遗失不予补发；北京野生动物园门票一次性使用，园内消费自理，须遵守园区管理规定，以免造成人身伤害和财务损失；请合理规划游览行程，预留充足的值机、安检时间，避免因游玩延误航班造成个人损失。建议中转停留时间6小时以上的旅客参与，游玩更从容。（北京大兴国际机场）
+
+**🇬🇧 Actionable Travel Intel**:  
+From November 11 to December 31, 2026, international transit passengers traveling through Beijing Daxing International Airport (connecting between domestic and international/regional flights, or international-to-international flights) can receive a complimentary ticket redemption voucher for Beijing Wildlife Park. Upon arriving at Daxing Airport, travelers should proceed to the Beijing Service counter on Level 1 of the terminal building and present their passport along with transit flight credentials, such as boarding passes for both connecting legs. After on-site verification, eligible passengers receive a park voucher and consumption coupon, which can be exchanged for park admission at the park ticket window by showing their passport. Daily quotas are limited on a first-come, first-served basis, valid strictly for the verified individual. Travelers arrange their own ground transportation to the park and are responsible for in-park expenses. The airport advises passengers to maintain sufficient time for flight check-in and security clearance, recommending this option for travelers with layovers exceeding 6 hours.
+
+> **Verified Source**: [Beijing Municipal Bureau of Culture and Tourism (文旅北京, Sina Weibo)](https://weibo.com/1936009361/RqIFyfssA)
+
+---
+
 ### November 8, 2026 &bull; 10:29 CST
 #### Snowfall Prompts Operational Speed Restrictions on Tianjin–Qinhuangdao High-Speed Railway
 
