@@ -6,6 +6,32 @@
 
 ---
 
+### November 11, 2026 &bull; 13:30 CST
+#### China Railway Hohhot Group Opens Ticket Sales for Renumbered Conventional Passenger Trains
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月25日0时起，中国铁路呼和浩特局集团有限公司始发开行的普速旅客列车将正式启用新车次，第一批实行新车次的列车车票于今日起发售，涉及中国铁路呼和浩特局集团有限公司始发、途经的普速旅客列车42对。
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting 00:00 on November 25, China Railway Hohhot Group will transition its originating conventional passenger trains to new service numbers. Tickets for the first batch of renumbered services, covering 42 pairs of originating and transiting conventional passenger trains, are now on sale.
+
+> **Verified Source**: [China Railway Hohhot Group (草原铁路, Sina Weibo)](https://weibo.com/1920077735/RqSup3gJL)
+
+---
+
+### November 11, 2026 &bull; 11:00 CST
+#### China Railway Beijing Group Launches Direct QR Codes for Ancient Capitals Multi-Ride Rail Passes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，国铁北京局为“华夏古都·文化传承之旅”旅游计次票推出专属二维码。用铁路12306 App扫码可直达下单页，微信扫码后点击“App内打开”也可跳转购票。该产品串联北京、郑州、洛阳、西安，旅客可自选2至10段行程，自首次乘车之日起15天内有效。  二维码一扫 直达下单页！国铁北京局旅游计次票推出新玩法！
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Beijing Group introduced dedicated QR codes for its Ancient Capitals and Cultural Heritage multi-ride rail pass, enabling direct booking via the Railway 12306 app or WeChat. The pass connects Beijing, Zhengzhou, Luoyang, and Xi'an, allowing travelers to select between 2 and 10 journey segments with a 15-day validity period from the first ride.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RqRvBdgcY)
+
+---
+
 ### November 10, 2026 &bull; 12:30 CST
 #### Beijing Daxing Airport Offers Free Wildlife Park Vouchers for Transit Passengers
 

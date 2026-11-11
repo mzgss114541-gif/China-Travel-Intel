@@ -6,6 +6,45 @@
 
 ---
 
+### November 11, 2026 &bull; 11:00 CST
+#### China Railway Beijing Group Launches Direct QR Codes for Ancient Capitals Multi-Ride Rail Passes
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，国铁北京局为“华夏古都·文化传承之旅”旅游计次票推出专属二维码。用铁路12306 App扫码可直达下单页，微信扫码后点击“App内打开”也可跳转购票。该产品串联北京、郑州、洛阳、西安，旅客可自选2至10段行程，自首次乘车之日起15天内有效。  二维码一扫 直达下单页！国铁北京局旅游计次票推出新玩法！
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Beijing Group introduced dedicated QR codes for its Ancient Capitals and Cultural Heritage multi-ride rail pass, enabling direct booking via the Railway 12306 app or WeChat. The pass connects Beijing, Zhengzhou, Luoyang, and Xi'an, allowing travelers to select between 2 and 10 journey segments with a 15-day validity period from the first ride.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RqRvBdgcY)
+
+---
+
+### November 11, 2026 &bull; 10:20 CST
+#### Namtso Scenic Area Temporarily Closed on November 11 Due to Snow and Icy Roads
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 纳木错景区11月11日临时闭园一天 根据气象部门发布的降雪降温气象预警信息，11月10日中午起，当雄县出现持续降雪天气。截至目前，那根拉山垭口（海拔5190米）、游客集散中心及扎西岛路段部分区域已出现积雪和结冰，部分路段能见度降低，车辆打滑、出行风险上升。经研判，为切实保障广大游客生命财产安全，景区决定11月11日（星期三）临时闭园一天。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following continuous snowfall in Damxung County since midday on November 10, sections of the Nagenla Pass (elevation 5,190 meters), tourist center, and Tashi Island route have experienced snow accumulation, road icing, reduced visibility, and vehicle slippage risks. Namtso Scenic Area is temporarily closed for one day on November 11 for traveler safety.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RqRfjlsuz)
+
+---
+
+### November 11, 2026 &bull; 08:30 CST
+#### Direct Passenger Train Z356/7 Inaugurated Between Yantai and Urumqi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月9日，烟台首次开行直达乌鲁木齐Z356/7次普速列车！每日23:50烟台站发车，第三日17:59抵达乌鲁木齐，全程42小时09分，途经莱阳、济南、太原、张掖、哈密等车站，串联齐鲁滨海与丝路风光。烟台站配套重点旅客预约、敬老指引、便民物资等暖心服务，出站可便捷换乘公交、轮渡。一边看胶东碧海，一边览西域风光，鲁疆两地人员文旅商贸往来再添新选择。
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 9, a direct conventional rail service, train Z356/7, began operating between Yantai and Urumqi. Departing daily from Yantai Station at 23:50 and arriving at Urumqi Station at 17:59 on the third day, the 42-hour-09-minute journey connects coastal Shandong with northwest China via stations including Laiyang, Jinan, Taiyuan, Zhangye, and Hami.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RqQwDeYt7)
+
+---
+
 ### November 10, 2026 &bull; 08:53 CST
 #### Jiuzhaigou National Park Enters Low Season with Adjusted Hours and Pricing
 

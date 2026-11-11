@@ -6,6 +6,19 @@
 
 ---
 
+### November 11, 2026 &bull; 08:30 CST
+#### Direct Passenger Train Z356/7 Inaugurated Between Yantai and Urumqi
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月9日，烟台首次开行直达乌鲁木齐Z356/7次普速列车！每日23:50烟台站发车，第三日17:59抵达乌鲁木齐，全程42小时09分，途经莱阳、济南、太原、张掖、哈密等车站，串联齐鲁滨海与丝路风光。烟台站配套重点旅客预约、敬老指引、便民物资等暖心服务，出站可便捷换乘公交、轮渡。一边看胶东碧海，一边览西域风光，鲁疆两地人员文旅商贸往来再添新选择。
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 9, a direct conventional rail service, train Z356/7, began operating between Yantai and Urumqi. Departing daily from Yantai Station at 23:50 and arriving at Urumqi Station at 17:59 on the third day, the 42-hour-09-minute journey connects coastal Shandong with northwest China via stations including Laiyang, Jinan, Taiyuan, Zhangye, and Hami.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RqQwDeYt7)
+
+---
+
 ### November 10, 2026 &bull; 13:00 CST
 #### China Railway Shanghai Group Adds Passenger Train Services (Nov 12–22)
 
