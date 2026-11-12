@@ -6,6 +6,45 @@
 
 ---
 
+### November 12, 2026 &bull; 10:08 CST
+#### Enshi Grand Canyon Extends Ticket Validity to Three Consecutive Days
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 恩施大峡谷调整门票有效期，有效期自首次入园之日起计算，由两日内有效延长为三日内有效。有效期内可多次重复检票入园。 恩施大峡谷
+
+**🇬🇧 Actionable Travel Intel**:  
+Enshi Grand Canyon has adjusted its admission policy. Admission ticket validity is extended from two days to three days, calculated from the date of initial entry. Visitors are permitted repeated entries during the valid three-day window.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/Rr0AUdffV)
+
+---
+
+### November 12, 2026 &bull; 08:50 CST
+#### Nanning–Haiphong Direct Passenger Flights Resume Twice Weekly
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月10日，广西南宁直飞越南海防客运航线正式复航。广西边检总站南宁边检站提前谋划部署、科学组织勤务，高效保障航班顺畅通关。据悉，该航线周二、周六各执飞一班。（文/图：梁箫）
+
+**🇬🇧 Actionable Travel Intel**:  
+Direct passenger flight services connecting Nanning, Guangxi, and Haiphong, Vietnam, officially resumed on November 10, 2026. The flight operates twice weekly on Tuesdays and Saturdays, with border inspection services facilitating cross-border transit at Nanning.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/Rr05ficgK)
+
+---
+
+### November 11, 2026 &bull; 16:59 CST
+#### China Railway Launches Train Renumbering Comparison Lookup Tool
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 第一批列车车次变更即将实施，铁路部门在“中国铁路”微信公众号上线新旧车次对比查询功能：关注公众号后，在对话框左侧“温馨服务”栏目选择“新旧车次对比查询”，或直接输入该关键词，也可点击文末“阅读原文”一键跳转。第一批新车次车票11月11日起陆续发售，动车组列车车次12月下旬变更，购票时请核对新车次、到发车站和运行时刻。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway is rolling out a train numbering update. The first wave of updated train number tickets went on sale starting November 11, 2026, while bullet train numbers are scheduled to update in late December. A train number comparison lookup function has been launched on the official China Railway WeChat public account under warm services. Travelers booking tickets should verify new train numbers, origin and destination stations, and scheduled departure times.
+
+> **Verified Source**: [China Railway Nanning Group (南宁铁路, Sina Weibo)](https://weibo.com/1869124960/RqTRf5nEV)
+
+---
+
 ### November 9, 2026 &bull; 17:00 CST
 #### Additional Shenzhen East–Nanchang Trains via Dongguan East Scheduled for November 12–23
 

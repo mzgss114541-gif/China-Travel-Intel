@@ -6,6 +6,19 @@
 
 ---
 
+### November 11, 2026 &bull; 19:00 CST
+#### Fuzhou Stations Add Late-Night Return Train C9573 to Xiamen on Nov 15
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 为满足跨城观演歌迷“夜间返程、次日上班”的出行需求，11月15日，福州车站增开福州至厦门方向的C9573次“歌迷专列”，全力保障大家观演后便捷返程！目前该列车车票已开售，旅客朋友可通过12306售票平台，查询相关车次及到站信息，并根据需要选购车票。详戳→ https://share.fznews.com.cn/pub/template/displayTemplate/news/newsDetail/159/665186.html
+
+**🇬🇧 Actionable Travel Intel**:  
+To accommodate intercity travelers and event attendees returning overnight, railway authorities will operate an additional late-night train C9573 from Fuzhou towards Xiamen on November 15, 2026. Tickets are available on the official 12306 platform.
+
+> **Verified Source**: [Fuzhou Municipal Bureau of Culture and Tourism (遇见福州, Sina Weibo)](https://weibo.com/2171536211/RqUElvmwR)
+
+---
+
 ### November 11, 2026 &bull; 08:30 CST
 #### Direct Passenger Train Z356/7 Inaugurated Between Yantai and Urumqi
 

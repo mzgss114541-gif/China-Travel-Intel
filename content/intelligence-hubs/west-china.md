@@ -6,6 +6,45 @@
 
 ---
 
+### November 12, 2026 &bull; 14:40 CST
+#### Shiqu County Closes Key Scenic Areas for Winter Starting Nov 16
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【石渠县文化广播电视和旅游局 石渠县文化产业发展投资有限公司关于冬季景区临时关闭的通告】 广大游客朋友们： 冬季来临，石渠县气温骤降，辖区内景区道路易出现积雪、结冰现象，通行安全风险较高。为切实保障广大游客的人身安全，同时促进景区生态资源在冬季得到有效休养，经研究决定，自2026年11月16日起，以下景区暂停对外开放，暂不接待游客。现将有关事项通告如下： 一、暂停开放范围 （一）国家4A级旅游景区：松格嘛呢石经城、色须部落文化园、真达神鹿谷、邓玛湿地公园、巴格嘛呢石经墙。 （二）国家3A级旅游景区：居·麦旁文化园。 二、恢复开放时间 景区恢复开放时间另行通知，请持续关注官方发布信息。 三、相关提示 因冬季闭园给您出行带来不便，敬请谅解。感谢您对景区安全管理、生态保护工作的理解、支持与配合！ 特此通告。 石渠县文化广播电视和旅游局 石渠县文化产业发展投资有限公司 2026年11月12日
+
+**🇬🇧 Actionable Travel Intel**:  
+Due to dropping winter temperatures and road hazard risks from snow and ice, Shiqu County authorities will temporarily suspend visitor operations across multiple scenic areas starting November 16, 2026. Closed 4A attractions include Songge Mani Stone Sutra City, Sexu Tribe Cultural Park, Zhenda Sacred Deer Valley, Dengma Wetland Park, and Bage Mani Stone Sutra Wall, alongside 3A site Ju Mipham Cultural Park. Reopening dates will be announced separately.
+
+> **Verified Source**: [Garze Prefecture Bureau of Culture and Tourism (甘孜文旅, Sina Weibo)](https://weibo.com/2014827750/Rr2njkUiL)
+
+---
+
+### November 12, 2026 &bull; 11:00 CST
+#### Additional High-Speed Rail Services Scheduled for Huanglongjiuzhai and Anshun
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【中国铁路成都局集团有限公司关于2026年11月13日至22日加开部分列车的公告】 1.11月16日成都东至黄龙九寨加开C6362/3次,成都东08:12开,黄龙九寨10:01到。 2.11月16日黄龙九寨至双流机场加开C6368/5次,黄龙九寨10:30开,双流机场12:23到。 3.11月16日双流机场至黄龙九寨加开C6366/7次,双流机场13:19开,黄龙九寨15:52到。 4.11月16日黄龙九寨至成都东加开C6364/1次,黄龙九寨16:25开,成都东18:07到。 5.11月16日成都东至茂县加开C6352/3次,成都东18:33开,茂县19:32到。 6.11月17日茂县至成都东加开C6354/1次,茂县07:06开,成都东08:05到。 7.11月17日松潘至双流机场加开C6378/5次,松潘11:35开,双流机场13:45到。 8.11月17日双流机场至黄龙九寨加开C6376/7次,双流机场14:11开,黄龙九寨16:58到。 9.11月17日黄龙九寨至成都东加开C6374/1次,黄龙九寨17:30开,成都东20:09到。 10.11月13至22日贵阳北至安顺西加开G5414/1次,贵阳北06:36开,安顺西07:38到。 11.11月13至22日安顺西至贵阳北加开G5412/3次,安顺西08:29开,贵阳北09:25到。 列车时刻请以12306官方网站查询为准。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Chengdu Group has scheduled additional passenger trains between November 13 and 22, 2026. On November 16, extra services include C6362/3 (Chengdu East 08:12 to Huanglongjiuzhai 10:01), C6368/5 (Huanglongjiuzhai 10:30 to Shuangliu Airport 12:23), C6366/7 (Shuangliu Airport 13:19 to Huanglongjiuzhai 15:52), C6364/1 (Huanglongjiuzhai 16:25 to Chengdu East 18:07), and C6352/3 (Chengdu East 18:33 to Maoxian 19:32). On November 17, extra trains include C6354/1 (Maoxian 07:06 to Chengdu East 08:05), C6378/5 (Songpan 11:35 to Shuangliu Airport 13:45), C6376/7 (Shuangliu Airport 14:11 to Huanglongjiuzhai 16:58), and C6374/1 (Huanglongjiuzhai 17:30 to Chengdu East 20:09). Between November 13 and 22, daily additions include G5414/1 (Guiyang North 06:36 to Anshun West 07:38) and G5412/3 (Anshun West 08:29 to Guiyang North 09:25).
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/Rr0W0Do6W)
+
+---
+
+### November 12, 2026 &bull; 11:00 CST
+#### Jiuzhaigou Enters Off-Peak Season Pricing from Nov 16
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月16日至明年3月31日，九寨沟执行淡季旅游政策，门票：80元/人，观光车票：80元/人。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiuzhaigou National Park will implement off-peak season pricing from November 16, 2026, to March 31, 2027. During this period, entrance tickets are set at 80 RMB per person and internal sightseeing bus tickets are 80 RMB per person.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/Rr0W0FAri)
+
+---
+
 ### November 11, 2026 &bull; 11:00 CST
 #### China Railway Beijing Group Launches Direct QR Codes for Ancient Capitals Multi-Ride Rail Passes
 

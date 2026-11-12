@@ -6,6 +6,19 @@
 
 ---
 
+### November 11, 2026 &bull; 18:30 CST
+#### Direct Flights Between Changbaishan and Ningbo Resume on Dec 11
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 12月11日起，春秋航空将重启长白山⇌宁波航线，计划每日1班，该航班采用空客320机型执飞。
+
+**🇬🇧 Actionable Travel Intel**:  
+Spring Airlines will resume direct scheduled flights connecting Changbaishan and Ningbo starting December 11, 2026. The service is planned to run daily using Airbus A320 aircraft, offering a direct 3-hour flight.
+
+> **Verified Source**: [Jilin Provincial Department of Culture and Tourism (吉林文旅, Sina Weibo)](https://weibo.com/2061847537/RqUsz9H4Y)
+
+---
+
 ### November 11, 2026 &bull; 13:30 CST
 #### China Railway Hohhot Group Opens Ticket Sales for Renumbered Conventional Passenger Trains
 
