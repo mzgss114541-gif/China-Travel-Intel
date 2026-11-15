@@ -6,6 +6,45 @@
 
 ---
 
+### November 15, 2026 &bull; 14:12 CST
+#### Customs Seizes Unlabeled Diet Pills Containing Methamphetamine at Nanjing Airport
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月7日，南京禄口机场海关关员在对一架入境航班进行监管时，发现1名选择“绿色通道”通关的旅客行李机检图像异常。经现场关员开箱清点，在旅客行李内发现大量使用透明塑料袋简易包装的药片，包装无生产日期、无质量合格证明、无生产厂家，共计约1080粒。旅客自述这些药品为境外购买的减肥药。经现场快速检测，该批药品显示甲基安非他命阳性。目前，海关已按规定对上述物品暂不予放行。甲基安非他命又称甲基苯丙胺，俗称“冰毒”，被列为第一类精神药品，具有较强成瘾性。根据《中华人民共和国药品管理法》《麻醉药品和精神药品管理条例》相关规定，国家对麻醉药品和精神药品实施进出口许可证管理制度，进出口麻醉药品以及国家规定范围内的精神药品，必须持有国务院药品监督管理部门颁发的进口准许证、出口准许证。
+
+**🇬🇧 Actionable Travel Intel**:  
+Nanjing Lukou Airport Customs intercepted approximately 1,080 unlabeled diet pills from an inbound passenger's luggage in the green channel, which tested positive for methamphetamine (a Class I psychotropic substance). Under Chinese law, importing or exporting narcotic and psychotropic substances requires an import or export permit issued by the national drug regulatory authority.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/Rrutrk1fj)
+
+---
+
+### November 14, 2026 &bull; 18:06 CST
+#### Zhoushan–Beijing Daxing Air Route Adds Three Weekly Flights
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ✈舟山⇌北京大兴航班加密啦！每周新增三班，出行选择更多 每日班：19:40起飞，单程约2.5小时 新增班次：每周二、四、六11:00起飞，13:45抵达北京 刚好赶上秋假，11.18–11.20连上周末，轻松凑出五天小长假，带娃去北京研学很合适～ ⚠购票前记得
+
+**🇬🇧 Actionable Travel Intel**:  
+The Zhoushan to Beijing Daxing air route has added three weekly flights departing every Tuesday, Thursday, and Saturday at 11:00 and arriving in Beijing at 13:45. This supplements the existing daily flight departing at 19:40 with a one-way flight time of approximately 2.5 hours.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RrmA03pe1)
+
+---
+
+### November 14, 2026 &bull; 15:38 CST
+#### Jinan Airport Customs Seizes Controlled Samurai Sword from Inbound Baggage
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，济南机场海关关员对进境航班进行监管时，发现一名选择“绿色通道”进境的旅客行李物品机检图像异常。经开箱查验，现场关员从旅客行李中查获武士刀1把，刀身长度344毫米。经鉴定，该刀具属于管制刀具。管制刀具属于限制进出境物品，未经许可不得随意邮寄、携带进出境。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jinan Airport Customs intercepted a 344 mm samurai sword classified as a controlled knife in an inbound passenger's green-channel luggage. Controlled knives are restricted items for entry and exit and may not be mailed or carried across the border without prior authorization.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RrlC6rret)
+
+---
+
 ### November 11, 2026 &bull; 19:00 CST
 #### Fuzhou Stations Add Late-Night Return Train C9573 to Xiamen on Nov 15
 

@@ -6,6 +6,19 @@
 
 ---
 
+### November 14, 2026 &bull; 17:39 CST
+#### Jiuzhaigou Scenic Area Enters Off-Peak Season Policy
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月16日至明年3月31日，九寨沟景区将执行淡季旅游政策。
+
+**🇬🇧 Actionable Travel Intel**:  
+From November 16 through March 31 of next year, Jiuzhaigou Scenic Area will implement its off-peak season tourism policy.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/Rrmpj4ZBO)
+
+---
+
 ### November 12, 2026 &bull; 14:40 CST
 #### Shiqu County Closes Key Scenic Areas for Winter Starting Nov 16
 

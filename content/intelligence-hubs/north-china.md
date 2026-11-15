@@ -6,6 +6,19 @@
 
 ---
 
+### November 14, 2026 &bull; 18:06 CST
+#### Zhoushan–Beijing Daxing Air Route Adds Three Weekly Flights
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> ✈舟山⇌北京大兴航班加密啦！每周新增三班，出行选择更多 每日班：19:40起飞，单程约2.5小时 新增班次：每周二、四、六11:00起飞，13:45抵达北京 刚好赶上秋假，11.18–11.20连上周末，轻松凑出五天小长假，带娃去北京研学很合适～ ⚠购票前记得
+
+**🇬🇧 Actionable Travel Intel**:  
+The Zhoushan to Beijing Daxing air route has added three weekly flights departing every Tuesday, Thursday, and Saturday at 11:00 and arriving in Beijing at 13:45. This supplements the existing daily flight departing at 19:40 with a one-way flight time of approximately 2.5 hours.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RrmA03pe1)
+
+---
+
 ### November 11, 2026 &bull; 18:30 CST
 #### Direct Flights Between Changbaishan and Ningbo Resume on Dec 11
 
