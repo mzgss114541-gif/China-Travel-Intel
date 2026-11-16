@@ -6,6 +6,45 @@
 
 ---
 
+### November 16, 2026 &bull; 20:11 CST
+#### Mount Huashan Hiking Trails Temporarily Closed
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 华山景区徒步登山线路临时关闭公告 华山景区徒步登山线路临时关闭公告
+
+**🇬🇧 Actionable Travel Intel**:  
+Mount Huashan Scenic Area has announced the temporary closure of its hiking trails. The source announcement does not specify further details on the reopening schedule or affected cableways.
+
+> **Verified Source**: [Mount Huashan Scenic Area Administration (华山景区, Sina Weibo)](https://weibo.com/1786987090/RrGfJg1Y4)
+
+---
+
+### November 16, 2026 &bull; 19:00 CST
+#### Yellow Road Icing Warning Issued for Xi'an Mountainous Areas
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西安市气象台2026年11月16日18时03分发布道路结冰黄色预警信号：预计今天夜间长安区、鄠邑区、周至县、蓝田县的高海拔山区受降雪天气影响，且路表温度低于0℃，可能出现对交通有影响的道路结冰，请注意防范。
+
+**🇬🇧 Actionable Travel Intel**:  
+The Xi'an Meteorological Observatory issued a yellow road icing warning at 18:03 on November 16, 2026. Due to snowfall and road surface temperatures below 0°C, traffic-affecting road icing may occur tonight in high-altitude mountainous areas of Chang'an District, Huyi District, Zhouzhi County, and Lantian County. Travelers should exercise caution.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RrFMTmohQ)
+
+---
+
+### November 16, 2026 &bull; 15:48 CST
+#### Kunming Jiaozi Mountain Implements 6,500 Daily Visitor Cap
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【轿子山景区迎游客高峰 将按日接待量6500人实施临时限流】11月13日，昆明市中小学秋假第一天，轿子山景区迎来了游客集中出游的第一波高峰。晚上7点前后，景区出现了众多游客排队等候摆渡车的情况。景区11月14日发布了限流预警及安全出游提醒。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiaozi Mountain Scenic Area in Kunming has issued a crowd-control warning and safety reminder, implementing a temporary daily visitor cap of 6,500 people following peak crowds and shuttle bus queues around 19:00.
+
+> **Verified Source**: [Kunming Municipal Bureau of Culture and Tourism (文旅昆明, Sina Weibo)](https://weibo.com/2858745682/RrExabGkk)
+
+---
+
 ### November 16, 2026 &bull; 11:30 CST
 #### Blizzard Warning for Eastern and Southeastern Tibet (Nov 16-19)
 

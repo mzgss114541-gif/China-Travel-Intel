@@ -6,6 +6,45 @@
 
 ---
 
+### November 16, 2026 &bull; 16:25 CST
+#### China Customs Issues Ebola Health Declaration Notice Effective November 18
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【海关总署公告2026年第156号（关于防止埃博拉病毒病疫情传入我国的公告）】 当前，埃博拉病毒病疫情仍构成“国际关注的突发公共卫生事件”。根据世界卫生组织公布数据，2026年5月15日至11月9日，刚果（金）累计报告埃博拉病毒病确诊病例11042例，死亡5387例，粗病死率达48.8%；10月6日至11月10日，肯尼亚累计报告埃博拉病毒病确诊病例9例，死亡2例；10月20日，尼日利亚报告埃博拉病毒病输入病例1例。为防止埃博拉病毒病疫情传入我国，保障进出境人员健康安全，根据《中华人民共和国国境卫生检疫法》及其实施细则等法律法规规定，现公告如下： 一、来自或进境前21天内曾去过埃博拉病毒病疫情发生国家（地区）的人员，如接触过埃博拉病毒病病例，或出现发热、乏力、头痛、肌痛、咽痛、恶心、呕吐、腹痛、腹泻、皮疹、出血等症状，进境时应主动向海关申报，海关将按照规定程序采取医学措施。 二、来自埃博拉病毒病疫情发生国家（地区），且被污染或有被污染可能的交通运输工具，集装箱等运输设备、货物、行李、邮包等物品及外包装，应当按照规定实施卫生处理。 三、前往埃博拉病毒病疫情发生国家（地区）的人员，出境前可以向海关及其国际旅行卫生保健中心咨询，或登录海关总署网站查询相关疫情信息和国际旅行健康提示。 本公告内容自2026年11月18日起生效，有效期1年。期间对世界卫生组织公布新增的发生埃博拉病毒病疫情的国家（地区）按本公告执行。 特此公告。 海关总署 2026年11月12日
+
+**🇬🇧 Actionable Travel Intel**:  
+The General Administration of Customs issued Announcement No. 156 of 2026, effective November 18, 2026 for one year. Travelers arriving from or having visited Ebola-affected countries or regions within 21 days prior to entry who have had contact with Ebola cases or exhibit symptoms such as fever, fatigue, headache, muscle pain, sore throat, nausea, vomiting, abdominal pain, diarrhea, rash, or bleeding must proactively declare this to Customs upon entry for medical measures.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RrELXxVoY)
+
+---
+
+### November 16, 2026 &bull; 15:00 CST
+#### China Railway Expands Multi-Ride Passes, Quiet Carriages, and Luggage Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。 一是旅客运输能力持续提升。统筹用好今年新开通的线路、车站和新投用的装备资源，深入挖掘运输潜力，及时增加热门方向客运能力供给，根据旅客出行需求动态调整列车开行方案，旅客发送量稳步提升，1至10月全国铁路累计发送旅客41.3亿人次、同比增长4.7%，日均安排开行旅客列车11670列，同比增长5.0%，其中10月1日发送旅客2520.4万人次、开行旅客列车14885列，单日旅客发送量、单日客运能力投放均创历史新高。保持普速旅客列车开行规模，持续开好公益性“慢火车”和乡村振兴列车，为老少边和脱贫地区群众出行提供便利。 二是铁旅融合激活服务消费。持续推进铁旅融合发展，开行“象往号”“熊猫专列”等各具特色的旅游专列和“锦绣山河·多彩贵州号”“齐鲁1号”等旅游专线列车，串联沿线自然风光、人文古迹和特色美食，助旅客乘火车“乐游中国”，1至10月全国铁路累计开行旅游列车3236列；精准对接各地赛事、展会、演出活动安排，开行“歌迷专列”“球迷专列”“研学专列”等1084列，促进了服务消费和旅游经济发展。加强跨境客运组织，广深港高铁、中老铁路分别发送跨境旅客2923万、28.9万人次，同比分别增长11.0%、33.0%；开好中蒙、中俄、中越、中朝国际旅客列车，助力“跨境游”；为外籍旅客“坐着火车游中国”提供便利，发送外籍旅客2252万人次、同比增长32.9%。 三是旅客出行体验更加美好。铁路12306推出京沪高铁、京沪铁路火车票预约购票试点服务，常态化运行学生旅客预约购票服务；积极推广新型票制产品，计次票、定期票已覆盖75条线路，旅游计次票已覆盖28条线路，儿童旅客可享受旅游计次票优惠票价；老年旅客购买10月18日至12月30日标注“敬”字车次的火车票享受“折上折”，铁路常旅客会员服务新增教师积分优惠措施。“静音车厢”服务覆盖超8000列动车组列车，“爱宠行”服务覆盖170座高铁车站、420列动车组列车，“轻装行”服务覆盖212座车站，在京张高铁、海南环岛高铁试点推出“自行车随身行”服务。做好铁路畅行码、便捷换乘、互联网订餐等在途服务，提升餐饮服务质量，努力供好“一盒好饭”。开展“我的铁路风景”主题宣传活动，加强文明出行宣传引导，丰富旅途文化生活。
+
+**🇬🇧 Actionable Travel Intel**:  
+From January to October, China's railways carried 22.52 million foreign passengers, up 32.9% year-on-year, with cross-border trips reaching 29.23 million on the Guangzhou–Shenzhen–Hong Kong HSR and 289,000 on the China–Laos Railway. Multi-ride and season passes now cover 75 lines, and tourism multi-ride passes cover 28 lines. Service expansions include Quiet Carriages on over 8,000 EMU trains, pet transport at 170 HSR stations (420 trains), Light Luggage service at 212 stations, and a pilot bicycle carry-on service on the Beijing–Zhangjiakou HSR and Hainan Ring HSR.
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RrEdpDe89)
+
+---
+
+### November 16, 2026 &bull; 14:35 CST
+#### Cold Wave Brings 12°C+ Temperature Drops and Localized Blizzards Across China
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 15日夜间至18日，受冷空气接连影响，我国大部地区气温将下降6～10℃，内蒙古中部偏南地区、山西北部及安徽南部等地局地降温将达12℃以上。15日夜间至16日冷空气主要影响长江以北地区，17日至18日冷空气势力加强，中东部地区有4～6级风，阵风7～8级，局地可达9级以上，东部和南部海区风力也将增大至6～8级，阵风7～9级。 15日夜间至17日，中东部地区将出现大范围雨雪天气，内蒙古中部、山西中北部、河北北部、吉林东部、黑龙江东部以及青海东南部、甘肃河西和南部、陕西秦岭山区、新疆伊犁河谷与其南部山区等地的部分地区有中到大雪或雨夹雪，局地暴雪；黄淮及以南地区有小到中雨，江南、华南等地局地有大雨。（中国气象局）
+
+**🇬🇧 Actionable Travel Intel**:  
+From the night of November 15 to November 18, a cold wave will bring temperature drops of 6–10°C across most of China, exceeding 12°C in parts of southern central Inner Mongolia, northern Shanxi, and southern Anhui, accompanied by strong winds. From the night of November 15 to November 17, moderate to heavy snow or sleet, with localized blizzards, is forecast for parts of central Inner Mongolia, central-northern Shanxi, northern Hebei, eastern Jilin, eastern Heilongjiang, southeastern Qinghai, Hexi and southern Gansu, the Qinling Mountains in Shaanxi, and the Ili River Valley and southern mountains in Xinjiang.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/RrE3gw0Ys)
+
+---
+
 ### November 16, 2026 &bull; 12:10 CST
 #### China Rail Expands Quiet Carriages, Pet, Luggage, and Bike Services
 

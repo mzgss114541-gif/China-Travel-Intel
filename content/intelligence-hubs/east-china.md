@@ -6,6 +6,19 @@
 
 ---
 
+### November 16, 2026 &bull; 16:30 CST
+#### Direct Ferries to Huaniao Island Suspended Until 2027 Peak Season
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 秋冬登花鸟岛，11月上岛路线更新📝 📢划重点： 11 月起，花鸟岛直达船🚢暂时停运啦，要等到 2027 旺季才会回来！ 想去小岛看灯塔、看白色村落的朋友，要走中转航线登岛哦🌊 🚢两条中转方案 ① 先到泗礁岛，到小菜园码头坐船上花鸟岛 ② 先到枸杞岛，经大桥🌉去嵊山岛码头坐船上花鸟岛（枸杞岛与嵊山岛有大桥相连） 🎫船票渠道 🔍嵊泗客运微信公众号 /
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting in November, direct ferry services to Huaniao Island are temporarily suspended and will not resume until the 2027 peak season. Travelers can reach the island via two transfer routes: first travel to Sijiao Island and take a ferry from Xiaocaiyuan Pier to Huaniao Island, or first travel to Gouqi Island, cross the connecting bridge to Shengshan Island Pier, and take a ferry from there. Tickets can be checked via the Shengsi Passenger Transport (嵊泗客运) WeChat official account.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RrENX9tZ5)
+
+---
+
 ### November 16, 2026 &bull; 09:19 CST
 #### Zhoushan-Beijing Daxing Flight Frequency Increased
 

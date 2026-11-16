@@ -6,6 +6,19 @@
 
 ---
 
+### November 16, 2026 &bull; 17:23 CST
+#### New Multi-Ride and Season Rail Passes Launched for Beijing–Baotou–Zhangjiakou–Datong Line
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近期，全国多地官宣秋假，铁路部门推出新款票制产品京包张大线计次·定期票，串联内蒙古、河北、山西、北京四地美景，高频往返省时省钱更省心，助力旅客解锁壮阔动人的美景！京包张大线计次·定期票覆盖包头、包头东、呼和浩特、呼和浩特东、乌兰察布、清河、北京北、昌平、八达岭长城、东花园北、怀来、下花园北、宣化北、张家口、怀安、大同南等21座车站。产品类型包括10次、20次/90日计次票；10次、15次、20次、25次、30次、35次、40次、45次、50次、55次、60次/30日定期票。为商务差旅、探亲访友人群提供更灵活的出行选择，高频往返性价比更高。
+
+**🇬🇧 Actionable Travel Intel**:  
+Railway authorities have launched multi-ride and season passes for the Beijing–Baotou–Zhangjiakou–Datong line, covering 21 stations including Beijing North, Qinghe, Badaling Great Wall, Zhangjiakou, Datong South, Ulanqab, Hohhot, and Baotou. Options include 10-ride and 20-ride passes valid for 90 days, as well as 30-day season passes ranging from 10 to 60 rides.
+
+> **Verified Source**: [China Railway Beijing Group (北京铁路, Sina Weibo)](https://weibo.com/1916657595/RrF9IrTNN)
+
+---
+
 ### November 14, 2026 &bull; 18:06 CST
 #### Zhoushan–Beijing Daxing Air Route Adds Three Weekly Flights
 
