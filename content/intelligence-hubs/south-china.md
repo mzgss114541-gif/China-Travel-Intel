@@ -6,6 +6,32 @@
 
 ---
 
+### November 16, 2026 &bull; 13:00 CST
+#### Guangxi Launches Rice-Noodle Themed Tourist Train Y878
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，广西首趟“八桂嗍粉”主题旅游列车Y878次列车从南宁站发车，驶向桂林北站，载着旅客开启“嗍粉之旅”。为丰富旅客出行体验，中国铁路南宁局集团有限公司深挖冬季客运市场潜能，在南宁、柳州、桂林三座城市间开行“八桂嗍粉”主题旅游列车，把南宁老友粉、柳州螺蛳粉、桂林米粉搬上列车餐桌。
+
+**🇬🇧 Actionable Travel Intel**:  
+China Railway Nanning Group has launched Guangxi's first rice-noodle themed tourist train, Y878, operating between Nanning, Liuzhou, and Guilin (departing Nanning Station for Guilin North Station). Tickets are available via 12306, and the train serves Nanning Laoyoufen, Liuzhou Luosifen, and Guilin rice noodles onboard.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RrDqHFhA4)
+
+---
+
+### November 15, 2026 &bull; 19:30 CST
+#### Wuchang-Sanya Regular Trains Sold Out for Next Week
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 经武昌站去往三亚的普速列车一票难求？全程近30小时的绿皮火车，武昌站未来一周车次全部售罄，工作人员回应：车票多分配至始发站，武昌站票额少。 （武汉广播电视台）
+
+**🇬🇧 Actionable Travel Intel**:  
+Regular-speed trains (nearly 30 hours) passing through Wuchang Station to Sanya are sold out for the next week. Station staff noted that ticket quotas are primarily allocated to originating stations, leaving limited allocations for Wuchang.
+
+> **Verified Source**: [Wuhan Municipal Bureau of Culture and Tourism (武汉市文化和旅游局, Sina Weibo)](https://weibo.com/2140196951/Rrwywc4rn)
+
+---
+
 ### November 12, 2026 &bull; 10:08 CST
 #### Enshi Grand Canyon Extends Ticket Validity to Three Consecutive Days
 

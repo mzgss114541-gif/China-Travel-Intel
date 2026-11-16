@@ -6,6 +6,58 @@
 
 ---
 
+### November 16, 2026 &bull; 11:30 CST
+#### Blizzard Warning for Eastern and Southeastern Tibet (Nov 16-19)
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 西藏部分地区将有暴雪！请谨慎规划行程！ 据中央气象台预报：11月16日08时至17日08时，西藏东部等地部分地区有中到大雪或雨夹雪，其中，西藏东南部等地部分地区有暴雪（10～13毫米）。11月17日08时至18日08时，西藏东部部分地区有小雪或雨夹雪，其中，西藏东南部等地部分地区有中到大雪。11月18日08时至19日08时，西藏东部等地部分地区有小雪或雨夹雪。 ✅出行小贴士 ▪ 出发前密切关注气象、交管、景区官方通知，及时调整或暂缓行程。 ▪ 自驾备好防滑链、防寒物资、油料与应急药品，冰雪路段减速慢行、拉大安全车距，不急刹、不猛打方向。 ▪ 山区垭口、临崖路段风险高，遇交通管制请配合现场工作人员指挥，不要强行通行。 ▪ 不贸然前往未开发区域、野徒步线路。 雪后高原虽美，平安才是旅途第一要义，祝大家一路顺遂！扎西德勒✨ 图源：《西藏旅游》图片库
+
+**🇬🇧 Actionable Travel Intel**:  
+According to the National Meteorological Center, parts of eastern Tibet will see moderate to heavy snow or sleet from November 16 to 19, with blizzards (10-13 mm) forecast in southeastern Tibet from November 16 08:00 to November 17 08:00. Travelers should monitor official weather, traffic, and scenic-area notices, adjust or postpone itineraries as needed, carry snow chains and cold-weather supplies if driving, obey traffic controls on mountain passes, and avoid undeveloped areas or wild trekking routes.
+
+> **Verified Source**: [Tibet Department of Culture and Tourism (西藏文旅, Sina Weibo)](https://weibo.com/2061860827/RrCQp92OK)
+
+---
+
+### November 16, 2026 &bull; 08:30 CST
+#### Jiuzhaigou Enters Off-Season Policy Period (Nov 16 - Mar 31)
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月16日至明年3月31日，九寨沟景区将执行淡季旅游政策。
+
+**🇬🇧 Actionable Travel Intel**:  
+Jiuzhaigou Scenic Area is implementing its off-season tourism policy from November 16 through March 31 of next year.
+
+> **Verified Source**: [Sichuan Provincial Department of Culture and Tourism (四川文旅, Sina Weibo)](https://weibo.com/1780853205/RrBFspgd3)
+
+---
+
+### November 15, 2026 &bull; 19:55 CST
+#### Shaanxi Issues Tourism Weather Risk Warning for Snow and Ice
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 文旅要闻 陕西省文化和旅游厅陕西省气象局联合发布第77期旅游气象风险预警 时间：2026-11-15 来源：市场管理处 分享：
+
+**🇬🇧 Actionable Travel Intel**:  
+Shaanxi's culture/tourism and meteorological authorities issued a joint risk warning for November 16 08:00 to November 17 08:00, forecasting moderate to heavy snow in the Qinling Mountains and blizzards (10-15 mm) in parts of Xi'an, Baoji, Weinan, Hanzhong, Ankang, and Shangluo. Slippery, icy roads and low visibility are expected, and high-risk scenic spots—including Mount Huashan, Cuihua Mountain, and Qinling Wildlife Park—may suspend cableways or boats; travelers should check local forecasts and adjust plans accordingly.
+
+> **Verified Source**: [Shaanxi Provincial Department of Culture and Tourism (陕西省文化和旅游厅, Gov.cn)](http://whhlyt.shaanxi.gov.cn/sy/wlyw/202611/t20261115_3724982.html)
+
+---
+
+### November 15, 2026 &bull; 16:27 CST
+#### Chengdu Launches Daily Direct Flights to Istanbul
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 成都至伊斯坦布尔直飞客运航线正式开通，成都成为中西部首个直飞伊斯坦布尔“天天飞”的城市。
+
+**🇬🇧 Actionable Travel Intel**:  
+Direct passenger flights between Chengdu and Istanbul have officially launched, making Chengdu the first city in central and western China to offer daily direct flights to Istanbul.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RrvmAzYH6)
+
+---
+
 ### November 14, 2026 &bull; 17:39 CST
 #### Jiuzhaigou Scenic Area Enters Off-Peak Season Policy
 

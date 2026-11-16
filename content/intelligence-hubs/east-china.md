@@ -6,6 +6,45 @@
 
 ---
 
+### November 16, 2026 &bull; 09:19 CST
+#### Zhoushan-Beijing Daxing Flight Frequency Increased
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月14日起，舟山⇌北京大兴航线正式加密！每周新增三班单程仅需约2.5
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting November 14, the air route between Zhoushan and Beijing Daxing has been expanded with three additional weekly flights.
+
+> **Verified Source**: [Zhoushan Municipal Bureau of Culture, Radio, TV and Tourism (舟山文旅, Sina Weibo)](https://weibo.com/1991383002/RrBZebRny)
+
+---
+
+### November 16, 2026 &bull; 08:40 CST
+#### China Customs Reminds Travelers of Ban on Giant Clams and Stony Corals
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，舟山海关在对一艘入境远洋渔业冷藏运输船开展监管时，现场查获疑似濒危动物砗磲、石珊瑚。经鉴定，上述物品分别为砗磲13件、重约61千克，石珊瑚23件、重约45千克，其中最大的一件砗磲鉴定为大砗磲，重约35千克，为国家一级保护野生动物。砗磲、石珊瑚均为《濒危野生动植物种国际贸易公约》（CITES）附录Ⅱ所列物种，属国家保护野生动物。目前，该批物品已移交相关部门作进一步处置。根据《濒危野生动植物种国际贸易公约》及《中华人民共和国野生动物保护法》《中华人民共和国濒危野生动植物进出口管理条例》等规定，除合法持有野生动植物进出口证书外，禁止贸易、携带、邮寄濒危物种及其制品进出境，情节严重构成犯罪的将依法追究刑事责任。
+
+**🇬🇧 Actionable Travel Intel**:  
+Zhoushan Customs recently seized 13 giant clam items (about 61 kg) and 23 stony coral items (about 45 kg) from an inbound vessel. Both giant clams and stony corals are CITES Appendix II protected species; trading, carrying, or mailing endangered species and their products into or out of China without a valid wildlife import/export certificate is prohibited and subject to legal penalties.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RrBJzpQhG)
+
+---
+
+### November 15, 2026 &bull; 16:00 CST
+#### Zibo-Mount Tai Slow Train 7053 Renumbered to V7553 on Nov 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月25日起， ，淄博开往泰山的7053次公益“慢火车”正式变更为V7553次🚂 全程184公里，票价仅11.5元，区间最低1元。站站可停靠，沿辛泰铁路穿行泰沂山脉，沿线站点，一站一景 📍南仇站——齐文化博物馆、中国古车博物馆、东周殉马坑，把“齐国”两个字从书本里请出来走一遍。 📍西桐古站——潭溪山高空玻璃栈桥，脚下深谷，眼前漫山色彩；齐山看层峦叠嶂。 📍北牟站——穿过四个山洞，梯田层层、古村错落，驴友从这里去方山登山，顺手买些刚出土的山货。 📍口头站——梦泉古村保留着齐长城遗址和千年古泉，山楂酥梨挂满枝头。 📍源迁站——博山赏景核心站，黄栌与五角枫红透山野，再去开元溶洞看钟乳奇观。 📍南博山站——九龙山、笔架山连成一片，人少景静，适合慢悠悠散步。 买一张最便宜的车票，坐一趟最慢的火车，看一场最美的风景～ 返程车次为V7554次，建议提前查询当日时刻，合理安排游玩时长。
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting November 25, the 7053 public-welfare slow train from Zibo to Mount Tai (184 km) will be renumbered to V7553, with the return train numbered V7554. The full-route fare is 11.5 RMB (minimum 1 RMB between stops); travelers are advised to check daily schedules in advance.
+
+> **Verified Source**: [Shandong Provincial Department of Culture and Tourism (山东文旅, Sina Weibo)](https://weibo.com/1870458911/Rrvbh46ov)
+
+---
+
 ### November 15, 2026 &bull; 14:12 CST
 #### Customs Seizes Unlabeled Diet Pills Containing Methamphetamine at Nanjing Airport
 

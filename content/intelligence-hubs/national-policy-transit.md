@@ -6,6 +6,19 @@
 
 ---
 
+### November 16, 2026 &bull; 12:10 CST
+#### China Rail Expands Quiet Carriages, Pet, Luggage, and Bike Services
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。 一是旅客运输能力持续提升。统筹用好今年新开通的线路、车站和新投用的装备资源，深入挖掘运输潜力，及时增加热门方向客运能力供给，根据旅客出行需求动态调整列车开行方案，旅客发送量稳步提升，1至10月全国铁路累计发送旅客41.3亿人次、同比增长4.7%，日均安排开行旅客列车11670列，同比增长5.0%，其中10月1日发送旅客2520.4万人次、开行旅客列车14885列，单日旅客发送量、单日客运能力投放均创历史新高。保持普速旅客列车开行规模，持续开好公益性“慢火车”和乡村振兴列车，为老少边和脱贫地区群众出行提供便利。 二是铁旅融合激活服务消费。持续推进铁旅融合发展，开行“象往号”“熊猫专列”等各具特色的旅游专列和“锦绣山河·多彩贵州号”“齐鲁1号”等旅游专线列车，串联沿线自然风光、人文古迹和特色美食，助旅客乘火车“乐游中国”，1至10月全国铁路累计开行旅游列车3236列；精准对接各地赛事、展会、演出活动安排，开行“歌迷专列”“球迷专列”“研学专列”等1084列，促进了服务消费和旅游经济发展。加强跨境客运组织，广深港高铁、中老铁路分别发送跨境旅客2923万、28.9万人次，同比分别增长11.0%、33.0%；开好中蒙、中俄、中越、中朝国际旅客列车，助力“跨境游”；为外籍旅客“坐着火车游中国”提供便利，发送外籍旅客2252万人次、同比增长32.9%。 三是旅客出行体验更加美好。铁路12306推出京沪高铁、京沪铁路火车票预约购票试点服务，常态化运行学生旅客预约购票服务；积极推广新型票制产品，计次票、定期票已覆盖75条线路，旅游计次票已覆盖28条线路，儿童旅客可享受旅游计次票优惠票价；老年旅客购买10月18日至12月30日标注“敬”字车次的火车票享受“折上折”，铁路常旅客会员服务新增教师积分优惠措施。“静音车厢”服务覆盖超8000列动车组列车，“爱宠行”服务覆盖170座高铁车站、420列动车组列车，“轻装行”服务覆盖212座车站，在京张高铁、海南环岛高铁试点推出“自行车随身行”服务。做好铁路畅行码、便捷换乘、互联网订餐等在途服务，提升餐饮服务质量，努力供好“一盒好饭”。开展“我的铁路风景”主题宣传活动，加强文明出行宣传引导，丰富旅途文化生活。
+
+**🇬🇧 Actionable Travel Intel**:  
+From January to October, China's national railways recorded 22.52 million foreign passenger trips (up 32.9% year-on-year), while the Guangzhou-Shenzhen-Hong Kong HSR and China-Laos Railway handled 29.23 million and 289,000 cross-border trips respectively. Railway 12306 is piloting advance ticket booking on the Beijing-Shanghai HSR and Beijing-Shanghai Railway, multi-ride/pass products now cover 75 lines (tourist passes on 28 lines), Quiet Carriages operate on over 8,000 EMU trains, pet transport covers 170 HSR stations and 420 trains, light-luggage service covers 212 stations, and bike-on-board pilots are running on the Beijing-Zhangjiakou HSR and Hainan Island-Loop HSR.
+
+> **Verified Source**: [China Railway Jinan Group (国铁济南局, Sina Weibo)](https://weibo.com/2531624267/RrD6pwmeA)
+
+---
+
 ### November 15, 2026 &bull; 12:34 CST
 #### China Railway Expands Quiet Carriages, Luggage Services, and Multi-Ride Passes
 
