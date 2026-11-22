@@ -6,6 +6,45 @@
 
 ---
 
+### November 22, 2026 &bull; 19:06 CST
+#### Snow Forecast for Yulong Snow Mountain Glacier Park Upper Station (Nov 24–25)
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 据目前掌握的气象信息分析，预计玉龙雪山景区：23 日晴间多云，24-25 日多云间阴有阵雨或雨夹雪，冰川公园上站有中到大雪。具体预报见下页表。
+
+**🇬🇧 Actionable Travel Intel**:  
+According to the latest meteorological analysis for Yulong Snow Mountain Scenic Area, Nov 23 is forecast to be sunny to partly cloudy, while Nov 24–25 will be cloudy to overcast with showers or sleet, and moderate to heavy snow at the Glacier Park upper station.
+
+> **Verified Source**: [Jade Dragon Snow Mountain Scenic Area Administration (丽江玉龙雪山, Sina Weibo)](https://weibo.com/5288549152/RsAoEj6FX)
+
+---
+
+### November 22, 2026 &bull; 09:42 CST
+#### Yulong Snow Mountain Glacier Park Cableway Cancels Select Time Slots
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【关于玉龙雪山冰川公园索道取消部分时段接待服务的公告】
+
+**🇬🇧 Actionable Travel Intel**:  
+Yulong Snow Mountain has issued a notice canceling visitor reception services for select time slots on the Glacier Park Cableway. The source announcement does not specify further details.
+
+> **Verified Source**: [Jade Dragon Snow Mountain Scenic Area Administration (丽江玉龙雪山, Sina Weibo)](https://weibo.com/5288549152/RswHG9GFT)
+
+---
+
+### November 22, 2026 &bull; 00:44 CST
+#### Qinghai–Tibet Railway Xining–Golmud Section Resumes Service After Earthquake Inspection
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【经巡检确认铁路设备完好 受地震影响的青藏铁路西格段恢复列车运行】 11月21日23时10分，经铁路部门巡检确认线路设备完好，受青海省德令哈市地震影响的青藏铁路西格段已解除封锁，此前该区段扣停的旅客列车已陆续限速恢复运行。 旅客列车临时停车期间，铁路部门积极做好车上旅客的服务安抚工作，及时向旅客提供矿泉水、盒饭、方便面等食品，全力保障旅客基本需求。 请广大旅客随时关注列车时刻变化，具体情况注意站、车公告或通过12306APP、12306客服电话等官方渠道查询，及时掌握列车开行信息，妥善安排出行。
+
+**🇬🇧 Actionable Travel Intel**:  
+At 23:10 on Nov 21, after railway inspections confirmed track and equipment integrity following the earthquake in Delingha, Qinghai, the block on the Xining–Golmud section of the Qinghai–Tibet Railway was lifted and previously held passenger trains have gradually resumed running under speed restrictions. Travelers should monitor schedule updates via station and onboard announcements, the 12306 APP, or the 12306 customer service hotline.
+
+> **Verified Source**: [China Railway Qinghai-Tibet Group (青藏铁路, Sina Weibo)](https://weibo.com/2286736447/RstaXo4WI)
+
+---
+
 ### November 16, 2026 &bull; 20:11 CST
 #### Mount Huashan Hiking Trails Temporarily Closed
 

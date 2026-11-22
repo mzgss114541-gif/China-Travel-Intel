@@ -6,6 +6,32 @@
 
 ---
 
+### November 22, 2026 &bull; 16:10 CST
+#### Changchun World Sculpture Park Announces Temporary Closure
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 发布了头条文章：《最新通告！临时关闭！》 长春·长春世界雕塑园 最新通告！临时关闭！
+
+**🇬🇧 Actionable Travel Intel**:  
+Changchun World Sculpture Park has issued a notice announcing a temporary closure. The source announcement does not specify further details.
+
+> **Verified Source**: [Changchun Municipal Bureau of Culture and Tourism (长春文旅, Sina Weibo)](https://weibo.com/2798034700/RszeYyFvu)
+
+---
+
+### November 22, 2026 &bull; 10:02 CST
+#### Weekly Beijing–Ulaanbaatar–Irkutsk V3/4 International Passenger Train Starts Nov 25
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 自11月25日起，北京经乌兰巴托至伊尔库茨克的中蒙俄国际旅客列车每周往返开行，将进一步促进中蒙俄三国人员往来、经贸合作和人文交流。 此次开行的V3/4次中蒙俄国际旅客列车跨越中国、蒙古国、俄罗斯三国，沿途停靠北京、集宁南、二连、扎门乌德（蒙）、赛音山达（蒙）、乔伊尔（蒙）、乌兰巴托（蒙）、棕哈拉（蒙）、达尔汗（蒙）、苏赫巴托（蒙）、纳乌什基（俄）、乌兰乌德（俄）、伊尔库茨克（俄）等车站，可办理国际旅客乘车业务，全程2666公里、运行55小时，在中国二连浩特口岸、蒙古国扎门乌德口岸和苏赫巴托口岸、俄罗斯纳乌什基口岸办理出入境手续。其中，北京至伊尔库茨克方向的V3次列车每周三7时27分（北京时间，下同）从北京站始发，经二连浩特口岸出境、扎门乌德口岸入境蒙古国，入境后列车变更为3次列车，于该周四14时35分抵达乌兰巴托站，经苏赫巴托口岸出境、纳乌什基口岸入境俄罗斯，于该周五14时55分终到伊尔库茨克站；伊尔库茨克至北京方向的4次列车每周六6时58分从伊尔库茨克站始发，经纳乌什基口岸出境、苏赫巴托口岸入境蒙古国，于该周日6时38分抵达乌兰巴托站，经扎门乌德口岸出境、二连浩特口岸入境中国，入境后列车变更为V4次列车，于下周一14时35分终到北京站。 中蒙俄国际旅客列车全程使用25G型空调车底，由硬卧、高级软卧、发电车、餐车等车辆编组而成，优化列车设施设备，打造温馨舒适的乘车环境，提供中餐、西餐等各类餐食，满足旅客多元化需求。为保障中蒙俄国际旅客列车安全顺利开行，国铁集团与蒙古国、俄罗斯铁路部门加强沟通协调，强化机车、车辆设备检查，确保设备状态良好，同时选拔值乘经验丰富、综合业务能力强的骨干员工组建乘务班组，提前开展业务技能、安全和外事等专业培训，细化作业流程和服务标准，做好充足准备，努力为旅客提供良好的跨境旅行体验。 目前，北京经乌兰巴托至伊尔库茨克的V3/4次中蒙俄国际旅客列车火车票已开始线下发售，旅客朋友可在北京、二连浩特的国际联运代售点购买车票，具体事宜可咨询中国旅游集团旅行服务有限公司国际列车售票处（北京市东城区东单北大街1号国旅大厦819室，咨询电话：010-65120507），二连浩特中国国际旅行社有限责任公司国际列车售票处（内蒙古自治区二连浩特市迎宾南路0001号，咨询电话：0479-7521096）。
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting Nov 25, the weekly V3/4 China–Mongolia–Russia international passenger train runs round-trip between Beijing, Ulaanbaatar, and Irkutsk (2,666 km, 55 hours total), stopping at Beijing, Jiningnan, Erlian (Erenhot), Zamyn-Uud, Sainshand, Choir, Ulaanbaatar, Züünkharaa, Darkhan, Sukhbaatar, Naushki, Ulan-Ude, and Irkutsk, with border formalities at Erenhot (China), Zamyn-Uud and Sukhbaatar (Mongolia), and Naushki (Russia). Train V3 departs Beijing Station every Wednesday at 07:27 (Beijing Time), arrives in Ulaanbaatar at 14:35 Thursday (as train 3), and terminates in Irkutsk at 14:55 Friday; train 4 departs Irkutsk every Saturday at 06:58, arrives in Ulaanbaatar at 06:38 Sunday, and terminates in Beijing at 14:35 Monday (as train V4). The 25G air-conditioned train includes hard sleeper, deluxe soft sleeper, generator, and dining cars offering Chinese and Western meals. Tickets are on sale offline at international rail agencies in Beijing (China Travel Service Group International Train Ticket Office, Room 819, Guolv Building, No. 1 Dongdan North Street, Dongcheng District; tel: 010-65120507) and Erenhot (Erenhot China International Travel Service International Train Ticket Office, No. 0001 Yingbin South Road; tel: 0479-7521096).
+
+> **Verified Source**: [China Railway Nanchang Group (南昌铁路, Sina Weibo)](https://weibo.com/1882716230/RswPrb7IO)
+
+---
+
 ### November 16, 2026 &bull; 17:23 CST
 #### New Multi-Ride and Season Rail Passes Launched for Beijing–Baotou–Zhangjiakou–Datong Line
 

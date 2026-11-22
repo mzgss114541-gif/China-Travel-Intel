@@ -6,6 +6,32 @@
 
 ---
 
+### November 22, 2026 &bull; 15:50 CST
+#### Chaibuxi Grand Canyon Scenic Area in Yichang Closes Completely for Upgrades; Refunds Available
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 办理退票，全面闭园！ 关于柴埠溪大峡谷风景区提档升级建设闭园公告 宜昌
+
+**🇬🇧 Actionable Travel Intel**:  
+Chaibuxi Grand Canyon Scenic Area in Yichang has announced a full closure for upgrading and construction, with ticket refunds being processed. The source announcement does not specify further details.
+
+> **Verified Source**: [Yichang Municipal Bureau of Culture and Tourism (宜昌文旅, Sina Weibo)](https://weibo.com/2140270927/Rsz6QAXaZ)
+
+---
+
+### November 22, 2026 &bull; 14:10 CST
+#### Inbound Cash Declaration Reminder Following EUR 260,600 Seizure at Guangzhou Baiyun Airport
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，广州海关所属广州白云机场海关关员在对一架进境航班进行监管时，发现1名选择“绿色通道”通关的旅客携带的行李机检图像异常。海关关员随即拦截并进一步查验，在该旅客的行李中查获大量欧元现金，共计26.06万元，折合人民币超190万元。根据相关法律法规，货币现钞属于限制进出境物品。进境旅客携带的人民币现钞超过20000元或外币现钞折合超过5000美元，应当如实向海关申报，选择“红色通道”通关。
+
+**🇬🇧 Actionable Travel Intel**:  
+Guangzhou Baiyun Airport Customs recently intercepted an inbound passenger in the Green Channel carrying EUR 260,600 in undeclared cash (worth over RMB 1.9 million). Currency cash is a restricted item for entry and exit: inbound travelers carrying more than RMB 20,000 in RMB cash or foreign currency cash equivalent to more than USD 5,000 must declare truthfully to Customs and use the Red Channel.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/RsysnoA4h)
+
+---
+
 ### November 16, 2026 &bull; 13:00 CST
 #### Guangxi Launches Rice-Noodle Themed Tourist Train Y878
 
