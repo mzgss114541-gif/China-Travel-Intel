@@ -6,6 +6,19 @@
 
 ---
 
+### November 23, 2026 &bull; 11:21 CST
+#### Urumqi Air to Launch Urumqi–Hefei–Haikou Route Starting Dec 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🤩期待期待！12月1日起，又有新航线了。乌鲁木齐航空计划开通乌鲁木齐—合肥—海口航线，串联起天山雪域、江淮福地与椰风海岛，以更加便捷的航空运输服务，满足冬季旅客多样化出行需求。 🛩新航线班期：每周二、四、六 🛫12月1日首班航班号为UQ3522 📅17时55分从乌鲁木齐天山国际机场起飞 📅21时55分抵达合肥新桥国际机场 📅22时45分从合肥新桥国际机场起飞 📅次日凌晨1时30分抵达海口美兰国际机场 🛬回程航班号为UQ3521 📅9时从海口美兰国际机场起飞 📅11时20分抵达合肥新桥国际机场 📅12时10分从合肥新桥国际机场起飞 📅16时55分抵达乌鲁木齐天山国际机场
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting December 1, Urumqi Air plans to launch a Urumqi–Hefei–Haikou route operating every Tuesday, Thursday, and Saturday. Outbound flight UQ3522 departs Urumqi Tianshan International Airport at 17:55, arrives at Hefei Xinqiao International Airport at 21:55, departs Hefei at 22:45, and arrives at Haikou Meilan International Airport at 01:30 the next day. Return flight UQ3521 departs Haikou at 09:00, arrives in Hefei at 11:20, departs Hefei at 12:10, and arrives in Urumqi at 16:55.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RsGM8DaFZ)
+
+---
+
 ### November 16, 2026 &bull; 16:30 CST
 #### Direct Ferries to Huaniao Island Suspended Until 2027 Peak Season
 

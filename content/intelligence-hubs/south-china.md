@@ -6,6 +6,19 @@
 
 ---
 
+### November 23, 2026 &bull; 14:13 CST
+#### Enshi Grand Canyon Updates Sightseeing Route and Adds Free Transfer Shuttle
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 宝子们！恩施大峡谷路线更新啦，先逛云龙地缝，再登七星寨，新增免费转运接驳车，省心省力少走路！准备来恩施的朋友，这条一定要收藏好，千万别拿旧攻略跑错路线！（恩施旅游集团）恩施·恩施大峡谷
+
+**🇬🇧 Actionable Travel Intel**:  
+Enshi Grand Canyon has updated its visitor route: tour Yunlong Ground Fissure first, then ascend Qixingzhai. A new free transfer shuttle bus has been added along the route to reduce walking.
+
+> **Verified Source**: [Enshi Prefecture Bureau of Culture and Tourism (恩施州文化和旅游局, Sina Weibo)](https://weibo.com/2849019544/RsHTP1GGk)
+
+---
+
 ### November 22, 2026 &bull; 15:50 CST
 #### Chaibuxi Grand Canyon Scenic Area in Yichang Closes Completely for Upgrades; Refunds Available
 

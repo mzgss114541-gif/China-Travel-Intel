@@ -6,6 +6,58 @@
 
 ---
 
+### November 23, 2026 &bull; 17:37 CST
+#### Tata Secret Realm Lop Lake Scenic Area Closed for Winter Until March 31, 2027
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🔈注意！随着严冬到来，塔塔秘境罗布湖景区将于2026年11月23日—2027年3月31日闭园休整，闭园期间停止对外开放。
+
+**🇬🇧 Actionable Travel Intel**:  
+As severe winter arrives, the Tata Secret Realm Lop Lake Scenic Area will be closed for maintenance from November 23, 2026 to March 31, 2027, and will not be open to visitors during this period.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RsJeEp7ch)
+
+---
+
+### November 23, 2026 &bull; 16:00 CST
+#### Chang'an Airlines Resumes Daily Direct Flights Between Xi'an and Altay
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【 每日一班 奔赴冬日冰雪童话】 ！长安航空今天起，恢复西安直飞阿勒泰航线。航班每天一班，早上6点35分从西安起飞，10点40分抵达阿勒泰；11点25分从阿勒泰返程，14点55分回到西安。冰雪旅游季已经到来，坐上这趟航班，直接奔赴阿勒泰的冬日雪景。
+
+**🇬🇧 Actionable Travel Intel**:  
+Chang'an Airlines has resumed its daily direct flight between Xi'an and Altay. The outbound flight departs Xi'an at 06:35 and arrives in Altay at 10:40; the return flight departs Altay at 11:25 and arrives in Xi'an at 14:55.
+
+> **Verified Source**: [Xi'an Municipal Bureau of Culture and Tourism (西安文旅, Sina Weibo)](https://weibo.com/2061858797/RsIBfgnoJ)
+
+---
+
+### November 23, 2026 &bull; 11:21 CST
+#### Urumqi Air to Launch Urumqi–Hefei–Haikou Route Starting Dec 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 🤩期待期待！12月1日起，又有新航线了。乌鲁木齐航空计划开通乌鲁木齐—合肥—海口航线，串联起天山雪域、江淮福地与椰风海岛，以更加便捷的航空运输服务，满足冬季旅客多样化出行需求。 🛩新航线班期：每周二、四、六 🛫12月1日首班航班号为UQ3522 📅17时55分从乌鲁木齐天山国际机场起飞 📅21时55分抵达合肥新桥国际机场 📅22时45分从合肥新桥国际机场起飞 📅次日凌晨1时30分抵达海口美兰国际机场 🛬回程航班号为UQ3521 📅9时从海口美兰国际机场起飞 📅11时20分抵达合肥新桥国际机场 📅12时10分从合肥新桥国际机场起飞 📅16时55分抵达乌鲁木齐天山国际机场
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting December 1, Urumqi Air plans to launch a Urumqi–Hefei–Haikou route operating every Tuesday, Thursday, and Saturday. Outbound flight UQ3522 departs Urumqi Tianshan International Airport at 17:55, arrives at Hefei Xinqiao International Airport at 21:55, departs Hefei at 22:45, and arrives at Haikou Meilan International Airport at 01:30 the next day. Return flight UQ3521 departs Haikou at 09:00, arrives in Hefei at 11:20, departs Hefei at 12:10, and arrives in Urumqi at 16:55.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RsGM8DaFZ)
+
+---
+
+### November 22, 2026 &bull; 21:24 CST
+#### New Lhasa–Chengdu Shuangliu–Hong Kong Flight Route to Launch Nov 29
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 下周，成都将新添一条连接高原城市和香港的航线。该航司将于11月29日起开通“拉萨-成都双流-香港”航线。近期， ，进一步提升国际交流交往、经贸合作便利化水平。
+
+**🇬🇧 Actionable Travel Intel**:  
+A new air route linking Lhasa, Chengdu Shuangliu, and Hong Kong is scheduled to launch on November 29. The source announcement does not specify the airline name or flight schedule.
+
+> **Verified Source**: [Chengdu Municipal Bureau of Culture and Tourism (文旅成都, Sina Weibo)](https://weibo.com/2164623652/RsBiB7c9A)
+
+---
+
 ### November 22, 2026 &bull; 19:06 CST
 #### Snow Forecast for Yulong Snow Mountain Glacier Park Upper Station (Nov 24–25)
 
