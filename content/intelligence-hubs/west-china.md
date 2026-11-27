@@ -6,6 +6,19 @@
 
 ---
 
+### November 27, 2026 &bull; 14:38 CST
+#### Qiongkushitai Village in Ili Remains Free to Enter; Check Winter Road Conditions
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 雪落下，琼库什台便安静了。草甸被雪轻轻抹平，云杉还绿着，木屋的炊烟直直升上去。📍 地址：伊犁州特克斯县琼库什台村 🎫 门票：全天免费开放 ⚠ 安全提示：请勿擅自进入未开发区域。遇暴雪等恶劣天气，道路可能实施临时交通管制，请出行前及时向交管部门核实实时路况。
+
+**🇬🇧 Actionable Travel Intel**:  
+Qiongkushitai Village in Tekes County, Ili Prefecture, Xinjiang, is open all day with free admission. Visitors must not enter undeveloped areas. During heavy snow or severe weather, temporary road traffic controls may be imposed; confirm real-time road conditions with local traffic authorities before traveling.
+
+> **Verified Source**: [Xinjiang Department of Culture and Tourism (新疆是个好地方V, Sina Weibo)](https://weibo.com/2479930984/RtjMl8Y4O)
+
+---
+
 ### November 23, 2026 &bull; 17:37 CST
 #### Tata Secret Realm Lop Lake Scenic Area Closed for Winter Until March 31, 2027
 

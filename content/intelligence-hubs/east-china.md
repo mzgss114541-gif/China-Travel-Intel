@@ -6,6 +6,58 @@
 
 ---
 
+### November 27, 2026 &bull; 18:51 CST
+#### Jiangsu Launches Inbound Travel Card, Jeju Flights, and 28-Day Tax Refund Window
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 一张票根能玩转全城，一趟航班可“落地即游”，一场好戏能带动一串消费……11月25日，《新华日报》刊发《在“一张票根 一趟航班 一场好戏”中激活文旅消费》，介绍今年9月以来江苏通过一套政策“组合拳”，推动文旅体商深度融合、挖掘演艺市场潜力、激发入境游消费活力。 🎫 票根经济：华晨宇在南京汤山的个人第100场演唱会，持有效票根可享多家景区门票优惠、园内项目半价和度假区内30家餐饮店88折，酒店凭电子票券自动解锁房价优惠、免费温泉和餐饮礼遇。这场跨度52天的驻场演出，首阶段7场吸引28万人次入场、八成以上观众来自省外；散场后汤山民宿平均入住率达73.45%，高峰时37家乡村民宿满房；仅10月24日、25日两天就直接拉动南京全市消费超4.38亿元。政策明确票根权益有效期覆盖赛事演出当日及前后15天，覆盖全省13个设区市，首期入库优质商户计划不少于5000家。 ✈ 入境游：11月12日“苏心游·熊猫智游”在南京首发，13个设区市移动营业厅均可办理，线上申办、可至南京禄口机场服务点领取；英文智能体“苏苏”作为统一入口，一键预约全省1284个景区和博物馆、覆盖259家4A、5A级景区。10月26日，春秋航空扬州泰州机场直飞韩国济州岛航线首航，每周一、二、四、六共4班，这是继首尔之后扬泰机场第二条韩国航线。到2026年底，全省离境退税商店将增至1400家，“即买即退”离境期限统一延长至28天。 📈 数据是最有力的佐证：1至10月全省20083场营业性演出，观演人次552.9万、同比增长12.3%，票房收入37.34亿元、同比增长30.8%；其中240场5000人以上大型演出，观演人次409.7万、同比增长24.6%，票房收入33.46亿元、同比增长36.6%。 从一场演唱会的28万人次，到一趟直飞济州的新航线；从一张全省通用的票根，到一次“秒级到账”的离境退税——江苏正把一个个具体堵点变成可复制的亮点🌿 原文链接：
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 12, Jiangsu launched the "Suxinyou Panda Zhiyou" card in Nanjing, available at China Mobile service halls across all 13 prefecture-level cities or for online application with pickup at Nanjing Lukou International Airport. Its English-language assistant "Susu" provides one-click booking for 1,284 scenic areas and museums across the province, including 259 4A and 5A attractions. On October 26, Spring Airlines launched direct flights from Yangzhou Taizhou International Airport to Jeju Island, operating four times weekly (Mondays, Tuesdays, Thursdays, and Saturdays). By the end of 2026, Jiangsu will expand tax-refund stores to 1,400 and extend the departure deadline for "instant tax refund upon purchase" to 28 days.
+
+> **Verified Source**: [Jiangsu Provincial Department of Culture and Tourism (水韵江苏, Sina Weibo)](https://weibo.com/3733965085/RtlqDAldo)
+
+---
+
+### November 27, 2026 &bull; 16:50 CST
+#### Three New High-Speed Rail Lines Open in Anhui
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月27日，安徽巢马、淮蚌、淮阜高铁开通运营，长三角铁路营业里程超1.58万公里，高铁里程突破8500公里，“轨道上的长三角”再添新动脉。
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 27, the Chaoma, Huaibeng, and Huaifu high-speed railways in Anhui Province officially entered operation, bringing the Yangtze River Delta railway network to over 15,800 kilometers in total operating length, including more than 8,500 kilometers of high-speed rail.
+
+> **Verified Source**: [China State Railway Group (中国铁路, Sina Weibo)](https://weibo.com/2549511007/RtkDFtZf9)
+
+---
+
+### November 27, 2026 &bull; 12:27 CST
+#### Jinan-Binzhou High-Speed Rail Enters Trial Operation, Linking Yaoqiang Airport
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月25日8时30分，55301次试验动车组列车从济南东站平稳驶出，标志着新建天津至潍坊高速铁路济南联络线联调联试圆满结束，正式进入试运行阶段，全线开通运营进入倒计时。济滨高铁自济南东站引出，向北经山东省济南市历城区、章丘区、济阳区、商河县，向东经滨州市惠民县、滨城区，正线全长约145.3公里，设计时速350公里。全线设济南东、遥墙机场、济阳、商河、惠民、滨州6座车站，济南东站、滨州站为既有站，其余为新建站。
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 25, the Jinan-Binzhou High-Speed Railway (Jinan liaison line of the Tianjin-Weifang HSR) in Shandong completed joint commissioning and entered trial operation. Running approximately 145.3 kilometers at a design speed of 350 km/h, the line connects six stations: Jinan East, Yaoqiang Airport, Jiyang, Shanghe, Huimin, and Binzhou.
+
+> **Verified Source**: [China Railway Taiyuan Group (中国铁路太原局, Sina Weibo)](https://weibo.com/1918830794/RtiUM7XBm)
+
+---
+
+### November 27, 2026 &bull; 11:48 CST
+#### Qingdao Yinhai International Yacht Club Tourist Area Temporarily Closed
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 📢青岛银海国际游艇俱乐部旅游区临时闭园公告 景区自11月25日起临时闭园，具体复园时间以官方公告为准。 请游客朋友们合理规划行程，切勿跑空哦~
+
+**🇬🇧 Actionable Travel Intel**:  
+The Qingdao Yinhai International Yacht Club Tourist Area has been temporarily closed since November 25, with the reopening date to be announced in a future official notice.
+
+> **Verified Source**: [Qingdao Municipal Bureau of Culture and Tourism (青岛市文化和旅游局, Sina Weibo)](https://weibo.com/2115980191/RtiFbu5Ll)
+
+---
+
 ### November 23, 2026 &bull; 11:21 CST
 #### Urumqi Air to Launch Urumqi–Hefei–Haikou Route Starting Dec 1
 

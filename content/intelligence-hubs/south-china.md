@@ -6,6 +6,32 @@
 
 ---
 
+### November 27, 2026 &bull; 12:59 CST
+#### Nanning Customs Enforcement Reminder: RMB 20,000 and USD 5,000 Cash Declaration Limits
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 近日，南宁海关所属水口海关查获2名旅客违规超量携带货币进境，现场查获未向海关申报的人民币15万元。南宁海关所属水口海关关员在水口口岸旅检现场对进境旅客开展行李物品监管时，发现2名选择“绿色通道”通关的旅客眼神躲闪、举止僵硬。海关关员立即对其进行拦截，在进入检查室前，其中一名旅客协助另一名旅客将身上物品转移至包袋中。经进一步检查，海关关员在一名旅客腰间查获用红纸包裹的成捆人民币现金3万元，在另一名旅客的包袋中查获成捆人民币现金12万元。根据相关法律法规，货币现钞属于限制进出境物品。进境旅客携带的人民币现钞超过20000元或外币现钞折合超过5000美元，应当如实向海关申报，选择“红色通道”通关。
+
+**🇬🇧 Actionable Travel Intel**:  
+Following an enforcement case at Shuikou Port under Nanning Customs, customs authorities remind inbound travelers that currency is a restricted item. Inbound passengers carrying more than RMB 20,000 in cash or foreign currency equivalent to more than USD 5,000 must truthfully declare it to customs and use the Red Channel.
+
+> **Verified Source**: [General Administration of Customs of China (海关发布, Sina Weibo)](https://weibo.com/5832321505/Rtj7T31B5)
+
+---
+
+### November 27, 2026 &bull; 10:38 CST
+#### Guangdong Launches Free Inbound Travel Smart Card at Guangzhou and Shenzhen Airports
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【广东入境游AI卡启动线下发放：一张卡串起“落地第一程”】2026年11月25日，广东入境游AI卡在广州白云国际机场、深圳宝安国际机场正式启动线下发放。入境外籍游客凭本人护照或其他有效旅行证件可免费领取一张，每人限领一张。卡片以羊城通交通卡为载体，既可用于乘坐公共交通，也可扫码进入“Discover Guangdong with AI”线上服务页面，把落地后的出行、游玩与消费串接起来。 广东入境游AI卡启动线下发放：一张卡串起“落地第一程”
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 25, 2026, Guangdong began offline distribution of the Guangdong Inbound Travel Card at Guangzhou Baiyun International Airport and Shenzhen Bao'an International Airport. Arriving foreign travelers can claim one card free of charge using their passport or other valid travel document (limit one per person). Built on the Yang Cheng Tong transit card, it can be used for public transportation and scanned to access the official online travel service portal.
+
+> **Verified Source**: [Guangdong Provincial Department of Culture and Tourism (活力广东, Sina Weibo)](https://weibo.com/2880086884/RticxqPsE)
+
+---
+
 ### November 23, 2026 &bull; 14:13 CST
 #### Enshi Grand Canyon Updates Sightseeing Route and Adds Free Transfer Shuttle
 

@@ -6,6 +6,71 @@
 
 ---
 
+### November 27, 2026 &bull; 16:09 CST
+#### Changbaishan Airport Boarding Pass Perks Valid for Foreign Passport Holders
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 一张登机牌，就是你的长白山“冰雪通行证”——滑雪、漂流、温泉、美食、美宿、好物……这个冬天，长白山的吃住娱购，一“牌”搞定！即日起，凡长白山机场进出港旅客，凭本人纸质或电子登机牌及有效身份证件（外籍旅客为护照），即可在合作商户解锁专属优惠礼遇。
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective immediately, passengers arriving at or departing from Changbaishan Airport can present their paper or electronic boarding pass along with a valid ID (passport for foreign travelers) to access exclusive discounts at participating merchants for skiing, rafting, hot springs, dining, and accommodation.
+
+> **Verified Source**: [Jilin Provincial Department of Culture and Tourism (吉林文旅, Sina Weibo)](https://weibo.com/2061847537/Rtkn2uyfH)
+
+---
+
+### November 27, 2026 &bull; 15:47 CST
+#### Zhengzhou-Hongqiqu Train K8008 Renumbered to V4008 with Unchanged Schedule and Fare
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月25日0时起，“Z/N/V”字头列车正式上线。车次编排新规后，国铁集团郑州局管内首趟“V”字头列车：V4008。 该列车从郑州站开往红旗渠站，车次由原先的K8008次变更为V4008次。 列车于6时52分从郑州站发车，途经新乡站，于9时25分终到红旗渠站，全程运行2小时33分钟。郑州客运段从荣获“红旗列车”称号的北京一队中精心挑选乘务人员，担当“红旗渠号”乘务工作，做好旅途服务。 V4008次列车车体沿用K8008的25G车型，列车设备设施、途经站点、到发时刻及票价均无变化。乘坐这趟车前往红旗渠纪念馆、太行大峡谷等景区，可实现快速换乘公交直达景区。 实施车次编排规定后，“K”字头变“V”字头的列车票价不变，网友直呼：性价比很高。
+
+**🇬🇧 Actionable Travel Intel**:  
+Effective 00:00 on November 25, train K8008 from Zhengzhou Station to Hongqiqu Station (via Xinxiang Station) was renumbered to V4008 under China Railway Zhengzhou Group. It departs Zhengzhou at 06:52 and arrives at Hongqiqu at 09:25 (2 hours 33 minutes total), with no changes to rolling stock, intermediate stops, departure/arrival times, or ticket fares. Bus transfers from Hongqiqu Station connect directly to the Red Flag Canal Memorial Hall and Taihang Grand Canyon.
+
+> **Verified Source**: [China Railway Zhengzhou Group (郑州铁路, Sina Weibo)](https://weibo.com/1904469113/RtkejadxK)
+
+---
+
+### November 27, 2026 &bull; 15:00 CST
+#### Changchun Jingyuetan Scenic Area Permits Visitor Vehicles Through March 1
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 【2026年12月1日-2027年3月1日，长春净月潭允许游客车辆进入景区】长春·净月潭 ：柳絮 ：曹昊
+
+**🇬🇧 Actionable Travel Intel**:  
+From December 1, 2026 to March 1, 2027, visitor vehicles are permitted to enter the Changchun Jingyuetan Scenic Area. The source announcement does not specify further vehicle fees or entry rules.
+
+> **Verified Source**: [Changchun Municipal Bureau of Culture and Tourism (长春文旅, Sina Weibo)](https://weibo.com/2798034700/RtjUSnxzX)
+
+---
+
+### November 27, 2026 &bull; 11:30 CST
+#### Direct Ski Train Z203/Z204 Launches Between Beijing and Yabuli South Station
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 自11月27日起，铁路部门将开行Z203/Z204次滑雪旅游列车，方便北京及周边地区游客一站式直达亚布力滑雪核心区。亚布力南站是我国首个滑雪场火车站，距亚布力滑雪旅游度假区仅约500米，被称为“滑雪场里的火车站”。车站整体采用哥特式城堡建筑造型，曾被评为“全国最美十个小站”之一。本趟列车的开行，将让北京游客实现“下车即滑雪”！
+
+**🇬🇧 Actionable Travel Intel**:  
+Starting November 27, railway authorities launched the Z203/Z204 ski tourist train connecting Beijing with Yabuli South Station, located approximately 500 meters from the Yabuli Ski Resort.
+
+> **Verified Source**: [Heilongjiang Provincial Department of Culture and Tourism (畅赏黑龙江, Sina Weibo)](https://weibo.com/5607433524/RtixDw3HK)
+
+---
+
+### November 27, 2026 &bull; 08:10 CST
+#### China-Mongolia-Russia International Passenger Train Resumes via Erenhot Port After 6 Years
+
+> **🇨🇳 官方通告原文 (Source Dispatch)**:  
+> 11月25日，V3次国际旅客列车停靠内蒙古二连站，并于26日凌晨经二连浩特口岸出境，标志着停运6年的中蒙俄国际旅客列车正式恢复开行。内蒙古边检总站二连边检站提前制定勤务方案，主动对接联检联运单位，全力保障列车高效通关。（文/图：郭鹏杰）
+
+**🇬🇧 Actionable Travel Intel**:  
+On November 25, international passenger train V3 stopped at Erenhot Station in Inner Mongolia and exited China via the Erenhot Port in the early hours of November 26, marking the official resumption of the China-Mongolia-Russia international passenger train after a six-year suspension.
+
+> **Verified Source**: [National Immigration Administration of China (国家移民管理局, Sina Weibo)](https://weibo.com/6929716472/RtheJqN3e)
+
+---
+
 ### November 23, 2026 &bull; 16:30 CST
 #### Beijing–Ulaanbaatar–Irkutsk International Train V3/4 Resumes Weekly Service Nov 25
 
